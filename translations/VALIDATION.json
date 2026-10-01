@@ -1,5 +1,5 @@
 {
-  "state": "selected_repository_prepublication_candidate",
+  "state": "published_working_draft",
   "date": "2026-10-01",
   "source_reconstruction": "206/206 exact",
   "pair_validation": "173 matching pairs; exact source and format projection",
@@ -13,9 +13,13 @@
   "independent_qc_coverage": 206,
   "source_textual_emendations": 0,
   "remote_repository_mutated": true,
-  "tag": null,
+  "tag": "gongchig-working-v0.1.0",
   "limitation": "No source authentication or final human semantic certification.",
   "repository": "Lotus-King-Translation/Gongchig-Chawa",
   "repository_creation": "GitHub template creation verified",
-  "draft_pushed": false
+  "draft_pushed": true,
+  "release_commit": "275673b5ac1c0a6620c7e19e86ff86d28f94ae88",
+  "remote_tag_object": "604b7f4b81162eddc6769858261189846175898a",
+  "remote_tag_verified": true,
+  "publication_receipt": "translations/PUBLICATION.json"
 }

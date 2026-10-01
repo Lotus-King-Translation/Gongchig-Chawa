@@ -1,0 +1,56 @@
+{
+  "schema": "gongchig-publication/1",
+  "date": "2026-10-01",
+  "repository": "https://github.com/Lotus-King-Translation/Gongchig-Chawa",
+  "release_class": "working_draft_with_review_flags",
+  "release_url": "https://github.com/Lotus-King-Translation/Gongchig-Chawa/releases/tag/gongchig-working-v0.1.0",
+  "template": {
+    "repository": "Lotus-King-Translation/tibetan-text-project-template",
+    "commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+    "github_template_association_verified": true,
+    "generated_initial_commit": "2194d4eedd023e712c126bc89abbfd51dd3daefc"
+  },
+  "tag": "gongchig-working-v0.1.0",
+  "tag_object": "604b7f4b81162eddc6769858261189846175898a",
+  "release_commit": "275673b5ac1c0a6620c7e19e86ff86d28f94ae88",
+  "remote_tag_verified": true,
+  "remote_main_at_release": "275673b5ac1c0a6620c7e19e86ff86d28f94ae88",
+  "receipt_policy": "Committed after the fixed annotated tag; tag remains unchanged. Verify the current receipt commit against remote main with scripts/checkpoint.py --branch main --verify-only.",
+  "canonical_sha256": {
+    "paired/source.md": "20bc8dc55c3b8ec018eb87f7b0fbc756bf9cc842ad2dac0e4857ca6e1cafb5ae",
+    "paired/translation.md": "ef57b7b56571f757c1951c1729a7cf82d9d4e15fa49f660916cfca5be73e95cf",
+    "translations/SIGNOFF.json": "29478c0191cd32cefed7090ddd609ef0ce2a57cad9e88a3b43e40997e2e3b58e"
+  },
+  "coverage": {
+    "source_anchors": 206,
+    "represented_anchors": 206,
+    "reader_pairs": 173,
+    "anchors_with_working_english_throughout": 204,
+    "partially_unresolved_anchors": [
+      "U00001",
+      "U00041"
+    ],
+    "notes": 212,
+    "usage_records": 267,
+    "proposed_glossary_rows": 125,
+    "proposals_activated": 0
+  },
+  "checks": {
+    "exact_source_reconstruction": "206/206",
+    "paired_validation": "passed",
+    "support_reconstruction": "passed",
+    "final_mode_signoff": "passed",
+    "structural_and_corruption_tests": 28,
+    "unsigned_final_rejection": "passed",
+    "independent_agent_qc_anchors": 206
+  },
+  "source_limits": {
+    "golden_release": null,
+    "textual_emendations": 0,
+    "full_scan_proofreading": false,
+    "exhaustive_witness_collation": false,
+    "final_human_approval": false
+  },
+  "required_draft_deliverables_remaining": 0,
+  "editorial_followup": "Human review of the retained source and terminology flags in translations/WORK-QUEUE.json; no new editorial phase started."
+}

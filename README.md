@@ -2,6 +2,8 @@
 
 An annotated, glossary-controlled English working translation of the supplied Tibetan Gongchig verse text, based on the Lotus King Tibetan project template. **Golden-edition work is explicitly skipped by the project owner.** The source is a fixed provisional electronic transcript, not a verified critical or golden edition.
 
+Released as [gongchig-working-v0.1.0](https://github.com/Lotus-King-Translation/Gongchig-Chawa/releases/tag/gongchig-working-v0.1.0); [publication receipt](translations/PUBLICATION.json). Two source spans remain partially unresolved and all proposed terminology remains subject to human review.
+
 ## Read
 
 - [Tibetan source](paired/source.md) and [English translation](paired/translation.md): 173 matching reader pairs covering all 206 supplied source units.
