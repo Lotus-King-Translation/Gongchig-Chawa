@@ -1,0 +1,268 @@
+anchor,pair,exact_tibetan,canonical_entry,english,category,evidence,note_id
+U00001,GC-000001,དམ་ཆོས,(no established whole-expression entry),sublime Dharma,Provisional,The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.,F021
+U00004,GC-000004,ཐུགས,ཐུགས་རྗེ་ → compassionate responsiveness; དགོངས་པ་ → enlightened intent; སེམས་ → ordinary mind,enlightened mind,Provisional,Honorific mind in the homage to the peerless jewel of Drikung.,F022
+U00004,GC-000004,འོད་གསལ,འོད་གསལ་,clear-light,Grammatical,Adjectival use preserves both components; hyphen only links the modifier to enlightened mind.,F022
+U00005,GC-000004,མ་འདྲེས,མིང་དོན་འདྲེས་པ་ → mixing of name and meaning; སྒྲ་དོན་འདྲེས་རུང་ → fit for word and meaning to be mixed,unmixed,Provisional,Knowable things are distinguished without mixing/conflation.,F023
+U00009,GC-000005,དམ་ཆོས,(no established whole-expression entry),sublime Dharma,Provisional,The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.,F021
+U00011,GC-000005,དྲན་པ,དྲན་པ་ → Mindfulness,remember,Provisional,Local recollection construction governed by writing and “the little”; no general removal of mindfulness.,F024
+U00012,GC-000006,གཤིས་སམ་བབས་ཀྱི་གནས་ལུགས,,actual condition; situation; natural state,Provisional,The first draft used character for gshis and condition for bab without relating them to the later proposed actual condition (U00137) and situation (U00114). Neither term has an established standalone glossary entry.,Q004
+U00013,GC-000007,ཆོས་ཕུང,(no established whole-expression entry),Dharma collections,Provisional,"Counted groupings of teachings; source explicitly numbers eighty thousand, not eighty-four thousand.",F025
+U00014,GC-000008,སྡེ་སྣོད,(no established whole-expression entry),scriptural collections,Provisional,"Canonical textual collection, with Vinaya qualifying the second occurrence.",F026
+U00014,GC-000008,རྒྱུད་སྡེ,རྒྱུད་ → continuum,classes of tantra,Provisional,Textual/scriptural tantra classes juxtaposed with the scriptural collections.,F027
+U00015,GC-000009,ཆོས་འཁོར,(no established whole-expression entry),wheels of Dharma,Provisional,The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.,F028
+U00017,GC-000011,གནས,གནས་པ་,abide,Grammatical,Finite verb of abiding in earlier wheels; nominalizer absent in the verse.,
+U00019,GC-000013,སྡེ་སྣོད,(no established whole-expression entry),collection,Provisional,"Canonical textual collection, with Vinaya qualifying the second occurrence.",F026
+U00019,GC-000013,ཆོས་འཁོར,(no established whole-expression entry),wheel of Dharma,Provisional,The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.,F028
+U00019,GC-000013,འདུལ་བ,(no established whole-expression entry),Vinaya,Provisional,The Buddhist discipline collection/training discussed as common to all vehicles; retained as its established traditional name pending glossary approval.,F029
+U00019,GC-000013,བདེན་བཞི,(no established whole-expression entry),four truths,Provisional,Four truths; root does not include an additional word for noble.,F030
+U00020,GC-000014,ངེས་དོན,དོན་ → meaning,definitive meaning,Provisional,Technical hermeneutic expression; retains established meaning component.,F031
+U00021,GC-000015,ངེས་དོན,དོན་ → meaning,definitive meaning,Provisional,Technical hermeneutic expression; retains established meaning component.,F031
+U00021,GC-000015,མཐའ་དྲུག,(no established whole-expression entry),six limits,Provisional,Named sixfold hermeneutic scheme; the root does not enumerate its members.,F032
+U00022,GC-000016,སེམས་ཙམ,སེམས་ → ordinary mind,Ordinary Mind Only,Provisional,The doctrinal teaching described by sems tsam; preserves ordinary mind within the full expression.,F033
+U00022,GC-000016,དབུ་མ,(no established whole-expression entry),middle way,Provisional,The middle way free of extremes as stated in the verse; does not independently specify a particular school or sub-school.,F034
+U00022,GC-000016,བཀའ,,authoritative word,Provisional,"No active bka entry exists. The same term occurs at U00120, U00122 and U00188; the initial drafts varied between teachings and authoritative word.",Q001
+U00023,GC-000017,ཀུན་རྫོབ,(no established whole-expression entry),convention,Provisional,Conventional appearance/description in the phrase “mistaken convention”; the root does not include an explicit word for truth.,F035
+U00023,GC-000017,དོན་བྱེད,དོན་ → meaning; བྱ་བ་ → doing,perform a function,Provisional,"The capacity for functional efficacy, rather than merely manufacturing a semantic meaning.",F036
+U00024,GC-000018,ས་བཅུ,གཞི་ → The Ground,ten levels,Provisional,Ten levels traversed on the path; “level” keeps this source term separate from gzhi.,F037
+U00026,GC-000020,ཤེས་བྱའི་སྒྲིབ་པ,(no established whole-expression entry),obscurations to the knowable,Provisional,Obscurations associated with what can be known; the root makes a claim about their abandonment first.,F038
+U00027,GC-000021,ཚད་མ,ཡེ་ཤེས་ → primordial knowing; འཁྲུལ་ཤེས་ → deluded cognition,Valid cognition,Provisional,Epistemic term identified by the text with a buddha’s primordial knowing.,F039
+U00028,GC-000022,ཚད་མ,ཡེ་ཤེས་ → primordial knowing; འཁྲུལ་ཤེས་ → deluded cognition,valid cognition,Provisional,Epistemic term identified by the text with a buddha’s primordial knowing.,F039
+U00028,GC-000022,སྟོང་ཉིད,སྟོང་པ་ → emptiness,emptiness,Provisional,Nominal stong nyid form in the statement about valid cognition.,F040
+U00029,GC-000023,གྲུབ་མཐའ,(no established whole-expression entry),tenets,Provisional,Doctrinal tenets upheld by proponents in the aphorism.,F041
+U00029,GC-000023,འཛིན་པ,འཛིན་པ་ → Apprehending subject,uphold,Provisional,Tenets are the overt object; “all who uphold” translates the participial agent.,F042
+U00029,GC-000023,རང་རྒྱུད་པ,རྒྱུད་ → continuum,Svātantrikas,Provisional,"Named proponent designation predicated of all tenet holders; scope is the author’s claim, not a translator taxonomy.",F043
+U00030,GC-000024,མུ་སྟེགས་པ,(no established whole-expression entry),non-Buddhist practitioners,Provisional,Tīrthika designation in the claim about virtues to accomplish; not a claim about all persons outside Buddhism.,F044
+U00032,GC-000026,སེམས་བསྐྱེད,སེམས་ → ordinary mind,arousing the ordinary mind [of awakening],Provisional,"In the distinction between greater and lesser vehicles, the compressed expression concerns arousing awakening-oriented ordinary mind.",F045
+U00033,GC-000027,དབང,དབང་བཞི་ → four empowerments,Empowerment,Provisional,Ritual empowerment distinguishing mantra from sutra.,F046
+U00033,GC-000027,སྔགས,རྒྱུད་ → continuum; proposed རྒྱུད་སྡེ་ → classes of tantra,mantra,Provisional,The mantra vehicle contrasted with sutra; distinct Tibetan from rgyud/tantra.,F047
+U00034,GC-000028,རྫོགས་བྱང,(no established whole-expression entry),full awakening,Provisional,Compressed expression for full awakening; preserved as the attainment asserted impossible without either antecedent.,F048
+U00035,GC-000029,སྡོམ་གསུམ,Proposed སྡོམ་པ་ → vow,three sets of vows,Provisional,The source’s threefold vow classification; no list of the three is added.,F050
+U00035,GC-000029,མི་དགེ,(no established whole-expression entry),nonvirtues,Provisional,Ethical nonvirtue in the tenfold classification; distinct source from སྡིག་ rendered wrongdoing.,F051
+U00036,GC-000030,སྡོམ་པ,(no established whole-expression entry),vows,Provisional,Vows in discussion of three sets and Vinaya; compressed སྡོམ་གསུམ་ occurs U00035.,F049
+U00037,GC-000031,བྲལ་འབྲས,འབྲས་བུ་ → result,result of separation,Provisional,Compressed technical expression bral ’bras; retains the result family.,F052
+U00037,GC-000031,རང་བཞིན,རང་བཞིན་,in intrinsic nature,Grammatical,Relation to complete purity handled in source-linked syntax note; full lexical commitment preserved.,F005
+U00038,GC-000032,བྱང་ཕྱོགས,(no established whole-expression entry),factors of awakening,Provisional,Compressed name for the thirty-seven awakening-related factors; root does not enumerate them.,F053
+U00038,GC-000032,བདེ་གཤེགས་སྙིང་པོ,ངོ་བོ་ → essence,sugata heart,Provisional,Sugata-heart technical expression in the compressed relation with the thirty-seven factors.,F054
+U00039,GC-000033,ཚད་མེད་རྣམ་བཞི,རྣམ་པ་ → aspect,four immeasurables,Provisional,The named fourfold set identified with a buddha’s very essence; no list added.,F055
+U00040,GC-000034,རིགས,(no established whole-expression entry),lineage,Provisional,Spiritual lineage/gotra in the assertion that all vehicles are one in lineage and vehicle.,F056
+U00041,GC-000035,ཉན་རང,(no established whole-expression entry),hearers and solitary buddhas,Provisional,Compressed pair of śrāvakas and pratyekabuddhas; the following description is left unresolved.,F057
+U00042,GC-000036,ཆོས་འཁོར,(no established whole-expression entry),wheels of Dharma,Provisional,The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.,F028
+U00043,GC-000037,སྡིག,Proposed མི་དགེ་ → nonvirtue; proposed ལྟུང་བ་ → downfall,wrongdoing,Provisional,Ethical wrongdoing; distinguish from nonvirtue (mi dge) and downfall (ltung ba).,F058
+U00044,GC-000038,རྟོག,རྟོག་,acts of conceptualizing,Grammatical,Two numerically distinguished instances: grammatical count construction preserves canonical conceptualizing; does not conflate with རྟོགས་པ་.,
+U00045,GC-000039,སེམས་བྱུང,སེམས་ → ordinary mind,factors of ordinary mind,Provisional,Technical mental-factor expression; retains the established ordinary-mind component rather than replacing it with generic mind.,F059
+U00046,GC-000040,འཁོར་བ,(no established whole-expression entry),cyclic existence,Provisional,Saṃsāra as the ocean within which the body circles. The later verbal འཁོར་བར་ in the same verse is realized as circles.,F060
+U00047,GC-000041,རྟེན་འབྲེལ,(no established whole-expression entry),dependent arising,Provisional,The twelvefold dependent-arising relation and the section title.,F061
+U00047,GC-000041,མ་རིག,མ་རིག་པ་,ignorance,Grammatical,Nominalizer omitted in compressed phrase; identity supported by the dependent-arising context.,F009
+U00050,GC-000044,སྤྱོད,སྤྱོད་པ་ → Activity,partakes of,Provisional,Local construction with result; not a general replacement of the established activity family.,F062
+U00050,GC-000044,ད་ལྟ་ཉིད་དུ་གང་བསྒྲུབས་འབྲས་བུར་སྤྱོད,,in this very present (provisional temporal scope),Provisional,"The initial adverb in this very present may qualify accomplishing, partaking of the result, or the entire statement. The original note F062 covers spyod terminology, not this temporal attachment.",Q005
+U00052,GC-000046,མཐོང་ཆོས,(no established whole-expression entry),[Results] visible in the present,Provisional,Karmic/result context of what is visible or to be undergone in the present life. [Results] supplies the elided subject from the adjoining aphorisms.,F063
+U00053,GC-000047,མི་ཆོས,(no established whole-expression entry),human rules,Provisional,"Sixteen human rules, paired in the root with divine Dharma.",F064
+U00053,GC-000047,ལྷ་ཆོས,(no established whole-expression entry),divine Dharma,Provisional,Dharma paired with the sixteen human rules; no doctrinal explanation added.,F065
+U00056,GC-000050,ཉམས་ལེན,ཉམས་ → experience; ཉམས་མྱོང་ → experiential acquaintance; སྒོམ་པ་ → cultivation,put into practice,Provisional,Performing the stages of the path within a single session.,F066
+U00057,GC-000051,ཞིང,(no established whole-expression entry),field,Provisional,A field in which buddhas come; root does not add “pure.”,F067
+U00058,GC-000052,རྟེན་འབྲེལ,(no established whole-expression entry),dependent arising,Provisional,The twelvefold dependent-arising relation and the section title.,F061
+U00059,GC-000053,དམ་ཆོས,(no established whole-expression entry),sublime Dharma,Provisional,The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.,F021
+U00059,GC-000053,འདུལ་བ,(no established whole-expression entry),Vinaya,Provisional,The Buddhist discipline collection/training discussed as common to all vehicles; retained as its established traditional name pending glossary approval.,F029
+U00060,GC-000054,གསལ,གསལ་བ་,clearly,Grammatical,Adverbial realization preserves clarity family.,
+U00062,GC-000056,སྡོམ་པ,(no established whole-expression entry),Vows,Provisional,Vows in discussion of three sets and Vinaya; compressed སྡོམ་གསུམ་ occurs U00035.,F049
+U00063,GC-000057,རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས,རིག་པ་ → awareness; རྣམ་པ་ → aspect,non-indicative form,Provisional,Technical form-category predicated as the essence of vows.,F068
+U00064,GC-000058,ལྟུང་བ,Proposed སྡིག་ → wrongdoing,downfall,Provisional,Disciplinary downfall; distinguishes the source from wrongdoing even where the verse identifies them.,F069
+U00065,GC-000059,རྣམ་གསུམ,རྣམ་པ་,three aspects,Grammatical,Compressed counted form keeps aspects visible; referent is marked as interpretive supply.,F016
+U00067,GC-000061,ཕམ་པ་བཞི,Proposed ལྟུང་བ་ → downfall,four defeats,Provisional,"The four defeat-class disciplinary offenses, not generic defects.",F070
+U00068,GC-000062,མྱང་འདས,(no established whole-expression entry),nirvana,Provisional,Compressed nirvana expression identified as the result.,F071
+U00069,GC-000063,ཁ་ན་མ་ཐོ,རང་བཞིན་ → intrinsic nature; proposed ལྟུང་བ་ → downfall; proposed སྡིག་ → wrongdoing,Offenses,Provisional,Blameworthy/offense category split into by-decree and by-intrinsic-nature forms.,F072
+U00069,GC-000063,རང་བཞིན,རང་བཞིན་,by intrinsic nature,Provisional,Locally contrasted with offenses by decree; documented proposal is not applied globally.,F072
+U00070,GC-000064,སྡིག,Proposed མི་དགེ་ → nonvirtue; proposed ལྟུང་བ་ → downfall,Wrongdoing,Provisional,Ethical wrongdoing; distinguish from nonvirtue (mi dge) and downfall (ltung ba).,F058
+U00070,GC-000064,ལྟུང,Proposed སྡིག་ → wrongdoing,downfalls,Provisional,Disciplinary downfall; distinguishes the source from wrongdoing even where the verse identifies them.,F069
+U00075,GC-000069,ཆོ་ག,(no established whole-expression entry),ritual procedure,Provisional,Ritual/ceremonial procedure in the Vinaya/teaching context; not a source verb “to demonstrate.”,F073
+U00076,GC-000070,གཏི་མུག,མ་རིག་པ་ → ignorance; འཁྲུལ་པ་ → delusion,bewilderment,Provisional,Unknowing bewilderment in a faults/animal-realm context.,F074
+U00077,GC-000071,གཏི་མུག,མ་རིག་པ་ → ignorance; འཁྲུལ་པ་ → delusion,bewilderment,Provisional,Unknowing bewilderment in a faults/animal-realm context.,F074
+U00078,GC-000072,ཉམས,ཉམས་ → Experience,deterioration,Provisional,Verbal deterioration in contrast with མ་ཐོབ་; [vows] is visibly supplied from the section’s subject.,F075
+U00079,GC-000073,སོ་ཐར,(no established whole-expression entry),individual liberation,Provisional,Abbreviated prātimokṣa designation in the third section colophon.,F076
+U00080,GC-000074,བྱང་ཆུབ་སེམས,,ordinary mind of awakening,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The full compound is absent. Preserve the established ordinary mind component rather than silently introducing generic mind or bodhicitta.",M032
+U00080,GC-000074,སྙིང་རྗེ,,compassion,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The related thugs rje row explicitly records snying rje as an uncovered term. Keep compassion distinct from compassionate responsiveness.",M033
+U00081,GC-000075,བྱང་ཆུབ་སེམས་དཔའི,,bodhisattva,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole-expression proposal avoids mechanically turning a person designation into ordinary-mind hero; it does not alter standalone sems. U00104 expansion has a separate syntax note.",M034
+U00081,GC-000075,སྡོམ་པ,,vows,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Technical vow terminology is absent from the active glossary.",M035
+U00082,GC-000076,འཇུག་སྡོམ,,vows of engagement,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole phrase is absent. The source does not repeat awakening as the object of engagement.",M036
+U00082,GC-000076,སོ་སོ་སྐྱེ་བོ,,ordinary individuals,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Ordinary here belongs to a proposed person-designating compound; it does not redefine ordinary mind.",M037
+U00083,GC-000077,འཇུག་པའི་སྡོམ་པར,,vow of engagement,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole phrase is absent. The source does not repeat awakening as the object of engagement.",M036
+U00084,GC-000078,ཉོན་མོངས་ཅན,,affliction,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry exists; avoid reusing delusion or ignorance for this distinct term.",M038
+U00084,GC-000078,ལྟུང་བ,,downfall,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No established technical entry covers this ethical use.",M040
+U00085,GC-000079,མི་དགེ,,nonvirtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",M041
+U00086,GC-000080,མི་དགེ,,nonvirtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",M041
+U00086,GC-000080,ཐབས་མཁས,,skillful in means,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No longer assignment exists; the adjectival construction at U00086 retains both skill and means.",M045
+U00086,GC-000080,སྤྱོད,སྤྱོད་པ་,activity,Canonical,Active glossary: སྤྱོད་པ་,
+U00088,GC-000082,སེམས་དཔར,,bodhisattva,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole-expression proposal avoids mechanically turning a person designation into ordinary-mind hero; it does not alter standalone sems. U00104 expansion has a separate syntax note.",M034
+U00089,GC-000083,མི་དགེའི,,nonvirtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",M041
+U00089,GC-000083,དགེ་དང,,virtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment exists; preserve the virtue/nonvirtue relation.",M043
+U00089,GC-000083,འབྲས་བུ,འབྲས་བུ་,results,Grammatical,Active glossary: འབྲས་བུ་,
+U00090,GC-000084,བྱང་ཆུབ་སེམས,,ordinary mind of awakening,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The full compound is absent. Preserve the established ordinary mind component rather than silently introducing generic mind or bodhicitta.",M032
+U00091,GC-000085,ཉོན་མོངས་སྒྲིབ་པ,,afflictive obscuration,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry exists; avoid reusing delusion or ignorance for this distinct term.",M038
+U00091,GC-000085,སྒྲིབ་པ,,obscuration,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No existing entry covers the technical obscuration family.",M046
+U00092,GC-000086,དོན་དམ་བདེན་པ,,ultimate truth,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole-expression assignment exists. Propose the technical compound without treating every don substring as a separate meaning noun.",M047
+U00093,GC-000087,ཉན་ཐོས,,hearers,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No entry exists; the contraction nyan rang is split into its two practitioner categories locally, not normalized in the source.",M048
+U00093,GC-000087,གནས་ལུགས,གནས་ལུགས་,natural state,Canonical,Active glossary: གནས་ལུགས་,
+U00094,GC-000088,ཉན་རང,,hearers,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No entry exists; the contraction nyan rang is split into its two practitioner categories locally, not normalized in the source.",M048
+U00094,GC-000088,ཉན་རང,,solitary buddhas,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Do not misread the contraction as canonical self-purified. The proposed conventional person label contains realizer but does not change the rtogs pa mapping.",M050
+U00094,GC-000088,ས་དྲུག,,sixth level,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",M052
+U00095,GC-000089,ས་བདུན,,seventh level,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",M052
+U00095,GC-000089,སེམས་ཙམ་པ,,Ordinary Mind Only,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The whole school label is absent; retain the complete ordinary mind component and disclose capitalization/hyphenation as local presentation.",M053
+U00095,GC-000089,མངོན་རྟོགས,,manifest realization,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The compound is absent. Preserve realization; do not replace it with direct perception merely from mngon similarity.",M054
+U00096,GC-000090,ས་ བརྒྱད,,eighth level,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",M052
+U00096,GC-000090,ཆོས་ཀྱི་བདག་མེད,,selflessness of phenomena,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry; phenomena is already an identifiable component in established chos expressions, but selflessness is unassigned.",M055
+U00097,GC-000091,ས་ལམ,,levels and paths,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",M052
+U00097,GC-000091,རྟོགས་པ,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00098,GC-000092,ས་ཐོབ,,attainment of levels,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",M052
+U00098,GC-000092,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M090
+U00098,GC-000092,མུ་དྲུག,,six possibilities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The classifier is technical in this quantified construction; its six members remain unspecified, not reconstructed.",M096
+U00098,GC-000092,ཐོབ,ཐོབ་,attainment,Canonical,Active glossary: ཐོབ་,
+U00099,GC-000093,ཚོགས་གཉིས,,two accumulations,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Do not invent the identities of the two accumulations. United is an ordinary construction for zung jug here, not a new universal synonym for an established compound.",M056
+U00099,GC-000093,འབྲས་བུར,འབྲས་བུ་,result,Canonical,Active glossary: འབྲས་བུ་,
+U00099,GC-000093,གཞི,གཞི་,The Ground,Provisional,"Active glossary assignment preserved, including its internal capital; presentation choice disclosed.",M099
+U00100,GC-000094,ཞིང,,field,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No technical assignment exists. “Higher” from the reference is excluded as unsupported.",M057
+U00101,GC-000095,ཐབས་མཁས,,skillful means,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No longer assignment exists; the adjectival construction at U00086 retains both skill and means.",M045
+U00101,GC-000095,ཚོགས,,accumulations,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Do not invent the identities of the two accumulations. United is an ordinary construction for zung jug here, not a new universal synonym for an established compound.",M056
+U00102,GC-000096,དགེ་བ,,virtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment exists; preserve the virtue/nonvirtue relation.",M043
+U00102,GC-000096,བསྔོ,,dedicate,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry; dedicate is the grammatical verb in U00102.",M058
+U00102,GC-000096,འཁོར་འདས,,cyclic existence and nirvana,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole-expression assignment. Do not translate the second component mechanically as passing beyond when it names the contrasted domain.",M093
+U00103,GC-000097,བསྔོ་བ,,dedication,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry; dedicate is the grammatical verb in U00102.",M058
+U00104,GC-000098,བྱང་སེམས,,bodhisattvas,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole-expression proposal avoids mechanically turning a person designation into ordinary-mind hero; it does not alter standalone sems. U00104 expansion has a separate syntax note.",M034
+U00105,GC-000099,གསང་སྔགས,,secret mantra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct technical assignment or competing English output exists.",M059
+U00106,GC-000100,དབང,,empowerment,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Standalone/verb usage is not separately established, but empowerment preserves the existing whole-expression component; do not extend to dbang po as faculty.",M060
+U00106,GC-000100,དོན,དོན་,meaning,Canonical,Active glossary: དོན་,
+U00106,GC-000100,རྒྱུད,རྒྱུད་,continuum,Canonical,Active glossary: རྒྱུད་,
+U00106,GC-000100,ཐོབ་པར,ཐོབ་,attained,Grammatical,Active glossary: ཐོབ་,
+U00107,GC-000101,དབང་བསྐུར,,empowerment,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Standalone/verb usage is not separately established, but empowerment preserves the existing whole-expression component; do not extend to dbang po as faculty.",M060
+U00108,GC-000102,རྟོགས་པ,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00108,GC-000102,དོན,དོན་,meaning,Canonical,Active glossary: དོན་,
+U00109,GC-000103,བསྐྱེད་པའི་རིམ་པ,,generation stage,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment. Do not relabel cultivation or create a completion-stage counterpart absent from the source.",M061
+U00110,GC-000104,རང་བྱུང,,naturally arising,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Uses the documented component wording as a proposal; do not substitute the separate self-arising assignment or import primordial knowing.",M062
+U00111,GC-000105,མཚན་དཔེའི,,major marks and minor signs,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No entry exists. Expansion of the compact pair is provisional; distinguish defining characteristics in U00138.",M063
+U00111,GC-000105,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M091
+U00112,GC-000106,མདོ,,sutras,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The textual genre is not assigned in the active glossary.",M064
+U00112,GC-000106,རྒྱུད,རྒྱུད་,tantras,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Coordination with sutra and the medical-text compound provide positive genre evidence. Continuum remains mandatory for the personal continuum in U00106/U00132/U00133.",M065
+U00113,GC-000107,དབང་པོ་རབ,དབང་པོ་རབ་,superior faculty,Canonical,Active glossary: དབང་པོ་རབ་,
+U00114,GC-000108,སྤྲོས་པ,སྤྲོས་བྲལ་,[ritual] elaborations,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The standalone term lacks an entry. The ritual context supports leaving conceptual unsupplied rather than importing it from the separate compound.",M066
+U00114,GC-000108,རྟེན་འབྲེལ,,interdependent connections,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No existing whole-expression or English collision exists. The exact force of bab kyi remains separately noted.",M067
+U00115,GC-000109,རྡོ་རྗེའི་ལུས,,vajra body,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole-expression assignment. Preserve body for lus; do not overwrite embodiment for sku.",M068
+U00116,GC-000110,གནས་ལུག,གནས་ལུགས་,natural state,Provisional,Suspected omitted final s; no source emendation is made.,M016
+U00117,GC-000111,སྨན་རྒྱུད,རྒྱུད་,medical tantras,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Coordination with sutra and the medical-text compound provide positive genre evidence. Continuum remains mandatory for the personal continuum in U00106/U00132/U00133.",M065
+U00119,GC-000113,རྩ,,channels,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Standalone technical channel is absent, though channel occurs in an established longer name.",M069
+U00119,GC-000113,རླུང,རླུང་,winds,Grammatical,Active glossary: རླུང་,
+U00120,GC-000114,བཀའ,,authoritative word,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No standalone assignment exists; authoritative marks the different Tibetan source from lexical word. Do not silently specify the Buddha as speaker.",M070
+U00120,GC-000114,ལོག་རྟོག,,mistaken conceptualizing,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The compound is absent. Preserve conceptualizing and distinguish it from realization.",M071
+U00120,GC-000114,ཉམས་མྱོང,ཉམས་མྱོང་,experiential acquaintance,Canonical,Active glossary: ཉམས་མྱོང་,
+U00121,GC-000115,དགོངས་པ,དགོངས་པ་,enlightened intent,Canonical,Active glossary: དགོངས་པ་,
+U00121,GC-000115,ཤེས་པར,ཤེས་པ་,known,Grammatical,Active glossary: ཤེས་པ་,
+U00122,GC-000116,བཀའ,,authoritative word,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No standalone assignment exists; authoritative marks the different Tibetan source from lexical word. Do not silently specify the Buddha as speaker.",M070
+U00122,GC-000116,གདམས་ངག,,pith instructions,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No canonical assignment exists; the contrast is retained without declaring one universally superior.",M072
+U00123,GC-000117,ཏིང་འཛིན,ཏིང་ངེ་འཛིན་,deep absorption,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The contraction is absent as a headword; the proposed realization retains the existing full-expression assignment.",M073
+U00123,GC-000117,ཁམས་གསུམ,,three realms,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The phrase lacks an assignment; no names of the three are added.",M074
+U00123,GC-000117,འཁོར་བའི,,cyclic existence,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry exists. The local term is kept consistent with the paired domain wording.",M095
+U00124,GC-000118,སྐུ་གསུམ,སྐུ་གསུམ་,three embodiments,Canonical,Active glossary: སྐུ་གསུམ་,
+U00125,GC-000119,གསང་སྔགས,,secret mantra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct technical assignment or competing English output exists.",M059
+U00125,GC-000119,ཚུལ་ཁྲིམས,,ethical discipline,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment. Discipline must not replace activity for spyod pa.",M075
+U00126,GC-000120,སྔགས,,mantra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct technical assignment or competing English output exists.",M059
+U00126,GC-000120,མདོ,,sutra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The textual genre is not assigned in the active glossary.",M064
+U00127,GC-000121,མི་དགེ,,nonvirtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",M042
+U00127,GC-000121,དགེ་བར,,virtue,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment exists; preserve the virtue/nonvirtue relation.",M044
+U00127,GC-000121,སྔགས,,mantra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct technical assignment or competing English output exists.",M059
+U00128,GC-000122,མི་དགེ,,nonvirtuous,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",M042
+U00128,GC-000122,དགེར,,virtuous,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment exists; preserve the virtue/nonvirtue relation.",M044
+U00128,GC-000122,སྔགས,,mantra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct technical assignment or competing English output exists.",M059
+U00128,GC-000122,འདུལ་བར,,Vinaya,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Whole technical title is provisional; no silent equation with the separate discipline term.",M077
+U00129,GC-000123,ཉོན་མོངས,,afflictions,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry exists; avoid reusing delusion or ignorance for this distinct term.",M039
+U00129,GC-000123,བདེ་བར་གཤེགས་པ,,Blissfully Gone One,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No canonical entry. Preserve the going/person component that the human reference’s true bliss loses; capitalization identifies the proposed title.",M078
+U00129,GC-000123,འབྲས,འབྲས་བུ་,result,Grammatical,Abbreviated result component in compound; established result family retained.,
+U00130,GC-000124,མངོན་སྤྱོད,,forceful ritual activity,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole-expression assignment. Preserve activity; ritual force is a contextual proposal, not an inference from direct perception.",M079
+U00131,GC-000125,རྡོ་རྗེ་དམྱལ་བ,,vajra hell,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The compound has no entry; its asserted identification is preserved without adding doctrine.",M080
+U00131,GC-000125,མནར་མེད,,Avici,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The proper-name identification is a local proposal and not an established glossary assignment.",M081
+U00132,GC-000126,རྒྱུད,རྒྱུད་,continuum,Canonical,Active glossary: རྒྱུད་,
+U00133,GC-000127,རྒྱུད,རྒྱུད་,continuum,Canonical,Active glossary: རྒྱུད་,
+U00135,GC-000129,འཁོར་འདས,,cyclic existence and nirvana,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole-expression assignment. Do not translate the second component mechanically as passing beyond when it names the contrasted domain.",M094
+U00135,GC-000129,སེམས,སེམས་,ordinary mind,Canonical,Active glossary: སེམས་,
+U00135,GC-000129,སྣང,སྣང་,appearances,Grammatical,Active glossary: སྣང་,
+U00136,GC-000130,འབྲས,འབྲས་བུ་,result,Grammatical,Abbreviated result component in compound; established result family retained.,
+U00137,GC-000131,གཤིས,,actual condition,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No gshis entry exists. Use a distinct provisional expression rather than silently making it equivalent to natural state or intrinsic nature.",M082
+U00137,GC-000131,གནས,གནས་པ་,abide,Grammatical,Active glossary: གནས་པ་,
+U00138,GC-000132,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M092
+U00138,GC-000132,མཚན་ཉིད,,defining characteristics,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The standalone compound is absent. Do not apply the specialized rang mtshan assignment or conflate this with deity marks.",M097
+U00139,GC-000133,རྟོགས་པ,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00139,GC-000133,མོས་གུས,མོས་གུས་,confident devotion,Canonical,Active glossary: མོས་གུས་,
+U00140,GC-000134,ལྟ་བའི,ལྟ་བ་,view,Canonical,Active glossary: ལྟ་བ་,
+U00140,GC-000134,རྟོགས་པ,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00141,GC-000135,རྟོགས་པའི,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00142,GC-000136,སྟོང་ཉིད,སྟོང་པ་,emptiness,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The exact nominalized form is absent; retain the established emptiness family as a linked usage proposal.",M083
+U00142,GC-000136,ཤོལ་གོལ,,delay and deviation,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Neither component has an active assignment; the exact doctrinal force remains an open source-linked review item.",M098
+U00142,GC-000136,སྒོམ་པའི,སྒོམ་པ་,cultivation,Canonical,Active glossary: སྒོམ་པ་,
+U00143,GC-000137,རྟོགས་པ,རྟོགས་པ་,realization,Canonical,Active glossary: རྟོགས་པ་,
+U00143,GC-000137,སྒོམ་པ,སྒོམ་པ་,cultivation,Canonical,Active glossary: སྒོམ་པ་,
+U00144,GC-000138,ཚུལ་ཁྲིམས,,ethical discipline,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment. Discipline must not replace activity for spyod pa.",M076
+U00144,GC-000138,བླང་དོར,,accepting and rejecting,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The encountered compound uses dor and reverses the established related pair’s order. Keep both members in source order rather than substituting a doctrinal synonym.",M084
+U00144,GC-000138,སྤྱོད་པ,སྤྱོད་པ་,activity,Canonical,Active glossary: སྤྱོད་པ་,
+U00145,GC-000139,ལྟ,ལྟ་བ་,view,Canonical,Active glossary: ལྟ་བ་,
+U00145,GC-000139,སྒོམ,སྒོམ་པ་,cultivation,Canonical,Active glossary: སྒོམ་པ་,
+U00145,GC-000139,སྤྱོད,སྤྱོད་པ་,activity,Canonical,Active glossary: སྤྱོད་པ་,
+U00146,GC-000140,ཚུལ་ཁྲིམས,,ethical discipline,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment. Discipline must not replace activity for spyod pa.",M076
+U00146,GC-000140,ཕྱག་ཆེན,ཕྱག་རྒྱ་ཆེན་པོ་,Mahamudra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The exact contraction is absent; the proposed abbreviation mapping preserves the established complete-expression assignment.",M085
+U00147,GC-000141,ཕྱག་ཆེན,ཕྱག་རྒྱ་ཆེན་པོ་,Mahamudra,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The exact contraction is absent; the proposed abbreviation mapping preserves the established complete-expression assignment.",M085
+U00147,GC-000141,བདག་ཉིད,,very identity,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Avoid silently reassigning essence or intrinsic nature. Very identity is a narrow construction-level proposal, not a universal ontology.",M086
+U00147,GC-000141,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M092
+U00148,GC-000142,མཉམ་པར་བཞག,མཉམ་གཞག་,resting in equipoise,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The expanded verbal form is absent. Preserve equipoise; do not import naked resting or the unrelated pending hand-posture wording.",M087
+U00148,GC-000142,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M092
+U00149,GC-000143,ཡོན་ཏན,,qualities,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",M092
+U00150,GC-000144,སྟོང་ཉིད,སྟོང་པ་,emptiness,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. The exact nominalized form is absent; retain the established emptiness family as a linked usage proposal.",M083
+U00150,GC-000144,རྟོགས,རྟོགས་པ་,realized,Grammatical,Active glossary: རྟོགས་པ་,
+U00150,GC-000144,འབྲས,འབྲས་བུ་,result,Grammatical,Abbreviated result component in compound; established result family retained.,
+U00151,GC-000145,ཐམས་ལམ,,[path of means],Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. This headword is not the attested string. A separate source note exposes the conjecture; do not activate or normalize without evidence.",M088
+U00151,GC-000145,རྟོགས་ལྡན,རྟོགས་པ་,those with realization,Grammatical,Active glossary: རྟོགས་པ་,
+U00152,GC-000146,ཚུལ་ཁྲིམས,,ethical discipline,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No direct assignment. Discipline must not replace activity for spyod pa.",M076
+U00152,GC-000146,རིགས་སྤྱོད,,activity of the families,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No whole expression is assigned. Preserve activity; families remains a narrow, explicitly uncertain interpretation of rigs.",M089
+U00153,GC-000147,ཉན་རང,,hearers,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. No entry exists; the contraction nyan rang is split into its two practitioner categories locally, not normalized in the source.",M049
+U00153,GC-000147,ཉན་རང,,solitary buddhas,Provisional,"Full 222-row glossary searched for form, compounds, related entries and English collisions. Do not misread the contraction as canonical self-purified. The proposed conventional person label contains realizer but does not change the rtogs pa mapping.",M051
+U00154,GC-000148,ལྟ,ལྟ་བ་,view,Canonical,Active glossary: ལྟ་བ་,
+U00154,GC-000148,སྒོམ,སྒོམ་པ་,cultivation,Canonical,Active glossary: སྒོམ་པ་,
+U00154,GC-000148,སྤྱོད་པ,སྤྱོད་པ་,activity,Canonical,Active glossary: སྤྱོད་པ་,
+U00155,GC-000149,ས,none; compare གཞི་ = The Ground,level,Provisional,Buddhahood qualifies the level; no conflation with གཞི་.,L001
+U00155,GC-000149,བདེན་གཉིས,none,two truths,Provisional,Literal numbered expression; no glossary headword.,L001
+U00156,GC-000150,མཁྱེན་པའི,none; compare ཤེས་པ་ = Knowing,that cognizes,Provisional,Honorific verb modifying the established primordial knowing term.,L002
+U00157,GC-000151,རྒྱུ་མ,none; compare སྒྱུ་མའི་དཔེ་བརྒྱད་ = Eight examples of illusion,illusion,Provisional,Explicit conjectural source reading only; no source emendation.,L003
+U00158,GC-000152,ཚད་མར,none,as valid cognition,Provisional,"Predicative ར་ with བཞུགས་, not a location inside cognition.",L004
+U00158,GC-000152,བཞུགས,གནས་པ་ → Abiding,abide,Provisional,"The honorific verb bzhugs lacks a glossary entry; abiding is established for gnas pa. These are related verbal realizations, not an approved glossary identity.",Q003
+U00159,GC-000153,བྲལ་བའི་འབྲས་བུས,འབྲས་བུ་ = Result; complete expression absent,through the result of separation,Provisional,Preserves the instrumental ས་ and established result component.,L005
+U00159,GC-000153,ཐུགས,none; སེམས་ = Ordinary mind and དགོངས་པ་ = Enlightened intent remain distinct,enlightened mind,Provisional,"Honorific mind of a buddha, scoped to this occurrence; not derived from ཐུགས་རྗེ་.",L005
+U00160,GC-000154,ཡོན་ཏན,none; compare སྤྱོད་པ་ = Activity,qualities,Provisional,Separate source expressions in a coordinated list.,L006
+U00160,GC-000154,མཛད་པ,none; compare སྤྱོད་པ་ = Activity,deeds,Provisional,Separate source expressions in a coordinated list.,L006
+U00160,GC-000154,ཕྲིན་ལས,none; compare སྤྱོད་པ་ = Activity,enlightened deeds,Provisional,Separate source expressions in a coordinated list.,L006
+U00161,GC-000155,ཐུགས་བསྐྱེད,none; related སེམས་ = Ordinary mind,arousing of the ordinary mind of awakening,Provisional,Honorific whole-expression reading; no new universal ཐུགས་ assignment.,L007
+U00161,GC-000155,ས,none; compare གཞི་ = The Ground,level,Provisional,Same scoped Buddhist-level usage as U00155.,L001
+U00162,GC-000156,ཐུགས,none; see L005,enlightened mind,Provisional,"Buddha-context honorific, not ordinary mind or enlightened intent.",L008
+U00162,GC-000156,རྟག་ཆད་ལྟ་བ,ལྟ་བ་ = View; compound absent,views of permanence and annihilation,Provisional,Retains both poles in source order and the established view component.,L008
+U00163,GC-000157,ཤེས་བྱ,none,knowables,Provisional,Technical nominal objects of knowledge; distinct from ཤེས་པ་ = Knowing.,L009
+U00163,GC-000157,བྱ་བ་བྱེད,བྱ་བ་ = Doing,does a buddha’s doing,Grammatical,Retains the doing family as both nominal object and light verb; supplied possessor/subject disclosed.,L009
+U00165,GC-000159,སྤྲུལ་པ,complete standalone entry absent; related སྤྲུལ་པའི་སྐུ་ = Emanation embodiment,emanation,Provisional,Related component preserved without adding an absent embodiment noun.,L011
+U00165,GC-000159,རང་རྒྱུད་པ,རྒྱུད་ = Continuum; complete expression absent,[it has] its own continuum,Provisional,Unresolved syntactic attachment explicitly disclosed.,L011
+U00166,GC-000160,རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ,སྐུ་ = Embodiment; complete expression absent,embodiment arising dependently,Provisional,Verbal dependent-arising expression qualifies embodiment.,L012
+U00167,GC-000161,སྨོན་འཇུག,none; compare སེམས་ = Ordinary mind,aspiration and engagement [of the ordinary mind of awakening],Provisional,Contextual expansion of an abbreviated technical pair.,L013
+U00167,GC-000161,ལོངས་སྤྲུལ,ལོངས་སྤྱོད་རྫོགས་སྐུ་ = Complete enjoyment embodiment; སྤྲུལ་པའི་སྐུ་ = Emanation embodiment,complete enjoyment and emanation embodiments,Provisional,Abbreviations expanded through established whole expressions; shared final noun realizes both embodiments.,L013
+U00168,GC-000162,བཞུགས,གནས་པ་ → Abiding,abide,Provisional,"Honorific verbal application, documented in Q003; not a new established mapping.",Q003
+U00169,GC-000163,སེམས་ཅན,སེམས་ = Ordinary mind; whole expression absent,sentient beings,Provisional,Disclosed lexicalized compound candidate; source singular/plural generic.,L014
+U00169,GC-000163,བཞུགས,གནས་པ་ → Abiding,abide,Provisional,"Honorific verbal application, documented in Q003; not a new established mapping.",Q003
+U00174,GC-000165,འཛིན,འཛིན་པ་ = Apprehending subject,retaining,Provisional,"Ordinary transitive verb with inherited riches as object, not epistemic-subject noun.",L016
+U00178,GC-000166,འཛིན,འཛིན་པ་ = Apprehending subject,uphold,Provisional,Ordinary verb with distinctive teachings as object; see first verbal-use note.,L016
+U00181,GC-000167,ཐུགས་དགོངས,དགོངས་པ་ = Enlightened intent,enlightened intents,Provisional,"Honorific compound application of established term, with source plural རྣམས་.",L020
+U00182,GC-000167,འཛིན་པ,འཛིན་པ་ = Apprehending subject,uphold,Provisional,Nominalized transitive verb with enlightened intents as object; English infinitive realized in U00181 across the stanza.,L016
+U00183,GC-000168,བསྟན་འཛིན,འཛིན་པ་ = Apprehending subject; complete compound absent,uphold the teaching,Provisional,"Agentive compound built on ordinary holding verb, not a claim that the technical subject term means teaching-holder.",L016
+U00184,GC-000168,འཁོར་ལོས་སྒྱུར་རྒྱལ,none,wheel-turning king,Provisional,Abbreviated royal technical expression; no supplied glossary entry.,L021
+U00188,GC-000169,བཀའ,,authoritative word,Provisional,QL002 identified missing traceability for the recurrent bka term.,Q002
+U00190,GC-000169,ཉམས་ང་མེད,ཉམས་ = Experience; whole expression absent,fearless,Provisional,"Whole expression in lion/fox intimidation image, not experience noun.",L023
+U00192,GC-000170,མ་འདྲེས,related མིང་དོན་འདྲེས་པ་ = Mixing of name and meaning; standalone absent,without mixing them,Provisional,Retains existing mixing vocabulary; attachment and supplied object disclosed.,L024
+U00194,GC-000170,སྒྲ,སྒྲ་ = Word,sound,Provisional,Acoustic thunder comparison; substituting word materially distorts this occurrence.,L025
+U00194,GC-000170,འབྲུག་སྒྲ,སྒྲ་ = Word; compound absent,thunder,Provisional,"Acoustic compound; sound is realized by thunder, not an independent lexical word.",L025
+U00198,GC-000171,ཤེས་རབ,ཤེས་རབ་ = Discerning knowing,Sherab,Provisional,"Part of the proper name Sherab Jungne; scope is naming, not doctrinal noun.",L026
+U00201,GC-000172,གཏི་མུག,none; distinguish འཁྲུལ་པ་ = Delusion and མ་རིག་པ་ = Ignorance,bewilderment,Provisional,Technical gap; preserves separate lexical families.,L027
+U00203,GC-000173,ཤེས་རབ,ཤེས་རབ་ = Discerning knowing,Sherab,Provisional,Same proper-name scope as U00198.,L028
+U00205,GC-000173,རྡོ་རྗེའི་གསུང,none; related རྡོ་རྗེའི་གནས་བཅུ་གཅིག་ does not govern this phrase,vajra statements,Provisional,Whole-expression candidate for these aphoristic sayings.,L029
+U00206,GC-000173,དད་པའི་བློ་ཅན,དད་པ་ = Faith; བློ་ = Conceptual mind,whose conceptual mind has faith,Grammatical,"The faith-bearing conceptual mind describes the named arranger, and faith takes the teachings as its object.",L030
+U00206,GC-000173,ཕྲིན་ལས,none; local doctrinal proposal enlightened deeds at U00160,Trinle,Provisional,"Name component, not an occurrence of the doctrinal noun.",L031
+U00206,GC-000173,རྣམ་པར,རྣམ་པ་ = Aspect does not govern the adverbial name form,Nampar,Provisional,Part of the proper name; lexical boundaries exclude a false aspect match.,L031

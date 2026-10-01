@@ -1,51 +1,33 @@
-# Tibetan text project template
+# Gongchig-Chawa
 
-Organization template for projects that follow one controlled workflow:
+An annotated, glossary-controlled English working translation of the supplied Tibetan Gongchig verse text, based on the Lotus King Tibetan project template. **Golden-edition work is explicitly skipped by the project owner.** The source is a fixed provisional electronic transcript, not a verified critical or golden edition.
 
-1. **Bring the editions together.**
-2. **Create a maintained golden Tibetan edition.**
-3. **Segment the fixed golden edition into reader-ready pairs with `format: prose|verse|h1|h2|h3`.**
-4. **Translate those fixed pairs.**
+## Read
 
-The repository is intentionally opinionated. Source witnesses, modern transcripts, editorial decisions, the golden reading, and translations remain separate provenance layers. A released golden edition is a maintained reading of an explicitly chosen governing witness; it is not presented as an infallible reconstruction of an original text.
+- [Tibetan source](paired/source.md) and [English translation](paired/translation.md): 173 matching reader pairs covering all 206 supplied source units.
+- [Translation notes](translations/NOTES.md): source problems, interpretive supplies and unresolved terminology.
+- [Independent agent QC](translations/QC.md), [coverage](paired/coverage.json), [usage records](translations/USAGE.csv), [proposed terminology](translations/PROPOSED-GLOSSARY.csv).
+- [Current status](PROJECT-STATUS.md), [decisions](DECISIONS.md), [translation handoff](translations/HANDOFF.md).
 
-## Start here
+The rough reference English is attributed in its PO header to Tenzin Norgyal (2023) and retained unchanged in [the archive](source/legacy/wip/en/001.po). It informed the new translation but does not override the Tibetan or the template glossary. Every token-markup transformation is reversible to the archived root transcript. The duplicated Tibetan at U00133 is retained and annotated; the missing section-five conclusion is not invented from English.
 
-Agents and contributors must read [AGENTS.md](AGENTS.md) first.
+## Provenance and method
 
-The active method documents are:
+Template: [tibetan-text-project-template, f6431c2](https://github.com/Lotus-King-Translation/tibetan-text-project-template/tree/f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f). Source: [legacy Gongchig, 1d815bf](https://github.com/Lotus-King-Translation/Gongchig/tree/1d815bff0e12b8eacea9d6776b89b34f82ef038b). See [source provenance](source/README.md) and [register](editions/REGISTER.csv). The supplied link's target identifies Gongchig; its visible Gongchig-Drelwa label was not treated as a different source.
 
-- [Golden edition method](guidelines/golden_edition_method.md)
-- [Tibetan–English translation and QC standard](guidelines/tibetan_translation_standard_v2.md)
-- [Paired-text format](FORMAT.md)
-- [Active glossary](glossary/expanded_tibetan_english_glossary.csv)
+Contributors read [AGENTS.md](AGENTS.md), then [status](PROJECT-STATUS.md), [standard](guidelines/tibetan_translation_standard_v2.md), [glossary](glossary/expanded_tibetan_english_glossary.csv) and [format](FORMAT.md). New terminology remains proposed. A working-draft release does not certify final human editing or resolve source questions.
 
-The current project state belongs in [PROJECT-STATUS.md](PROJECT-STATUS.md). Phase-specific continuation details belong in the relevant HANDOFF.md; do not rely on chat history as the only record of unfinished work.
+## Validate
 
-## Repository structure
+Python 3, standard library only:
 
-- editions/ — acquired scans, transcripts, and source register
-- source/ — immutable imported/source copies
-- diplomatic/ — golden-edition work, evidence, releases, and handoff
-- translations/ — translation work, evidence, releases, and handoff
-- paired/ — canonical paired source/translation files
-- guidelines/ — active editorial/translation standards
-- glossary/ — active eight-column terminology resource
-- scripts/ — project validators/build helpers
+```sh
+python3 scripts/import_legacy.py
+python3 scripts/validate_paired.py
+python3 scripts/validate_project.py
+python3 scripts/build_support.py
+python3 scripts/test_validation.py
+python3 scripts/validate_project.py --final
+```
 
-Tracked empty subdirectories are included because they recur in every project.
-
-## Completion model
-
-Work is released in bounded, versioned stages. A chapter or section is not “done” because a script ran or a large number of pages were inspected. A release gate requires explicit scope, closed decision queues, preserved uncertainty, reproducible outputs, validation, signoff, a fixed tag, a publication receipt, remote SHA verification, and a clean tree.
-
-Full scan proofreading, exhaustive manuscript collation, eclectic reconstruction, and new witness acquisition are separate research scopes unless a project explicitly adds them to its release contract.
-
-## Paired source and translation
-
-After a golden release is fixed, establish reader-ready source pairs before translation. Each source pair has one `format` value: `prose`, `verse`, `h1`, `h2`, or `h3`. Translate into the matching pair IDs in:
-
-- paired/source.md
-- paired/translation.md
-
-Both files use the same stable pair IDs in the same order. See [FORMAT.md](FORMAT.md).
+`paired/source.md` is frozen against the archival reconstruction. `paired/translation.md` is the canonical authored English. `paired/pairing.json` freezes reader segmentation; `source/anchors.json` and `source/normalization.json` are generated audit projections. Translation drafts are archived review evidence, not a competing editable English authority. Supporting coverage, notes and usage records must stay synchronized with canonical edits. The release signoff pins hashes and becomes invalid if any signed content changes.

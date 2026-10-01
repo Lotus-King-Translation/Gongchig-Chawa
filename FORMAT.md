@@ -269,3 +269,9 @@ A paired-text release must pin:
 Release validation must prove exact pair symmetry and exact source coverage.
 
 Once tagged, the pair IDs in that release are immutable.
+
+## Gongchig provisional-source exception — D001
+
+The owner explicitly skipped the golden phase. For this project `source-state: provisional` and `golden-release: none` are mandatory source front matter. `edition` identifies the fixed decoded electronic source; `source-edition` on the English side matches it exactly. The source marker uses `source: U00001 ...` instead of `golden:` to avoid claiming a golden release. All pair identity, structural classification, source-order, coverage, uncertainty and edition-pinning requirements remain in force. The project validator checks exact reconstruction against the archived electronic transcript.
+
+`closing_verse` is an additional role for the supplied concluding verses and dedication. Extant chapter conclusions retain `chapter_colophon` and `format: prose` in their supplied closing positions. U00133 remains verse/main_text because the Tibetan is a duplicated statement, not a chapter conclusion. Source spelling is never inferred from its reference English.

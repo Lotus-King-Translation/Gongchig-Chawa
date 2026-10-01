@@ -1,0 +1,927 @@
+# 
+# Translators:
+# Tenzin Norgyal, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Tenzin Norgyal, 2023\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162865/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "04e78d3c788744e7bcd465d9c1e43181"
+msgid ""
+"དམ་ཆོས་ དགོངས་པ་ གཅིག་པ་␣འི་ གསུང་ བརྒྱ་ ལྔ་ གསུང་ རྣམས་ ཚིགས་ དུ་པ་ བཞུགས་ "
+"གཞུང་ ། །"
+msgstr ""
+"The Single Intent, a one hundred and fifty-stanza text of true dharma."
+
+msgctxt "baeea02540d8456db1f63d0ab88aa35f"
+msgid "རྡོ་རྗེ་␣འི་ གསུང་ བརྒྱ་ ལྔ་ བཅུ་བ་ ཞེས་ བྱ་བ ། །"
+msgstr "The One Hundred Fifty Vajra Speech, thus called."
+
+msgctxt "536aebffe8bb475080f8d6e32da169d7"
+msgid "སྟོབས་ བཅུ་␣འི་ དབང་ཕྱུག་ ཤཱཀྱ་ སེང་གེ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །"
+msgstr "Prostrate to the Shakya lion, the lord of ten powers,"
+
+msgctxt "cc175f02ecbd4347852681fc3a095c63"
+msgid "དྲི་མེད་ འོད་གསལ་ ཐུགས་ ཀྱི་ དཀྱིལ་འཁོར་ དུ ། །"
+msgstr "In the Mandala of stainless luminous mind,"
+
+msgctxt "bf36fbf409f248ab9c1d8c658d2b9118"
+msgid "མ་ འདྲེས་ ཤེས་བྱ་␣འི་ དངོས་པོ་ ཇི་ལྟ་བ ། །"
+msgstr "The unmixed objects of knowledge as they are,"
+
+msgctxt "e7a8e5c183a8492e86f0234ceeb180fa"
+msgid "ཐམས་ཅད་ གཟིགས་པ་ ཀུན་མཁྱེན་ ཆོས་ ཀྱི་ རྗེ ། །"
+msgstr "Sees all, the omniscient master of dharma,"
+
+msgctxt "1aefdea3d2a24fd5bb0b16ee4050bf0d"
+msgid "མཉམ་མེད་ འབྲི་གུང་ རིན་ཆེན་ ཕྱག་ འཚལ་ ལོ ། །"
+msgstr "Prostrate to the peerless Drikung Jewel."
+
+msgctxt "bda7c3ad46624b2bb75bf4997d30c2cf"
+msgid "རྒྱལ་བ་ མཆོག་ གི་ ཞལ་ ནས་ གསུངས་པ་ ཡི ། །"
+msgstr "As taught by the excellent Victor,"
+
+msgctxt "36769474ede24f3795ad5a6a3b5a8251"
+msgid "དམ་ཆོས་ ཁྱད་འཕགས་ ཐུན་མོང་ མ་ཡིན་པ ། །"
+msgstr "The unique extraordinary immaculate dharma,"
+
+msgctxt "6c513a8fa9ca4a32a06f2e1d57f78c3c"
+msgid "སྔོན་ དུ་ མཛད་པ་␣འི་ བཞེད་ཚུལ་ དཔག་མེད་ ཀྱང་ ། །"
+msgstr "Though there are numerous previously composed points of view,"
+
+msgctxt "ce87ef728b354fc1b89cac0eaa7ee467"
+msgid "རྨོངས་པ་␣ས་ དྲན་པ་ ཅུང་ཟད་ ཙམ་ ཞིག་ བྲི ། །"
+msgstr "With [my] ignorance, [I] will write what little [I] remember."
+
+msgctxt "908216de329b4563833eeec5193a60dc"
+msgid "ཆོས་ ཀུན་ གཤིས་ སམ་ བབས་ ཀྱི་ གནས་ལུགས་ བསྟན ། །"
+msgstr "All phenomena are taught in their true nature or state;"
+
+msgctxt "bef4be71b3644cb59b94747e528fe0d6"
+msgid "ཆོས་ཕུང་ བརྒྱད་ ཁྲི་ སངས་རྒྱས་ སྒྲུབ་པ་␣ར་ གཅིག  །"
+msgstr ""
+"Eighty thousand bodies of dharmas are one in accomplishing Buddhahood,"
+
+msgctxt "901c0858725641bda596aa1d33c0a36b"
+msgid "སྡེ་སྣོད་ རྒྱུད་སྡེ་ ལམ་ གྱི་ རིམ་པ་ ཡིན ། །"
+msgstr "The pitakas and tantra sections are the stages of paths,"
+
+msgctxt "beb31c53d6b94b219e04318afd8c1df2"
+msgid "ཆོས་འཁོར་ རྣམ་ གསུམ་ འཁོར་ གྱི་ རྟོགས་པ་␣འི་ ཁྱད ། །"
+msgstr ""
+"The three wheels of Dharma are different in the realizations of retinues,"
+
+msgctxt "396796f9af284ae4b5cbd39063234b0c"
+msgid "འཁོར་ལོ་ རེ་རེ་ ལ་ ཡང་ གསུམ་ ག་ ཚང་ ། །"
+msgstr "Each of the wheels is completed of all three,"
+
+msgctxt "01c55812a99c431d884032af54278565"
+msgid "ཕྱི་མ་␣འི་ ས་བོན་ སྔ་མ་ སྔ་མ་␣ར་ གནས ། །"
+msgstr "The seeds of the later ones remain in each of the preceding ones."
+
+msgctxt "8cf9e7a72bf549a2a1faae34fe896b1e"
+msgid "མདོ་དོན་ གནད་ ཀྱིས་ འཁོར་ལོ་ གསུམ་ དུ་ ངེས ། །"
+msgstr ""
+"Because of the sutras' meaning and its essential points, the wheels are "
+"certainly three "
+
+msgctxt "a71af0b3a5fd4371a67cfa81e8e36337"
+msgid "འདུལ་བ་␣འི་ སྡེ་སྣོད་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ ཏེ ། །"
+msgstr "The Vinaya Pitaka is the dharma wheel of the four truths"
+
+msgctxt "30f4e99cb5744645bf9c0041ca156831"
+msgid "ཐེག་པ་ སྣ་ཚོགས་ ངེས་དོན་ འཁོར་ལོ་ ཡིན ། །"
+msgstr "the various vehicles are the wheel of definitive meaning,"
+
+msgctxt "a9f27847726e4742a8a18e26ebcac93d"
+msgid "མཐའ་ དྲུག་ དགོངས་པ་ ངེས་དོན་ འབའ་ཞིག་ བཞེད ། །"
+msgstr ""
+"The intent of the six limits is accepted only as the definitive meaning."
+
+msgctxt "2bb5ec59cc2a4f4bbcef5d9e4f0f0040"
+msgid "སེམས་ ཙམ་ བཀའ་ ཡིས་ མཐའ་བྲལ་ དབུ་མ་ སྟོན ། །"
+msgstr "The Mind Only instructions show the middle way free from extremes,"
+
+msgctxt "7268f66c8ef74988934611e3d391ddaa"
+msgid "ལོག་པ་␣འི་ ཀུན་རྫོབ་ ཀྱིས་ ཀྱང་ དོན་ བྱེད་ ནུས ། །"
+msgstr "Wrong relative [truth] is also able to perform functions."
+
+msgctxt "dc7e858f01fc4c86be2ef05544cc5d95"
+msgid "ཇི་སྙེད་ ལམ་ རྣམས་ ས་བཅུ་␣ས་ བགྲོད་པ་ སྟེ ། །"
+msgstr "All paths traverse the ten grounds,"
+
+msgctxt "95fe2cf1e4a348bd99dd8aedba5431cd"
+msgid "དེ་ཡང་ རིམ་གྱིས་ འཇུག་པ་ ཁོ་ན་␣ར་ ངེས ། །"
+msgstr "That, too, is exclusively certain to engage gradually,"
+
+msgctxt "f21394abb0184aa6b21a1c4a4444b325"
+msgid "ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ ཐོག་མ་␣ར་ སྤོང་བ་␣འང་ ཡོད ། །"
+msgstr ""
+"There is also the abandonment of the obscuration to the object of knowledge "
+"first."
+
+msgctxt "53ce8b01b0574e6dabe50cee415e5cda"
+msgid "ཚད་མ་ སངས་རྒྱས་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཏེ ། །"
+msgstr "Valid cognition-the primordial wisdom of Buddha"
+
+msgctxt "f5d2b27c6c184726a46af0c9d7d4133e"
+msgid "ཚད་མ་␣འི་ འབྲས་བུ་␣ས་ ཟབ་མོ་ སྟོང་ཉིད་ སྟོན ། །"
+msgstr "the result of valid cognition shows emptiness"
+
+msgctxt "1324c92f472a412a876a180b0b36a036"
+msgid "གྲུབ་མཐའ་ འཛིན་པ་ ཐམས་ཅད་ རང་རྒྱུད་པ ། །"
+msgstr "All the tenet holders are proponents of Svatantrika"
+
+msgctxt "6396e276a8a6419eb19ae8327beb40e2"
+msgid "མུ་སྟེགས་པ་ ལ་␣འང་ དགེ་བ་␣འི་ བསྒྲུབ་བྱ་ མང་ ། །"
+msgstr "Trithikas also have many virtues to accomplish"
+
+msgctxt "cdc366e49464416bbbf71736dee6a60e"
+msgid "ཕྱི་ ནང་ ཁྱད་པར་ སྐྱབས་འགྲོ་␣ས་ འབྱེད་པ་ སྟེ ། །"
+msgstr "Buddhist and non-Buddhist are differentiated by refuge"
+
+msgctxt "5041531194a04f8b909186df47491973"
+msgid "ཐེག་པ་ ཆེ་ཆུང་ ཁྱད་པར་ སེམས་བསྐྱེད་ ཡིན ། །"
+msgstr "The difference between the lesser and greater vehicle is bodhicitta,"
+
+msgctxt "15a8f6723ed74a1d90e4644d12f8fb13"
+msgid "མདོ་ དང་ སྔགས་ ཀྱི་ ཁྱད་པར་ དབང་ ཡིན་ ཏེ ། །"
+msgstr "The difference between the sutra and tantra is empowerment-thus"
+
+msgctxt "62619f3da3ff42d491fbb66ecfa3f9b2"
+msgid "དེ་ གཉིས་ གང་ མེད་ རྫོགས་ བྱང་ ཐོབ་ མི་ སྲིད ། །"
+msgstr "Complete enlightenment is impossible without these two."
+
+msgctxt "5deac2796e084cfab6fe83215c81df72"
+msgid "སྡོམ་ གསུམ་ མི་དགེ་ བཅུ་ སྤོང་ གནད་ གཅིག་ ལ ། །"
+msgstr ""
+"The three precepts and the abandonment of the ten non-virtues are of the "
+"same essence,"
+
+msgctxt "66833e79b77d4a849abc3fbb521b8f76"
+msgid "བདག་པོ་ འཕོས་པ་␣ས་ སྡོམ་པ་ གསུམ་ དུ་ འོང་ ། །"
+msgstr "As self transmigrates, the three vows will come."
+
+msgctxt "5f201898bd504337b44d9ba8ede7e572"
+msgid "རང་བཞིན་ རྣམ་དག་ བྲལ་འབྲས་ ཡོན་ཏན་ ལྡན ། །"
+msgstr ""
+"Possessing the qualities of the intrinsically pure result of separation,"
+
+msgctxt "18ae225d008b4a618341351cb07a1b4e"
+msgid "བྱང་ཕྱོགས་ སོ་ བདུན་ བདེ་གཤེགས་ སྙིང་པོ་ ཡོད ། །"
+msgstr ""
+"The thirty-seven harmonies with enlightenment have the essence of the "
+"sugatas,"
+
+msgctxt "a38d57f4158e4fd7bcdc0834286582f1"
+msgid "ཚད་ མེད་ རྣམ་ བཞི་ སངས་རྒྱས་ ངོ་བོ་ ཉིད ། །"
+msgstr "The four immeasurables are Buddha's nature,"
+
+msgctxt "73c0fb5f56d74dee9b41f11d8c0432e7"
+msgid "ཐེག་པ་ ཐམས་ཅད་ རིགས་ གཅིག་ ཐེག་པ་␣ར་ གཅིག  །"
+msgstr "As all the vehicles are the same lineage, one vehicle, "
+
+msgctxt "09a11466de57415992415ed48914b612"
+msgid "ཉན་རང་ ལོག་ སྲེག་ ཅན་ ཡང་ རྣམ་མཁྱེན་ འགྱུར ། །"
+msgstr ""
+"Even hearers, solitary realizers, and [those] wrongly craved become "
+"omniscient. "
+
+msgctxt "2eeb15e6d8da4417b3e978478d7d98c2"
+msgid "ཆོས་འཁོར་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ དང་པོ་␣འོ ། །"
+msgstr ""
+"The first section summarises the essential points of the dharma wheel."
+
+msgctxt "484abb71b2ba406d8b3682ca626f445e"
+msgid "དགེ་སྡིག་ གཉིས་ ལས་ ལུང་ མ་ བསྟན་ གཞན་ མེད ། །"
+msgstr "Beside virtue and non-virtue, there is no other as neutral,"
+
+msgctxt "30949b1bba39426c96803beb2985bf35"
+msgid "རྟོག་ གཉིས་ ཅིག་ཅར་ འཇུག་པ་ མི་ སྲིད་ ལ ། །"
+msgstr "A simultaneous engagement of two thoughts is not possible."
+
+msgctxt "fda768e900744e9684b48a50e4b14c65"
+msgid "སེམས་བྱུང་ ལས་ ཀྱང་ སེམས་ ནི་ འབྱུང་བ་␣འང་ ཡོད ། །"
+msgstr "Mind arises also from mental events."
+
+msgctxt "4dd676a39d1840eca43022bc1eb7b6d3"
+msgid "འཁོར་བ་␣འི་ རྒྱ་མཚོ་␣ར་ ལུས་ ཉིད་ འཁོར་བ་␣ར་ བཞེད ། །"
+msgstr ""
+"It is accepted that only the body transmigrates in the ocean of samsara,"
+
+msgctxt "d0683bf2c17d41269b0e71da7e2f26d9"
+msgid "རྟེན་འབྲེལ་ བཅུ་གཉིས་ མ་རིག་ ཁོ་ན་␣འི་ གཡོས ། །"
+msgstr "The twelve interdependent links are only moved by ignorance."
+
+msgctxt "0116cebb1efa4ad98abba5dcd1093699"
+msgid "བཅུ་གཉིས་ དེ་ཡང་ སྐད་ཅིག་ གཅིག་ ལ་ ཚང་ ། །"
+msgstr "The twelve [links] are also completed in a moment."
+
+msgctxt "2fe5d92a206f4092b74644eef413a1bc"
+msgid "སེམས་ ནི་ ཐ་དད་ དབང་ གི་ སྣང་བ་ ཡང་ ། །"
+msgstr "Due to different minds, so does appearance."
+
+msgctxt "c70bbe681e0647ff8b1e1cac48669f12"
+msgid "ད་ལྟ་ ཉིད་ དུ་ གང་ བསྒྲུབས་ འབྲས་བུ་␣ར་ སྤྱོད ། །"
+msgstr "What is accomplished in the present can produce results now."
+
+msgctxt "5c047ece0709484fa82475f8bf4c2312"
+msgid "དུས་ ཀྱི་ འཕེལ་འགྲིབ་ ད་ལྟར་ བྱ་ ཡོད་ ཡིན ། །"
+msgstr ""
+"An increase and decrease of time [lifespan] can be performed at the present."
+
+msgctxt "dc96e8c08e1840938c8a9b2239bab3f2"
+msgid "ཚེ་ འདི་རང་ ལ་ མཐོང་ཆོས་ གཙོ་བོ་␣ར་ འབྱུང་ ། །"
+msgstr "The obvious phenomenon primarily occurs in this very life."
+
+msgctxt "91592a1bc97249b08965b217eafbe93d"
+msgid "མི་ཆོས་ བཅུ་དྲུག་ ལྷ་ཆོས་ གནད་ གཅིག་ སྟེ ། །"
+msgstr ""
+"The essence of the sixteen human conducts and the divine conducts is the "
+"same."
+
+msgctxt "41860d29db6e4635b8988f35cb7eab83"
+msgid "གཙོ་ཕལ་ ཙམ་ ལས་འབྲས་ ཐོབ་ རྒྱུན་ ཆད་ མེད ། །"
+msgstr ""
+"Except for greater or lesser [intensity], the obtaining of results continues"
+" unceasingly."
+
+msgctxt "e281d09fb3804ecabbdd51e0832586e9"
+msgid "ཤེས་རབ་ བསླབ་པ་ ཐོག་མ་␣ར་ འགྲོ་བ་␣འང་ ཡོད ། །"
+msgstr "Wisdom training can also go first."
+
+msgctxt "26931cb1667c440ab19553dac10cea19"
+msgid "ལམ་རིམ་ ཐམས་ཅད་ ཐུན་ གཅིག་ ཉམས་ལེན་ དགོས ། །"
+msgstr "All the stages of the path need to practice in one session."
+
+msgctxt "4d8e7120238647a9af8797e0fc6fe8e1"
+msgid "ཞིང་ གཅིག་ ལ་ ཡང་ སངས་རྒྱས་ གྲངས་མེད་ འབྱོན ། །"
+msgstr "Countless Buddhas will come in a single field. "
+
+msgctxt "0063cdf90b00429e8ebec0aca197ca12"
+msgid "རྟེན་འབྲེལ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ གཉིས་པ་␣འོ ། །"
+msgstr ""
+"The second section summarises the essential points of dependent origination."
+
+msgctxt "1e4fb4cdac47471488748d1b3f3df8bc"
+msgid "དམ་ཆོས་ འདུལ་བ་ ཐེག་པ་ ཐུན་མོང་ སྟེ ། །"
+msgstr "The true dharma Vinaya is common to all the vehicles."
+
+msgctxt "69ff1ed995a94e6d81b8bebd9a8d22a7"
+msgid "ལྷག་པར་ ཐེག་པ་ ཆེན་པོ་␣ར་ གསལ་ བཞུགས་ ལ ། །"
+msgstr "It is even more present in the Mahayana."
+
+msgctxt "e1e31b68205e4612ad2d2e446ddb2a69"
+msgid "ཐམས་ཅད་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ འདི་ཉིད་ ཡིན ། །"
+msgstr "All of this is the wisdom of the omniscient one only."
+
+msgctxt "87fee697e02d436a8cd13b2170d24ecb"
+msgid "བར་ཆད་ ལྡན་ ལ་␣འང་ སྡོམ་པ་ སྐྱེ་ ངེས་ ཏེ ། །"
+msgstr "Despite possessing the obstacles, vows will certainly arise."
+
+msgctxt "915b85e7f7074266b4ec33b5dcc9ca6b"
+msgid "ངོ་ བོ་ རྣམ་པ་␣ར་ རིག་བྱེད་ མིན་པ་␣འི་ གཟུགས ། །"
+msgstr "The essence [of the vows] is imperceptible forms."
+
+msgctxt "5075cd2d890549f5833233e2a7721a12"
+msgid "ལྟུང་བ་ མཐའ་དག་ ལ་ ནི་ འདུ་ཤེས་ གཙོ ། །"
+msgstr "In all downfalls, perception is the principal factor."
+
+msgctxt "7c85317e86444d4d9e5e6a894be248ca"
+msgid "ཡིད་ ཀྱི་ རྣམ་ གསུམ་ གཙོ་བོ་␣ར་ སྤོང་བ་ དགོས ། །"
+msgstr "Chiefly, the three types of mind must be abandoned."
+
+msgctxt "8891fb68a4054540a94a12e680abd5f2"
+msgid "གཏོང་བ་␣འི་ རྒྱུ་ ཡིས་ མི་ གཏོང་བ་ ཡང་ ཡོད ། །"
+msgstr "Sometimes, the causes of the loss, will not lose it."
+
+msgctxt "8f47f0bff90a48629adbc004a4c8391c"
+msgid "ཕམ་པ་ བཞི་ ནི་ བུ་ལོན་ ནོར་ ཅན་ བཞིན ། །"
+msgstr "The four defects are similar to a wealthy person with a loan."
+
+msgctxt "26e4526f789b4ade9318fc68a4ff0638"
+msgid "སྣ་ གཅིག་ བསྲུངས་པ་␣ས་ འབྲས་བུ་ མྱང་འདས་ འཐོབ ། །"
+msgstr "By guarding one vow, [one] will attain the result of Nirvana."
+
+msgctxt "1a32687b0fb44bf19d7e9d94a80ea9c5"
+msgid "བཅས་ དང་ རང་བཞིན་ ཁ་ན་མ་ཐོ་ གཅིག  །"
+msgstr "The established and natural misdeeds are similar."
+
+msgctxt "d343a97a101747f69d0c05d595e2a2ef"
+msgid "སྡིག་ལྟུང་ ཐ་དད་ མེད་ ཅིང་ གཅིག་པ་ ཡིན ། །"
+msgstr "Negative actions and downfalls are not different but the same. "
+
+msgctxt "68d91ac25b2f4ef698d6d7c9f440095a"
+msgid "བཀག་པ་ ཡེ་ བཀག་ གནང་བ་ ཡེ་ གནང་ ལ ། །"
+msgstr ""
+"Prohibitions are primordially prohibited, while permissions are primordially"
+" permitted. "
+
+msgctxt "4b8df366a7a24bc1bda64badccb583ff"
+msgid "ཆོས་ ཀྱི་ རྒྱལ་པོ་␣ས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས ། །"
+msgstr "The king of Dharma established [discipline] for migrators in general."
+
+msgctxt "c157196923354870b8a29493c3a983ee"
+msgid "འགྲོ་བ་ གང་ གིས་ འདས་ ཀྱང་ ཉེས་པ་ དང་ ། །"
+msgstr "Any migrator who transgresses will suffer."
+
+msgctxt "3c7e40eb9b9d4a65a57e7fe29a87e4f5"
+msgid "བསྲུངས་པ་␣འི་ ཕན་ཡོན་ ཡང་ ནི་ ཀུན་ ལ་ འབྱུང་ ། །"
+msgstr "The benefits of guarding [it] also occur to anyone."
+
+msgctxt "a1372cdf0d6e40e7b224ba93f7c09665"
+msgid "བསྟན་ ལ་ ཆོ་ག་ ལྷག་པར་ གལ་ཆེ་ ལ ། །"
+msgstr "To demonstrate this, ritual is especially important."
+
+msgctxt "a6641913432948d8b7c8b51181d63866"
+msgid "མི་ ཤེས་ གཏི་མུག་ ཉེས་པ་ གཞན་ ལས་ ལྕི ། །"
+msgstr "Not knowing or delusion is heavier than the other faults."
+
+msgctxt "967683501c7646dc8d1d36354bfc5fda"
+msgid "དུད་འགྲོ་ གཏི་མུག་ ཆེ་བ་␣ས་ དམན་པ་ ཡིན ། །"
+msgstr "Animals are inferior because of greater delusions."
+
+msgctxt "d0445ae84bd7419ba6320dcb3b4c27b5"
+msgid "ཉམས་ ལས་མ་ ཐོབ་ ཉེས་པ་ ཆེ་བ་␣ར་ བཞེད །"
+msgstr "The fault of not obtaining [vows] is greater than being degenerated."
+
+msgctxt "7465c2a3b66e489fb5b64a5b2012338e"
+msgid "སོ་ཐར་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ གསུམ་པ་␣འོ ། །"
+msgstr ""
+"The third section summarises the essential points of [the vows of] "
+"individual liberation."
+
+msgctxt "d42abe30970d44cd83bf58dee818d9b2"
+msgid "བྱང་ཆུབ་ སེམས་ དང་ སྙིང་རྗེ་ ཐ་དད་ ཡིན ། །"
+msgstr "Enlightened mind and compassion are different."
+
+msgctxt "977bbbda4b0246df8e716d902c792c83"
+msgid "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྡོམ་པ་ རྟེན་ ཅན་ བཞེད ། །"
+msgstr "The Bodhisattva vows must be supported."
+
+msgctxt "6a7b4cdf532e43fb93e1f7c04ec47501"
+msgid "སོ་སོ་ སྐྱེ་བོ་ ལ་ ཡང་འཇུག་ སྡོམ་ སྐྱེ ། །"
+msgstr "The vow of entering bodhicitta also arises for individualized beings."
+
+msgctxt "a7b9eee4d11d408286c34c5ff369caf4"
+msgid "ཅི་རིགས་ ཀྱིས་ ཀྱང་ འཇུག་པ་␣འི་ སྡོམ་པ་␣ར་ འགྱུར ། །"
+msgstr "Any of these becomes the vows of entering bodhicitta."
+
+msgctxt "5659240c68c246ba85a9a06da8dbf1ea"
+msgid "ཉོན་མོངས་ ཅན་ མིན་ ལྟུང་བ་ མི་ སྲིད་ ཅིང་ ། །"
+msgstr "A downfall of not being afflictive is impossible."
+
+msgctxt "0b1ab663d3654f1ebedd7039c43855a2"
+msgid "ཉེས་པ་␣ར་ མི་ འགྱུར་ མི་དགེ་ གནང་བ་ མེད ། །"
+msgstr "A non-virtue that does not become a fault is never permitted."
+
+msgctxt "453973ebbbfb4046aa2b5c007ac3bff7"
+msgid "ཐབས་མཁས་ སྤྱོད་ ལ་ མི་དགེ་ ཡོད་ མ་ ཡིན ། །"
+msgstr "Non-virtue does not exist in skillful conduct."
+
+msgctxt "6a2b3b513c3a41ed8cb1f1a8dc1e5c26"
+msgid "རང་གཞན་ བརྗེ་བ་ ཉེས་པ་ འགྱུར་ སྐབས་ ཡོད ། །"
+msgstr ""
+"There are instances where exchanging oneself and others become a fault."
+
+msgctxt "a3bf7d60cf3a4a37b5abe2542b8457dc"
+msgid "སེམས་དཔ་␣ར་ གནོད་ བྱས་ བདེ་བ་␣ར་ མི་ འབྲེལ་ ཞིང་ ། །"
+msgstr "[One] will never be connected to bliss by harming a bodhisattva. "
+
+msgctxt "f7b739023b944f1fa1ab90b91054c264"
+msgid "དགེ་ དང་ མི་དགེ་␣འི་ འབྲས་བུ་ སོ་སོ་␣ར་ འབྱུང་ ། །"
+msgstr "The results of virtue and non-virtue occur individually."
+
+msgctxt "eb0c67c8b6464728964548a281b6af4b"
+msgid "བྱང་ཆུབ་ སེམས་ ནི་ བརྗེད་ ལས་ འཆོར་ མི་ སྲིད ། །"
+msgstr "Bodhicitta can be forgotten, but it is not possible to lose it."
+
+msgctxt "9aaeb2af3db7460c8f11629675c19d41"
+msgid "སྒྲིབ་པ་ རྣམ་ གསུམ་ ཉོན་མོངས་ སྒྲིབ་པ་ གཅིག  །"
+msgstr ""
+"The three types of obscuration are all afflictive obscuration and the same."
+
+msgctxt "a546bc908ce34b08b693e2742c807672"
+msgid "ཇི་སྙེད་ གྲུབ་པ་␣ས་ དོན་དམ་ བདེན་པ་ བསྒྲིབས ། །"
+msgstr "Whatever is established obscures the superfactual truth."
+
+msgctxt "dd832b9d576044bab6695819bc9238ed"
+msgid "ཉན་ཐོས་ ཀྱིས་ ཀྱང་ གནས་ལུགས་ ཕྱོགས་ གཅིག་ མཐོང་ ། །"
+msgstr "The hearers also see a part of reality."
+
+msgctxt "2c7cb96300b649729255c4a70ef65878"
+msgid "ས་ དྲུག་ མན་ཆད་ ཉན་རང་ ཐུན་མོང་ སྟེ ། །"
+msgstr ""
+"Up to the sixth ground, it is common in hearers and solitary realizers."
+
+msgctxt "e5aab2239f2e48d18265a4d22cbe6d5d"
+msgid "སེམས་ ཙམ་པ་ ནི་ ས་ བདུན་ མངོན་རྟོགས་ ཡིན ། །"
+msgstr "The mind-only is the realization of the seventh ground."
+
+msgctxt "259d69c421844ca698d59bb4dc5a1b95"
+msgid "ཆོས་ ཀྱི་ བདག་མེད་ ས་  བརྒྱད་ མངོན་དུ་ བྱས ། །"
+msgstr "[One] actualizes the selflessness of phenomena on the eighth ground."
+
+msgctxt "fef6e89431ae44ebb5c105a2ddc2e39b"
+msgid "རྟོགས་པ་ གཅིག་ གིས་ ས་ལམ་ མ་ ལུས་ བགྲོད ། །"
+msgstr ""
+"Through a single realization, [one] can advance all of the grounds and "
+"paths."
+
+msgctxt "021ea9571d294b3fbe7b0982563b64f6"
+msgid "ས་ ཐོབ་ ཡོན་ཏན་ འབྱུང་ ཚུལ་ མུ་ དྲུག་ ཡོད ། །"
+msgstr ""
+"The qualities of attaining the grounds can occur in six possible ways."
+
+msgctxt "bdbaf42f36cb4627864e25722d85bc5e"
+msgid "གཞི་ ལམ་ འབྲས་བུ་␣ར་ ཚོགས་ གཉིས་ ཟུང་འཇུག་ ནས ། །"
+msgstr "By the union of the two accumulations in the basis, path, and result."
+
+msgctxt "fda1f140b304418ab4bb036af65ce1f4"
+msgid "མཐོ་དམན་ ཀུན་ ཏུ་ ཞིང་ ནི་ གདམས་པ་ ཟབ ། །"
+msgstr "Choosing a [higher] field is profound for all [beings], high or low."
+
+msgctxt "bfe7fcd9018d47d7afe53847f7b0c00d"
+msgid "བདག་ ཏུ་ བཟུང་ སྟེ་ ཚོགས་ བསགས་ ཐབས་མཁས་ བཞེད ། །"
+msgstr "Gathering accumulations by grasping oneself is a skillful means."
+
+msgctxt "6d360d9c18114c82a76da89e01182462"
+msgid "འཁོར་འདས་ ཀུན་ གྱིས་ བསགས་ ཡོད་ དགེ་བ་ བསྔོ ། །"
+msgstr "Dedicate all of the virtues of samsara and nirvana."
+
+msgctxt "218ce2dc5f2249e2b6018022be58e116"
+msgid "སངས་རྒྱས་ བླ་མ་ ལ་ ཡང་ བསྔོ་བ་ དགོས ། །"
+msgstr "Dedication to Buddhas and gurus is also necessary."
+
+msgctxt "e9aac6567c22406ead6b246bf7f3223c"
+msgid "བྱང་སེམས་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ བཞི་བ་␣འོ ། །"
+msgstr "The fourth section summarises the essential points of Bodhisattvas."
+
+msgctxt "ac5c591a658e4af78b791a3010a701d7"
+msgid "གསང་སྔགས་ བསྟན་པ་ གཞན་ ལ་␣འང་ འབྱུང་བ་ ཡོད ། །"
+msgstr ""
+"The secret mantra teaching can also occur during [the time of] others."
+
+msgctxt "0526bf5ba51c4796a62e7993c9454f84"
+msgid "དབང་དོན་ རྒྱུད་ ལ་ སྐྱེས་ ནས་ ཐོབ་པ་␣ར་ བཞེད ། །"
+msgstr ""
+"When the meaning of empowerment arises within one's mind, [empowerment] is "
+"obtained."
+
+msgctxt "3c8a366275ee402d920d303aa88b96a7"
+msgid "ལྷ་ ནི་ ཕྱོགས་ གཅིག་པ་␣ས་ ཀྱང་ དབང་ བསྐུར་ འགྲོ ། །"
+msgstr "Empowerment can be conferred even in the direction of a single deity."
+
+msgctxt "91d1dc851f374bef8f7369f50b933fdb"
+msgid "རྟོགས་པ་ མ་ སྐྱེས་ དཔེ་ དོན་ ཁོང་ མི་ ཆུད ། །"
+msgstr ""
+"[When] realization does not arise, [one] will not understand the "
+"illustration and meaning."
+
+msgctxt "b52e56678f074906898e762d4b048188"
+msgid "བསྐྱེད་པ་␣འི་ རིམ་པ་ གདོད་ ནས་ ཡོངས་སུ་ གྲུབ ། །"
+msgstr "Primarily, the stages of generation are thoroughly accomplished."
+
+msgctxt "c8d5258a31b84476bd489bedbd3d011f"
+msgid "རང་བྱུང་ རྣམས་ ལ་ འཇུག་པ་␣འི་ ཆོ་ག་ དགོས ། །"
+msgstr ""
+"Those with a natural proclivity [for practice] require ritual to enter the "
+"path."
+
+msgctxt "072f6c8631464c99bfe274b67048982b"
+msgid "ལྷ་ རྣམས་ ཐམས་ཅད་ མཚན་དཔེ་␣འི་ ཡོན་ཏན་ ལྡན ། །"
+msgstr ""
+"All deities possess the excellent qualities of the major and minor marks."
+
+msgctxt "55716292ab304927a45f439055ec946f"
+msgid "མདོ་ རྒྱུད་ ལས་ གསུང་ ལྷ་ རྣམས་ གཙོ་བོ་␣ར་ བྱ ། །"
+msgstr ""
+"The deities and so on taught in the sutra and tantra must be regarded as "
+"primary."
+
+msgctxt "f69ad9f969ae488aa0f713201597e15a"
+msgid "དབང་པོ་ རབ་ ལ་ ཆོ་ག་ རྒྱས་པ་ དགོས ། །"
+msgstr "Those with the highest faculty require extensive rituals."
+
+msgctxt "386c7b2977614c80aaa8129c8ed4ea3e"
+msgid "སྤྲོས་པ་ ཐམས་ཅད་ བབས་ ཀྱི་ རྟེན་འབྲེལ་ ཡིན ། །"
+msgstr ""
+"All [ritual] elaborations are the fundamental state of dependent relation."
+
+msgctxt "1c52771671a44bbe9b672881971f91d3"
+msgid "རྡོ་རྗེ་␣འི་ ལུས་ ནི་ ཟབ་མོ་␣འི་ འཁོར་ལོ་␣ར་ བཞེད ། །"
+msgstr "The Vajra body is a profound wheel."
+
+msgctxt "7267f67c1b3346c5a25d6bde98b779be"
+msgid "གནས་ ལུག་ འགའ་ཞིག་ རྡོ་རྗེ་ འཆང་ གིས་ སྦ་␣ས ། །"
+msgstr "Vajradhara concealed some aspects of reality."
+
+msgctxt "b3819c3018c245d09a407d73ba34f7f8"
+msgid "ལས་ དང་ འདུག་ ཚུལ་ འགའ་ཞིག་ སྨན་ རྒྱུད་ ཟབ ། །"
+msgstr ""
+"Medicine tantra teaches some more profound ways of living and activities."
+
+msgctxt "ea2f694290fd4344b152d6986b25d043"
+msgid "གཞན་ གྱི་ མི་ ཟབ་པ་ རྣམས་ འདི་␣ར་ ཟབ་ སྟེ ། །"
+msgstr "What others considered not profound is profound here."
+
+msgctxt "94b81a25bc42490fae7279f60364da6f"
+msgid "དེ་ མེད་ རྩ་ རླུང་ གདམས་པ་␣ས་ སངས་ མི་ རྒྱ ། །"
+msgstr ""
+"Without these [profound instructions], one cannot attain Buddhahood through "
+"channel and wind instructions."
+
+msgctxt "a410072002ec4b2b9f8a7d339cbf8090"
+msgid "བཀའ་ དང་ འགལ་བ་␣འི་ ཉམས་མྱོང་ ལོག་རྟོག་ ཡིན ། །"
+msgstr "Experiences that contradict the instruction are mistaken conceptions."
+
+msgctxt "d113b705b2454a02941efb77c65999d7"
+msgid "དགོངས་པ་ ཐམས་ཅད་ འགལ་ མེད་ ཤེས་པ་␣ར་ དགོས ། །"
+msgstr "[One must] understand that none of the intentions are contradictory."
+
+msgctxt "cdf94b4364f241a9879678c64a31a66c"
+msgid "གདམས་ངག་ ལྟར་ མིན་ བཀའ་ ལྟར་ འོང་བ་␣ར་ བཞེད ། །"
+msgstr ""
+"Unlike oral instructions, it must be in accordance with the instruction [of "
+"Buddha]."
+
+msgctxt "1c0cf7f124b14baab9dc410ecc146684"
+msgid "སྐྱོན་མེད་ ཏིང་འཛིན་ ཁམས་ གསུམ་ འཁོར་བ་␣འི་ རྒྱུ ། །"
+msgstr "The three samsaric realms are caused by flawless concentrations."
+
+msgctxt "2d1393b35a61492889cbb830b44696e0"
+msgid "སྐུ་གསུམ་ རེ་རེ་ ལ་ ཡང་ གཞན་ གཉིས་ ཚང་ ། །"
+msgstr "Each of the three bodies possesses the other two."
+
+msgctxt "6ed43fc3b9d8428cb2bc5374ea8be427"
+msgid "གསང་སྔགས་ ལ་ ནི་ ཚུལ་ཁྲིམས་ མེད་ ཀ་མེད ། །"
+msgstr "In the secret mantra, moral discipline is indispensable."
+
+msgctxt "ccce841677aa4d4e89dd0d45d4b45dff"
+msgid "འདོད་པ་␣ས་ བར་ དུ་ གཅོད་པ་ མདོ་སྔགས་ གཅིག  །"
+msgstr ""
+"The sutra and mantra teachings are similar in terms of how desire disrupts "
+"[the path]. "
+
+msgctxt "8ca165a54fea4e7681c9613eec669a35"
+msgid "སྔགས་ ཀྱི་ མི་དགེ་ དགེ་བ་␣ར་ འགྱུར་ སྐབས་མེད ། །"
+msgstr "No occasion in the mantra where non-virtue transforms into a virtue."
+
+msgctxt "37136da84d344d298ff67fc392cbaa97"
+msgid "འདུལ་བ་␣ར་ མི་དགེ་ སྔགས་ སུ་␣འང་ དགེ་␣ར་ མི་ འགྱུར ། །"
+msgstr ""
+"A non-virtue in the Vinaya will not transform into a virtue in the mantra."
+
+msgctxt "f998193fa7874c1c93485fb3251b8377"
+msgid "ཉོན་མོངས་ དག་ འབྲས་ བདེ་བ་␣ར་ གཤེགས་པ་ ཉིད ། །"
+msgstr "The result of purifying afflictions is true bliss."
+
+msgctxt "cebe95eb2ca248a38bdf29a09c2488d2"
+msgid "མཐུ་ བསྟན་ ཙམ་ ལས་ མངོན་སྤྱོད་ གནང་བ་ མེད ། །"
+msgstr ""
+"Aside from merely displaying the magical power [of mantra], violent "
+"activities are not permitted."
+
+msgctxt "1975ca0722374264909fd35f3d14e38e"
+msgid "རྡོ་རྗེ་ དམྱལ་བ་ མནར་མེད་ ལ་སོགས་ ཡིན ། །"
+msgstr "Vajra hell is Avichi hell, and so on."
+
+msgctxt "ba563c55708c4deeb0b92b0bbf65049e"
+msgid "སློབ་དཔོན་ རྒྱུད་ ཚོད་ མཐོ་ ན་ མྱུར་ དུ་ འདྲེན ། །"
+msgstr ""
+"If master's internal level [of realization] is high, [he can] lead quickly. "
+
+msgctxt "a0fe96eb30dc4eec8cdf2db7ce080e26"
+msgid "སློབ་དཔོན་ རྒྱུད་ ཚོད་ མཐོ་ ན་ མྱུར་ དུ་ འདྲེན ། །"
+msgstr "The fifth section summarises the essential points of secret mantra."
+
+msgctxt "3891ee589bd94992bfa0baf462b23e63"
+msgid "༈  དམ་པ་␣འི་ ཆོས་ གང་ བརྒྱུད་པ་␣ར་ འབྲེལ་པ་ ཟབ ། །"
+msgstr "All of the excellent Dharma connected with the lineage is profound."
+
+msgctxt "76757bb0f66842c1b5b84addcec30b67"
+msgid "འཁོར་འདས་ ཆོས་ ཀུན་ རང་ གི་ སེམས་ སྣང་ ཙམ ། །"
+msgstr ""
+"All phenomena of samsara and nirvana are merely appearances of one's mind."
+
+msgctxt "e1cc4b473954448c838a713f6a2d1f9e"
+msgid "རྒྱུ་འབྲས་ སྐད་ཅིག་ བསམ་པ་␣འི་ རང་གཟུགས་ ཡིན ། །"
+msgstr "Causes and effects are the embodiment of momentary thoughts."
+
+msgctxt "732c5516156c4706af38d13013927e11"
+msgid "གཤིས་ ལ་ མི་ གནས་ བལྟས་པ་␣འི་ འགྱུར་ མི་ སྲིད ། །"
+msgstr ""
+"If it does not exist in its natural state, it cannot be changed by shifting "
+"one's point of view on it."
+
+msgctxt "b4fde08df5bc4a86b142466a8c57d581"
+msgid "མཚན་ཉིད་ མི་ ལྡན་ ཡོན་ཏན་ སྐྱེད་ མི་ ནུས ། །"
+msgstr "One who lacks characteristics cannot produce good qualities."
+
+msgctxt "91603ec9c3a44b2e9b79e35d1bd2bafd"
+msgid "རྟོགས་པ་ སྐྱེད་ ཐབས་ མོས་གུས་ ཁོ་ན་␣ར་ ངེས ། །"
+msgstr "It is certain that devotion is the only way to generate realization."
+
+msgctxt "36ea397f850a49d69cf38b9d1d2883bf"
+msgid "ལྟ་བ་␣འི་ མཆོག་གྱུར་ རྟོགས་པ་ དང་ ལྡན་པ ། །"
+msgstr "The supreme view possesses realization."
+
+msgctxt "f5657ab38cd14da79c0f0d2e0036250a"
+msgid "ཆེན་པོ་ གསུམ་ གྱིས་ མ་ རེག་ རྟོགས་པ་␣འི་ མཆོག  །"
+msgstr "The supreme realization is not touched by the three greats."
+
+msgctxt "9092dcb96a5d461abb23d15b66c8fad4"
+msgid "ཐོས་བསམ་ སྒོམ་པ་␣འི་ སྟོང་ཉིད་ ཤོལ་ གོལ་ ཡིན ། །"
+msgstr ""
+"Hearing, contemplating, and meditating on emptiness [may] involve delays and"
+" deviations."
+
+msgctxt "04036908d5834cb9ad53b4eec465221c"
+msgid "རྟོགས་པ་ གོམས་པ་␣ར་ བྱེད་པ་ སྒོམ་པ་ སྟེ ། །"
+msgstr "Habituating to realization is meditation."
+
+msgctxt "b8790435162543c596a4314092fd30e7"
+msgid "སྤྱོད་པ་ བླང་དོར་ བྲལ་བ་ ཚུལ་ཁྲིམས་ བཞེད ། །"
+msgstr ""
+"The conduct, free from acceptance and rejection, is the moral discipline."
+
+msgctxt "6b23150916164d64bd78069c8d57d96a"
+msgid "ལྟ་ སྒོམ་ སྤྱོད་ གསུམ་ ཐ་དད་ མེད་པ་␣ར་ གཅིག  །"
+msgstr "The view, practice, and conduct- all three are not distinct but one."
+
+msgctxt "71d6236663884ccd8d8435e721915e7b"
+msgid "ཕྱག་ ཆེན་ ཚུལ་ཁྲིམས་ གནད་ གཅིག་ ཁྱད་པར་ ཆོས ། །"
+msgstr ""
+"Mahamudra and disciplined conduct are one essence and special teaching."
+
+msgctxt "b4ef8cbf0da3401e9a32f2f38751dbe1"
+msgid "ཕྱག་ ཆེན་ ཡོན་ཏན་ ཀུན་ གྱི་ བདག་ཉིད་ དེ ། །"
+msgstr "Mahamudra is the essence of all the good qualities."
+
+msgctxt "9f0ecfeb62bd433eb54946b0f5d7b00d"
+msgid "མཉམ་པ་␣ར་ བཞག་ ལས་ ཡོན་ཏན་ ཐམས་ཅད་ འབྱུང་ ། །"
+msgstr "All the good qualities arise from meditative equipoise."
+
+msgctxt "077e8fe649e84a3da7324514e19cee05"
+msgid "རྒྱུ་ ནི་ མ་ བསྒྲུབས་ ཡོན་ཏན་ འབྱུང་ མི་ སྲིད ། །"
+msgstr "The good qualities will not occur unless the cause is accomplished."
+
+msgctxt "e05ce512abb947ee86cbc82f08c8b01b"
+msgid "སྟོང་ཉིད་ རྟོགས་ ན་ རྒྱུ་འབྲས་ ཉིད་ དུ་ ལྡང་ ། །"
+msgstr "If [one] realizes emptiness- the cause and effect emerge from it."
+
+msgctxt "2131e1a0e50e44c7aeaca3aee4a8ed45"
+msgid "རྟོགས་ལྡན་ ལ་ ཡང་ ཐམས་ ལམ་ ལྷག་པར་ དགོས ། །"
+msgstr ""
+"Those endowed with realization, especially, require the path of methods."
+
+msgctxt "4d5c6795f969416ea25425de6c743adc"
+msgid "རིགས་ སྤྱོད་ ཁྱད་ དུ་ འཕགས་པ་ ཚུལ་ཁྲིམས་ ཡིན ། །"
+msgstr "Disciplined conduct is the exalted class of conduct. "
+
+msgctxt "41d5230fb6e748be938b8b6ce61dccea"
+msgid "ཆོས་ གསུམ་ མི་ ལྡན་ ཉན་རང་ ཁྱད་པར་ མེད ། །"
+msgstr ""
+"Without the three dharmas, one is no different from a hearer or a "
+"solitary realizer."
+
+msgctxt "13cc0292b0fd4bfcbbac6f4f5f6f031d"
+msgid "ལྟ་ སྒོམ་ སྤྱོད་པ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ དྲུག་པ་␣འོ ། །"
+msgstr ""
+"The sixth section summarises the essential points of view, practice, and "
+"conduct."
+
+msgctxt "18ca1c6bc60945a7813055e02703619f"
+msgid "སངས་རྒྱས་ ས་ ན་ བདེན་ གཉིས་ རྣམ་དབྱེ་␣ར་ མེད ། །"
+msgstr ""
+"At the ground of Buddhahood, there is no distinction between the two truths."
+
+msgctxt "fa1bb3ffd2634ca7af23fea9c2565a22"
+msgid "མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ གཉིས་ མེད་ མཐའ་ དང་ བྲལ ། །"
+msgstr "Knowing wisdom is non-dual, free of extremes."
+
+msgctxt "36373020e30a456f8ab006120adeced4"
+msgid "རྒྱུ་མ་ ལྟ་བུ་␣འི་ ཆོས་ ལས་ ཡང་དག་ འདས ། །"
+msgstr " [It] completely goes beyond illusory-like phenomena."
+
+msgctxt "7754cabeebc2433da56921ada286c1a6"
+msgid "སངས་རྒྱས་ དུས་ རྣམས་ རྟག་ ཏུ་ ཚད་མ་␣ར་ བཞུགས ། །"
+msgstr "The Buddha dwells in valid cognition at all times."
+
+msgctxt "16ac3c318e644b43b46f29294d327891"
+msgid "བྲལ་བ་␣འི་ འབྲས་བུ་␣ས་ ཡེ་ཤེས་ ཐུགས་ ཅན་ བཞེད ། །"
+msgstr "The mind of primordial wisdom is the result of separation."
+
+msgctxt "8efe987381e74121b99d39c3f6e23ee7"
+msgid "ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ ཕྲིན་ལས་ བཅས ། །"
+msgstr "Dharmakaya is endowed with good qualities and activities. "
+
+msgctxt "792fd8dc538e46db8a97c78f6bf53d62"
+msgid "མཐར་ཐུག་ སངས་རྒྱས་ ས་ ན་␣འང་ ཐུགས་བསྐྱེད་ ཡོད ། །"
+msgstr ""
+"The arousing of the mind exists at the ultimate ground of Buddhahood as "
+"well."
+
+msgctxt "838c7c9c464f488fb7683e6c3ddd7848"
+msgid "ཐུགས་ ནི་ རྟག་ཆད་ ལྟ་བ་ ཚུན་ ལ་␣འང་ འབྱུང་ ། །"
+msgstr ""
+"The omniscient mind reaches even to the permanent and nihilist viewpoints."
+
+msgctxt "f17e7fa71b8a44988acb1b2f69bbb90b"
+msgid "ཤེས་བྱ་ སྲིད་ ཚད་ སངས་རྒྱས་ བྱ་བ་ བྱེད ། །"
+msgstr "The Buddha engages in any activity that exists as knowables."
+
+msgctxt "deb994c6da864999b4c48a3e04a5821c"
+msgid "ཆོས་དབྱིངས་ ཀུན་ ཏུ་ འཚང་ རྒྱ་ དགོས་པ་␣ར་ བཞེད ། །"
+msgstr "One needs to enlighten in the entire expanse of dharmas."
+
+msgctxt "91771822c8b848e385263cf0344ef523"
+msgid "རྒྱུ་ མེད་ སྤྲུལ་པ་ མི་ སྲིད་ རང་རྒྱུད་པ ། །"
+msgstr "Emanation is impossible without causes being their own continuum."
+
+msgctxt "e27feeab31a8473fab4b30684221f9d0"
+msgid "སངས་རྒྱས་ ཞེས་ བྱ་ རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ སྐུ ། །"
+msgstr "As known Buddha is a body of dependent origination."
+
+msgctxt "2d8e5883db504a9b966bf3c466e74936"
+msgid "སྨོན་ འཇུག་ ལོངས་ སྤྲུལ་ རྒྱུ་ རུ་ བཞེད་པ་␣འང་ ཡོད ། །"
+msgstr ""
+"The aspirational and engaging bodhicitta are also the causes of the complete"
+" enjoyment and the emanation body [of a Buddha]."
+
+msgctxt "352c8374699c4bb9ac220f63b7c478c5"
+msgid "སྐུ་གསུམ་ ཐ་དད་ མེད་ ཅིང་ བཞུགས་པ་ ཡིན ། །"
+msgstr "The three bodies dwell in an undifferentiated state."
+
+msgctxt "35337c31e1244808b6e06e20290a07d9"
+msgid "སངས་རྒྱས་ ཐམས་ཅད་ སེམས་ཅན་ རྒྱུད་ ལ་ བཞུགས ། །"
+msgstr "All buddhas exist within the continuum of all sentient beings."
+
+msgctxt "4f05903724314f8bb1713ef2483d2d48"
+msgid "འབྲས་བུ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ བདུན་པ་␣འོ ། །"
+msgstr ""
+"The seventh section summarises the essential points of the resultant state."
+
+msgctxt "70bafd49f9534dadab4e544aaaa692d2"
+msgid "ཇི་ལྟར་ འཇིག་རྟེན་ འདི་ ན་ ཕ་ ཡི་ བུ ། །"
+msgstr "Just like a father's son in this worldly sense."
+
+msgctxt "bc057b5f38244b0196126a1dac9d830e"
+msgid "ལོངས་སྤྱོད་ ཕལ་པ་␣འི་ འབྱོར་བ་ ལྡན་ གྱུར་ ཀྱང་ ། །"
+msgstr "Even if one possesses ordinary riches."
+
+msgctxt "0bdf982bf5bb4243a656bc17710b7b63"
+msgid "ཕ་ ཡིས་ ཁྱད་ནོར་ གཞན་ ལ་ མེད་པ་ དག"
+msgstr ""
+"All of the father's extraordinary possessions that others do not have."
+
+msgctxt "e2222cf2bde04b4e8c2075494c72d2b3"
+msgid "མ་ ཐོས་ མི་ འཛིན་ དེ་ ནི་ སྨད་པ་ ལྟར ། །"
+msgstr "It is like being slighted without hearing or holding it."
+
+msgctxt "9071ca2301ba4df7a0853eccad60b706"
+msgid "དེ་བཞིན་ མཚུངས་མེད་ འཇིག་རྟེན་ མགོན་པོ་ ཡིས ། །"
+msgstr "The peerless tathagata- Jigten Sumgon"
+
+msgctxt "d1b2de1082494fa49e8e2d00402cd4a5"
+msgid "མངོན་དུ་ མཛད་པ་␣འི་ ཁྱད་པར་ ཆོས་ འདི་ དང་ ། །"
+msgstr "And his extraordinary teachings of manifestation."
+
+msgctxt "ada324c75eab468989e2bbbcc1796cbc"
+msgid "སྔོན་ཆད་ མ་ གྲགས་ ཕྱི་དུས་ འཇིག་རྟེན་ འདི་␣ར ། །"
+msgstr "It has never been known before or in the future."
+
+msgctxt "2c64ee71f4754a6da6246b7adc605a84"
+msgid "རྗེས་ འབྲང་ སྲས་ ཀྱིས་ མི་ འཛིན་ དེ་ དང་ མཚུངས ། །"
+msgstr "It is similar to a follower or son who is not holding it. "
+
+msgctxt "f29d423bf1f7432984ce4f3c77a60d9d"
+msgid "དེ་ཕྱིར་ རིགས་ལྡན་ ཕ་ ཡི་ གདུང་འཚོབ་པ ། །"
+msgstr "Thus, the representative of the father of a noble family."
+
+msgctxt "56f2d0980e614a9784b8683e16db7515"
+msgid "རིགས་ འཚོལ་ གཞན་ ལ་ སྨོད་པ་␣ར་ མི་ བྱེད་ ཅིང་ ། །"
+msgstr "Without belittling the other noble seekers."
+
+msgctxt "a1f411706c8c43d283d59c0e9987a2d4"
+msgid "གྲགས་ ལྡན་ དེ་ ཡི་ བཞེད་པ་␣འི་ ཐུགས་དགོངས་ རྣམས ། །"
+msgstr "All the ultimate intents of this renowned one."
+
+msgctxt "1b0318eaed40461c95ec757fceb0e13e"
+msgid "ནན་ཏན་ ཆེན་པོ་␣ས་ འཛིན་པ་ ངོ་མཚར་ ཆེ ། །"
+msgstr "It is remarkable to hold them so assiduously."
+
+msgctxt "494b6f6960e34a55a04b36f037c77fc4"
+msgid "བསྟན་འཛིན་ ཆོས་མཛད་ སྐྱེས་བུ་ དམ་པ་ རྣམས ། །"
+msgstr "All the excellent beings who uphold the teachings and dharma deeds."
+
+msgctxt "4cf02f6fc41c41c696903dcd55da86cf"
+msgid "བུ་ སྟོང་ ནང་ དུ་ འཁོར་ལོ་␣ས་ སྒྱུར་ རྒྱལ་ གྱི ། །"
+msgstr "Like a wheel-wielding King from a thousand sons."
+
+msgctxt "8ab00129d3b24e2db28ad0f1646bc62d"
+msgid "མཚན་ལྡན་ སྲས་ ནི་ ཁྱད་པར་ འཕགས་པ་ བཞིན ། །"
+msgstr "A prince with the marks is like a special noble."
+
+msgctxt "362d372a84b1471a9f2c546e49a72f5a"
+msgid "བསྟན་པ་␣འི་ སྒོར་ ཞུགས་ ཀུན་ གྱི་ ནང་ ན་ མཛེས ། །"
+msgstr "The most beautiful thing of all is to enter the door of Dharma. "
+
+msgctxt "5e2629a9fb644576a6a8c82a9d8b6738"
+msgid "ཐུན་མོང་ མ་ ཡིན་ དམ་པ་␣འི་ སྙིང་པོ་ དང་ ། །"
+msgstr " It is the uncommon excellent essence and"
+
+msgctxt "172b8bdeda4e4f4087a4c1ea5acaf239"
+msgid "རབ་འབྱམས་ ཐུབ་པ་␣འི་ བཀའ་ ལ་མ་ རྨོངས་པ་␣ས ། །"
+msgstr "Not being ignorant of Buddha's all-encompassing teachings."
+
+msgctxt "98885e98a426449c9a11e766dd198aa2"
+msgid "ཕྱི་རོལ་ རྒོལ་བ་ ངན་པ་␣འི་ ཝ་ ཚོགས་ ཀྱིས ། །"
+msgstr "A skulk of bad outside opponents"
+
+msgctxt "d2b6c278f9cb417d8f10162198a9a5d0"
+msgid "གངས་ཅན་ སེང་གེ་ ལྟ་བུ་␣ར་ ཉམས་ ང་ མེད ། །"
+msgstr "Cannot frighten the lion of the Snowland."
+
+msgctxt "ddcb7c9961ba426b9db32a0bd63a6a28"
+msgid "རིགས་ མཐུན་ འཁོར་ དང་ སྣ་ཚོགས་ གདུལ་བྱ་ ལ ། །"
+msgstr "For a similar kind of retinue and a variety of disciples"
+
+msgctxt "aed619c87afc4cc18730d3ebe5ad2b2d"
+msgid "མ་ འདྲེས་ ཆོས་ ཀྱི་ ཁྱད་པར་ ལེགས་ བསྟན་པ ། །"
+msgstr "Excellently taught the special teachings without mixing."
+
+msgctxt "3c63515c7eca4b35a9a76bac7da2fbe0"
+msgid "དམན་ དང་ མཆོག་ གི་ བྱེ་བྲག་ རབ་ ཕྱེ་ སྟེ ། །"
+msgstr ""
+"By clearly differentiating the lesser and higher particulars [of "
+"dispositions]."
+
+msgctxt "5504b37c6c1a4f8cbd511bcf7380f203"
+msgid "སྙན་པ་␣འི་ སྒྲ་ ཆེན་ འབྲུག་སྒྲ་ ཕྱོགས་ བཅུར་ སྒྲོགས ། །"
+msgstr "The great melody of dragon howl roars in all ten directions."
+
+msgctxt "f4ae486294454f36a4d2fe4335371f79"
+msgid "དེ་ལྟར་ ཟབ་ ཅིང་ རྒྱ་ ཆེ་ བླ་མེད་པ་␣འི ། །"
+msgstr "Likewise, the vast, profound, and unexcelled."
+
+msgctxt "d5317280ed104da5801f4d4068b73539"
+msgid "དགོངས་པ་ རྒྱ་མཚོ་ ཆེ་ ལྟར་ ཡངས་པ་ ལས ། །"
+msgstr "From the great and broad ocean of his intents."
+
+msgctxt "364fd92c319d49669b907f60db40bcc9"
+msgid "སྐྲ་རྩེ་␣འི་ ཆུ་ཐིགས་ ཙམ་ ཞིག་ སྨྲས་པ་ འདི ། །"
+msgstr "Only a tiny drop of hair tip is stated here."
+
+msgctxt "d40c1fe77505411f8ca842d2f5c71606"
+msgid "བན་ ལྡོམ་ ཤེས་རབ་ འབྱུང་གནས་ བདག་ གིས་ བྲིས ། །"
+msgstr "I, Bendom Sherab Jungne, wrote it."
+
+msgctxt "67f2605757e24ab69f4845a47a403424"
+msgid "རྣམ་དག་ གངས་རི་ ལྟར་ དཀ་␣ར་ དགེ་བ་ འདི་␣ས ། །"
+msgstr "This virtue is completely pure, like a white snow mountain."
+
+msgctxt "48c63d359152466bb6546ecee62cc04a"
+msgid "རིན་ཆེན་ བསྟན་པ་ ཕྱོགས་ བཅུར་ རྒྱས་པ་ དང་ ། །"
+msgstr "Precious teachings spread in all ten directions and "
+
+msgctxt "641167b8102f4879a98aa12baf6a40a1"
+msgid "འཇིག་རྟེན་ མི་ ཤེས་ གཏི་མུག་ རྣམ་ བྲལ་ ཞིང་ ། །"
+msgstr "May samsara be free of all ignorance and delusion."
+
+msgctxt "ba762a787fbb4d6cad10ab597b115641"
+msgid "མཐར་ཕྱིན་ སངས་རྒྱས་ ཡེ་ཤེས་ ཐོབ་པ་␣ར་ ཤོག ། ། ། །"
+msgstr "And attain the ultimate primordial wisdom of Buddha."
+
+msgctxt "9e8b40361bb4409bac38221dcb6184ab"
+msgid ""
+"ཅེས་པ་ འདི་ ནི་ སྤྱན་སྔ་ ཤེས་རབ་ འབྱུང་གནས་ ཀྱིས་ མཛད་པ་␣འི་ གཞུང་ དེ་ཉིད་ "
+"སོར་བཞག་ ལ ། །"
+msgstr ""
+"This text by Chenga Sherab Jungne has been retained in its original form."
+
+msgctxt "100e3992bfac4923a2fdf48524bb1441"
+msgid "རང་གཞན་ འཇུག་པ་ བདེ་ ཕྱིར །"
+msgstr "To easily engage in it for oneself and others"
+
+msgctxt "ec6ca6e59011454d951e47855beb308f"
+msgid "རྡོ་རྗེ་␣འི་ གསུང་ ཚིགས་བཅད་ དུ་ བསྡེབས་ ཏེ ། །"
+msgstr "The Vajra statements are combined into stanzas."
+
+msgctxt "015389047878467f8338775631c99ea0"
+msgid ""
+"ཆོས་ ཀྱི་ རྗེ་ སྐྱོབ་པ་ ཡབ་ སྲས་ ཀྱི་ བསྟན་པ་ ལ་ དད་པ་␣འི་ བློ་ ཅན་ "
+"དཀོན་མཆོག་ རིན་ཆེན་ ཕྲིན་ལས་ རྣམ་པ་␣ར་ རྒྱལ་བ་␣འི་ སྡེ་␣ས་ ཁྱི་ལོ་ ཧོར་ ཟླ་ "
+"དང་པོ་␣འི་ ཉེར་ གསུམ་ ལ་ ཁམས་ ཀྱི་ བེ་ རི་ཐང་ གི་ སྒར་ ཐོག་ ཏུ་ བྲིས་བ་␣འོ "
+"།། །།"
+msgstr ""
+"To the teachings of Choje Kyopa, the father and the spiritual son, written "
+"by the group of Konchog Rinchen Trinle Namgyal, endowed with the mind of "
+"trust, on the twenty-third of the first Tibetan lunar month of the dog year,"
+" in the Beri plain of the Kham region."

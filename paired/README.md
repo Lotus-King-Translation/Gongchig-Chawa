@@ -1,22 +1,7 @@
-# Paired publication
+# Canonical paired text
 
-The canonical reusable publication layer is:
+`source.md` and `translation.md` share the fixed GC-000001–GC-000173 identity sequence. All 206 archival anchors appear exactly once. `pairing.json` records the frozen grouping and the source-authoritative format.
 
-- source.md
-- translation.md
+The source is provisional under owner decision D001: use `source:` provenance, never imply a golden edition. Two titles are h1/h2; the homage, six extant section conclusions and final adaptation colophon are prose; all other pairs are verse. Keep source conclusions at their original positions.
 
-Both files share the same stable pair IDs in the same order.
-
-Read ../FORMAT.md for the paired-text/2 specification.
-
-Do not treat source anchors as translation segments automatically. Pair segmentation should be a coherent translation unit while retaining provenance back to the fixed golden object IDs.
-
-Every source pair has one required structural field:
-
-`format: prose | verse | h1 | h2 | h3`
-
-The translation inherits that value by shared pair ID. This is the only reader-facing structural field in the paired-text format.
-
-Validate with:
-
-`python3 scripts/validate_paired.py`
+All substantive English appears in the matching pair. Notes link to `../translations/NOTES.md`. The source duplicate at U00133 remains represented; refer to its note before treating the human reference English as a source reading. `coverage.json` distinguishes represented material from final semantic resolution.

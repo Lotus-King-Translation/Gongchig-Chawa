@@ -1,0 +1,10 @@
+{
+  "repository": "Lotus-King-Translation/tibetan-text-project-template",
+  "commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "preserved_files": {
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "guidelines/golden_edition_method.md": "cd18c731940e41f3c7e30957ccc2ff5eedfabbc62f79ce558d25f26eaf780770",
+    "AGENTS.md": "1d926028c31138af424937d8b1bdd032ce5c31b39b9a779ad373909fcfc2711b"
+  }
+}

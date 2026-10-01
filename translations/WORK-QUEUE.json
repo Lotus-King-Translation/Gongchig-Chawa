@@ -1,0 +1,1973 @@
+{
+  "phase": "human_editorial_review_after_working_draft",
+  "translation_anchors_remaining": 0,
+  "partially_unresolved_anchors": [
+    "U00001",
+    "U00041"
+  ],
+  "source_reading_notes": 8,
+  "proposed_rows_unapproved": 125,
+  "items": [
+    {
+      "id": "F001",
+      "anchors": [
+        "U00001"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Check a reliable title-page witness and review both title strings before resolving the numeral or residual wording."
+    },
+    {
+      "id": "F021",
+      "anchors": [
+        "U00001",
+        "U00009",
+        "U00059"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F022",
+      "anchors": [
+        "U00004"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F023",
+      "anchors": [
+        "U00005"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F024",
+      "anchors": [
+        "U00011"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped contextual realization and approve or revise explicitly."
+    },
+    {
+      "id": "Q004",
+      "anchors": [
+        "U00012"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the same source terms across U00012/U00114/U00137 before activating any proposal."
+    },
+    {
+      "id": "F025",
+      "anchors": [
+        "U00013"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F026",
+      "anchors": [
+        "U00014",
+        "U00019"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F027",
+      "anchors": [
+        "U00014"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F002",
+      "anchors": [
+        "U00015"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm the relation in the commentary if a fuller explanatory gloss is required."
+    },
+    {
+      "id": "F028",
+      "anchors": [
+        "U00015",
+        "U00019",
+        "U00042"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F029",
+      "anchors": [
+        "U00019",
+        "U00059"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F030",
+      "anchors": [
+        "U00019"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F031",
+      "anchors": [
+        "U00020",
+        "U00021"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F032",
+      "anchors": [
+        "U00021"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F033",
+      "anchors": [
+        "U00022"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F034",
+      "anchors": [
+        "U00022"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "Q001",
+      "anchors": [
+        "U00022"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review all four occurrences as one proposed term family."
+    },
+    {
+      "id": "F035",
+      "anchors": [
+        "U00023"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F036",
+      "anchors": [
+        "U00023"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F037",
+      "anchors": [
+        "U00024"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F038",
+      "anchors": [
+        "U00026"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F039",
+      "anchors": [
+        "U00027",
+        "U00028"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F040",
+      "anchors": [
+        "U00028"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F041",
+      "anchors": [
+        "U00029"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F042",
+      "anchors": [
+        "U00029"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped contextual realization and approve or revise explicitly."
+    },
+    {
+      "id": "F043",
+      "anchors": [
+        "U00029"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F044",
+      "anchors": [
+        "U00030"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F045",
+      "anchors": [
+        "U00032"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F046",
+      "anchors": [
+        "U00033"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F047",
+      "anchors": [
+        "U00033"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F003",
+      "anchors": [
+        "U00034"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Consult commentary to establish the antecedents; do not silently replace “these two.”"
+    },
+    {
+      "id": "F048",
+      "anchors": [
+        "U00034"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F050",
+      "anchors": [
+        "U00035"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F051",
+      "anchors": [
+        "U00035"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F004",
+      "anchors": [
+        "U00036"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the commentary for the intended account of transformation among the three vows."
+    },
+    {
+      "id": "F049",
+      "anchors": [
+        "U00036",
+        "U00062"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F005",
+      "anchors": [
+        "U00037"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm modifier attachments against commentary; no Tibetan emendation."
+    },
+    {
+      "id": "F052",
+      "anchors": [
+        "U00037"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F006",
+      "anchors": [
+        "U00038"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Consult commentary to resolve the relation before removing the brackets."
+    },
+    {
+      "id": "F053",
+      "anchors": [
+        "U00038"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F054",
+      "anchors": [
+        "U00038"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F055",
+      "anchors": [
+        "U00039"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F056",
+      "anchors": [
+        "U00040"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F007",
+      "anchors": [
+        "U00041"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Check the root reading and its commentary; decide whether the compound contains a source defect or a conventional compressed metaphor."
+    },
+    {
+      "id": "F057",
+      "anchors": [
+        "U00041"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F008",
+      "anchors": [
+        "U00043"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Owner/reviewer should confirm whether the canonical wording is intended for this ethical-classification occurrence."
+    },
+    {
+      "id": "F058",
+      "anchors": [
+        "U00043",
+        "U00070"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F059",
+      "anchors": [
+        "U00045"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F060",
+      "anchors": [
+        "U00046"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F009",
+      "anchors": [
+        "U00047"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check commentary/source usage of གཡོས་ here."
+    },
+    {
+      "id": "F061",
+      "anchors": [
+        "U00047",
+        "U00058"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F010",
+      "anchors": [
+        "U00049"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check commentary and line grouping before treating this as a fully resolved independent sentence."
+    },
+    {
+      "id": "F062",
+      "anchors": [
+        "U00050"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped contextual realization and approve or revise explicitly."
+    },
+    {
+      "id": "Q005",
+      "anchors": [
+        "U00050"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Check the temporal relationship in an authenticated commentary before claiming immediate fruition as the uniquely established reading."
+    },
+    {
+      "id": "F011",
+      "anchors": [
+        "U00051"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Consult commentary to identify what increases and decreases."
+    },
+    {
+      "id": "F063",
+      "anchors": [
+        "U00052"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F064",
+      "anchors": [
+        "U00053"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F065",
+      "anchors": [
+        "U00053"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F012",
+      "anchors": [
+        "U00054"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Resolve the scope against commentary before expanding the English."
+    },
+    {
+      "id": "F066",
+      "anchors": [
+        "U00056"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F067",
+      "anchors": [
+        "U00057"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F013",
+      "anchors": [
+        "U00061"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the commentary’s attachment before spelling out the antecedent."
+    },
+    {
+      "id": "F014",
+      "anchors": [
+        "U00062"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Identify the relevant impediments in commentary or a source note."
+    },
+    {
+      "id": "F015",
+      "anchors": [
+        "U00063"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "No source correction needed for translation; retain the unusual spacing in preservation checks."
+    },
+    {
+      "id": "F068",
+      "anchors": [
+        "U00063"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F069",
+      "anchors": [
+        "U00064",
+        "U00070"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F016",
+      "anchors": [
+        "U00065"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Confirm the implicit triad against commentary."
+    },
+    {
+      "id": "F017",
+      "anchors": [
+        "U00066"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Check commentary for the causes in view; do not generalize the proposition to all relinquishment conditions."
+    },
+    {
+      "id": "F018",
+      "anchors": [
+        "U00067"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Review the comparison against commentary; retain the image without adding a conclusion about restoration of vows."
+    },
+    {
+      "id": "F070",
+      "anchors": [
+        "U00067"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F019",
+      "anchors": [
+        "U00068"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Confirm the scope of “single kind” before narrowing it."
+    },
+    {
+      "id": "F071",
+      "anchors": [
+        "U00068"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F072",
+      "anchors": [
+        "U00069"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F020",
+      "anchors": [
+        "U00072"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Confirm the implicit object against the surrounding Vinaya argument."
+    },
+    {
+      "id": "F073",
+      "anchors": [
+        "U00075"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F074",
+      "anchors": [
+        "U00076",
+        "U00077"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "F075",
+      "anchors": [
+        "U00078"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped contextual realization and approve or revise explicitly."
+    },
+    {
+      "id": "F076",
+      "anchors": [
+        "U00079"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+    },
+    {
+      "id": "M032",
+      "anchors": [
+        "U00080",
+        "U00090"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M033",
+      "anchors": [
+        "U00080"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M001",
+      "anchors": [
+        "U00081"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Identify the referent of support from an authorized commentary; do not supply it from doctrine alone."
+    },
+    {
+      "id": "M034",
+      "anchors": [
+        "U00081",
+        "U00088",
+        "U00104"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M035",
+      "anchors": [
+        "U00081"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M036",
+      "anchors": [
+        "U00082",
+        "U00083"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M037",
+      "anchors": [
+        "U00082"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M002",
+      "anchors": [
+        "U00083"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Check what earlier explanatory material supplies the omitted instrumental referent."
+    },
+    {
+      "id": "M003",
+      "anchors": [
+        "U00084"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Verify the scope against an authorized commentary if a doctrinal classification is needed."
+    },
+    {
+      "id": "M038",
+      "anchors": [
+        "U00084",
+        "U00091"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M040",
+      "anchors": [
+        "U00084"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M004",
+      "anchors": [
+        "U00085"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the commentarial explanation of the negation and permission relationship."
+    },
+    {
+      "id": "M041",
+      "anchors": [
+        "U00085",
+        "U00086",
+        "U00089"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M045",
+      "anchors": [
+        "U00086",
+        "U00101"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M043",
+      "anchors": [
+        "U00089",
+        "U00102"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M005",
+      "anchors": [
+        "U00091"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Identify the three only if authorized supporting source evidence is added."
+    },
+    {
+      "id": "M046",
+      "anchors": [
+        "U00091"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M047",
+      "anchors": [
+        "U00092"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M048",
+      "anchors": [
+        "U00093",
+        "U00094"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M050",
+      "anchors": [
+        "U00094"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M052",
+      "anchors": [
+        "U00094",
+        "U00095",
+        "U00096",
+        "U00097",
+        "U00098"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M006",
+      "anchors": [
+        "U00095"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm the subject and force of this equation from commentary."
+    },
+    {
+      "id": "M053",
+      "anchors": [
+        "U00095"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M054",
+      "anchors": [
+        "U00095"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M055",
+      "anchors": [
+        "U00096"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M007",
+      "anchors": [
+        "U00098"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Obtain the relevant enumeration before explaining or classifying the six."
+    },
+    {
+      "id": "M090",
+      "anchors": [
+        "U00098"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M096",
+      "anchors": [
+        "U00098"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M008",
+      "anchors": [
+        "U00099"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the sentence boundary and connective in commentary or a physical witness."
+    },
+    {
+      "id": "M056",
+      "anchors": [
+        "U00099",
+        "U00101"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M099",
+      "anchors": [
+        "U00099"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Obtain owner confirmation for the presentation convention; retain the canonical assignment meanwhile."
+    },
+    {
+      "id": "M009",
+      "anchors": [
+        "U00100"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm the referents and the sense of gdam pa in the transmitted explanation."
+    },
+    {
+      "id": "M057",
+      "anchors": [
+        "U00100"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M010",
+      "anchors": [
+        "U00101"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Review the object and force of bdag tu bzung in commentary."
+    },
+    {
+      "id": "M058",
+      "anchors": [
+        "U00102",
+        "U00103"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M093",
+      "anchors": [
+        "U00102"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M011",
+      "anchors": [
+        "U00104"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Verify the section-title expansion; preserve the abbreviation in the source."
+    },
+    {
+      "id": "M012",
+      "anchors": [
+        "U00105"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the relevant exposition before supplying a referent."
+    },
+    {
+      "id": "M059",
+      "anchors": [
+        "U00105",
+        "U00125",
+        "U00126",
+        "U00127",
+        "U00128"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M060",
+      "anchors": [
+        "U00106",
+        "U00107"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M013",
+      "anchors": [
+        "U00107"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm the agent construction and the sense of phyogs gcig pa from an authenticated commentary; no Tibetan emendation or settled doctrinal interpretation is claimed."
+    },
+    {
+      "id": "M061",
+      "anchors": [
+        "U00109"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M014",
+      "anchors": [
+        "U00110"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Identify the class from commentary without silently inserting its definition."
+    },
+    {
+      "id": "M062",
+      "anchors": [
+        "U00110"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M063",
+      "anchors": [
+        "U00111"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M091",
+      "anchors": [
+        "U00111"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M064",
+      "anchors": [
+        "U00112",
+        "U00126"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M065",
+      "anchors": [
+        "U00112",
+        "U00117"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M015",
+      "anchors": [
+        "U00114"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Check the explanation of bab and the scope of elaborations."
+    },
+    {
+      "id": "M066",
+      "anchors": [
+        "U00114"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M067",
+      "anchors": [
+        "U00114"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M068",
+      "anchors": [
+        "U00115"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M016",
+      "anchors": [
+        "U00116"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Check a physical witness; approve or reject a textual correction separately from this translation."
+    },
+    {
+      "id": "M017",
+      "anchors": [
+        "U00117"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the medical/tantric referents and whether a comparative is supplied elsewhere."
+    },
+    {
+      "id": "M018",
+      "anchors": [
+        "U00119"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Clarify the antecedent from commentary if an explanatory expansion is wanted."
+    },
+    {
+      "id": "M069",
+      "anchors": [
+        "U00119"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M070",
+      "anchors": [
+        "U00120",
+        "U00122"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M071",
+      "anchors": [
+        "U00120"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M019",
+      "anchors": [
+        "U00122"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Check the omitted subject and the local distinction between gdams ngag and bka."
+    },
+    {
+      "id": "M072",
+      "anchors": [
+        "U00122"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M073",
+      "anchors": [
+        "U00123"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M074",
+      "anchors": [
+        "U00123"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M095",
+      "anchors": [
+        "U00123"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M075",
+      "anchors": [
+        "U00125"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M042",
+      "anchors": [
+        "U00127",
+        "U00128"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M044",
+      "anchors": [
+        "U00127",
+        "U00128"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M077",
+      "anchors": [
+        "U00128"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M020",
+      "anchors": [
+        "U00129"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Confirm compound attachment; do not substitute bliss for the personal title."
+    },
+    {
+      "id": "M039",
+      "anchors": [
+        "U00129"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M078",
+      "anchors": [
+        "U00129"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M079",
+      "anchors": [
+        "U00130"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M080",
+      "anchors": [
+        "U00131"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M081",
+      "anchors": [
+        "U00131"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M021",
+      "anchors": [
+        "U00133"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Consult a physical witness or separately authenticated transcript before restoring any colophon."
+    },
+    {
+      "id": "M022",
+      "anchors": [
+        "U00134"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the attachment of gang and brgyud pa in commentary."
+    },
+    {
+      "id": "M094",
+      "anchors": [
+        "U00135"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M023",
+      "anchors": [
+        "U00136"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Verify the syntactic attachment and the intended sense of rang gzugs."
+    },
+    {
+      "id": "M024",
+      "anchors": [
+        "U00137"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Check a physical witness and commentary; do not silently replace the genitive or supply a specific ontological claim."
+    },
+    {
+      "id": "M082",
+      "anchors": [
+        "U00137"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M025",
+      "anchors": [
+        "U00138"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the referent before inserting teacher or enumerating qualifications."
+    },
+    {
+      "id": "M092",
+      "anchors": [
+        "U00138",
+        "U00147",
+        "U00148",
+        "U00149"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M097",
+      "anchors": [
+        "U00138"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M026",
+      "anchors": [
+        "U00141"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Identify the three from an authorized exposition before expanding them."
+    },
+    {
+      "id": "M027",
+      "anchors": [
+        "U00142"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Check the force and objects of shol/gol in commentary without inserting an unexpressed doctrinal qualifier."
+    },
+    {
+      "id": "M083",
+      "anchors": [
+        "U00142",
+        "U00150"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M098",
+      "anchors": [
+        "U00142"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M076",
+      "anchors": [
+        "U00144",
+        "U00146",
+        "U00152"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M084",
+      "anchors": [
+        "U00144"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M085",
+      "anchors": [
+        "U00146",
+        "U00147"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M086",
+      "anchors": [
+        "U00147"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M087",
+      "anchors": [
+        "U00148"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M028",
+      "anchors": [
+        "U00150"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Verify the omitted subject; preserve the equative/formative force of du."
+    },
+    {
+      "id": "M029",
+      "anchors": [
+        "U00151"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Inspect a physical witness or authenticated transcript; keep the conjecture visibly provisional until verified."
+    },
+    {
+      "id": "M088",
+      "anchors": [
+        "U00151"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M030",
+      "anchors": [
+        "U00152"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Resolve rigs and the compound before treating it as an approved technical expression."
+    },
+    {
+      "id": "M089",
+      "anchors": [
+        "U00152"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M031",
+      "anchors": [
+        "U00153"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Check the transmitted explanation of the three teachings."
+    },
+    {
+      "id": "M049",
+      "anchors": [
+        "U00153"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "M051",
+      "anchors": [
+        "U00153"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this scoped usage and its eight-column proposal before activating it."
+    },
+    {
+      "id": "L001",
+      "anchors": [
+        "U00155",
+        "U00161"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review these candidate entries with the earlier occurrences of levels and the two truths."
+    },
+    {
+      "id": "L002",
+      "anchors": [
+        "U00156"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the honorific knowing family without changing primordial knowing or merging it with discerning knowing."
+    },
+    {
+      "id": "L003",
+      "anchors": [
+        "U00157"
+      ],
+      "category": "source reading",
+      "status": "open_review_flag",
+      "action": "Check an authenticated Tibetan witness for རྒྱུ་མ་/སྒྱུ་མ་ and the sentence’s reference before accepting the reading."
+    },
+    {
+      "id": "L004",
+      "anchors": [
+        "U00158"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review against other ཚད་མ་ occurrences and a commentary; approve a scoped term if warranted."
+    },
+    {
+      "id": "Q003",
+      "anchors": [
+        "U00158",
+        "U00168",
+        "U00169"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the three honorific occurrences while retaining the active gnas pa assignment."
+    },
+    {
+      "id": "L005",
+      "anchors": [
+        "U00159"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the construction in a commentary and review the standalone honorific-mind usage separately from དགོངས་པ་ = enlightened intent."
+    },
+    {
+      "id": "L006",
+      "anchors": [
+        "U00160"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the pair systematically; avoid collapsing it into the established activity assigned to སྤྱོད་པ་."
+    },
+    {
+      "id": "L007",
+      "anchors": [
+        "U00161"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review this honorific compound together with the ordinary-mind-of-awakening proposal and its occurrence at buddhahood."
+    },
+    {
+      "id": "L008",
+      "anchors": [
+        "U00162"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Consult a commentary for the force of འབྱུང་ and the scope of ཚུན་; do not infer that a buddha endorses the views."
+    },
+    {
+      "id": "L009",
+      "anchors": [
+        "U00163"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Review the subject relation and domain/duration scope against commentary."
+    },
+    {
+      "id": "L010",
+      "anchors": [
+        "U00164"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Review the universal scope without weakening it or adding an unsupported doctrinal paraphrase."
+    },
+    {
+      "id": "L011",
+      "anchors": [
+        "U00165"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check a commentary or authenticated parallel for the final phrase and its relation to the preceding assertion."
+    },
+    {
+      "id": "L012",
+      "anchors": [
+        "U00166"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review with the work’s other dependent-arising constructions while preserving embodiment."
+    },
+    {
+      "id": "L013",
+      "anchors": [
+        "U00167"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Review the abbreviations and causal correspondence against commentary before approving the whole expressions."
+    },
+    {
+      "id": "L014",
+      "anchors": [
+        "U00169"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the whole-expression candidate consistently with its earlier occurrences in this work."
+    },
+    {
+      "id": "L015",
+      "anchors": [
+        "U00173"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check the case particle and missing relation against a witness or commentary; preserve the four-line syntax meanwhile."
+    },
+    {
+      "id": "L016",
+      "anchors": [
+        "U00174",
+        "U00178",
+        "U00182",
+        "U00183"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the ordinary verbal senses across U00174, U00178, U00181–182 and U00183."
+    },
+    {
+      "id": "L017",
+      "anchors": [
+        "U00175"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Verify identity in project provenance if a name is to be added to reader-facing annotation."
+    },
+    {
+      "id": "L018",
+      "anchors": [
+        "U00177"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Review the complete stanza, not the line in isolation."
+    },
+    {
+      "id": "L019",
+      "anchors": [
+        "U00180"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Review the compound and modifier scope in context or commentary."
+    },
+    {
+      "id": "L020",
+      "anchors": [
+        "U00181"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the honorific compound family without weakening the established intent term."
+    },
+    {
+      "id": "L021",
+      "anchors": [
+        "U00185",
+        "U00184"
+      ],
+      "category": "syntax/reference",
+      "status": "open_review_flag",
+      "action": "Check whether commentary identifies marks of future kingship or a reigning king’s son; maintain the singular-versus-thousand comparison."
+    },
+    {
+      "id": "L022",
+      "anchors": [
+        "U00187"
+      ],
+      "category": "interpretive supply",
+      "status": "open_review_flag",
+      "action": "Review the genitive attachment and whether a technical སྙིང་པོ་ entry is needed for this passage."
+    },
+    {
+      "id": "Q002",
+      "anchors": [
+        "U00188"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the bka/bstan pa distinction across the work."
+    },
+    {
+      "id": "L023",
+      "anchors": [
+        "U00190"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the whole-expression candidate without altering standalone experience."
+    },
+    {
+      "id": "L024",
+      "anchors": [
+        "U00192"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the attachment of unmixed and approve a scoped mixing-family use if appropriate."
+    },
+    {
+      "id": "L025",
+      "anchors": [
+        "U00194"
+      ],
+      "category": "contextual use",
+      "status": "open_review_flag",
+      "action": "Review the fame/pleasing-sound sense and approve an acoustic contextual use while preserving word in lexical contexts."
+    },
+    {
+      "id": "L026",
+      "anchors": [
+        "U00198"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Review epithet and name against project naming policy and an authenticated attribution."
+    },
+    {
+      "id": "L027",
+      "anchors": [
+        "U00201"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the གཏི་མུག་ family and subject continuity of the dedication; avoid unrecorded collisions with delusion/ignorance."
+    },
+    {
+      "id": "L028",
+      "anchors": [
+        "U00203"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Verify naming and attribution against an external witness when available."
+    },
+    {
+      "id": "L029",
+      "anchors": [
+        "U00205"
+      ],
+      "category": "terminology gap",
+      "status": "open_review_flag",
+      "action": "Review the phrase as a whole-expression candidate and retain the arranger/original-author distinction."
+    },
+    {
+      "id": "L030",
+      "anchors": [
+        "U00206"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Review whether this is a specific father-son pair or the teacher with plural spiritual heirs."
+    },
+    {
+      "id": "L031",
+      "anchors": [
+        "U00206"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Verify the arranger’s identity and name form in a catalog or physical witness before final publication."
+    },
+    {
+      "id": "L032",
+      "anchors": [
+        "U00206"
+      ],
+      "category": "scope",
+      "status": "open_review_flag",
+      "action": "Identify the historical date and location only from additional authenticated evidence."
+    }
+  ]
+}

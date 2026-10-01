@@ -1,5 +1,6 @@
 {
-  "schema_version": 1,
-  "scope": "bounded golden-edition work only",
-  "tasks": []
+  "phase": "skipped_by_explicit_owner_decision_D001",
+  "golden_release": null,
+  "items": [],
+  "meaning": "Golden work excluded from this task, not completed or certified."
 }

@@ -1,0 +1,971 @@
+[
+  {
+    "anchor": "U00155",
+    "english": "At the level of buddhahood, there is no division between the two truths.",
+    "notes": [
+      {
+        "id": "L001",
+        "exact_tibetan": "སངས་རྒྱས་ས་ན་བདེན་གཉིས",
+        "category": "terminology gap",
+        "problem": "The supplied glossary has no primary entries for ས་ as a Buddhist level or བདེན་གཉིས་; its established གཞི་ = The Ground is a different source term.",
+        "working_treatment": "Use level and two truths provisionally; preserve the statement that no division obtains at buddhahood.",
+        "uncertainty": "The local wording is clear; terminology is not yet an approved addition.",
+        "review_action": "Review these candidate entries with the earlier occurrences of levels and the two truths."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ས",
+        "canonical_entry": "none; compare གཞི་ = The Ground",
+        "english": "level",
+        "category": "Provisional",
+        "evidence": "Buddhahood qualifies the level; no conflation with གཞི་.",
+        "note_id": "L001"
+      },
+      {
+        "exact_tibetan": "བདེན་གཉིས",
+        "canonical_entry": "none",
+        "english": "two truths",
+        "category": "Provisional",
+        "evidence": "Literal numbered expression; no glossary headword.",
+        "note_id": "L001"
+      }
+    ]
+  },
+  {
+    "anchor": "U00156",
+    "english": "The primordial knowing that cognizes is nondual and free from extremes.",
+    "notes": [
+      {
+        "id": "L002",
+        "exact_tibetan": "མཁྱེན་པའི་ཡེ་ཤེས",
+        "category": "terminology gap",
+        "problem": "The complete honorific knowing expression is absent. ཡེ་ཤེས་ is established as primordial knowing; མཁྱེན་པ་ has no primary entry.",
+        "working_treatment": "Render the honorific verbal modifier as that cognizes, while retaining primordial knowing intact.",
+        "uncertainty": "The relation is rendered adjectivally; a specialist may prefer a nominal construction preserving the same source relationship.",
+        "review_action": "Review the honorific knowing family without changing primordial knowing or merging it with discerning knowing."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མཁྱེན་པའི",
+        "canonical_entry": "none; compare ཤེས་པ་ = Knowing",
+        "english": "that cognizes",
+        "category": "Provisional",
+        "evidence": "Honorific verb modifying the established primordial knowing term.",
+        "note_id": "L002"
+      }
+    ]
+  },
+  {
+    "anchor": "U00157",
+    "english": "[It] has wholly gone beyond illusion-like phenomena.",
+    "notes": [
+      {
+        "id": "L003",
+        "exact_tibetan": "རྒྱུ་མ་ལྟ་བུའི",
+        "category": "source reading",
+        "problem": "The source reads རྒྱུ་མ་, not the expected illusion expression སྒྱུ་མ་. The human reference uses illusory-like, but that is not independent Tibetan evidence.",
+        "working_treatment": "Translate provisionally as illusion-like on the explicit conjecture སྒྱུ་མ་. Preserve the supplied Tibetan unchanged. The bracketed it refers provisionally to the primordial knowing in U00156.",
+        "uncertainty": "Suspected initial-letter corruption is unverified; the agent of going beyond is implicit.",
+        "review_action": "Check an authenticated Tibetan witness for རྒྱུ་མ་/སྒྱུ་མ་ and the sentence’s reference before accepting the reading."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྒྱུ་མ",
+        "canonical_entry": "none; compare སྒྱུ་མའི་དཔེ་བརྒྱད་ = Eight examples of illusion",
+        "english": "illusion",
+        "category": "Provisional",
+        "evidence": "Explicit conjectural source reading only; no source emendation.",
+        "note_id": "L003"
+      }
+    ]
+  },
+  {
+    "anchor": "U00158",
+    "english": "A buddha abides as valid cognition at all times.",
+    "notes": [
+      {
+        "id": "L004",
+        "exact_tibetan": "ཚད་མར་བཞུགས",
+        "category": "terminology gap",
+        "problem": "ཚད་མ་ has no glossary entry. The construction presents the buddha as valid cognition; the old English dwell in valid cognition changes that relation.",
+        "working_treatment": "Use abides as valid cognition provisionally.",
+        "uncertainty": "The technical meaning of ཚད་མ་ here may require an authoritative-cognition or source-of-validity explanation, which is not inserted.",
+        "review_action": "Review against other ཚད་མ་ occurrences and a commentary; approve a scoped term if warranted."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཚད་མར",
+        "canonical_entry": "none",
+        "english": "as valid cognition",
+        "category": "Provisional",
+        "evidence": "Predicative ར་ with བཞུགས་, not a location inside cognition.",
+        "note_id": "L004"
+      }
+    ]
+  },
+  {
+    "anchor": "U00159",
+    "english": "Through the result of separation, [a buddha] is held to possess an enlightened mind of primordial knowing.",
+    "notes": [
+      {
+        "id": "L005",
+        "exact_tibetan": "བྲལ་བའི་འབྲས་བུས་ཡེ་ཤེས་ཐུགས་ཅན་བཞེད",
+        "category": "syntax/reference",
+        "problem": "The instrumental result of separation precedes the compressed expression primordial-knowing mind-possessor. Its subject is implicit. Standalone ཐུགས་ is explicitly absent from the glossary; ཐུགས་རྗེ་ does not supply its meaning.",
+        "working_treatment": "Take the buddha of U00158 as subject; preserve the instrumental through and the possession construction. Use enlightened mind provisionally for honorific ཐུགས་ in this buddha context.",
+        "uncertainty": "The construction could express the result’s characterization rather than a causal production; the translation must not be taken to decide that doctrinal question.",
+        "review_action": "Check the construction in a commentary and review the standalone honorific-mind usage separately from དགོངས་པ་ = enlightened intent."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "བྲལ་བའི་འབྲས་བུས",
+        "canonical_entry": "འབྲས་བུ་ = Result; complete expression absent",
+        "english": "through the result of separation",
+        "category": "Provisional",
+        "evidence": "Preserves the instrumental ས་ and established result component.",
+        "note_id": "L005"
+      },
+      {
+        "exact_tibetan": "ཐུགས",
+        "canonical_entry": "none; སེམས་ = Ordinary mind and དགོངས་པ་ = Enlightened intent remain distinct",
+        "english": "enlightened mind",
+        "category": "Provisional",
+        "evidence": "Honorific mind of a buddha, scoped to this occurrence; not derived from ཐུགས་རྗེ་.",
+        "note_id": "L005"
+      }
+    ]
+  },
+  {
+    "anchor": "U00160",
+    "english": "The dharma embodiment has qualities, deeds, and enlightened deeds.",
+    "notes": [
+      {
+        "id": "L006",
+        "exact_tibetan": "ཡོན་ཏན་མཛད་པ་ཕྲིན་ལས",
+        "category": "terminology gap",
+        "problem": "These three expressions lack primary glossary entries. The source preserves both མཛད་པ་ and ཕྲིན་ལས་; rendering both as one activities would omit the pair.",
+        "working_treatment": "Render qualities, deeds, and enlightened deeds provisionally. Preserve dharma embodiment for established ཆོས་སྐུ་.",
+        "uncertainty": "The precise distinction between deeds and enlightened deeds requires commentary; enlightened marks the honorific Buddha context and is a proposed lexical component.",
+        "review_action": "Review the pair systematically; avoid collapsing it into the established activity assigned to སྤྱོད་པ་."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཡོན་ཏན",
+        "canonical_entry": "none; compare སྤྱོད་པ་ = Activity",
+        "english": "qualities",
+        "category": "Provisional",
+        "evidence": "Separate source expressions in a coordinated list.",
+        "note_id": "L006"
+      },
+      {
+        "exact_tibetan": "མཛད་པ",
+        "canonical_entry": "none; compare སྤྱོད་པ་ = Activity",
+        "english": "deeds",
+        "category": "Provisional",
+        "evidence": "Separate source expressions in a coordinated list.",
+        "note_id": "L006"
+      },
+      {
+        "exact_tibetan": "ཕྲིན་ལས",
+        "canonical_entry": "none; compare སྤྱོད་པ་ = Activity",
+        "english": "enlightened deeds",
+        "category": "Provisional",
+        "evidence": "Separate source expressions in a coordinated list.",
+        "note_id": "L006"
+      }
+    ]
+  },
+  {
+    "anchor": "U00161",
+    "english": "Even at the ultimate level of buddhahood, there is the arousing of the ordinary mind of awakening.",
+    "notes": [
+      {
+        "id": "L007",
+        "exact_tibetan": "ཐུགས་བསྐྱེད",
+        "category": "terminology gap",
+        "problem": "The honorific compound is not an established glossary entry. In this context it is treated as the honorific counterpart of arousing བྱང་ཆུབ་སེམས་, whose working project rendering is ordinary mind of awakening.",
+        "working_treatment": "Use the arousing of the ordinary mind of awakening provisionally. This is a compound-specific interpretation, not a default mapping of standalone ཐུགས་ to ordinary mind.",
+        "uncertainty": "The formulation at buddhahood is deliberately retained; it does not imply that a buddha has not previously awakened. The intended scope needs commentary.",
+        "review_action": "Review this honorific compound together with the ordinary-mind-of-awakening proposal and its occurrence at buddhahood."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཐུགས་བསྐྱེད",
+        "canonical_entry": "none; related སེམས་ = Ordinary mind",
+        "english": "arousing of the ordinary mind of awakening",
+        "category": "Provisional",
+        "evidence": "Honorific whole-expression reading; no new universal ཐུགས་ assignment.",
+        "note_id": "L007"
+      },
+      {
+        "exact_tibetan": "ས",
+        "canonical_entry": "none; compare གཞི་ = The Ground",
+        "english": "level",
+        "category": "Provisional",
+        "evidence": "Same scoped Buddhist-level usage as U00155.",
+        "note_id": "L001"
+      }
+    ]
+  },
+  {
+    "anchor": "U00162",
+    "english": "The enlightened mind extends even to views of permanence and annihilation.",
+    "notes": [
+      {
+        "id": "L008",
+        "exact_tibetan": "ཐུགས་ནི་རྟག་ཆད་ལྟ་བ་ཚུན་ལའང་འབྱུང",
+        "category": "syntax/reference",
+        "problem": "The source says the honorific mind occurs even as far as permanence-and-annihilation views. The knowing relation and the holders of these views are not stated.",
+        "working_treatment": "Use extends even to without adding an explicit endorsement or teaching of the views. Continue the provisional enlightened mind from U00159; preserve the established view component.",
+        "uncertainty": "Could concern the reach of a buddha’s knowing or its manifestation within such views; that distinction is unresolved.",
+        "review_action": "Consult a commentary for the force of འབྱུང་ and the scope of ཚུན་; do not infer that a buddha endorses the views."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཐུགས",
+        "canonical_entry": "none; see L005",
+        "english": "enlightened mind",
+        "category": "Provisional",
+        "evidence": "Buddha-context honorific, not ordinary mind or enlightened intent.",
+        "note_id": "L008"
+      },
+      {
+        "exact_tibetan": "རྟག་ཆད་ལྟ་བ",
+        "canonical_entry": "ལྟ་བ་ = View; compound absent",
+        "english": "views of permanence and annihilation",
+        "category": "Provisional",
+        "evidence": "Retains both poles in source order and the established view component.",
+        "note_id": "L008"
+      }
+    ]
+  },
+  {
+    "anchor": "U00163",
+    "english": "Throughout the whole range of knowables, [a buddha] does a buddha’s doing.",
+    "notes": [
+      {
+        "id": "L009",
+        "exact_tibetan": "ཤེས་བྱ་སྲིད་ཚད་སངས་རྒྱས་བྱ་བ་བྱེད",
+        "category": "syntax/reference",
+        "problem": "The compressed line does not overtly distinguish buddha as subject from buddha qualifying the doing. བྱ་བ་ is established as doing.",
+        "working_treatment": "Supply a buddha as subject and render a buddha’s doing, preserving the lexical noun and verb. Use knowables provisionally for the uncovered technical noun ཤེས་བྱ་.",
+        "uncertainty": "The whole-range expression could be spatial/domain scope or duration as long as knowables exist; the draft uses domain scope.",
+        "review_action": "Review the subject relation and domain/duration scope against commentary."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཤེས་བྱ",
+        "canonical_entry": "none",
+        "english": "knowables",
+        "category": "Provisional",
+        "evidence": "Technical nominal objects of knowledge; distinct from ཤེས་པ་ = Knowing.",
+        "note_id": "L009"
+      },
+      {
+        "exact_tibetan": "བྱ་བ་བྱེད",
+        "canonical_entry": "བྱ་བ་ = Doing",
+        "english": "does a buddha’s doing",
+        "category": "Grammatical",
+        "evidence": "Retains the doing family as both nominal object and light verb; supplied possessor/subject disclosed.",
+        "note_id": "L009"
+      }
+    ]
+  },
+  {
+    "anchor": "U00164",
+    "english": "It is held that one must awaken throughout the entire basic space of phenomena.",
+    "notes": [
+      {
+        "id": "L010",
+        "exact_tibetan": "ཆོས་དབྱིངས་ཀུན་ཏུ་འཚང་རྒྱ",
+        "category": "scope",
+        "problem": "The universal expression applies to the basic space of phenomena; the source does not name an individual subject or explain how awakening throughout it is understood.",
+        "working_treatment": "Retain the full established basic space of phenomena and the scope throughout the entire; use impersonal one.",
+        "uncertainty": "Spatial/domain language may have a technical intended meaning not explained in the aphorism.",
+        "review_action": "Review the universal scope without weakening it or adding an unsupported doctrinal paraphrase."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00165",
+    "english": "Emanation without a cause is impossible; [it has] its own continuum.",
+    "notes": [
+      {
+        "id": "L011",
+        "exact_tibetan": "རྒྱུ་མེད་སྤྲུལ་པ་མི་སྲིད་རང་རྒྱུད་པ",
+        "category": "syntax/reference",
+        "problem": "The final རང་རྒྱུད་པ་ is syntactically detached. It may characterize an emanation as having its own continuum; the same form can have a tenet-school sense elsewhere.",
+        "working_treatment": "Translate the first assertion directly; provisionally attach has its own continuum to the emanation, with it has bracketed as supplied. Preserve continuum for རྒྱུད་.",
+        "uncertainty": "Attachment and the intended autonomous/individual-continuum sense are unresolved; do not harmonize with the Svatantrika occurrence elsewhere.",
+        "review_action": "Check a commentary or authenticated parallel for the final phrase and its relation to the preceding assertion."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྤྲུལ་པ",
+        "canonical_entry": "complete standalone entry absent; related སྤྲུལ་པའི་སྐུ་ = Emanation embodiment",
+        "english": "emanation",
+        "category": "Provisional",
+        "evidence": "Related component preserved without adding an absent embodiment noun.",
+        "note_id": "L011"
+      },
+      {
+        "exact_tibetan": "རང་རྒྱུད་པ",
+        "canonical_entry": "རྒྱུད་ = Continuum; complete expression absent",
+        "english": "[it has] its own continuum",
+        "category": "Provisional",
+        "evidence": "Unresolved syntactic attachment explicitly disclosed.",
+        "note_id": "L011"
+      }
+    ]
+  },
+  {
+    "anchor": "U00166",
+    "english": "What is called a buddha is an embodiment arising dependently.",
+    "notes": [
+      {
+        "id": "L012",
+        "exact_tibetan": "རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ",
+        "category": "terminology gap",
+        "problem": "The dependent-arising phrase has no established complete entry. The embodiment component is established.",
+        "working_treatment": "Render an embodiment arising dependently as a provisional whole-expression grammatical construction.",
+        "uncertainty": "Whether a named technical category is intended requires review; the line gives no further definition.",
+        "review_action": "Review with the work’s other dependent-arising constructions while preserving embodiment."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ",
+        "canonical_entry": "སྐུ་ = Embodiment; complete expression absent",
+        "english": "embodiment arising dependently",
+        "category": "Provisional",
+        "evidence": "Verbal dependent-arising expression qualifies embodiment.",
+        "note_id": "L012"
+      }
+    ]
+  },
+  {
+    "anchor": "U00167",
+    "english": "Aspiration and engagement [of the ordinary mind of awakening] are also held to be causes of the complete enjoyment and emanation embodiments.",
+    "notes": [
+      {
+        "id": "L013",
+        "exact_tibetan": "སྨོན་འཇུག་ལོངས་སྤྲུལ",
+        "category": "interpretive supply",
+        "problem": "Both pairs are abbreviated. The phrase does not explicitly repeat ordinary mind of awakening or embodiment, nor does it overtly mark a one-to-one causal pairing.",
+        "working_treatment": "Expand aspiration/engagement as forms of the ordinary mind of awakening; expand ལོངས་ and སྤྲུལ་ using the established complete enjoyment embodiment and emanation embodiment terms. Do not insert respectively.",
+        "uncertainty": "The expansion is contextually supported but remains provisional; exact pairing is not resolved.",
+        "review_action": "Review the abbreviations and causal correspondence against commentary before approving the whole expressions."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྨོན་འཇུག",
+        "canonical_entry": "none; compare སེམས་ = Ordinary mind",
+        "english": "aspiration and engagement [of the ordinary mind of awakening]",
+        "category": "Provisional",
+        "evidence": "Contextual expansion of an abbreviated technical pair.",
+        "note_id": "L013"
+      },
+      {
+        "exact_tibetan": "ལོངས་སྤྲུལ",
+        "canonical_entry": "ལོངས་སྤྱོད་རྫོགས་སྐུ་ = Complete enjoyment embodiment; སྤྲུལ་པའི་སྐུ་ = Emanation embodiment",
+        "english": "complete enjoyment and emanation embodiments",
+        "category": "Provisional",
+        "evidence": "Abbreviations expanded through established whole expressions; shared final noun realizes both embodiments.",
+        "note_id": "L013"
+      }
+    ]
+  },
+  {
+    "anchor": "U00168",
+    "english": "The three embodiments abide without being separate.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00169",
+    "english": "All buddhas abide within the continuum of sentient beings.",
+    "notes": [
+      {
+        "id": "L014",
+        "exact_tibetan": "སེམས་ཅན",
+        "category": "contextual use",
+        "problem": "The complete expression is absent from the glossary; the established ordinary mind component alone does not settle a whole-expression English term.",
+        "working_treatment": "Use sentient beings as an explicitly provisional whole-expression rendering, rather than claim it is an approved exception to ordinary mind.",
+        "uncertainty": "This does not authorize reducing standalone སེམས་ to generic mind or silently using the compound as a model for other shortenings.",
+        "review_action": "Review the whole-expression candidate consistently with its earlier occurrences in this work."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སེམས་ཅན",
+        "canonical_entry": "སེམས་ = Ordinary mind; whole expression absent",
+        "english": "sentient beings",
+        "category": "Provisional",
+        "evidence": "Disclosed lexicalized compound candidate; source singular/plural generic.",
+        "note_id": "L014"
+      }
+    ]
+  },
+  {
+    "anchor": "U00170",
+    "english": "This is the seventh section, summarizing the essential points of the result.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00171",
+    "english": "Just as, in this world, a father’s son,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00172",
+    "english": "though endowed with abundant ordinary enjoyments,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00173",
+    "english": "with regard to his father’s special riches, which others lack,",
+    "notes": [
+      {
+        "id": "L015",
+        "exact_tibetan": "ཕ་ཡིས་ཁྱད་ནོར་གཞན་ལ་མེད་པ་དག",
+        "category": "syntax/reference",
+        "problem": "The father is marked ergative/instrumental ཡིས་, but no explicit giving verb appears. U00171–174 form a single simile.",
+        "working_treatment": "Represent the possessions as the father’s riches; the link with the son is read elliptically. No Tibetan case particle is changed. The following heard/retained clause and disparagement belong to the son.",
+        "uncertainty": "A supplied giving verb or a different construction may be intended; the exact ellipsis is unresolved.",
+        "review_action": "Check the case particle and missing relation against a witness or commentary; preserve the four-line syntax meanwhile."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00174",
+    "english": "is disparaged for neither hearing of them nor retaining them—",
+    "notes": [
+      {
+        "id": "L016",
+        "exact_tibetan": "མ་ཐོས་མི་འཛིན",
+        "category": "contextual use",
+        "problem": "The source verb འཛིན་ means retaining/holding the inherited riches in this simile. The glossary entry འཛིན་པ་ = apprehending subject concerns an epistemic noun, not this ordinary verb.",
+        "working_treatment": "Use retaining here; later use uphold for holding a teaching/intention. These are scoped provisional verbal uses, not replacements of the technical subject term.",
+        "uncertainty": "The riches may function figuratively as teachings; that does not settle the canonical verb family globally.",
+        "review_action": "Review the ordinary verbal senses across U00174, U00178, U00181–182 and U00183."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "འཛིན",
+        "canonical_entry": "འཛིན་པ་ = Apprehending subject",
+        "english": "retaining",
+        "category": "Provisional",
+        "evidence": "Ordinary transitive verb with inherited riches as object, not epistemic-subject noun.",
+        "note_id": "L016"
+      }
+    ]
+  },
+  {
+    "anchor": "U00175",
+    "english": "likewise, the unequalled Protector of the World",
+    "notes": [
+      {
+        "id": "L017",
+        "exact_tibetan": "མཚུངས་མེད་འཇིག་རྟེན་མགོན་པོ",
+        "category": "scope",
+        "problem": "The source gives the title unequalled Protector of the World. The legacy English inserts tathagata and Jigten Sumgon, which are not written here.",
+        "working_treatment": "Translate the supplied title without inserting a personal name or tathagata.",
+        "uncertainty": "Identification with the teacher named by the work’s wider context is likely but not independently established by this line alone.",
+        "review_action": "Verify identity in project provenance if a name is to be added to reader-facing annotation."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00176",
+    "english": "made manifest these distinctive teachings,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00177",
+    "english": "previously unheard of; if, in later times in this world,",
+    "notes": [
+      {
+        "id": "L018",
+        "exact_tibetan": "སྔོན་ཆད་མ་གྲགས་ཕྱི་དུས་འཇིག་རྟེན་འདིར",
+        "category": "syntax/reference",
+        "problem": "Previously unheard of modifies the distinctive teachings; later times in this world supplies the setting for the following sons’ failure to uphold them. The legacy translation incorrectly coordinates past and future under never known.",
+        "working_treatment": "Attach previously unheard of backward and later times forward; supply if to make the analogy’s condition explicit in English.",
+        "uncertainty": "The cross-line attachment is well supported by U00175–178; the condition is inferred from the comparison rather than an explicit Tibetan if.",
+        "review_action": "Review the complete stanza, not the line in isolation."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00178",
+    "english": "the sons who follow him do not uphold them, it is just the same.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "འཛིན",
+        "canonical_entry": "འཛིན་པ་ = Apprehending subject",
+        "english": "uphold",
+        "category": "Provisional",
+        "evidence": "Ordinary verb with distinctive teachings as object; see first verbal-use note.",
+        "note_id": "L016"
+      }
+    ]
+  },
+  {
+    "anchor": "U00179",
+    "english": "Therefore, for those of noble lineage who continue their father’s line,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00180",
+    "english": "without disparaging other seekers of the lineage,",
+    "notes": [
+      {
+        "id": "L019",
+        "exact_tibetan": "རིགས་འཚོལ་གཞན",
+        "category": "syntax/reference",
+        "problem": "The compressed phrase admits uncertainty concerning whether other qualifies lineage-seekers or another lineage being sought.",
+        "working_treatment": "Use other seekers of the lineage provisionally; do not expand to a specific rival school.",
+        "uncertainty": "Other seekers of lineage or those seeking other lineages remain possible.",
+        "review_action": "Review the compound and modifier scope in context or commentary."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00181",
+    "english": "to uphold that renowned one’s cherished enlightened intents",
+    "notes": [
+      {
+        "id": "L020",
+        "exact_tibetan": "བཞེད་པའི་ཐུགས་དགོངས",
+        "category": "terminology gap",
+        "problem": "Honorific ཐུགས་དགོངས་ is not a complete glossary entry. དགོངས་པ་ = enlightened intent is established. བཞེད་པའི་ expresses what the renowned one holds or cherishes.",
+        "working_treatment": "Use cherished enlightened intents, documenting the honorific compound application rather than silently mapping standalone ཐུགས་.",
+        "uncertainty": "The cherished modifier’s nuance and plurality of intents require final human style review; the lexical enlightened intent is retained.",
+        "review_action": "Review the honorific compound family without weakening the established intent term."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཐུགས་དགོངས",
+        "canonical_entry": "དགོངས་པ་ = Enlightened intent",
+        "english": "enlightened intents",
+        "category": "Provisional",
+        "evidence": "Honorific compound application of established term, with source plural རྣམས་.",
+        "note_id": "L020"
+      }
+    ]
+  },
+  {
+    "anchor": "U00182",
+    "english": "with great earnestness is deeply wondrous.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "འཛིན་པ",
+        "canonical_entry": "འཛིན་པ་ = Apprehending subject",
+        "english": "uphold",
+        "category": "Provisional",
+        "evidence": "Nominalized transitive verb with enlightened intents as object; English infinitive realized in U00181 across the stanza.",
+        "note_id": "L016"
+      }
+    ]
+  },
+  {
+    "anchor": "U00183",
+    "english": "Excellent people who uphold the teaching and undertake dharma deeds",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "བསྟན་འཛིན",
+        "canonical_entry": "འཛིན་པ་ = Apprehending subject; complete compound absent",
+        "english": "uphold the teaching",
+        "category": "Provisional",
+        "evidence": "Agentive compound built on ordinary holding verb, not a claim that the technical subject term means teaching-holder.",
+        "note_id": "L016"
+      }
+    ]
+  },
+  {
+    "anchor": "U00184",
+    "english": "are like a son who, among a thousand sons, bears a wheel-turning king’s",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "འཁོར་ལོས་སྒྱུར་རྒྱལ",
+        "canonical_entry": "none",
+        "english": "wheel-turning king",
+        "category": "Provisional",
+        "evidence": "Abbreviated royal technical expression; no supplied glossary entry.",
+        "note_id": "L021"
+      }
+    ]
+  },
+  {
+    "anchor": "U00185",
+    "english": "marks and is exceptionally distinguished:",
+    "notes": [
+      {
+        "id": "L021",
+        "exact_tibetan": "མཚན་ལྡན་སྲས",
+        "category": "syntax/reference",
+        "problem": "Across U00184–185, the genitive of wheel-turning king may qualify marks, or may directly identify a king’s son. The metaphor singles out one specially marked son among a thousand.",
+        "working_treatment": "Choose a son bearing a wheel-turning king’s marks; retain the alternative attachment here. Wheel-turning king is a provisional abbreviated-term rendering.",
+        "uncertainty": "The choice of genitive attachment is not authenticated.",
+        "review_action": "Check whether commentary identifies marks of future kingship or a reigning king’s son; maintain the singular-versus-thousand comparison."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00186",
+    "english": "they shine among all who enter the gateway of the teaching.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00187",
+    "english": "Because they are unbewildered about the uncommon, sublime heart [of the teaching]",
+    "notes": [
+      {
+        "id": "L022",
+        "exact_tibetan": "ཐུན་མོང་མ་ཡིན་དམ་པའི་སྙིང་པོ",
+        "category": "interpretive supply",
+        "problem": "The uncommon sublime heart is paired with the Sage’s boundless teachings in U00188. Its possessed content is not explicit.",
+        "working_treatment": "Supply of the teaching in brackets; retain heart as an ordinary metaphor, avoiding silent reassignment of essence from ངོ་བོ་.",
+        "uncertainty": "The phrase may denote the sublime teaching’s essence or the heart of a sublime person; the supplied possessor is provisional.",
+        "review_action": "Review the genitive attachment and whether a technical སྙིང་པོ་ entry is needed for this passage."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00188",
+    "english": "and the Sage’s boundless teachings,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00189",
+    "english": "before the fox-pack of base outside opponents,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00190",
+    "english": "they are fearless as a snow lion.",
+    "notes": [
+      {
+        "id": "L023",
+        "exact_tibetan": "ཉམས་ང་མེད",
+        "category": "contextual use",
+        "problem": "This is a whole expression for absence of fear/danger; its ཉམས་ syllable does not function as the glossary noun experience.",
+        "working_treatment": "Render fearless provisionally for the complete expression; keep the comparison to a snow lion and the external-opponent metaphor.",
+        "uncertainty": "The sense is clear from the metaphor; the complete expression is not approved glossary terminology.",
+        "review_action": "Review the whole-expression candidate without altering standalone experience."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཉམས་ང་མེད",
+        "canonical_entry": "ཉམས་ = Experience; whole expression absent",
+        "english": "fearless",
+        "category": "Provisional",
+        "evidence": "Whole expression in lion/fox intimidation image, not experience noun.",
+        "note_id": "L023"
+      }
+    ]
+  },
+  {
+    "anchor": "U00191",
+    "english": "To a retinue of kindred disposition and disciples of many kinds,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00192",
+    "english": "they teach well the distinct qualities of dharma without mixing them,",
+    "notes": [
+      {
+        "id": "L024",
+        "exact_tibetan": "མ་འདྲེས་ཆོས་ཀྱི་ཁྱད་པར",
+        "category": "contextual use",
+        "problem": "The unmixed modifier and differences of dharma are compressed. The glossary’s mix/mixed/mixing family is established in compounds, but standalone འདྲེས་ remains unapproved.",
+        "working_treatment": "Use distinct qualities of dharma without mixing them; retain the mix family, with the qualities/teachings as its provisional object.",
+        "uncertainty": "The source may more strictly describe already-unmixed distinctive teachings rather than the teacher’s act of avoiding mixture.",
+        "review_action": "Review the attachment of unmixed and approve a scoped mixing-family use if appropriate."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མ་འདྲེས",
+        "canonical_entry": "related མིང་དོན་འདྲེས་པ་ = Mixing of name and meaning; standalone absent",
+        "english": "without mixing them",
+        "category": "Provisional",
+        "evidence": "Retains existing mixing vocabulary; attachment and supplied object disclosed.",
+        "note_id": "L024"
+      }
+    ]
+  },
+  {
+    "anchor": "U00193",
+    "english": "clearly distinguishing the lower and the supreme,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00194",
+    "english": "and proclaim a mighty, pleasing sound—thunder—in the ten directions.",
+    "notes": [
+      {
+        "id": "L025",
+        "exact_tibetan": "སྙན་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+        "category": "contextual use",
+        "problem": "The glossary assigns word to སྒྲ་, but the thunder image requires an acoustic use. སྙན་པ་ can evoke pleasing sound or renown; the source does not explicitly state a possessive fame.",
+        "working_treatment": "Use mighty, pleasing sound—thunder provisionally, preserving the acoustic image and the active proclamation.",
+        "uncertainty": "A thunderous sound of renown is also plausible. The acoustic sound use is not an approved default for all སྒྲ་.",
+        "review_action": "Review the fame/pleasing-sound sense and approve an acoustic contextual use while preserving word in lexical contexts."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྒྲ",
+        "canonical_entry": "སྒྲ་ = Word",
+        "english": "sound",
+        "category": "Provisional",
+        "evidence": "Acoustic thunder comparison; substituting word materially distorts this occurrence.",
+        "note_id": "L025"
+      },
+      {
+        "exact_tibetan": "འབྲུག་སྒྲ",
+        "canonical_entry": "སྒྲ་ = Word; compound absent",
+        "english": "thunder",
+        "category": "Provisional",
+        "evidence": "Acoustic compound; sound is realized by thunder, not an independent lexical word.",
+        "note_id": "L025"
+      }
+    ]
+  },
+  {
+    "anchor": "U00195",
+    "english": "Thus, from the profound, vast, unsurpassed",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00196",
+    "english": "enlightened intent, wide as a great ocean,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00197",
+    "english": "this account, no more than a drop of water on a hair’s tip,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00198",
+    "english": "I, the wandering monk Sherab Jungne, have written.",
+    "notes": [
+      {
+        "id": "L026",
+        "exact_tibetan": "བན་ལྡོམ་ཤེས་རབ་འབྱུང་གནས",
+        "category": "scope",
+        "problem": "བན་ལྡོམ་ is taken as a self-deprecating wandering-monk epithet; the following string is a personal name. The legacy English treats Bendom as part of the name.",
+        "working_treatment": "Translate wandering monk and transliterate Sherab Jungne. The name does not receive a component-by-component replacement with the established discerning knowing term.",
+        "uncertainty": "The epithet’s tone and preferred name romanization remain provisional; no independent biographical identification was consulted.",
+        "review_action": "Review epithet and name against project naming policy and an authenticated attribution."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཤེས་རབ",
+        "canonical_entry": "ཤེས་རབ་ = Discerning knowing",
+        "english": "Sherab",
+        "category": "Provisional",
+        "evidence": "Part of the proper name Sherab Jungne; scope is naming, not doctrinal noun.",
+        "note_id": "L026"
+      }
+    ]
+  },
+  {
+    "anchor": "U00199",
+    "english": "Through this virtue, white as a perfectly pure snow mountain,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00200",
+    "english": "may the precious teaching flourish in the ten directions,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00201",
+    "english": "may the world be utterly free of not knowing and bewilderment,",
+    "notes": [
+      {
+        "id": "L027",
+        "exact_tibetan": "འཇིག་རྟེན་མི་ཤེས་གཏི་མུག",
+        "category": "terminology gap",
+        "problem": "The source says world, not འཁོར་བ་. Not knowing and གཏི་མུག་ are preserved separately. The latter lacks a primary glossary entry; delusion already belongs to འཁྲུལ་པ་, ignorance to མ་རིག་པ་.",
+        "working_treatment": "Use world, not knowing, and provisional bewilderment. In U00202 the world continues as a conventional collective for its beings, rather than samsara itself becoming a buddha.",
+        "uncertainty": "The two mental expressions could be appositional rather than a strict pair; bewilderment requires coordinated project terminology review.",
+        "review_action": "Review the གཏི་མུག་ family and subject continuity of the dedication; avoid unrecorded collisions with delusion/ignorance."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "གཏི་མུག",
+        "canonical_entry": "none; distinguish འཁྲུལ་པ་ = Delusion and མ་རིག་པ་ = Ignorance",
+        "english": "bewilderment",
+        "category": "Provisional",
+        "evidence": "Technical gap; preserves separate lexical families.",
+        "note_id": "L027"
+      }
+    ]
+  },
+  {
+    "anchor": "U00202",
+    "english": "and attain the consummate primordial knowing of a buddha.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00203",
+    "english": "This text thus preserves the very work composed by Chenga Sherab Jungne;",
+    "notes": [
+      {
+        "id": "L028",
+        "exact_tibetan": "སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས",
+        "category": "scope",
+        "problem": "The text now attributes the preserved original to Chenga Sherab Jungne. It subsequently names a separate arranger in U00206.",
+        "working_treatment": "Retain Chenga as a title and Sherab Jungne as a proper name. Do not make the later arranger the original author or replace the name’s Sherab with discerning knowing.",
+        "uncertainty": "The title’s exact historical referent and romanization have not been authenticated independently.",
+        "review_action": "Verify naming and attribution against an external witness when available."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཤེས་རབ",
+        "canonical_entry": "ཤེས་རབ་ = Discerning knowing",
+        "english": "Sherab",
+        "category": "Provisional",
+        "evidence": "Same proper-name scope as U00198.",
+        "note_id": "L028"
+      }
+    ]
+  },
+  {
+    "anchor": "U00204",
+    "english": "to make it easy for myself and others to enter it,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00205",
+    "english": "the vajra statements were arranged in verse.",
+    "notes": [
+      {
+        "id": "L029",
+        "exact_tibetan": "རྡོ་རྗེའི་གསུང",
+        "category": "terminology gap",
+        "problem": "The full expression is absent from the glossary. Its honorific speech term refers here to sayings arranged in verse, not necessarily isolated words.",
+        "working_treatment": "Use vajra statements provisionally, consistently with the work’s title and aphoristic form.",
+        "uncertainty": "The source does not state that this is a new composition of the original teachings; arrangement and preserved original are distinguished.",
+        "review_action": "Review the phrase as a whole-expression candidate and retain the arranger/original-author distinction."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྡོ་རྗེའི་གསུང",
+        "canonical_entry": "none; related རྡོ་རྗེའི་གནས་བཅུ་གཅིག་ does not govern this phrase",
+        "english": "vajra statements",
+        "category": "Provisional",
+        "evidence": "Whole-expression candidate for these aphoristic sayings.",
+        "note_id": "L029"
+      }
+    ]
+  },
+  {
+    "anchor": "U00206",
+    "english": "It was written by Konchog Rinchen Trinle Nampar Gyalwa, whose conceptual mind has faith in the teachings of the Dharma Lord, the Protector, and his spiritual sons, on the twenty-third day of the first Hor lunar month of a Dog year, at the encampment on the Beri plain in Kham.",
+    "notes": [
+      {
+        "id": "L030",
+        "exact_tibetan": "ཆོས་ཀྱི་རྗེ་སྐྱོབ་པ་ཡབ་སྲས",
+        "category": "scope",
+        "problem": "The title and father/sons expression identifies the teachings in which the arranger has faith. Spiritual is an interpretive realization of the teacher-disciple use of father/sons.",
+        "working_treatment": "Translate Dharma Lord, the Protector, and his spiritual sons; do not introduce an unprovided personal identification.",
+        "uncertainty": "The number of sons is not explicitly marked; father and son as a named pair is also possible.",
+        "review_action": "Review whether this is a specific father-son pair or the teacher with plural spiritual heirs."
+      },
+      {
+        "id": "L031",
+        "exact_tibetan": "དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་པར་རྒྱལ་བའི་སྡེས",
+        "category": "scope",
+        "problem": "The string occurs as the instrumental agent of wrote. The ending སྡེས་ is treated as an honorific name suffix; the legacy English group of turns the apparent individual arranger into a collective.",
+        "working_treatment": "Render the individual name Konchog Rinchen Trinle Nampar Gyalwa. Preserve the entire Tibetan name in this note, including its suffix. Do not translate name components as technical glossary terms.",
+        "uncertainty": "Exact historical identity, name segmentation, and preferred romanization are not independently verified.",
+        "review_action": "Verify the arranger’s identity and name form in a catalog or physical witness before final publication."
+      },
+      {
+        "id": "L032",
+        "exact_tibetan": "ཁྱི་ལོ་ཧོར་ཟླ་དང་པོའི་ཉེར་གསུམ་ལ་ཁམས་ཀྱི་བེ་རི་ཐང་གི་སྒར་ཐོག",
+        "category": "scope",
+        "problem": "The colophon supplies a Dog year and first Hor month but no sexagenary cycle or Gregorian year. Beri is a place-name; camp location is explicit.",
+        "working_treatment": "Retain Dog year and Hor lunar month without calendar conversion; use Beri plain in Kham and encampment.",
+        "uncertainty": "Absolute date and place-name romanization are unresolved; the source does not justify a modern date.",
+        "review_action": "Identify the historical date and location only from additional authenticated evidence."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "དད་པའི་བློ་ཅན",
+        "canonical_entry": "དད་པ་ = Faith; བློ་ = Conceptual mind",
+        "english": "whose conceptual mind has faith",
+        "category": "Grammatical",
+        "evidence": "The faith-bearing conceptual mind describes the named arranger, and faith takes the teachings as its object.",
+        "note_id": "L030"
+      },
+      {
+        "exact_tibetan": "ཕྲིན་ལས",
+        "canonical_entry": "none; local doctrinal proposal enlightened deeds at U00160",
+        "english": "Trinle",
+        "category": "Provisional",
+        "evidence": "Name component, not an occurrence of the doctrinal noun.",
+        "note_id": "L031"
+      },
+      {
+        "exact_tibetan": "རྣམ་པར",
+        "canonical_entry": "རྣམ་པ་ = Aspect does not govern the adverbial name form",
+        "english": "Nampar",
+        "category": "Provisional",
+        "evidence": "Part of the proper name; lexical boundaries exclude a false aspect match.",
+        "note_id": "L031"
+      }
+    ]
+  }
+]

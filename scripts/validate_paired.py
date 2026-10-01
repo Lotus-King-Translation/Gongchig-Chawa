@@ -1,87 +1,92 @@
 #!/usr/bin/env python3
-"""Validate the generic paired-text/2 source/translation contract."""
+"""Validate paired-text/2, with an explicit provisional-source exception."""
 from pathlib import Path
 import re
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "paired/source.md"
-TRANSLATION = ROOT / "paired/translation.md"
-ALLOWED_FORMATS = {"prose", "verse", "h1", "h2", "h3"}
-PAIR = re.compile(r"<!-- pair: ([^|>]+?)(.*?) -->")
+ALLOWED_FORMATS = {'prose', 'verse', 'h1', 'h2', 'h3'}
+PAIR = re.compile(r'<!-- pair: ([^|>]+)(.*?) -->')
 
 
 def front_matter(text):
-    if not text.startswith("---\n"):
-        raise ValueError("missing front matter")
-    end = text.find("\n---\n", 4)
-    if end < 0:
-        raise ValueError("unterminated front matter")
-    values = {}
+    if not text.startswith('---\n'):
+        raise ValueError('missing front matter')
+    end=text.find('\n---\n',4)
+    if end<0:
+        raise ValueError('unterminated front matter')
+    values={}
     for line in text[4:end].splitlines():
-        if not line.strip():
-            continue
-        key, sep, value = line.partition(":")
-        if not sep:
-            raise ValueError("invalid front matter line: " + line)
-        values[key.strip()] = value.strip()
+        key,sep,value=line.partition(':')
+        if not sep or key.strip() in values:
+            raise ValueError('invalid or duplicate front matter field')
+        values[key.strip()]=value.strip()
     return values
 
 
 def pairs(text, source_side):
-    rows = []
-    seen = set()
-    for match in PAIR.finditer(text):
-        ident = match.group(1).strip()
+    rows=[]
+    seen=set()
+    matches=list(PAIR.finditer(text))
+    for i,match in enumerate(matches):
+        ident=match.group(1).strip()
         if ident in seen:
-            raise ValueError("duplicate pair ID: " + ident)
+            raise ValueError('duplicate pair ID: '+ident)
         seen.add(ident)
-        metadata = {}
-        for piece in match.group(2).split("|"):
-            piece = piece.strip()
-            if not piece:
+        metadata={}
+        for piece in match.group(2).split('|'):
+            if not piece.strip():
                 continue
-            key, sep, value = piece.partition(":")
-            if not sep:
-                raise ValueError("invalid pair metadata for " + ident)
-            metadata[key.strip()] = value.strip()
+            key,sep,value=piece.strip().partition(':')
+            if not sep or key.strip() in metadata:
+                raise ValueError('invalid or duplicate pair metadata: '+ident)
+            metadata[key.strip()]=value.strip()
         if source_side:
-            missing = {"golden", "role", "format"} - metadata.keys()
-            if missing:
-                raise ValueError(f"{ident} missing source metadata: {sorted(missing)}")
-            if metadata["format"] not in ALLOWED_FORMATS:
-                raise ValueError(f"{ident} unsupported format: {metadata['format']}")
-        rows.append((ident, metadata))
+            provenance='source' if front_matter(text).get('source-state')=='provisional' else 'golden'
+            if not {provenance,'role','format'} <= metadata.keys():
+                raise ValueError('missing source metadata: '+ident)
+            if any(not metadata[k] for k in (provenance,'role','format')):
+                raise ValueError('empty source metadata: '+ident)
+            if metadata['format'] not in ALLOWED_FORMATS:
+                raise ValueError('unsupported source format: '+ident)
+        elif metadata:
+            raise ValueError('translation inherits source metadata; do not duplicate it')
+        end=matches[i+1].start() if i+1<len(matches) else len(text)
+        body=text[match.end():end].strip()
+        if not body:
+            raise ValueError('empty pair: '+ident)
+        rows.append((ident,metadata,body))
+    if not rows:
+        raise ValueError('empty paired edition')
     return rows
 
 
+def validate(source,translation):
+    sfm,tfm=front_matter(source),front_matter(translation)
+    if sfm.get('schema')!='paired-text/2' or tfm.get('schema')!='paired-text/2':
+        raise ValueError('incorrect paired schema')
+    if not sfm.get('text-id') or sfm['text-id']=='unset' or sfm['text-id']!=tfm.get('text-id'):
+        raise ValueError('text-id mismatch or unset')
+    if sfm.get('edition') in (None,'','unset') or tfm.get('source-edition')!=sfm['edition']:
+        raise ValueError('source edition mismatch or unset')
+    if tfm.get('translation-edition') in (None,'','unset'):
+        raise ValueError('translation edition missing')
+    if sfm.get('language')!='bo' or tfm.get('language')!='en':
+        raise ValueError('language mismatch')
+    s,t=pairs(source,True),pairs(translation,False)
+    if [r[0] for r in s]!=[r[0] for r in t]:
+        raise ValueError('source/translation identities or order differ')
+    return s,t
+
+
 def main():
-    source = SOURCE.read_text(encoding="utf-8")
-    translation = TRANSLATION.read_text(encoding="utf-8")
-    sfm, tfm = front_matter(source), front_matter(translation)
-    if sfm.get("schema") != "paired-text/2" or tfm.get("schema") != "paired-text/2":
-        raise ValueError("both files must use schema paired-text/2")
-    if sfm.get("text-id") != tfm.get("text-id"):
-        raise ValueError("text-id mismatch")
-    if tfm.get("source-edition") not in {sfm.get("edition"), "unset"}:
-        raise ValueError("translation source-edition does not match source edition")
-    source_rows = pairs(source, True)
-    translation_rows = pairs(translation, False)
-    sids = [row[0] for row in source_rows]
-    tids = [row[0] for row in translation_rows]
-    if sids != tids:
-        raise ValueError("source/translation pair IDs or order differ")
-    counts = {name: 0 for name in sorted(ALLOWED_FORMATS)}
-    for _, metadata in source_rows:
-        counts[metadata["format"]] += 1
-    print("paired-text/2 valid")
-    print("pairs:", len(source_rows))
-    print("formats:", " ".join(f"{k}={counts[k]}" for k in sorted(counts)))
+    s,t=validate((ROOT/'paired/source.md').read_text(),(ROOT/'paired/translation.md').read_text())
+    print('paired-text/2 valid; pairs:',len(s))
+    print('formats:',{f:sum(r[1]['format']==f for r in s) for f in sorted(ALLOWED_FORMATS)})
 
 
-if __name__ == "__main__":
-    try:
-        main()
-    except (OSError, ValueError) as exc:
-        print("PAIRED VALIDATION FAILED:", exc, file=sys.stderr)
+if __name__=='__main__':
+    try:main()
+    except (OSError,ValueError) as e:
+        print('PAIRED VALIDATION FAILED:',e,file=sys.stderr)
         raise SystemExit(1)

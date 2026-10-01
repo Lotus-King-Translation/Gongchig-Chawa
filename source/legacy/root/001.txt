@@ -1,560 +1,205 @@
----
-schema: paired-text/2
-text-id: gongchig
-edition: gongchig-provisional-source-v1
-language: bo
-source-state: provisional
-source-commit: 1d815bff0e12b8eacea9d6776b89b34f82ef038b
-golden-release: none
----
-
-<!-- pair: GC-000001 | source: U00001 | role: source_heading | format: h1 -->
-དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གསུང་བརྒྱ་ལྔ་གསུང་རྣམས་ཚིགས་དུ་པ་བཞུགས་གཞུང་། །
-
-<!-- pair: GC-000002 | source: U00002 | role: source_heading | format: h2 -->
+ དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གསུང་བརྒྱ་ལྔ་གསུང་རྣམས་ཚིགས་དུ་པ་བཞུགས་གཞུང་། །
 རྡོ་རྗེའི་གསུང་བརྒྱ་ལྔ་བཅུ་བ་ཞེས་བྱ་བ། །
-
-<!-- pair: GC-000003 | source: U00003 | role: ritual_formula | format: prose -->
 སྟོབས་བཅུའི་དབང་ཕྱུག་ཤཱཀྱ་སེང་གེ་ལ་ཕྱག་འཚལ་ལོ། །
-
-<!-- pair: GC-000004 | source: U00004 U00005 U00006 U00007 | role: main_text | format: verse -->
 དྲི་མེད་འོད་གསལ་ཐུགས་ཀྱི་དཀྱིལ་འཁོར་དུ། །
 མ་འདྲེས་ཤེས་བྱའི་དངོས་པོ་ཇི་ལྟ་བ། །
 ཐམས་ཅད་གཟིགས་པ་ཀུན་མཁྱེན་ཆོས་ཀྱི་རྗེ། །
 མཉམ་མེད་འབྲི་གུང་རིན་ཆེན་ཕྱག་འཚལ་ལོ། །
-
-<!-- pair: GC-000005 | source: U00008 U00009 U00010 U00011 | role: main_text | format: verse -->
 རྒྱལ་བ་མཆོག་གི་ཞལ་ནས་གསུངས་པ་ཡི། །
 དམ་ཆོས་ཁྱད་འཕགས་ཐུན་མོང་མ་ཡིན་པ། །
 སྔོན་དུ་མཛད་པའི་བཞེད་ཚུལ་དཔག་མེད་ཀྱང་། །
 རྨོངས་པས་དྲན་པ་ཅུང་ཟད་ཙམ་ཞིག་བྲི། །
-
-<!-- pair: GC-000006 | source: U00012 | role: main_text | format: verse -->
 ཆོས་ཀུན་གཤིས་སམ་བབས་ཀྱི་གནས་ལུགས་བསྟན། །
-
-<!-- pair: GC-000007 | source: U00013 | role: main_text | format: verse -->
 ཆོས་ཕུང་བརྒྱད་ཁྲི་སངས་རྒྱས་སྒྲུབ་པར་གཅིག །
-
-<!-- pair: GC-000008 | source: U00014 | role: main_text | format: verse -->
 སྡེ་སྣོད་རྒྱུད་སྡེ་ལམ་གྱི་རིམ་པ་ཡིན། །
-
-<!-- pair: GC-000009 | source: U00015 | role: main_text | format: verse -->
 ཆོས་འཁོར་རྣམ་གསུམ་འཁོར་གྱི་རྟོགས་པའི་ཁྱད། །
-
-<!-- pair: GC-000010 | source: U00016 | role: main_text | format: verse -->
 འཁོར་ལོ་རེ་རེ་ལ་ཡང་གསུམ་ག་ཚང་། །
-
-<!-- pair: GC-000011 | source: U00017 | role: main_text | format: verse -->
 ཕྱི་མའི་ས་བོན་སྔ་མ་སྔ་མར་གནས། །
-
-<!-- pair: GC-000012 | source: U00018 | role: main_text | format: verse -->
 མདོ་དོན་གནད་ཀྱིས་འཁོར་ལོ་གསུམ་དུ་ངེས། །
-
-<!-- pair: GC-000013 | source: U00019 | role: main_text | format: verse -->
 འདུལ་བའི་སྡེ་སྣོད་བདེན་བཞིའི་ཆོས་འཁོར་ཏེ། །
-
-<!-- pair: GC-000014 | source: U00020 | role: main_text | format: verse -->
 ཐེག་པ་སྣ་ཚོགས་ངེས་དོན་འཁོར་ལོ་ཡིན། །
-
-<!-- pair: GC-000015 | source: U00021 | role: main_text | format: verse -->
 མཐའ་དྲུག་དགོངས་པ་ངེས་དོན་འབའ་ཞིག་བཞེད། །
-
-<!-- pair: GC-000016 | source: U00022 | role: main_text | format: verse -->
 སེམས་ཙམ་བཀའ་ཡིས་མཐའ་བྲལ་དབུ་མ་སྟོན། །
-
-<!-- pair: GC-000017 | source: U00023 | role: main_text | format: verse -->
 ལོག་པའི་ཀུན་རྫོབ་ཀྱིས་ཀྱང་དོན་བྱེད་ནུས། །
-
-<!-- pair: GC-000018 | source: U00024 | role: main_text | format: verse -->
 ཇི་སྙེད་ལམ་རྣམས་ས་བཅུས་བགྲོད་པ་སྟེ། །
-
-<!-- pair: GC-000019 | source: U00025 | role: main_text | format: verse -->
 དེ་ཡང་རིམ་གྱིས་འཇུག་པ་ཁོ་ནར་ངེས། །
-
-<!-- pair: GC-000020 | source: U00026 | role: main_text | format: verse -->
 ཤེས་བྱའི་སྒྲིབ་པ་ཐོག་མར་སྤོང་བའང་ཡོད། །
-
-<!-- pair: GC-000021 | source: U00027 | role: main_text | format: verse -->
 ཚད་མ་སངས་རྒྱས་མཁྱེན་པའི་ཡེ་ཤེས་ཏེ། །
-
-<!-- pair: GC-000022 | source: U00028 | role: main_text | format: verse -->
 ཚད་མའི་འབྲས་བུས་ཟབ་མོ་སྟོང་ཉིད་སྟོན། །
-
-<!-- pair: GC-000023 | source: U00029 | role: main_text | format: verse -->
 གྲུབ་མཐའ་འཛིན་པ་ཐམས་ཅད་རང་རྒྱུད་པ། །
-
-<!-- pair: GC-000024 | source: U00030 | role: main_text | format: verse -->
 མུ་སྟེགས་པ་ལའང་དགེ་བའི་བསྒྲུབ་བྱ་མང་། །
-
-<!-- pair: GC-000025 | source: U00031 | role: main_text | format: verse -->
 ཕྱི་ནང་ཁྱད་པར་སྐྱབས་འགྲོས་འབྱེད་པ་སྟེ། །
-
-<!-- pair: GC-000026 | source: U00032 | role: main_text | format: verse -->
 ཐེག་པ་ཆེ་ཆུང་ཁྱད་པར་སེམས་བསྐྱེད་ཡིན། །
-
-<!-- pair: GC-000027 | source: U00033 | role: main_text | format: verse -->
 མདོ་དང་སྔགས་ཀྱི་ཁྱད་པར་དབང་ཡིན་ཏེ། །
-
-<!-- pair: GC-000028 | source: U00034 | role: main_text | format: verse -->
 དེ་གཉིས་གང་མེད་རྫོགས་བྱང་ཐོབ་མི་སྲིད། །
-
-<!-- pair: GC-000029 | source: U00035 | role: main_text | format: verse -->
 སྡོམ་གསུམ་མི་དགེ་བཅུ་སྤོང་གནད་གཅིག་ལ། །
-
-<!-- pair: GC-000030 | source: U00036 | role: main_text | format: verse -->
 བདག་པོ་འཕོས་པས་སྡོམ་པ་གསུམ་དུ་འོང་། །
-
-<!-- pair: GC-000031 | source: U00037 | role: main_text | format: verse -->
 རང་བཞིན་རྣམ་དག་བྲལ་འབྲས་ཡོན་ཏན་ལྡན། །
-
-<!-- pair: GC-000032 | source: U00038 | role: main_text | format: verse -->
 བྱང་ཕྱོགས་སོ་བདུན་བདེ་གཤེགས་སྙིང་པོ་ཡོད། །
-
-<!-- pair: GC-000033 | source: U00039 | role: main_text | format: verse -->
 ཚད་མེད་རྣམ་བཞི་སངས་རྒྱས་ངོ་བོ་ཉིད། །
-
-<!-- pair: GC-000034 | source: U00040 | role: main_text | format: verse -->
 ཐེག་པ་ཐམས་ཅད་རིགས་གཅིག་ཐེག་པར་གཅིག །
-
-<!-- pair: GC-000035 | source: U00041 | role: main_text | format: verse -->
 ཉན་རང་ལོག་སྲེག་ཅན་ཡང་རྣམ་མཁྱེན་འགྱུར། །
-
-<!-- pair: GC-000036 | source: U00042 | role: chapter_colophon | format: prose -->
 ཆོས་འཁོར་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་དང་པོའོ། །
-
-<!-- pair: GC-000037 | source: U00043 | role: main_text | format: verse -->
 དགེ་སྡིག་གཉིས་ལས་ལུང་མ་བསྟན་གཞན་མེད། །
-
-<!-- pair: GC-000038 | source: U00044 | role: main_text | format: verse -->
 རྟོག་གཉིས་ཅིག་ཅར་འཇུག་པ་མི་སྲིད་ལ། །
-
-<!-- pair: GC-000039 | source: U00045 | role: main_text | format: verse -->
 སེམས་བྱུང་ལས་ཀྱང་སེམས་ནི་འབྱུང་བའང་ཡོད། །
-
-<!-- pair: GC-000040 | source: U00046 | role: main_text | format: verse -->
 འཁོར་བའི་རྒྱ་མཚོར་ལུས་ཉིད་འཁོར་བར་བཞེད། །
-
-<!-- pair: GC-000041 | source: U00047 | role: main_text | format: verse -->
 རྟེན་འབྲེལ་བཅུ་གཉིས་མ་རིག་ཁོ་ནའི་གཡོས། །
-
-<!-- pair: GC-000042 | source: U00048 | role: main_text | format: verse -->
 བཅུ་གཉིས་དེ་ཡང་སྐད་ཅིག་གཅིག་ལ་ཚང་། །
-
-<!-- pair: GC-000043 | source: U00049 | role: main_text | format: verse -->
 སེམས་ནི་ཐ་དད་དབང་གི་སྣང་བ་ཡང་། །
-
-<!-- pair: GC-000044 | source: U00050 | role: main_text | format: verse -->
 ད་ལྟ་ཉིད་དུ་གང་བསྒྲུབས་འབྲས་བུར་སྤྱོད། །
-
-<!-- pair: GC-000045 | source: U00051 | role: main_text | format: verse -->
 དུས་ཀྱི་འཕེལ་འགྲིབ་ད་ལྟར་བྱ་ཡོད་ཡིན། །
-
-<!-- pair: GC-000046 | source: U00052 | role: main_text | format: verse -->
 ཚེ་འདི་རང་ལ་མཐོང་ཆོས་གཙོ་བོར་འབྱུང་། །
-
-<!-- pair: GC-000047 | source: U00053 | role: main_text | format: verse -->
 མི་ཆོས་བཅུ་དྲུག་ལྷ་ཆོས་གནད་གཅིག་སྟེ། །
-
-<!-- pair: GC-000048 | source: U00054 | role: main_text | format: verse -->
 གཙོ་ཕལ་ཙམ་ལས་འབྲས་ཐོབ་རྒྱུན་ཆད་མེད། །
-
-<!-- pair: GC-000049 | source: U00055 | role: main_text | format: verse -->
 ཤེས་རབ་བསླབ་པ་ཐོག་མར་འགྲོ་བའང་ཡོད། །
-
-<!-- pair: GC-000050 | source: U00056 | role: main_text | format: verse -->
 ལམ་རིམ་ཐམས་ཅད་ཐུན་གཅིག་ཉམས་ལེན་དགོས། །
-
-<!-- pair: GC-000051 | source: U00057 | role: main_text | format: verse -->
 ཞིང་གཅིག་ལ་ཡང་སངས་རྒྱས་གྲངས་མེད་འབྱོན། །
-
-<!-- pair: GC-000052 | source: U00058 | role: chapter_colophon | format: prose -->
 རྟེན་འབྲེལ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་གཉིས་པའོ། །
-
-<!-- pair: GC-000053 | source: U00059 | role: main_text | format: verse -->
 དམ་ཆོས་འདུལ་བ་ཐེག་པ་ཐུན་མོང་སྟེ། །
-
-<!-- pair: GC-000054 | source: U00060 | role: main_text | format: verse -->
 ལྷག་པར་ཐེག་པ་ཆེན་པོར་གསལ་བཞུགས་ལ། །
-
-<!-- pair: GC-000055 | source: U00061 | role: main_text | format: verse -->
 ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་འདི་ཉིད་ཡིན། །
-
-<!-- pair: GC-000056 | source: U00062 | role: main_text | format: verse -->
 བར་ཆད་ལྡན་ལའང་སྡོམ་པ་སྐྱེ་ངེས་ཏེ། །
-
-<!-- pair: GC-000057 | source: U00063 | role: main_text | format: verse -->
 ངོ་ བོ་རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས། །
-
-<!-- pair: GC-000058 | source: U00064 | role: main_text | format: verse -->
 ལྟུང་བ་མཐའ་དག་ལ་ནི་འདུ་ཤེས་གཙོ། །
-
-<!-- pair: GC-000059 | source: U00065 | role: main_text | format: verse -->
 ཡིད་ཀྱི་རྣམ་གསུམ་གཙོ་བོར་སྤོང་བ་དགོས། །
-
-<!-- pair: GC-000060 | source: U00066 | role: main_text | format: verse -->
 གཏོང་བའི་རྒྱུ་ཡིས་མི་གཏོང་བ་ཡང་ཡོད། །
-
-<!-- pair: GC-000061 | source: U00067 | role: main_text | format: verse -->
 ཕམ་པ་བཞི་ནི་བུ་ལོན་ནོར་ཅན་བཞིན། །
-
-<!-- pair: GC-000062 | source: U00068 | role: main_text | format: verse -->
 སྣ་གཅིག་བསྲུངས་པས་འབྲས་བུ་མྱང་འདས་འཐོབ། །
-
-<!-- pair: GC-000063 | source: U00069 | role: main_text | format: verse -->
 བཅས་དང་རང་བཞིན་ཁ་ན་མ་ཐོ་གཅིག །
-
-<!-- pair: GC-000064 | source: U00070 | role: main_text | format: verse -->
 སྡིག་ལྟུང་ཐ་དད་མེད་ཅིང་གཅིག་པ་ཡིན། །
-
-<!-- pair: GC-000065 | source: U00071 | role: main_text | format: verse -->
 བཀག་པ་ཡེ་བཀག་གནང་བ་ཡེ་གནང་ལ། །
-
-<!-- pair: GC-000066 | source: U00072 | role: main_text | format: verse -->
 ཆོས་ཀྱི་རྒྱལ་པོས་འགྲོ་བ་སྤྱི་ལ་བཅས། །
-
-<!-- pair: GC-000067 | source: U00073 | role: main_text | format: verse -->
 འགྲོ་བ་གང་གིས་འདས་ཀྱང་ཉེས་པ་དང་། །
-
-<!-- pair: GC-000068 | source: U00074 | role: main_text | format: verse -->
 བསྲུངས་པའི་ཕན་ཡོན་ཡང་ནི་ཀུན་ལ་འབྱུང་། །
-
-<!-- pair: GC-000069 | source: U00075 | role: main_text | format: verse -->
 བསྟན་ལ་ཆོ་ག་ལྷག་པར་གལ་ཆེ་ལ། །
-
-<!-- pair: GC-000070 | source: U00076 | role: main_text | format: verse -->
 མི་ཤེས་གཏི་མུག་ཉེས་པ་གཞན་ལས་ལྕི། །
-
-<!-- pair: GC-000071 | source: U00077 | role: main_text | format: verse -->
 དུད་འགྲོ་གཏི་མུག་ཆེ་བས་དམན་པ་ཡིན། །
-
-<!-- pair: GC-000072 | source: U00078 | role: main_text | format: verse -->
 ཉམས་ལས་མ་ཐོབ་ཉེས་པ་ཆེ་བར་བཞེད།
-
-<!-- pair: GC-000073 | source: U00079 | role: chapter_colophon | format: prose -->
 སོ་ཐར་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་གསུམ་པའོ། །
-
-<!-- pair: GC-000074 | source: U00080 | role: main_text | format: verse -->
 བྱང་ཆུབ་སེམས་དང་སྙིང་རྗེ་ཐ་དད་ཡིན། །
-
-<!-- pair: GC-000075 | source: U00081 | role: main_text | format: verse -->
 བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་རྟེན་ཅན་བཞེད། །
-
-<!-- pair: GC-000076 | source: U00082 | role: main_text | format: verse -->
 སོ་སོ་སྐྱེ་བོ་ལ་ཡང་འཇུག་སྡོམ་སྐྱེ། །
-
-<!-- pair: GC-000077 | source: U00083 | role: main_text | format: verse -->
 ཅི་རིགས་ཀྱིས་ཀྱང་འཇུག་པའི་སྡོམ་པར་འགྱུར། །
-
-<!-- pair: GC-000078 | source: U00084 | role: main_text | format: verse -->
 ཉོན་མོངས་ཅན་མིན་ལྟུང་བ་མི་སྲིད་ཅིང་། །
-
-<!-- pair: GC-000079 | source: U00085 | role: main_text | format: verse -->
 ཉེས་པར་མི་འགྱུར་མི་དགེ་གནང་བ་མེད། །
-
-<!-- pair: GC-000080 | source: U00086 | role: main_text | format: verse -->
 ཐབས་མཁས་སྤྱོད་ལ་མི་དགེ་ཡོད་མ་ཡིན། །
-
-<!-- pair: GC-000081 | source: U00087 | role: main_text | format: verse -->
 རང་གཞན་བརྗེ་བ་ཉེས་པ་འགྱུར་སྐབས་ཡོད། །
-
-<!-- pair: GC-000082 | source: U00088 | role: main_text | format: verse -->
 སེམས་དཔར་གནོད་བྱས་བདེ་བར་མི་འབྲེལ་ཞིང་། །
-
-<!-- pair: GC-000083 | source: U00089 | role: main_text | format: verse -->
 དགེ་དང་མི་དགེའི་འབྲས་བུ་སོ་སོར་འབྱུང་། །
-
-<!-- pair: GC-000084 | source: U00090 | role: main_text | format: verse -->
 བྱང་ཆུབ་སེམས་ནི་བརྗེད་ལས་འཆོར་མི་སྲིད། །
-
-<!-- pair: GC-000085 | source: U00091 | role: main_text | format: verse -->
 སྒྲིབ་པ་རྣམ་གསུམ་ཉོན་མོངས་སྒྲིབ་པ་གཅིག །
-
-<!-- pair: GC-000086 | source: U00092 | role: main_text | format: verse -->
 ཇི་སྙེད་གྲུབ་པས་དོན་དམ་བདེན་པ་བསྒྲིབས། །
-
-<!-- pair: GC-000087 | source: U00093 | role: main_text | format: verse -->
 ཉན་ཐོས་ཀྱིས་ཀྱང་གནས་ལུགས་ཕྱོགས་གཅིག་མཐོང་། །
-
-<!-- pair: GC-000088 | source: U00094 | role: main_text | format: verse -->
 ས་དྲུག་མན་ཆད་ཉན་རང་ཐུན་མོང་སྟེ། །
-
-<!-- pair: GC-000089 | source: U00095 | role: main_text | format: verse -->
 སེམས་ཙམ་པ་ནི་ས་བདུན་མངོན་རྟོགས་ཡིན། །
-
-<!-- pair: GC-000090 | source: U00096 | role: main_text | format: verse -->
 ཆོས་ཀྱི་བདག་མེད་ས་ བརྒྱད་མངོན་དུ་བྱས། །
-
-<!-- pair: GC-000091 | source: U00097 | role: main_text | format: verse -->
 རྟོགས་པ་གཅིག་གིས་ས་ལམ་མ་ལུས་བགྲོད། །
-
-<!-- pair: GC-000092 | source: U00098 | role: main_text | format: verse -->
 ས་ཐོབ་ཡོན་ཏན་འབྱུང་ཚུལ་མུ་དྲུག་ཡོད། །
-
-<!-- pair: GC-000093 | source: U00099 | role: main_text | format: verse -->
 གཞི་ལམ་འབྲས་བུར་ཚོགས་གཉིས་ཟུང་འཇུག་ནས། །
-
-<!-- pair: GC-000094 | source: U00100 | role: main_text | format: verse -->
 མཐོ་དམན་ཀུན་ཏུ་ཞིང་ནི་གདམས་པ་ཟབ། །
-
-<!-- pair: GC-000095 | source: U00101 | role: main_text | format: verse -->
 བདག་ཏུ་བཟུང་སྟེ་ཚོགས་བསགས་ཐབས་མཁས་བཞེད། །
-
-<!-- pair: GC-000096 | source: U00102 | role: main_text | format: verse -->
 འཁོར་འདས་ཀུན་གྱིས་བསགས་ཡོད་དགེ་བ་བསྔོ། །
-
-<!-- pair: GC-000097 | source: U00103 | role: main_text | format: verse -->
 སངས་རྒྱས་བླ་མ་ལ་ཡང་བསྔོ་བ་དགོས། །
-
-<!-- pair: GC-000098 | source: U00104 | role: chapter_colophon | format: prose -->
 བྱང་སེམས་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་བཞི་བའོ། །
-
-<!-- pair: GC-000099 | source: U00105 | role: main_text | format: verse -->
 གསང་སྔགས་བསྟན་པ་གཞན་ལའང་འབྱུང་བ་ཡོད། །
-
-<!-- pair: GC-000100 | source: U00106 | role: main_text | format: verse -->
 དབང་དོན་རྒྱུད་ལ་སྐྱེས་ནས་ཐོབ་པར་བཞེད། །
-
-<!-- pair: GC-000101 | source: U00107 | role: main_text | format: verse -->
 ལྷ་ནི་ཕྱོགས་གཅིག་པས་ཀྱང་དབང་བསྐུར་འགྲོ། །
-
-<!-- pair: GC-000102 | source: U00108 | role: main_text | format: verse -->
 རྟོགས་པ་མ་སྐྱེས་དཔེ་དོན་ཁོང་མི་ཆུད། །
-
-<!-- pair: GC-000103 | source: U00109 | role: main_text | format: verse -->
 བསྐྱེད་པའི་རིམ་པ་གདོད་ནས་ཡོངས་སུ་གྲུབ། །
-
-<!-- pair: GC-000104 | source: U00110 | role: main_text | format: verse -->
 རང་བྱུང་རྣམས་ལ་འཇུག་པའི་ཆོ་ག་དགོས། །
-
-<!-- pair: GC-000105 | source: U00111 | role: main_text | format: verse -->
 ལྷ་རྣམས་ཐམས་ཅད་མཚན་དཔེའི་ཡོན་ཏན་ལྡན། །
-
-<!-- pair: GC-000106 | source: U00112 | role: main_text | format: verse -->
 མདོ་རྒྱུད་ལས་གསུང་ལྷ་རྣམས་གཙོ་བོར་བྱ། །
-
-<!-- pair: GC-000107 | source: U00113 | role: main_text | format: verse -->
 དབང་པོ་རབ་ལ་ཆོ་ག་རྒྱས་པ་དགོས། །
-
-<!-- pair: GC-000108 | source: U00114 | role: main_text | format: verse -->
 སྤྲོས་པ་ཐམས་ཅད་བབས་ཀྱི་རྟེན་འབྲེལ་ཡིན། །
-
-<!-- pair: GC-000109 | source: U00115 | role: main_text | format: verse -->
 རྡོ་རྗེའི་ལུས་ནི་ཟབ་མོའི་འཁོར་ལོར་བཞེད། །
-
-<!-- pair: GC-000110 | source: U00116 | role: main_text | format: verse -->
 གནས་ལུག་འགའ་ཞིག་རྡོ་རྗེ་འཆང་གིས་སྦས། །
-
-<!-- pair: GC-000111 | source: U00117 | role: main_text | format: verse -->
 ལས་དང་འདུག་ཚུལ་འགའ་ཞིག་སྨན་རྒྱུད་ཟབ། །
-
-<!-- pair: GC-000112 | source: U00118 | role: main_text | format: verse -->
 གཞན་གྱི་མི་ཟབ་པ་རྣམས་འདིར་ཟབ་སྟེ། །
-
-<!-- pair: GC-000113 | source: U00119 | role: main_text | format: verse -->
 དེ་མེད་རྩ་རླུང་གདམས་པས་སངས་མི་རྒྱ། །
-
-<!-- pair: GC-000114 | source: U00120 | role: main_text | format: verse -->
 བཀའ་དང་འགལ་བའི་ཉམས་མྱོང་ལོག་རྟོག་ཡིན། །
-
-<!-- pair: GC-000115 | source: U00121 | role: main_text | format: verse -->
 དགོངས་པ་ཐམས་ཅད་འགལ་མེད་ཤེས་པར་དགོས། །
-
-<!-- pair: GC-000116 | source: U00122 | role: main_text | format: verse -->
 གདམས་ངག་ལྟར་མིན་བཀའ་ལྟར་འོང་བར་བཞེད། །
-
-<!-- pair: GC-000117 | source: U00123 | role: main_text | format: verse -->
 སྐྱོན་མེད་ཏིང་འཛིན་ཁམས་གསུམ་འཁོར་བའི་རྒྱུ། །
-
-<!-- pair: GC-000118 | source: U00124 | role: main_text | format: verse -->
 སྐུ་གསུམ་རེ་རེ་ལ་ཡང་གཞན་གཉིས་ཚང་། །
-
-<!-- pair: GC-000119 | source: U00125 | role: main_text | format: verse -->
 གསང་སྔགས་ལ་ནི་ཚུལ་ཁྲིམས་མེད་ཀ་མེད། །
-
-<!-- pair: GC-000120 | source: U00126 | role: main_text | format: verse -->
 འདོད་པས་བར་དུ་གཅོད་པ་མདོ་སྔགས་གཅིག །
-
-<!-- pair: GC-000121 | source: U00127 | role: main_text | format: verse -->
 སྔགས་ཀྱི་མི་དགེ་དགེ་བར་འགྱུར་སྐབས་མེད། །
-
-<!-- pair: GC-000122 | source: U00128 | role: main_text | format: verse -->
 འདུལ་བར་མི་དགེ་སྔགས་སུའང་དགེར་མི་འགྱུར། །
-
-<!-- pair: GC-000123 | source: U00129 | role: main_text | format: verse -->
 ཉོན་མོངས་དག་འབྲས་བདེ་བར་གཤེགས་པ་ཉིད། །
-
-<!-- pair: GC-000124 | source: U00130 | role: main_text | format: verse -->
 མཐུ་བསྟན་ཙམ་ལས་མངོན་སྤྱོད་གནང་བ་མེད། །
-
-<!-- pair: GC-000125 | source: U00131 | role: main_text | format: verse -->
 རྡོ་རྗེ་དམྱལ་བ་མནར་མེད་ལ་སོགས་ཡིན། །
-
-<!-- pair: GC-000126 | source: U00132 | role: main_text | format: verse -->
 སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན། །
-
-<!-- pair: GC-000127 | source: U00133 | role: main_text | format: verse -->
 སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན། །
-
-<!-- pair: GC-000128 | source: U00134 | role: main_text | format: verse -->
 ༈ དམ་པའི་ཆོས་གང་བརྒྱུད་པར་འབྲེལ་པ་ཟབ། །
-
-<!-- pair: GC-000129 | source: U00135 | role: main_text | format: verse -->
 འཁོར་འདས་ཆོས་ཀུན་རང་གི་སེམས་སྣང་ཙམ། །
-
-<!-- pair: GC-000130 | source: U00136 | role: main_text | format: verse -->
 རྒྱུ་འབྲས་སྐད་ཅིག་བསམ་པའི་རང་གཟུགས་ཡིན། །
-
-<!-- pair: GC-000131 | source: U00137 | role: main_text | format: verse -->
 གཤིས་ལ་མི་གནས་བལྟས་པའི་འགྱུར་མི་སྲིད། །
-
-<!-- pair: GC-000132 | source: U00138 | role: main_text | format: verse -->
 མཚན་ཉིད་མི་ལྡན་ཡོན་ཏན་སྐྱེད་མི་ནུས། །
-
-<!-- pair: GC-000133 | source: U00139 | role: main_text | format: verse -->
 རྟོགས་པ་སྐྱེད་ཐབས་མོས་གུས་ཁོ་ནར་ངེས། །
-
-<!-- pair: GC-000134 | source: U00140 | role: main_text | format: verse -->
 ལྟ་བའི་མཆོག་གྱུར་རྟོགས་པ་དང་ལྡན་པ། །
-
-<!-- pair: GC-000135 | source: U00141 | role: main_text | format: verse -->
 ཆེན་པོ་གསུམ་གྱིས་མ་རེག་རྟོགས་པའི་མཆོག །
-
-<!-- pair: GC-000136 | source: U00142 | role: main_text | format: verse -->
 ཐོས་བསམ་སྒོམ་པའི་སྟོང་ཉིད་ཤོལ་གོལ་ཡིན། །
-
-<!-- pair: GC-000137 | source: U00143 | role: main_text | format: verse -->
 རྟོགས་པ་གོམས་པར་བྱེད་པ་སྒོམ་པ་སྟེ། །
-
-<!-- pair: GC-000138 | source: U00144 | role: main_text | format: verse -->
 སྤྱོད་པ་བླང་དོར་བྲལ་བ་ཚུལ་ཁྲིམས་བཞེད། །
-
-<!-- pair: GC-000139 | source: U00145 | role: main_text | format: verse -->
 ལྟ་སྒོམ་སྤྱོད་གསུམ་ཐ་དད་མེད་པར་གཅིག །
-
-<!-- pair: GC-000140 | source: U00146 | role: main_text | format: verse -->
 ཕྱག་ཆེན་ཚུལ་ཁྲིམས་གནད་གཅིག་ཁྱད་པར་ཆོས། །
-
-<!-- pair: GC-000141 | source: U00147 | role: main_text | format: verse -->
 ཕྱག་ཆེན་ཡོན་ཏན་ཀུན་གྱི་བདག་ཉིད་དེ། །
-
-<!-- pair: GC-000142 | source: U00148 | role: main_text | format: verse -->
 མཉམ་པར་བཞག་ལས་ཡོན་ཏན་ཐམས་ཅད་འབྱུང་། །
-
-<!-- pair: GC-000143 | source: U00149 | role: main_text | format: verse -->
 རྒྱུ་ནི་མ་བསྒྲུབས་ཡོན་ཏན་འབྱུང་མི་སྲིད། །
-
-<!-- pair: GC-000144 | source: U00150 | role: main_text | format: verse -->
 སྟོང་ཉིད་རྟོགས་ན་རྒྱུ་འབྲས་ཉིད་དུ་ལྡང་། །
-
-<!-- pair: GC-000145 | source: U00151 | role: main_text | format: verse -->
 རྟོགས་ལྡན་ལ་ཡང་ཐམས་ལམ་ལྷག་པར་དགོས། །
-
-<!-- pair: GC-000146 | source: U00152 | role: main_text | format: verse -->
 རིགས་སྤྱོད་ཁྱད་དུ་འཕགས་པ་ཚུལ་ཁྲིམས་ཡིན། །
-
-<!-- pair: GC-000147 | source: U00153 | role: main_text | format: verse -->
 ཆོས་གསུམ་མི་ལྡན་ཉན་རང་ཁྱད་པར་མེད། །
-
-<!-- pair: GC-000148 | source: U00154 | role: chapter_colophon | format: prose -->
 ལྟ་སྒོམ་སྤྱོད་པ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་དྲུག་པའོ། །
-
-<!-- pair: GC-000149 | source: U00155 | role: main_text | format: verse -->
 སངས་རྒྱས་ས་ན་བདེན་གཉིས་རྣམ་དབྱེར་མེད། །
-
-<!-- pair: GC-000150 | source: U00156 | role: main_text | format: verse -->
 མཁྱེན་པའི་ཡེ་ཤེས་གཉིས་མེད་མཐའ་དང་བྲལ། །
-
-<!-- pair: GC-000151 | source: U00157 | role: main_text | format: verse -->
 རྒྱུ་མ་ལྟ་བུའི་ཆོས་ལས་ཡང་དག་འདས། །
-
-<!-- pair: GC-000152 | source: U00158 | role: main_text | format: verse -->
 སངས་རྒྱས་དུས་རྣམས་རྟག་ཏུ་ཚད་མར་བཞུགས། །
-
-<!-- pair: GC-000153 | source: U00159 | role: main_text | format: verse -->
 བྲལ་བའི་འབྲས་བུས་ཡེ་ཤེས་ཐུགས་ཅན་བཞེད། །
-
-<!-- pair: GC-000154 | source: U00160 | role: main_text | format: verse -->
 ཆོས་སྐུ་ཡོན་ཏན་མཛད་པ་ཕྲིན་ལས་བཅས། །
-
-<!-- pair: GC-000155 | source: U00161 | role: main_text | format: verse -->
 མཐར་ཐུག་སངས་རྒྱས་ས་ནའང་ཐུགས་བསྐྱེད་ཡོད། །
-
-<!-- pair: GC-000156 | source: U00162 | role: main_text | format: verse -->
 ཐུགས་ནི་རྟག་ཆད་ལྟ་བ་ཚུན་ལའང་འབྱུང་། །
-
-<!-- pair: GC-000157 | source: U00163 | role: main_text | format: verse -->
 ཤེས་བྱ་སྲིད་ཚད་སངས་རྒྱས་བྱ་བ་བྱེད། །
-
-<!-- pair: GC-000158 | source: U00164 | role: main_text | format: verse -->
 ཆོས་དབྱིངས་ཀུན་ཏུ་འཚང་རྒྱ་དགོས་པར་བཞེད། །
-
-<!-- pair: GC-000159 | source: U00165 | role: main_text | format: verse -->
 རྒྱུ་མེད་སྤྲུལ་པ་མི་སྲིད་རང་རྒྱུད་པ། །
-
-<!-- pair: GC-000160 | source: U00166 | role: main_text | format: verse -->
 སངས་རྒྱས་ཞེས་བྱ་རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ། །
-
-<!-- pair: GC-000161 | source: U00167 | role: main_text | format: verse -->
 སྨོན་འཇུག་ལོངས་སྤྲུལ་རྒྱུ་རུ་བཞེད་པའང་ཡོད། །
-
-<!-- pair: GC-000162 | source: U00168 | role: main_text | format: verse -->
 སྐུ་གསུམ་ཐ་དད་མེད་ཅིང་བཞུགས་པ་ཡིན། །
-
-<!-- pair: GC-000163 | source: U00169 | role: main_text | format: verse -->
 སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་རྒྱུད་ལ་བཞུགས། །
-
-<!-- pair: GC-000164 | source: U00170 | role: chapter_colophon | format: prose -->
 འབྲས་བུ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་བདུན་པའོ། །
-
-<!-- pair: GC-000165 | source: U00171 U00172 U00173 U00174 | role: closing_verse | format: verse -->
 ཇི་ལྟར་འཇིག་རྟེན་འདི་ན་ཕ་ཡི་བུ། །
 ལོངས་སྤྱོད་ཕལ་པའི་འབྱོར་བ་ལྡན་གྱུར་ཀྱང་། །
 ཕ་ཡིས་ཁྱད་ནོར་གཞན་ལ་མེད་པ་དག
 མ་ཐོས་མི་འཛིན་དེ་ནི་སྨད་པ་ལྟར། །
-
-<!-- pair: GC-000166 | source: U00175 U00176 U00177 U00178 | role: closing_verse | format: verse -->
 དེ་བཞིན་མཚུངས་མེད་འཇིག་རྟེན་མགོན་པོ་ཡིས། །
 མངོན་དུ་མཛད་པའི་ཁྱད་པར་ཆོས་འདི་དང་། །
 སྔོན་ཆད་མ་གྲགས་ཕྱི་དུས་འཇིག་རྟེན་འདིར། །
 རྗེས་འབྲང་སྲས་ཀྱིས་མི་འཛིན་དེ་དང་མཚུངས། །
-
-<!-- pair: GC-000167 | source: U00179 U00180 U00181 U00182 | role: closing_verse | format: verse -->
 དེ་ཕྱིར་རིགས་ལྡན་ཕ་ཡི་གདུང་འཚོབ་པ། །
 རིགས་འཚོལ་གཞན་ལ་སྨོད་པར་མི་བྱེད་ཅིང་། །
 གྲགས་ལྡན་དེ་ཡི་བཞེད་པའི་ཐུགས་དགོངས་རྣམས། །
 ནན་ཏན་ཆེན་པོས་འཛིན་པ་ངོ་མཚར་ཆེ། །
-
-<!-- pair: GC-000168 | source: U00183 U00184 U00185 U00186 | role: closing_verse | format: verse -->
 བསྟན་འཛིན་ཆོས་མཛད་སྐྱེས་བུ་དམ་པ་རྣམས། །
 བུ་སྟོང་ནང་དུ་འཁོར་ལོས་སྒྱུར་རྒྱལ་གྱི། །
 མཚན་ལྡན་སྲས་ནི་ཁྱད་པར་འཕགས་པ་བཞིན། །
 བསྟན་པའི་སྒོར་ཞུགས་ཀུན་གྱི་ནང་ན་མཛེས། །
-
-<!-- pair: GC-000169 | source: U00187 U00188 U00189 U00190 | role: closing_verse | format: verse -->
 ཐུན་མོང་མ་ཡིན་དམ་པའི་སྙིང་པོ་དང་། །
 རབ་འབྱམས་ཐུབ་པའི་བཀའ་ལ་མ་རྨོངས་པས། །
 ཕྱི་རོལ་རྒོལ་བ་ངན་པའི་ཝ་ཚོགས་ཀྱིས། །
 གངས་ཅན་སེང་གེ་ལྟ་བུར་ཉམས་ང་མེད། །
-
-<!-- pair: GC-000170 | source: U00191 U00192 U00193 U00194 | role: closing_verse | format: verse -->
 རིགས་མཐུན་འཁོར་དང་སྣ་ཚོགས་གདུལ་བྱ་ལ། །
 མ་འདྲེས་ཆོས་ཀྱི་ཁྱད་པར་ལེགས་བསྟན་པ། །
 དམན་དང་མཆོག་གི་བྱེ་བྲག་རབ་ཕྱེ་སྟེ། །
 སྙན་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ་ཕྱོགས་བཅུར་སྒྲོགས། །
-
-<!-- pair: GC-000171 | source: U00195 U00196 U00197 U00198 | role: work_colophon | format: verse -->
 དེ་ལྟར་ཟབ་ཅིང་རྒྱ་ཆེ་བླ་མེད་པའི། །
 དགོངས་པ་རྒྱ་མཚོ་ཆེ་ལྟར་ཡངས་པ་ལས། །
 སྐྲ་རྩེའི་ཆུ་ཐིགས་ཙམ་ཞིག་སྨྲས་པ་འདི། །
 བན་ལྡོམ་ཤེས་རབ་འབྱུང་གནས་བདག་གིས་བྲིས། །
-
-<!-- pair: GC-000172 | source: U00199 U00200 U00201 U00202 | role: closing_verse | format: verse -->
 རྣམ་དག་གངས་རི་ལྟར་དཀར་དགེ་བ་འདིས། །
 རིན་ཆེན་བསྟན་པ་ཕྱོགས་བཅུར་རྒྱས་པ་དང་། །
 འཇིག་རྟེན་མི་ཤེས་གཏི་མུག་རྣམ་བྲལ་ཞིང་། །
 མཐར་ཕྱིན་སངས་རྒྱས་ཡེ་ཤེས་ཐོབ་པར་ཤོག། ། ། །
-
-<!-- pair: GC-000173 | source: U00203 U00204 U00205 U00206 | role: work_colophon | format: prose -->
 ཅེས་པ་འདི་ནི་སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་ཀྱིས་མཛད་པའི་གཞུང་དེ་ཉིད་སོར་བཞག་ལ། །
 རང་གཞན་འཇུག་པ་བདེ་ཕྱིར།
 རྡོ་རྗེའི་གསུང་ཚིགས་བཅད་དུ་བསྡེབས་ཏེ། །

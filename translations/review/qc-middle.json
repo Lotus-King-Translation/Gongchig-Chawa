@@ -1,0 +1,210 @@
+{
+  "run_header": {
+    "qc_version": "Tibetan–English LLM translation QC v2.0 / 26 September 2026",
+    "reviewer": "Independent agent source_audit; did not author the middle draft",
+    "source_commit": "1d815bff0e12b8eacea9d6776b89b34f82ef038b",
+    "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+    "range": "U00080–U00154",
+    "finite_contract": "75 anchors, one pass; 75 completed, 0 unreviewed",
+    "mode": "full requested scope",
+    "snapshots": {
+      "work/middle-input.json": "eb13892fcb957d0916dbfd0d6bcc1d6980566b6ff4b4f0cf77426f1faa1434ca",
+      "work/middle-translation.json": "6b6a5ab8af18649a49f9188f773cdaadcc1e0e8b89528f1b3efffab8d750764d",
+      "work/middle-proposals.csv": "d82e39856066702b500bd8a709eb4c98b6d5b494c9befc2edd73fb07a4c98e8c",
+      "work/template/glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+      "work/template/guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+    },
+    "explicit_decisions": "User bypasses golden edition; mechanical formatting removal only. Full 206-anchor provisional release contract applies. Proposed glossary additions are not owner-approved.",
+    "missing_inputs": "No physical witness, authenticated commentary, or independent human review; no such sources claimed as checked."
+  },
+  "coverage": {
+    "expected_anchors": 75,
+    "reviewed_anchors": 75,
+    "unreviewed_anchors": [],
+    "notes_reviewed": 99,
+    "usage_records_reviewed": 144,
+    "proposal_records_inspected": 58,
+    "coverage": "Complete for the requested range",
+    "disposition": "Revision required",
+    "reason": "One probable agency error at U00107 warrants a bounded local correction and note revision; remaining listed questions are already disclosed review flags."
+  },
+  "checks_performed": [
+    "Read every source/draft anchor U00080–U00154 and all 99 notes; examined source-to-English coverage, syntax, negation, quantities, relation and scope.",
+    "Read relevant glossary rows in full, including status/provenance and additional exact/family rows; preserved established terminology and disclosed compound exceptions.",
+    "Reviewed supplied 144 usage records and inspected 58 eight-column Proposed records; no canonical glossary mutation accepted.",
+    "Mechanical checks passed: exact anchor order and coverage, 99 unique note IDs, every exact source quotation present, every nonempty usage-note reference resolves, proposals have eight fields and Proposed status.",
+    "Audited candidate corrections under Q9; rejected preference-only rewrites and corrections that erase protected terms."
+  ],
+  "confirmed_errors": [],
+  "probable_errors": [
+    {
+      "issue_id": "QMID-001",
+      "anchor": "U00107",
+      "source": "ལྷ་ནི་ཕྱོགས་གཅིག་པས་ཀྱང་དབང་བསྐུར་འགྲོ། །",
+      "english": "Empowerment can take place even with a partial [presentation of] the deity.",
+      "label": "Probable error",
+      "category": "syntax/reference; meaning/scope",
+      "severity": "High",
+      "confidence": "Moderate",
+      "evidence": "ལྷ་ནི་ explicitly topicalizes deity; ཕྱོགས་གཅིག་པས་ཀྱང་ carries an instrumental/agentive ending before དབང་བསྐུར་. The local sequence discusses secret-mantra transmission and attainment of empowerment. No Tibetan noun for presentation is supplied.",
+      "explanation": "The draft turns the deity into something partially presented and the partial presentation into the circumstance enabling empowerment. A more direct construction treats the deity characterized as one-sided/partial as the conferring agent. M013 discloses its invented presentation but only lists knowledge, realization, or assembly alternatives, omitting this agentive reading. Thus the key relation remains inadequately represented.",
+      "recommended_action": "Local correction plus note revision: retain deity as the provisional agent; remove invented presentation; leave the exact sense of one-sided/partial unresolved.",
+      "proposed_wording": "Empowerment can be conferred even by a partial deity.",
+      "authority_status": "Reviewer proposal only; no source/glossary change and no owner approval inferred.",
+      "rules": [
+        "Part II Q2",
+        "Part II Q3",
+        "Part II Q6",
+        "Part II Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "M013"
+      ],
+      "disposition": "open"
+    }
+  ],
+  "open_questions": [
+    {
+      "issue_id": "QMID-002",
+      "anchor": "U00117",
+      "source": "ལས་དང་འདུག་ཚུལ་འགའ་ཞིག་སྨན་རྒྱུད་ཟབ། །",
+      "english": "Regarding certain functions and dispositions, the medical tantras are profound.",
+      "label": "Open question",
+      "category": "meaning/scope",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "evidence": "ལས་དང་འདུག་ཚུལ་ literally supports actions and ways of remaining/being situated. The prior lines concern a vajra body; M017 already discloses that bodily functions/dispositions are inferred and supplies the more literal alternatives.",
+      "explanation": "Functions and dispositions can suggest an anatomical interpretation more strongly than the Tibetan alone warrants. That limitation is already adequately disclosed. No certain wrong relationship is established by the available source.",
+      "recommended_action": "No required correction. If reducing the anatomical inference, retain M017 and use the narrower literal alternative; this is a provisional choice, not a certified semantic repair.",
+      "proposed_wording": "Regarding certain actions and ways of remaining, the medical tantras are profound.",
+      "authority_status": "Reviewer proposal only; no source/glossary change and no owner approval inferred.",
+      "rules": [
+        "Part II Q2",
+        "Part II Q3",
+        "Part II Q6",
+        "Part II Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "M017"
+      ],
+      "disposition": "referred"
+    },
+    {
+      "issue_id": "QMID-003",
+      "anchor": "U00142",
+      "source": "ཐོས་བསམ་སྒོམ་པའི་སྟོང་ཉིད་ཤོལ་གོལ་ཡིན། །",
+      "english": "The emptiness of hearing, reflection, and cultivation is delay and deviation.",
+      "label": "Open question",
+      "category": "meaning/scope; terminology",
+      "severity": "High",
+      "confidence": "Moderate",
+      "evidence": "ཐོས་བསམ་སྒོམ་པའི་ is genitive; ཡིན་ gives an assertion. M027 and M098 explicitly preserve the asserted relation and leave the technical force of ཤོལ་གོལ་ unresolved.",
+      "explanation": "The terse assertion remains doctrinally underdetermined. The source does not explicitly authorize inserting merely conceptual, a special object of cultivation, or the legacy may. The draft avoids those additions and keeps the unresolved issue visible.",
+      "recommended_action": "No additional correction justified from the supplied material. Keep M027/M098 and obtain commentary before narrowing the type of emptiness or the exact delay/deviation sense.",
+      "proposed_wording": "",
+      "authority_status": "Reviewer proposal only; no source/glossary change and no owner approval inferred.",
+      "rules": [
+        "Part II Q2",
+        "Part II Q3",
+        "Part II Q6",
+        "Part II Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "M027",
+        "M083",
+        "M098"
+      ],
+      "disposition": "referred"
+    },
+    {
+      "issue_id": "QMID-004",
+      "anchor": "U00152",
+      "source": "རིགས་སྤྱོད་ཁྱད་དུ་འཕགས་པ་ཚུལ་ཁྲིམས་ཡིན། །",
+      "english": "Ethical discipline is the especially exalted activity of the families.",
+      "label": "Open question",
+      "category": "meaning/scope; terminology",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "evidence": "རིགས་སྤྱོད་ is not an established complete glossary expression. སྤྱོད་པ་ = Activity is retained. M030/M089 explicitly distinguish families from kind/class and withhold approval of a tantric-family interpretation.",
+      "explanation": "Families is a specific working interpretation, but the draft and records do not present it as settled. Replacing it categorically with type/class would settle the same ambiguity without stronger evidence.",
+      "recommended_action": "No new correction. Retain the source-linked review flag until the referent of རིགས་ is established.",
+      "proposed_wording": "",
+      "authority_status": "Reviewer proposal only; no source/glossary change and no owner approval inferred.",
+      "rules": [
+        "Part II Q2",
+        "Part II Q3",
+        "Part II Q6",
+        "Part II Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "M030",
+        "M089"
+      ],
+      "disposition": "referred"
+    }
+  ],
+  "rejected_findings": [
+    {
+      "anchors": [
+        "U00080",
+        "U00090",
+        "U00095",
+        "U00135"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Ordinary mind is the protected assignment. The ordinary-mind-of-awakening and school-label compounds are explicitly provisional; no shortening to generic mind is justified."
+    },
+    {
+      "anchors": [
+        "U00120",
+        "U00121",
+        "U00139",
+        "U00143",
+        "U00145",
+        "U00154"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Experiential acquaintance, conceptualizing, enlightened intent, confident devotion, realization, cultivation, and activity preserve the established distinctions."
+    },
+    {
+      "anchors": [
+        "U00116",
+        "U00133",
+        "U00137",
+        "U00151"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Source defects/conjectures and duplicate text are visible. Do not replace U00133 with the unsupported legacy English chapter-five conclusion or silently repair Tibetan."
+    },
+    {
+      "anchors": [
+        "U00112",
+        "U00117"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Tantra as a textual genre is a disclosed scoped exception to continuum, with genre evidence and a separate proposal. Forcing continuum into these book references would introduce error."
+    },
+    {
+      "anchors": [
+        "U00144"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Accepting and rejecting follows the actual Tibetan order in བླང་དོར་. Do not reverse it to mimic the differently ordered glossary compound."
+    },
+    {
+      "anchors": [
+        "U00129"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "The personal title Blissfully Gone One preserves བདེ་བར་གཤེགས་པ་, whose going/person content is lost in the reference’s true bliss."
+    }
+  ],
+  "glossary_decisions": "No proposed additions activated. All 58 supplied candidate records remain Proposed; terminology gaps alone do not establish mistranslation when transparently annotated.",
+  "presentation_issues": "No actionable presentation defect identified within the reviewed scratch draft; final rendered paired publication was outside this pass.",
+  "limitations": "Coverage is complete for this 75-anchor package only. Mechanically successful checks do not certify semantic accuracy. The reviewer did not independently QC their own U00155–U00206 translation. Source and draft were not edited.",
+  "next_finite_task": "Coordinator applies/disposes QMID-001 at U00107, revises M013, and records the resulting local recheck. Preserve QMID-002–004 and existing material flags for human review."
+}

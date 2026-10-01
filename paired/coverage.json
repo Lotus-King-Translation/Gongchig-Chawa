@@ -1,0 +1,2281 @@
+[
+  {
+    "anchor": "U00001",
+    "context": "04e78d3c788744e7bcd465d9c1e43181",
+    "pair": "GC-000001",
+    "status": "represented",
+    "human_review_notes": [
+      "F001",
+      "F021"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00002",
+    "context": "baeea02540d8456db1f63d0ab88aa35f",
+    "pair": "GC-000002",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00003",
+    "context": "536aebffe8bb475080f8d6e32da169d7",
+    "pair": "GC-000003",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00004",
+    "context": "cc175f02ecbd4347852681fc3a095c63",
+    "pair": "GC-000004",
+    "status": "represented",
+    "human_review_notes": [
+      "F022"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00005",
+    "context": "bf36fbf409f248ab9c1d8c658d2b9118",
+    "pair": "GC-000004",
+    "status": "represented",
+    "human_review_notes": [
+      "F023"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00006",
+    "context": "e7a8e5c183a8492e86f0234ceeb180fa",
+    "pair": "GC-000004",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00007",
+    "context": "1aefdea3d2a24fd5bb0b16ee4050bf0d",
+    "pair": "GC-000004",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00008",
+    "context": "bda7c3ad46624b2bb75bf4997d30c2cf",
+    "pair": "GC-000005",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00009",
+    "context": "36769474ede24f3795ad5a6a3b5a8251",
+    "pair": "GC-000005",
+    "status": "represented",
+    "human_review_notes": [
+      "F021"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00010",
+    "context": "6c513a8fa9ca4a32a06f2e1d57f78c3c",
+    "pair": "GC-000005",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00011",
+    "context": "ce87ef728b354fc1b89cac0eaa7ee467",
+    "pair": "GC-000005",
+    "status": "represented",
+    "human_review_notes": [
+      "F024"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00012",
+    "context": "908216de329b4563833eeec5193a60dc",
+    "pair": "GC-000006",
+    "status": "represented",
+    "human_review_notes": [
+      "Q004"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00013",
+    "context": "bef4be71b3644cb59b94747e528fe0d6",
+    "pair": "GC-000007",
+    "status": "represented",
+    "human_review_notes": [
+      "F025"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00014",
+    "context": "901c0858725641bda596aa1d33c0a36b",
+    "pair": "GC-000008",
+    "status": "represented",
+    "human_review_notes": [
+      "F026",
+      "F027"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00015",
+    "context": "beb31c53d6b94b219e04318afd8c1df2",
+    "pair": "GC-000009",
+    "status": "represented",
+    "human_review_notes": [
+      "F002",
+      "F028"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00016",
+    "context": "396796f9af284ae4b5cbd39063234b0c",
+    "pair": "GC-000010",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00017",
+    "context": "01c55812a99c431d884032af54278565",
+    "pair": "GC-000011",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00018",
+    "context": "8cf9e7a72bf549a2a1faae34fe896b1e",
+    "pair": "GC-000012",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00019",
+    "context": "a71af0b3a5fd4371a67cfa81e8e36337",
+    "pair": "GC-000013",
+    "status": "represented",
+    "human_review_notes": [
+      "F026",
+      "F028",
+      "F029",
+      "F030"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00020",
+    "context": "30f4e99cb5744645bf9c0041ca156831",
+    "pair": "GC-000014",
+    "status": "represented",
+    "human_review_notes": [
+      "F031"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00021",
+    "context": "a9f27847726e4742a8a18e26ebcac93d",
+    "pair": "GC-000015",
+    "status": "represented",
+    "human_review_notes": [
+      "F031",
+      "F032"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00022",
+    "context": "2bb5ec59cc2a4f4bbcef5d9e4f0f0040",
+    "pair": "GC-000016",
+    "status": "represented",
+    "human_review_notes": [
+      "F033",
+      "F034",
+      "Q001"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00023",
+    "context": "7268f66c8ef74988934611e3d391ddaa",
+    "pair": "GC-000017",
+    "status": "represented",
+    "human_review_notes": [
+      "F035",
+      "F036"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00024",
+    "context": "dc7e858f01fc4c86be2ef05544cc5d95",
+    "pair": "GC-000018",
+    "status": "represented",
+    "human_review_notes": [
+      "F037"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00025",
+    "context": "95fe2cf1e4a348bd99dd8aedba5431cd",
+    "pair": "GC-000019",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00026",
+    "context": "f21394abb0184aa6b21a1c4a4444b325",
+    "pair": "GC-000020",
+    "status": "represented",
+    "human_review_notes": [
+      "F038"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00027",
+    "context": "53ce8b01b0574e6dabe50cee415e5cda",
+    "pair": "GC-000021",
+    "status": "represented",
+    "human_review_notes": [
+      "F039"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00028",
+    "context": "f5d2b27c6c184726a46af0c9d7d4133e",
+    "pair": "GC-000022",
+    "status": "represented",
+    "human_review_notes": [
+      "F039",
+      "F040"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00029",
+    "context": "1324c92f472a412a876a180b0b36a036",
+    "pair": "GC-000023",
+    "status": "represented",
+    "human_review_notes": [
+      "F041",
+      "F042",
+      "F043"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00030",
+    "context": "6396e276a8a6419eb19ae8327beb40e2",
+    "pair": "GC-000024",
+    "status": "represented",
+    "human_review_notes": [
+      "F044"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00031",
+    "context": "cdc366e49464416bbbf71736dee6a60e",
+    "pair": "GC-000025",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00032",
+    "context": "5041531194a04f8b909186df47491973",
+    "pair": "GC-000026",
+    "status": "represented",
+    "human_review_notes": [
+      "F045"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00033",
+    "context": "15a8f6723ed74a1d90e4644d12f8fb13",
+    "pair": "GC-000027",
+    "status": "represented",
+    "human_review_notes": [
+      "F046",
+      "F047"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00034",
+    "context": "62619f3da3ff42d491fbb66ecfa3f9b2",
+    "pair": "GC-000028",
+    "status": "represented",
+    "human_review_notes": [
+      "F003",
+      "F048"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00035",
+    "context": "5deac2796e084cfab6fe83215c81df72",
+    "pair": "GC-000029",
+    "status": "represented",
+    "human_review_notes": [
+      "F050",
+      "F051"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00036",
+    "context": "66833e79b77d4a849abc3fbb521b8f76",
+    "pair": "GC-000030",
+    "status": "represented",
+    "human_review_notes": [
+      "F004",
+      "F049"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00037",
+    "context": "5f201898bd504337b44d9ba8ede7e572",
+    "pair": "GC-000031",
+    "status": "represented",
+    "human_review_notes": [
+      "F005",
+      "F052"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00038",
+    "context": "18ae225d008b4a618341351cb07a1b4e",
+    "pair": "GC-000032",
+    "status": "represented",
+    "human_review_notes": [
+      "F006",
+      "F053",
+      "F054"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00039",
+    "context": "a38d57f4158e4fd7bcdc0834286582f1",
+    "pair": "GC-000033",
+    "status": "represented",
+    "human_review_notes": [
+      "F055"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00040",
+    "context": "73c0fb5f56d74dee9b41f11d8c0432e7",
+    "pair": "GC-000034",
+    "status": "represented",
+    "human_review_notes": [
+      "F056"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00041",
+    "context": "09a11466de57415992415ed48914b612",
+    "pair": "GC-000035",
+    "status": "represented",
+    "human_review_notes": [
+      "F007",
+      "F057"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00042",
+    "context": "2eeb15e6d8da4417b3e978478d7d98c2",
+    "pair": "GC-000036",
+    "status": "represented",
+    "human_review_notes": [
+      "F028"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00043",
+    "context": "484abb71b2ba406d8b3682ca626f445e",
+    "pair": "GC-000037",
+    "status": "represented",
+    "human_review_notes": [
+      "F008",
+      "F058"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00044",
+    "context": "30949b1bba39426c96803beb2985bf35",
+    "pair": "GC-000038",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00045",
+    "context": "fda768e900744e9684b48a50e4b14c65",
+    "pair": "GC-000039",
+    "status": "represented",
+    "human_review_notes": [
+      "F059"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00046",
+    "context": "4dd676a39d1840eca43022bc1eb7b6d3",
+    "pair": "GC-000040",
+    "status": "represented",
+    "human_review_notes": [
+      "F060"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00047",
+    "context": "d0683bf2c17d41269b0e71da7e2f26d9",
+    "pair": "GC-000041",
+    "status": "represented",
+    "human_review_notes": [
+      "F009",
+      "F061"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00048",
+    "context": "0116cebb1efa4ad98abba5dcd1093699",
+    "pair": "GC-000042",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00049",
+    "context": "2fe5d92a206f4092b74644eef413a1bc",
+    "pair": "GC-000043",
+    "status": "represented",
+    "human_review_notes": [
+      "F010"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00050",
+    "context": "c70bbe681e0647ff8b1e1cac48669f12",
+    "pair": "GC-000044",
+    "status": "represented",
+    "human_review_notes": [
+      "F062",
+      "Q005"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00051",
+    "context": "5c047ece0709484fa82475f8bf4c2312",
+    "pair": "GC-000045",
+    "status": "represented",
+    "human_review_notes": [
+      "F011"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00052",
+    "context": "dc96e8c08e1840938c8a9b2239bab3f2",
+    "pair": "GC-000046",
+    "status": "represented",
+    "human_review_notes": [
+      "F063"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00053",
+    "context": "91592a1bc97249b08965b217eafbe93d",
+    "pair": "GC-000047",
+    "status": "represented",
+    "human_review_notes": [
+      "F064",
+      "F065"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00054",
+    "context": "41860d29db6e4635b8988f35cb7eab83",
+    "pair": "GC-000048",
+    "status": "represented",
+    "human_review_notes": [
+      "F012"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00055",
+    "context": "e281d09fb3804ecabbdd51e0832586e9",
+    "pair": "GC-000049",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00056",
+    "context": "26931cb1667c440ab19553dac10cea19",
+    "pair": "GC-000050",
+    "status": "represented",
+    "human_review_notes": [
+      "F066"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00057",
+    "context": "4d8e7120238647a9af8797e0fc6fe8e1",
+    "pair": "GC-000051",
+    "status": "represented",
+    "human_review_notes": [
+      "F067"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00058",
+    "context": "0063cdf90b00429e8ebec0aca197ca12",
+    "pair": "GC-000052",
+    "status": "represented",
+    "human_review_notes": [
+      "F061"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00059",
+    "context": "1e4fb4cdac47471488748d1b3f3df8bc",
+    "pair": "GC-000053",
+    "status": "represented",
+    "human_review_notes": [
+      "F021",
+      "F029"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00060",
+    "context": "69ff1ed995a94e6d81b8bebd9a8d22a7",
+    "pair": "GC-000054",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00061",
+    "context": "e1e31b68205e4612ad2d2e446ddb2a69",
+    "pair": "GC-000055",
+    "status": "represented",
+    "human_review_notes": [
+      "F013"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00062",
+    "context": "87fee697e02d436a8cd13b2170d24ecb",
+    "pair": "GC-000056",
+    "status": "represented",
+    "human_review_notes": [
+      "F049",
+      "F014"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00063",
+    "context": "915b85e7f7074266b4ec33b5dcc9ca6b",
+    "pair": "GC-000057",
+    "status": "represented",
+    "human_review_notes": [
+      "F015",
+      "F068"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00064",
+    "context": "5075cd2d890549f5833233e2a7721a12",
+    "pair": "GC-000058",
+    "status": "represented",
+    "human_review_notes": [
+      "F069"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00065",
+    "context": "7c85317e86444d4d9e5e6a894be248ca",
+    "pair": "GC-000059",
+    "status": "represented",
+    "human_review_notes": [
+      "F016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00066",
+    "context": "8891fb68a4054540a94a12e680abd5f2",
+    "pair": "GC-000060",
+    "status": "represented",
+    "human_review_notes": [
+      "F017"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00067",
+    "context": "8f47f0bff90a48629adbc004a4c8391c",
+    "pair": "GC-000061",
+    "status": "represented",
+    "human_review_notes": [
+      "F018",
+      "F070"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00068",
+    "context": "26e4526f789b4ade9318fc68a4ff0638",
+    "pair": "GC-000062",
+    "status": "represented",
+    "human_review_notes": [
+      "F019",
+      "F071"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00069",
+    "context": "1a32687b0fb44bf19d7e9d94a80ea9c5",
+    "pair": "GC-000063",
+    "status": "represented",
+    "human_review_notes": [
+      "F072"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00070",
+    "context": "d343a97a101747f69d0c05d595e2a2ef",
+    "pair": "GC-000064",
+    "status": "represented",
+    "human_review_notes": [
+      "F058",
+      "F069"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00071",
+    "context": "68d91ac25b2f4ef698d6d7c9f440095a",
+    "pair": "GC-000065",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00072",
+    "context": "4b8df366a7a24bc1bda64badccb583ff",
+    "pair": "GC-000066",
+    "status": "represented",
+    "human_review_notes": [
+      "F020"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00073",
+    "context": "c157196923354870b8a29493c3a983ee",
+    "pair": "GC-000067",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00074",
+    "context": "3c7e40eb9b9d4a65a57e7fe29a87e4f5",
+    "pair": "GC-000068",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00075",
+    "context": "a1372cdf0d6e40e7b224ba93f7c09665",
+    "pair": "GC-000069",
+    "status": "represented",
+    "human_review_notes": [
+      "F073"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00076",
+    "context": "a6641913432948d8b7c8b51181d63866",
+    "pair": "GC-000070",
+    "status": "represented",
+    "human_review_notes": [
+      "F074"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00077",
+    "context": "967683501c7646dc8d1d36354bfc5fda",
+    "pair": "GC-000071",
+    "status": "represented",
+    "human_review_notes": [
+      "F074"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00078",
+    "context": "d0445ae84bd7419ba6320dcb3b4c27b5",
+    "pair": "GC-000072",
+    "status": "represented",
+    "human_review_notes": [
+      "F075"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00079",
+    "context": "7465c2a3b66e489fb5b64a5b2012338e",
+    "pair": "GC-000073",
+    "status": "represented",
+    "human_review_notes": [
+      "F076"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00080",
+    "context": "d42abe30970d44cd83bf58dee818d9b2",
+    "pair": "GC-000074",
+    "status": "represented",
+    "human_review_notes": [
+      "M032",
+      "M033"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00081",
+    "context": "977bbbda4b0246df8e716d902c792c83",
+    "pair": "GC-000075",
+    "status": "represented",
+    "human_review_notes": [
+      "M001",
+      "M034",
+      "M035"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00082",
+    "context": "6a7b4cdf532e43fb93e1f7c04ec47501",
+    "pair": "GC-000076",
+    "status": "represented",
+    "human_review_notes": [
+      "M036",
+      "M037"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00083",
+    "context": "a7b9eee4d11d408286c34c5ff369caf4",
+    "pair": "GC-000077",
+    "status": "represented",
+    "human_review_notes": [
+      "M036",
+      "M002"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00084",
+    "context": "5659240c68c246ba85a9a06da8dbf1ea",
+    "pair": "GC-000078",
+    "status": "represented",
+    "human_review_notes": [
+      "M003",
+      "M038",
+      "M040"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00085",
+    "context": "0b1ab663d3654f1ebedd7039c43855a2",
+    "pair": "GC-000079",
+    "status": "represented",
+    "human_review_notes": [
+      "M004",
+      "M041"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00086",
+    "context": "453973ebbbfb4046aa2b5c007ac3bff7",
+    "pair": "GC-000080",
+    "status": "represented",
+    "human_review_notes": [
+      "M041",
+      "M045"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00087",
+    "context": "6a2b3b513c3a41ed8cb1f1a8dc1e5c26",
+    "pair": "GC-000081",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00088",
+    "context": "a3bf7d60cf3a4a37b5abe2542b8457dc",
+    "pair": "GC-000082",
+    "status": "represented",
+    "human_review_notes": [
+      "M034"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00089",
+    "context": "f7b739023b944f1fa1ab90b91054c264",
+    "pair": "GC-000083",
+    "status": "represented",
+    "human_review_notes": [
+      "M041",
+      "M043"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00090",
+    "context": "eb0c67c8b6464728964548a281b6af4b",
+    "pair": "GC-000084",
+    "status": "represented",
+    "human_review_notes": [
+      "M032"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00091",
+    "context": "9aaeb2af3db7460c8f11629675c19d41",
+    "pair": "GC-000085",
+    "status": "represented",
+    "human_review_notes": [
+      "M038",
+      "M005",
+      "M046"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00092",
+    "context": "a546bc908ce34b08b693e2742c807672",
+    "pair": "GC-000086",
+    "status": "represented",
+    "human_review_notes": [
+      "M047"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00093",
+    "context": "dd832b9d576044bab6695819bc9238ed",
+    "pair": "GC-000087",
+    "status": "represented",
+    "human_review_notes": [
+      "M048"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00094",
+    "context": "2c7cb96300b649729255c4a70ef65878",
+    "pair": "GC-000088",
+    "status": "represented",
+    "human_review_notes": [
+      "M048",
+      "M050",
+      "M052"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00095",
+    "context": "e5aab2239f2e48d18265a4d22cbe6d5d",
+    "pair": "GC-000089",
+    "status": "represented",
+    "human_review_notes": [
+      "M052",
+      "M006",
+      "M053",
+      "M054"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00096",
+    "context": "259d69c421844ca698d59bb4dc5a1b95",
+    "pair": "GC-000090",
+    "status": "represented",
+    "human_review_notes": [
+      "M052",
+      "M055"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00097",
+    "context": "fef6e89431ae44ebb5c105a2ddc2e39b",
+    "pair": "GC-000091",
+    "status": "represented",
+    "human_review_notes": [
+      "M052"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00098",
+    "context": "021ea9571d294b3fbe7b0982563b64f6",
+    "pair": "GC-000092",
+    "status": "represented",
+    "human_review_notes": [
+      "M052",
+      "M007",
+      "M090",
+      "M096"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00099",
+    "context": "bdbaf42f36cb4627864e25722d85bc5e",
+    "pair": "GC-000093",
+    "status": "represented",
+    "human_review_notes": [
+      "M008",
+      "M056",
+      "M099"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00100",
+    "context": "fda1f140b304418ab4bb036af65ce1f4",
+    "pair": "GC-000094",
+    "status": "represented",
+    "human_review_notes": [
+      "M009",
+      "M057"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00101",
+    "context": "bfe7fcd9018d47d7afe53847f7b0c00d",
+    "pair": "GC-000095",
+    "status": "represented",
+    "human_review_notes": [
+      "M045",
+      "M056",
+      "M010"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00102",
+    "context": "6d360d9c18114c82a76da89e01182462",
+    "pair": "GC-000096",
+    "status": "represented",
+    "human_review_notes": [
+      "M043",
+      "M058",
+      "M093"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00103",
+    "context": "218ce2dc5f2249e2b6018022be58e116",
+    "pair": "GC-000097",
+    "status": "represented",
+    "human_review_notes": [
+      "M058"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00104",
+    "context": "e9aac6567c22406ead6b246bf7f3223c",
+    "pair": "GC-000098",
+    "status": "represented",
+    "human_review_notes": [
+      "M034",
+      "M011"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00105",
+    "context": "ac5c591a658e4af78b791a3010a701d7",
+    "pair": "GC-000099",
+    "status": "represented",
+    "human_review_notes": [
+      "M012",
+      "M059"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00106",
+    "context": "0526bf5ba51c4796a62e7993c9454f84",
+    "pair": "GC-000100",
+    "status": "represented",
+    "human_review_notes": [
+      "M060"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00107",
+    "context": "3c8a366275ee402d920d303aa88b96a7",
+    "pair": "GC-000101",
+    "status": "represented",
+    "human_review_notes": [
+      "M060",
+      "M013"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00108",
+    "context": "91d1dc851f374bef8f7369f50b933fdb",
+    "pair": "GC-000102",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00109",
+    "context": "b52e56678f074906898e762d4b048188",
+    "pair": "GC-000103",
+    "status": "represented",
+    "human_review_notes": [
+      "M061"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00110",
+    "context": "c8d5258a31b84476bd489bedbd3d011f",
+    "pair": "GC-000104",
+    "status": "represented",
+    "human_review_notes": [
+      "M014",
+      "M062"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00111",
+    "context": "072f6c8631464c99bfe274b67048982b",
+    "pair": "GC-000105",
+    "status": "represented",
+    "human_review_notes": [
+      "M063",
+      "M091"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00112",
+    "context": "55716292ab304927a45f439055ec946f",
+    "pair": "GC-000106",
+    "status": "represented",
+    "human_review_notes": [
+      "M064",
+      "M065"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00113",
+    "context": "f69ad9f969ae488aa0f713201597e15a",
+    "pair": "GC-000107",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00114",
+    "context": "386c7b2977614c80aaa8129c8ed4ea3e",
+    "pair": "GC-000108",
+    "status": "represented",
+    "human_review_notes": [
+      "M015",
+      "M066",
+      "M067"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00115",
+    "context": "1c52771671a44bbe9b672881971f91d3",
+    "pair": "GC-000109",
+    "status": "represented",
+    "human_review_notes": [
+      "M068"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00116",
+    "context": "7267f67c1b3346c5a25d6bde98b779be",
+    "pair": "GC-000110",
+    "status": "represented",
+    "human_review_notes": [
+      "M016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00117",
+    "context": "b3819c3018c245d09a407d73ba34f7f8",
+    "pair": "GC-000111",
+    "status": "represented",
+    "human_review_notes": [
+      "M065",
+      "M017"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00118",
+    "context": "ea2f694290fd4344b152d6986b25d043",
+    "pair": "GC-000112",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00119",
+    "context": "94b81a25bc42490fae7279f60364da6f",
+    "pair": "GC-000113",
+    "status": "represented",
+    "human_review_notes": [
+      "M018",
+      "M069"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00120",
+    "context": "a410072002ec4b2b9f8a7d339cbf8090",
+    "pair": "GC-000114",
+    "status": "represented",
+    "human_review_notes": [
+      "M070",
+      "M071"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00121",
+    "context": "d113b705b2454a02941efb77c65999d7",
+    "pair": "GC-000115",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00122",
+    "context": "cdf94b4364f241a9879678c64a31a66c",
+    "pair": "GC-000116",
+    "status": "represented",
+    "human_review_notes": [
+      "M070",
+      "M019",
+      "M072"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00123",
+    "context": "1c0cf7f124b14baab9dc410ecc146684",
+    "pair": "GC-000117",
+    "status": "represented",
+    "human_review_notes": [
+      "M073",
+      "M074",
+      "M095"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00124",
+    "context": "2d1393b35a61492889cbb830b44696e0",
+    "pair": "GC-000118",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00125",
+    "context": "6ed43fc3b9d8428cb2bc5374ea8be427",
+    "pair": "GC-000119",
+    "status": "represented",
+    "human_review_notes": [
+      "M059",
+      "M075"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00126",
+    "context": "ccce841677aa4d4e89dd0d45d4b45dff",
+    "pair": "GC-000120",
+    "status": "represented",
+    "human_review_notes": [
+      "M059",
+      "M064"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00127",
+    "context": "8ca165a54fea4e7681c9613eec669a35",
+    "pair": "GC-000121",
+    "status": "represented",
+    "human_review_notes": [
+      "M059",
+      "M042",
+      "M044"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00128",
+    "context": "37136da84d344d298ff67fc392cbaa97",
+    "pair": "GC-000122",
+    "status": "represented",
+    "human_review_notes": [
+      "M059",
+      "M042",
+      "M044",
+      "M077"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00129",
+    "context": "f998193fa7874c1c93485fb3251b8377",
+    "pair": "GC-000123",
+    "status": "represented",
+    "human_review_notes": [
+      "M020",
+      "M039",
+      "M078"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00130",
+    "context": "cebe95eb2ca248a38bdf29a09c2488d2",
+    "pair": "GC-000124",
+    "status": "represented",
+    "human_review_notes": [
+      "M079"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00131",
+    "context": "1975ca0722374264909fd35f3d14e38e",
+    "pair": "GC-000125",
+    "status": "represented",
+    "human_review_notes": [
+      "M080",
+      "M081"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00132",
+    "context": "ba563c55708c4deeb0b92b0bbf65049e",
+    "pair": "GC-000126",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00133",
+    "context": "a0fe96eb30dc4eec8cdf2db7ce080e26",
+    "pair": "GC-000127",
+    "status": "represented",
+    "human_review_notes": [
+      "M021"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00134",
+    "context": "3891ee589bd94992bfa0baf462b23e63",
+    "pair": "GC-000128",
+    "status": "represented",
+    "human_review_notes": [
+      "M022"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00135",
+    "context": "76757bb0f66842c1b5b84addcec30b67",
+    "pair": "GC-000129",
+    "status": "represented",
+    "human_review_notes": [
+      "M094"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00136",
+    "context": "e1cc4b473954448c838a713f6a2d1f9e",
+    "pair": "GC-000130",
+    "status": "represented",
+    "human_review_notes": [
+      "M023"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00137",
+    "context": "732c5516156c4706af38d13013927e11",
+    "pair": "GC-000131",
+    "status": "represented",
+    "human_review_notes": [
+      "M024",
+      "M082"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00138",
+    "context": "b4fde08df5bc4a86b142466a8c57d581",
+    "pair": "GC-000132",
+    "status": "represented",
+    "human_review_notes": [
+      "M025",
+      "M092",
+      "M097"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00139",
+    "context": "91603ec9c3a44b2e9b79e35d1bd2bafd",
+    "pair": "GC-000133",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00140",
+    "context": "36ea397f850a49d69cf38b9d1d2883bf",
+    "pair": "GC-000134",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00141",
+    "context": "f5657ab38cd14da79c0f0d2e0036250a",
+    "pair": "GC-000135",
+    "status": "represented",
+    "human_review_notes": [
+      "M026"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00142",
+    "context": "9092dcb96a5d461abb23d15b66c8fad4",
+    "pair": "GC-000136",
+    "status": "represented",
+    "human_review_notes": [
+      "M027",
+      "M083",
+      "M098"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00143",
+    "context": "04036908d5834cb9ad53b4eec465221c",
+    "pair": "GC-000137",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00144",
+    "context": "b8790435162543c596a4314092fd30e7",
+    "pair": "GC-000138",
+    "status": "represented",
+    "human_review_notes": [
+      "M076",
+      "M084"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00145",
+    "context": "6b23150916164d64bd78069c8d57d96a",
+    "pair": "GC-000139",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00146",
+    "context": "71d6236663884ccd8d8435e721915e7b",
+    "pair": "GC-000140",
+    "status": "represented",
+    "human_review_notes": [
+      "M076",
+      "M085"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00147",
+    "context": "b4ef8cbf0da3401e9a32f2f38751dbe1",
+    "pair": "GC-000141",
+    "status": "represented",
+    "human_review_notes": [
+      "M092",
+      "M085",
+      "M086"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00148",
+    "context": "9f0ecfeb62bd433eb54946b0f5d7b00d",
+    "pair": "GC-000142",
+    "status": "represented",
+    "human_review_notes": [
+      "M092",
+      "M087"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00149",
+    "context": "077e8fe649e84a3da7324514e19cee05",
+    "pair": "GC-000143",
+    "status": "represented",
+    "human_review_notes": [
+      "M092"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00150",
+    "context": "e05ce512abb947ee86cbc82f08c8b01b",
+    "pair": "GC-000144",
+    "status": "represented",
+    "human_review_notes": [
+      "M083",
+      "M028"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00151",
+    "context": "2131e1a0e50e44c7aeaca3aee4a8ed45",
+    "pair": "GC-000145",
+    "status": "represented",
+    "human_review_notes": [
+      "M029",
+      "M088"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00152",
+    "context": "4d5c6795f969416ea25425de6c743adc",
+    "pair": "GC-000146",
+    "status": "represented",
+    "human_review_notes": [
+      "M076",
+      "M030",
+      "M089"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00153",
+    "context": "41d5230fb6e748be938b8b6ce61dccea",
+    "pair": "GC-000147",
+    "status": "represented",
+    "human_review_notes": [
+      "M031",
+      "M049",
+      "M051"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00154",
+    "context": "13cc0292b0fd4bfcbbac6f4f5f6f031d",
+    "pair": "GC-000148",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00155",
+    "context": "18ca1c6bc60945a7813055e02703619f",
+    "pair": "GC-000149",
+    "status": "represented",
+    "human_review_notes": [
+      "L001"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00156",
+    "context": "fa1bb3ffd2634ca7af23fea9c2565a22",
+    "pair": "GC-000150",
+    "status": "represented",
+    "human_review_notes": [
+      "L002"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00157",
+    "context": "36373020e30a456f8ab006120adeced4",
+    "pair": "GC-000151",
+    "status": "represented",
+    "human_review_notes": [
+      "L003"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00158",
+    "context": "7754cabeebc2433da56921ada286c1a6",
+    "pair": "GC-000152",
+    "status": "represented",
+    "human_review_notes": [
+      "L004",
+      "Q003"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00159",
+    "context": "16ac3c318e644b43b46f29294d327891",
+    "pair": "GC-000153",
+    "status": "represented",
+    "human_review_notes": [
+      "L005"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00160",
+    "context": "8efe987381e74121b99d39c3f6e23ee7",
+    "pair": "GC-000154",
+    "status": "represented",
+    "human_review_notes": [
+      "L006"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00161",
+    "context": "792fd8dc538e46db8a97c78f6bf53d62",
+    "pair": "GC-000155",
+    "status": "represented",
+    "human_review_notes": [
+      "L001",
+      "L007"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00162",
+    "context": "838c7c9c464f488fb7683e6c3ddd7848",
+    "pair": "GC-000156",
+    "status": "represented",
+    "human_review_notes": [
+      "L008"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00163",
+    "context": "f17e7fa71b8a44988acb1b2f69bbb90b",
+    "pair": "GC-000157",
+    "status": "represented",
+    "human_review_notes": [
+      "L009"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00164",
+    "context": "deb994c6da864999b4c48a3e04a5821c",
+    "pair": "GC-000158",
+    "status": "represented",
+    "human_review_notes": [
+      "L010"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00165",
+    "context": "91771822c8b848e385263cf0344ef523",
+    "pair": "GC-000159",
+    "status": "represented",
+    "human_review_notes": [
+      "L011"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00166",
+    "context": "e27feeab31a8473fab4b30684221f9d0",
+    "pair": "GC-000160",
+    "status": "represented",
+    "human_review_notes": [
+      "L012"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00167",
+    "context": "2d8e5883db504a9b966bf3c466e74936",
+    "pair": "GC-000161",
+    "status": "represented",
+    "human_review_notes": [
+      "L013"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00168",
+    "context": "352c8374699c4bb9ac220f63b7c478c5",
+    "pair": "GC-000162",
+    "status": "represented",
+    "human_review_notes": [
+      "Q003"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00169",
+    "context": "35337c31e1244808b6e06e20290a07d9",
+    "pair": "GC-000163",
+    "status": "represented",
+    "human_review_notes": [
+      "Q003",
+      "L014"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00170",
+    "context": "4f05903724314f8bb1713ef2483d2d48",
+    "pair": "GC-000164",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00171",
+    "context": "70bafd49f9534dadab4e544aaaa692d2",
+    "pair": "GC-000165",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00172",
+    "context": "bc057b5f38244b0196126a1dac9d830e",
+    "pair": "GC-000165",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00173",
+    "context": "0bdf982bf5bb4243a656bc17710b7b63",
+    "pair": "GC-000165",
+    "status": "represented",
+    "human_review_notes": [
+      "L015"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00174",
+    "context": "e2222cf2bde04b4e8c2075494c72d2b3",
+    "pair": "GC-000165",
+    "status": "represented",
+    "human_review_notes": [
+      "L016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00175",
+    "context": "9071ca2301ba4df7a0853eccad60b706",
+    "pair": "GC-000166",
+    "status": "represented",
+    "human_review_notes": [
+      "L017"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00176",
+    "context": "d1b2de1082494fa49e8e2d00402cd4a5",
+    "pair": "GC-000166",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00177",
+    "context": "ada324c75eab468989e2bbbcc1796cbc",
+    "pair": "GC-000166",
+    "status": "represented",
+    "human_review_notes": [
+      "L018"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00178",
+    "context": "2c64ee71f4754a6da6246b7adc605a84",
+    "pair": "GC-000166",
+    "status": "represented",
+    "human_review_notes": [
+      "L016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00179",
+    "context": "f29d423bf1f7432984ce4f3c77a60d9d",
+    "pair": "GC-000167",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00180",
+    "context": "56f2d0980e614a9784b8683e16db7515",
+    "pair": "GC-000167",
+    "status": "represented",
+    "human_review_notes": [
+      "L019"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00181",
+    "context": "a1f411706c8c43d283d59c0e9987a2d4",
+    "pair": "GC-000167",
+    "status": "represented",
+    "human_review_notes": [
+      "L020"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00182",
+    "context": "1b0318eaed40461c95ec757fceb0e13e",
+    "pair": "GC-000167",
+    "status": "represented",
+    "human_review_notes": [
+      "L016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00183",
+    "context": "494b6f6960e34a55a04b36f037c77fc4",
+    "pair": "GC-000168",
+    "status": "represented",
+    "human_review_notes": [
+      "L016"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00184",
+    "context": "4cf02f6fc41c41c696903dcd55da86cf",
+    "pair": "GC-000168",
+    "status": "represented",
+    "human_review_notes": [
+      "L021"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00185",
+    "context": "8ab00129d3b24e2db28ad0f1646bc62d",
+    "pair": "GC-000168",
+    "status": "represented",
+    "human_review_notes": [
+      "L021"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00186",
+    "context": "362d372a84b1471a9f2c546e49a72f5a",
+    "pair": "GC-000168",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00187",
+    "context": "5e2629a9fb644576a6a8c82a9d8b6738",
+    "pair": "GC-000169",
+    "status": "represented",
+    "human_review_notes": [
+      "L022"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00188",
+    "context": "172b8bdeda4e4f4087a4c1ea5acaf239",
+    "pair": "GC-000169",
+    "status": "represented",
+    "human_review_notes": [
+      "Q002"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00189",
+    "context": "98885e98a426449c9a11e766dd198aa2",
+    "pair": "GC-000169",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00190",
+    "context": "d2b6c278f9cb417d8f10162198a9a5d0",
+    "pair": "GC-000169",
+    "status": "represented",
+    "human_review_notes": [
+      "L023"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00191",
+    "context": "ddcb7c9961ba426b9db32a0bd63a6a28",
+    "pair": "GC-000170",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00192",
+    "context": "aed619c87afc4cc18730d3ebe5ad2b2d",
+    "pair": "GC-000170",
+    "status": "represented",
+    "human_review_notes": [
+      "L024"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00193",
+    "context": "3c63515c7eca4b35a9a76bac7da2fbe0",
+    "pair": "GC-000170",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00194",
+    "context": "5504b37c6c1a4f8cbd511bcf7380f203",
+    "pair": "GC-000170",
+    "status": "represented",
+    "human_review_notes": [
+      "L025"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00195",
+    "context": "f4ae486294454f36a4d2fe4335371f79",
+    "pair": "GC-000171",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00196",
+    "context": "d5317280ed104da5801f4d4068b73539",
+    "pair": "GC-000171",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00197",
+    "context": "364fd92c319d49669b907f60db40bcc9",
+    "pair": "GC-000171",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00198",
+    "context": "d40c1fe77505411f8ca842d2f5c71606",
+    "pair": "GC-000171",
+    "status": "represented",
+    "human_review_notes": [
+      "L026"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00199",
+    "context": "67f2605757e24ab69f4845a47a403424",
+    "pair": "GC-000172",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00200",
+    "context": "48c63d359152466bb6546ecee62cc04a",
+    "pair": "GC-000172",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00201",
+    "context": "641167b8102f4879a98aa12baf6a40a1",
+    "pair": "GC-000172",
+    "status": "represented",
+    "human_review_notes": [
+      "L027"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00202",
+    "context": "ba762a787fbb4d6cad10ab597b115641",
+    "pair": "GC-000172",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00203",
+    "context": "9e8b40361bb4409bac38221dcb6184ab",
+    "pair": "GC-000173",
+    "status": "represented",
+    "human_review_notes": [
+      "L028"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00204",
+    "context": "100e3992bfac4923a2fdf48524bb1441",
+    "pair": "GC-000173",
+    "status": "represented",
+    "human_review_notes": [],
+    "resolution": "working_translation",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00205",
+    "context": "ec6ca6e59011454d951e47855beb308f",
+    "pair": "GC-000173",
+    "status": "represented",
+    "human_review_notes": [
+      "L029"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  },
+  {
+    "anchor": "U00206",
+    "context": "015389047878467f8338775631c99ea0",
+    "pair": "GC-000173",
+    "status": "represented",
+    "human_review_notes": [
+      "L030",
+      "L031",
+      "L032"
+    ],
+    "resolution": "review_flags",
+    "physical_witness_verified": false
+  }
+]

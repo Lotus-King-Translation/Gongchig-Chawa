@@ -1,0 +1,3288 @@
+[
+  {
+    "id": "F001",
+    "exact_tibetan": "གསུང་བརྒྱ་ལྔ་གསུང་རྣམས་ཚིགས་དུ་པ་བཞུགས་གཞུང་",
+    "category": "source reading",
+    "problem": "The title has བརྒྱ་ལྔ་ (literally the juxtaposed words “hundred–five”), whereas U00002 explicitly has བརྒྱ་ལྔ་བཅུ་ (one hundred and fifty). The repetition of གསུང་ and sequence ཚིགས་དུ་པ་ leave the remaining title syntax uncertain.",
+    "working_treatment": "Preserves the numeral as supplied and marks the remaining wording unresolved; “containing” represents the title’s བཞུགས་གཞུང་ function. No Tibetan is emended.",
+    "uncertainty": "The defective title does not securely distinguish 105, 500, or an intended 150; the explicit 150 in the next title is not adopted as a source correction. The residual phrase may describe collected verses; it is not securely deciphered.",
+    "review_action": "Check a reliable title-page witness and review both title strings before resolving the numeral or residual wording.",
+    "anchors": [
+      "U00001"
+    ],
+    "pairs": [
+      "GC-000001"
+    ]
+  },
+  {
+    "id": "F021",
+    "exact_tibetan": "དམ་ཆོས",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “sublime Dharma” provisionally. Occurrences: U00001, U00009, U00059.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00001",
+      "U00009",
+      "U00059"
+    ],
+    "pairs": [
+      "GC-000001",
+      "GC-000005",
+      "GC-000053"
+    ]
+  },
+  {
+    "id": "F022",
+    "exact_tibetan": "ཐུགས",
+    "category": "terminology gap",
+    "problem": "Standalone ཐུགས་ is explicitly absent in the active standard. It cannot be assigned enlightened intent from དགོངས་པ་ or inferred from ཐུགས་རྗེ་.",
+    "working_treatment": "Uses “enlightened mind” provisionally. Occurrences: U00004.",
+    "uncertainty": "“Awakened” marks honorific scope locally and is not a newly approved universal equivalent.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00004"
+    ],
+    "pairs": [
+      "GC-000004"
+    ]
+  },
+  {
+    "id": "F023",
+    "exact_tibetan": "མ་འདྲེས",
+    "category": "terminology gap",
+    "problem": "The complete negative form is absent. Existing mix-family entries support the English family but do not approve a new standalone entry.",
+    "working_treatment": "Uses “unmixed” provisionally. Occurrences: U00005.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00005"
+    ],
+    "pairs": [
+      "GC-000004"
+    ]
+  },
+  {
+    "id": "F024",
+    "exact_tibetan": "དྲན་པ",
+    "category": "contextual use",
+    "problem": "དྲན་པ་ is established as mindfulness. In དྲན་པ་ཅུང་ཟད་ཙམ་ཞིག་བྲི་, the object of writing is what the speaker recollects, not an amount of attentional practice.",
+    "working_treatment": "Uses “remember” provisionally in this occurrence; the established “Mindfulness” entry is unchanged.",
+    "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+    "review_action": "Review this scoped contextual realization and approve or revise explicitly.",
+    "anchors": [
+      "U00011"
+    ],
+    "pairs": [
+      "GC-000005"
+    ]
+  },
+  {
+    "id": "Q004",
+    "exact_tibetan": "གཤིས་སམ་བབས་ཀྱི་གནས་ལུགས",
+    "category": "terminology gap",
+    "problem": "The first draft used character for gshis and condition for bab without relating them to the later proposed actual condition (U00137) and situation (U00114). Neither term has an established standalone glossary entry.",
+    "working_treatment": "Coordinate the working renderings as actual condition and situation; preserve natural state for gnas lugs.",
+    "uncertainty": "The appositional relation between the two near-synonyms and natural state is a working construal of the compressed genitive, not a settled doctrinal definition.",
+    "review_action": "Review the same source terms across U00012/U00114/U00137 before activating any proposal.",
+    "anchors": [
+      "U00012"
+    ],
+    "pairs": [
+      "GC-000006"
+    ]
+  },
+  {
+    "id": "F025",
+    "exact_tibetan": "ཆོས་ཕུང",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “Dharma collections” provisionally. Occurrences: U00013.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00013"
+    ],
+    "pairs": [
+      "GC-000007"
+    ]
+  },
+  {
+    "id": "F026",
+    "exact_tibetan": "སྡེ་སྣོད",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “scriptural collection” provisionally. Occurrences: U00014, U00019.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00014",
+      "U00019"
+    ],
+    "pairs": [
+      "GC-000008",
+      "GC-000013"
+    ]
+  },
+  {
+    "id": "F027",
+    "exact_tibetan": "རྒྱུད་སྡེ",
+    "category": "terminology gap",
+    "problem": "The whole scriptural compound is absent; forcing the standalone continuum assignment would obscure the class of texts contrasted with the collections.",
+    "working_treatment": "Uses “classes of tantra” provisionally. Occurrences: U00014.",
+    "uncertainty": "Provisional whole-expression treatment; no change to standalone རྒྱུད་.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00014"
+    ],
+    "pairs": [
+      "GC-000008"
+    ]
+  },
+  {
+    "id": "F002",
+    "exact_tibetan": "འཁོར་གྱི་རྟོགས་པའི་ཁྱད",
+    "category": "syntax/reference",
+    "problem": "The phrase locates the distinction in the realization of the audience/retinue; it does not simply posit different realizations belonging to the wheels themselves.",
+    "working_treatment": "“Differ according to their audiences’ realization” supplies a finite verb for the compressed nominal statement. U00016’s “all three” refers back to the three wheels.",
+    "uncertainty": "The statement is terse; no additional scheme of three realizations is supplied.",
+    "review_action": "Confirm the relation in the commentary if a fuller explanatory gloss is required.",
+    "anchors": [
+      "U00015"
+    ],
+    "pairs": [
+      "GC-000009"
+    ]
+  },
+  {
+    "id": "F028",
+    "exact_tibetan": "ཆོས་འཁོར",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “wheel of Dharma” provisionally. Occurrences: U00015, U00019, U00042.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00015",
+      "U00019",
+      "U00042"
+    ],
+    "pairs": [
+      "GC-000009",
+      "GC-000013",
+      "GC-000036"
+    ]
+  },
+  {
+    "id": "F029",
+    "exact_tibetan": "འདུལ་བ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “Vinaya” provisionally. Occurrences: U00019, U00059.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00019",
+      "U00059"
+    ],
+    "pairs": [
+      "GC-000013",
+      "GC-000053"
+    ]
+  },
+  {
+    "id": "F030",
+    "exact_tibetan": "བདེན་བཞི",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “four truths” provisionally. Occurrences: U00019.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00019"
+    ],
+    "pairs": [
+      "GC-000013"
+    ]
+  },
+  {
+    "id": "F031",
+    "exact_tibetan": "ངེས་དོན",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “definitive meaning” provisionally. Occurrences: U00020, U00021.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00020",
+      "U00021"
+    ],
+    "pairs": [
+      "GC-000014",
+      "GC-000015"
+    ]
+  },
+  {
+    "id": "F032",
+    "exact_tibetan": "མཐའ་དྲུག",
+    "category": "terminology gap",
+    "problem": "Technical phrase absent; do not turn it into an explanatory enumeration without evidence.",
+    "working_treatment": "Uses “six limits” provisionally. Occurrences: U00021.",
+    "uncertainty": "Exact identification and English for the scheme require expert review; the draft retains literal “six limits.”",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00021"
+    ],
+    "pairs": [
+      "GC-000015"
+    ]
+  },
+  {
+    "id": "F033",
+    "exact_tibetan": "སེམས་ཙམ",
+    "category": "terminology gap",
+    "problem": "No whole-expression entry authorizes conventional “Mind Only” to erase the established ordinary-mind component.",
+    "working_treatment": "Uses “Ordinary Mind Only” provisionally. Occurrences: U00022.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00022"
+    ],
+    "pairs": [
+      "GC-000016"
+    ]
+  },
+  {
+    "id": "F034",
+    "exact_tibetan": "དབུ་མ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “middle way” provisionally. Occurrences: U00022.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00022"
+    ],
+    "pairs": [
+      "GC-000016"
+    ]
+  },
+  {
+    "id": "Q001",
+    "exact_tibetan": "བཀའ",
+    "category": "terminology gap",
+    "problem": "No active bka entry exists. The same term occurs at U00120, U00122 and U00188; the initial drafts varied between teachings and authoritative word.",
+    "working_treatment": "Use authoritative word consistently in these four occurrences, distinguishing bstan pa as teaching.",
+    "uncertainty": "This coordinator consistency choice remains Proposed; it does not establish a universal bka assignment.",
+    "review_action": "Review all four occurrences as one proposed term family.",
+    "anchors": [
+      "U00022"
+    ],
+    "pairs": [
+      "GC-000016"
+    ]
+  },
+  {
+    "id": "F035",
+    "exact_tibetan": "ཀུན་རྫོབ",
+    "category": "terminology gap",
+    "problem": "Absent technical headword; “relative truth” would add “truth” to the supplied phrase.",
+    "working_treatment": "Uses “convention” provisionally. Occurrences: U00023.",
+    "uncertainty": "Whether a fuller conventional-truth expression should be supplied requires review.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00023"
+    ],
+    "pairs": [
+      "GC-000017"
+    ]
+  },
+  {
+    "id": "F036",
+    "exact_tibetan": "དོན་བྱེད",
+    "category": "terminology gap",
+    "problem": "The whole expression is absent. The contextual action cannot be secured by mechanically joining meaning and doing.",
+    "working_treatment": "Uses “perform a function” provisionally. Occurrences: U00023.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00023"
+    ],
+    "pairs": [
+      "GC-000017"
+    ]
+  },
+  {
+    "id": "F037",
+    "exact_tibetan": "ས་བཅུ",
+    "category": "terminology gap",
+    "problem": "No canonical entry for ས་ or ས་བཅུ་. “Ground” is already reserved for གཞི་.",
+    "working_treatment": "Uses “ten levels” provisionally. Occurrences: U00024.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00024"
+    ],
+    "pairs": [
+      "GC-000018"
+    ]
+  },
+  {
+    "id": "F038",
+    "exact_tibetan": "ཤེས་བྱའི་སྒྲིབ་པ",
+    "category": "terminology gap",
+    "problem": "The complete technical expression is absent; the relational “to” is a proposed construction.",
+    "working_treatment": "Uses “obscurations to the knowable” provisionally. Occurrences: U00026.",
+    "uncertainty": "Confirm whether “of the knowable” or another relation is preferred; no sequence of abandonment is doctrinally harmonized.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00026"
+    ],
+    "pairs": [
+      "GC-000020"
+    ]
+  },
+  {
+    "id": "F039",
+    "exact_tibetan": "ཚད་མ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “valid cognition” provisionally. Occurrences: U00027, U00028.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00027",
+      "U00028"
+    ],
+    "pairs": [
+      "GC-000021",
+      "GC-000022"
+    ]
+  },
+  {
+    "id": "F040",
+    "exact_tibetan": "སྟོང་ཉིད",
+    "category": "terminology gap",
+    "problem": "The exact nominal form is absent; the existing emptiness-family entry supports but does not separately document the linkage.",
+    "working_treatment": "Uses “emptiness” provisionally. Occurrences: U00028.",
+    "uncertainty": "Proposed linked form/documentation addition, not a new rival meaning.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00028"
+    ],
+    "pairs": [
+      "GC-000022"
+    ]
+  },
+  {
+    "id": "F041",
+    "exact_tibetan": "གྲུབ་མཐའ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “tenets” provisionally. Occurrences: U00029.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00029"
+    ],
+    "pairs": [
+      "GC-000023"
+    ]
+  },
+  {
+    "id": "F042",
+    "exact_tibetan": "འཛིན་པ",
+    "category": "contextual use",
+    "problem": "The active noun is apprehending subject. In གྲུབ་མཐའ་འཛིན་པ་, the participial construction describes people holding doctrinal tenets. A technical subject/object reading would change the assertion.",
+    "working_treatment": "Uses “uphold” provisionally in this occurrence; the established “Apprehending subject” entry is unchanged.",
+    "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+    "review_action": "Review this scoped contextual realization and approve or revise explicitly.",
+    "anchors": [
+      "U00029"
+    ],
+    "pairs": [
+      "GC-000023"
+    ]
+  },
+  {
+    "id": "F043",
+    "exact_tibetan": "རང་རྒྱུད་པ",
+    "category": "terminology gap",
+    "problem": "Whole proponent name absent; the continuum component does not warrant a literal “own-continuum person” rendering.",
+    "working_treatment": "Uses “Svātantrika” provisionally. Occurrences: U00029.",
+    "uncertainty": "Check whether the aphorism intentionally uses Svātantrika broadly; do not restrict it silently to a standard sub-school.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00029"
+    ],
+    "pairs": [
+      "GC-000023"
+    ]
+  },
+  {
+    "id": "F044",
+    "exact_tibetan": "མུ་སྟེགས་པ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “non-Buddhist practitioner” provisionally. Occurrences: U00030.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00030"
+    ],
+    "pairs": [
+      "GC-000024"
+    ]
+  },
+  {
+    "id": "F045",
+    "exact_tibetan": "སེམས་བསྐྱེད",
+    "category": "terminology gap",
+    "problem": "Whole expression absent; doctrinal function is clear from the vehicle distinction, but the awakening qualifier is implicit in the Tibetan and therefore bracketed.",
+    "working_treatment": "Uses “arousing ordinary mind toward awakening” provisionally. Occurrences: U00032.",
+    "uncertainty": "Review the scope of the implicit awakening qualifier; no universal sems-bskyed headword is activated.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00032"
+    ],
+    "pairs": [
+      "GC-000026"
+    ]
+  },
+  {
+    "id": "F046",
+    "exact_tibetan": "དབང",
+    "category": "terminology gap",
+    "problem": "Standalone technical sense absent; the four-empowerments expression is related evidence, not blanket approval for all senses of དབང་.",
+    "working_treatment": "Uses “empowerment” provisionally. Occurrences: U00033.",
+    "uncertainty": "Restricted to U00033; does not assign empowerment to དབང་ in causal constructions such as U00049.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00033"
+    ],
+    "pairs": [
+      "GC-000027"
+    ]
+  },
+  {
+    "id": "F047",
+    "exact_tibetan": "སྔགས",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “mantra” provisionally. Occurrences: U00033.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00033"
+    ],
+    "pairs": [
+      "GC-000027"
+    ]
+  },
+  {
+    "id": "F003",
+    "exact_tibetan": "དེ་གཉིས་གང་མེད",
+    "category": "syntax/reference",
+    "problem": "“These two” lacks an explicit noun; the closest plausible doctrinal referents are arousing awakening-oriented ordinary mind (U00032) and empowerment (U00033). It could grammatically point back to sutra and mantra. གང་མེད་ expresses the absence of either.",
+    "working_treatment": "Keeps “these two” unresolved and preserves the either-member condition.",
+    "uncertainty": "The awakening-mind/empowerment reading is a working contextual inference, not a resolved identification.",
+    "review_action": "Consult commentary to establish the antecedents; do not silently replace “these two.”",
+    "anchors": [
+      "U00034"
+    ],
+    "pairs": [
+      "GC-000028"
+    ]
+  },
+  {
+    "id": "F048",
+    "exact_tibetan": "རྫོགས་བྱང",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “full awakening” provisionally. Occurrences: U00034.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00034"
+    ],
+    "pairs": [
+      "GC-000028"
+    ]
+  },
+  {
+    "id": "F050",
+    "exact_tibetan": "སྡོམ་གསུམ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “three sets of vows” provisionally. Occurrences: U00035.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00035"
+    ],
+    "pairs": [
+      "GC-000029"
+    ]
+  },
+  {
+    "id": "F051",
+    "exact_tibetan": "མི་དགེ",
+    "category": "terminology gap",
+    "problem": "Absent ethical entry. Do not silently rotate nonvirtue and wrongdoing across the two source forms.",
+    "working_treatment": "Uses “nonvirtue” provisionally. Occurrences: U00035.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00035"
+    ],
+    "pairs": [
+      "GC-000029"
+    ]
+  },
+  {
+    "id": "F004",
+    "exact_tibetan": "བདག་པོ་འཕོས་པས",
+    "category": "syntax/reference",
+    "problem": "བདག་པོ་ denotes the holder or possessor, not the philosophical self by itself. The verse does not state that a self transmigrates.",
+    "working_treatment": "“As their holder changes” links the three sets of vows to a change in their holder.",
+    "uncertainty": "Whether this concerns successive status of one holder or distinct types of holder is unstated here.",
+    "review_action": "Check the commentary for the intended account of transformation among the three vows.",
+    "anchors": [
+      "U00036"
+    ],
+    "pairs": [
+      "GC-000030"
+    ]
+  },
+  {
+    "id": "F049",
+    "exact_tibetan": "སྡོམ་པ",
+    "category": "terminology gap",
+    "problem": "Technical headword absent. The source also implies vows without repeating the noun at U00066, U00068, and U00078.",
+    "working_treatment": "Uses “vow” provisionally. Occurrences: U00036, U00062.",
+    "uncertainty": "Confirm singular/plural and the three-set framework; implied occurrences are separately bracketed.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00036",
+      "U00062"
+    ],
+    "pairs": [
+      "GC-000030",
+      "GC-000056"
+    ]
+  },
+  {
+    "id": "F005",
+    "exact_tibetan": "རང་བཞིན་རྣམ་དག་བྲལ་འབྲས་ཡོན་ཏན་ལྡན",
+    "category": "syntax/reference",
+    "problem": "The verse does not overtly mark the attachment of “intrinsic nature,” “completely pure,” and “result of separation.”",
+    "working_treatment": "Takes the result of separation as the subject, completely pure in intrinsic nature and endowed with qualities; retains all components.",
+    "uncertainty": "Possible alternative: the completely pure intrinsic nature possesses the qualities of the result of separation. The chosen attachment remains provisional.",
+    "review_action": "Confirm modifier attachments against commentary; no Tibetan emendation.",
+    "anchors": [
+      "U00037"
+    ],
+    "pairs": [
+      "GC-000031"
+    ]
+  },
+  {
+    "id": "F052",
+    "exact_tibetan": "བྲལ་འབྲས",
+    "category": "terminology gap",
+    "problem": "The full technical compound is absent; what one is separated from is not stated in the verse.",
+    "working_treatment": "Uses “result of separation” provisionally. Occurrences: U00037.",
+    "uncertainty": "Do not supply obscurations as the separated object without a note or source evidence.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00037"
+    ],
+    "pairs": [
+      "GC-000031"
+    ]
+  },
+  {
+    "id": "F006",
+    "exact_tibetan": "བྱང་ཕྱོགས་སོ་བདུན་བདེ་གཤེགས་སྙིང་པོ་ཡོད",
+    "category": "syntax/reference",
+    "problem": "The text states the thirty-seven factors of awakening, sugata heart, and existence without an overt locative or possessive connector.",
+    "working_treatment": "Supplies [in], taking the thirty-seven factors to be present in the sugata heart.",
+    "uncertainty": "Reversing the containment relation is grammatically conceivable. The human reference makes the thirty-seven possess sugata essence; that is not taken as authority.",
+    "review_action": "Consult commentary to resolve the relation before removing the brackets.",
+    "anchors": [
+      "U00038"
+    ],
+    "pairs": [
+      "GC-000032"
+    ]
+  },
+  {
+    "id": "F053",
+    "exact_tibetan": "བྱང་ཕྱོགས",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “factors of awakening” provisionally. Occurrences: U00038.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00038"
+    ],
+    "pairs": [
+      "GC-000032"
+    ]
+  },
+  {
+    "id": "F054",
+    "exact_tibetan": "བདེ་གཤེགས་སྙིང་པོ",
+    "category": "terminology gap",
+    "problem": "Whole expression absent. “Sugata essence” would reuse the reserved essence assignment for ངོ་བོ་ without explaining the collision.",
+    "working_treatment": "Uses “sugata heart” provisionally. Occurrences: U00038.",
+    "uncertainty": "Confirm a project whole-expression equivalent; “sugata heart” is a working component-preserving proposal, not owner-approved.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00038"
+    ],
+    "pairs": [
+      "GC-000032"
+    ]
+  },
+  {
+    "id": "F055",
+    "exact_tibetan": "ཚད་མེད་རྣམ་བཞི",
+    "category": "terminology gap",
+    "problem": "Whole phrase absent; རྣམ་བཞི་ supplies four aspects/kinds of the immeasurable set.",
+    "working_treatment": "Uses “four immeasurables” provisionally. Occurrences: U00039.",
+    "uncertainty": "Numbered-set wording is provisional; no independent canonical shortening of རྣམ་པ་ is implied.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00039"
+    ],
+    "pairs": [
+      "GC-000033"
+    ]
+  },
+  {
+    "id": "F056",
+    "exact_tibetan": "རིགས",
+    "category": "terminology gap",
+    "problem": "Absent technical headword; no ordinary family genealogy is implied.",
+    "working_treatment": "Uses “lineage” provisionally. Occurrences: U00040.",
+    "uncertainty": "Potential/family may better express its contextual sense; owner review required.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00040"
+    ],
+    "pairs": [
+      "GC-000034"
+    ]
+  },
+  {
+    "id": "F007",
+    "exact_tibetan": "ལོག་སྲེག་ཅན",
+    "category": "source reading",
+    "problem": "The condensed compound is not securely interpretable from the supplied root verse. It appears to join reversal/wrongness and burning, possibly in an image of exhausted spiritual potential, but that image is not overtly stated.",
+    "working_treatment": "Retains the exact Tibetan with an unresolved marker; hearers, solitary buddhas, and future omniscience remain translated.",
+    "uncertainty": "Neither “wrongly craved” in the reference nor a full burnt-seed explanation is warranted as an unmarked translation.",
+    "review_action": "Check the root reading and its commentary; decide whether the compound contains a source defect or a conventional compressed metaphor.",
+    "anchors": [
+      "U00041"
+    ],
+    "pairs": [
+      "GC-000035"
+    ]
+  },
+  {
+    "id": "F057",
+    "exact_tibetan": "ཉན་རང",
+    "category": "terminology gap",
+    "problem": "Whole compressed pair absent; it does not mean a generic listener and oneself.",
+    "working_treatment": "Uses “hearers and solitary buddhas” provisionally. Occurrences: U00041.",
+    "uncertainty": "Traditional doctrinal identification is provisional glossary usage; check the unresolved qualifier separately.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00041"
+    ],
+    "pairs": [
+      "GC-000035"
+    ]
+  },
+  {
+    "id": "F008",
+    "exact_tibetan": "ལུང་མ་བསྟན",
+    "category": "contextual use",
+    "problem": "The source concerns whether an ethically unclassified category exists apart from virtue and wrongdoing. The active glossary assigns “stagnant neutrality,” with no documented ethical-context explanation.",
+    "working_treatment": "Retains the established term “stagnant neutrality,” while recording the ethical classification as the occurrence’s context.",
+    "uncertainty": "The doctrinal scope of the glossary wording in this context requires review; no alternative is activated.",
+    "review_action": "Owner/reviewer should confirm whether the canonical wording is intended for this ethical-classification occurrence.",
+    "anchors": [
+      "U00043"
+    ],
+    "pairs": [
+      "GC-000037"
+    ]
+  },
+  {
+    "id": "F058",
+    "exact_tibetan": "སྡིག",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “wrongdoing” provisionally. Occurrences: U00043, U00070.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00043",
+      "U00070"
+    ],
+    "pairs": [
+      "GC-000037",
+      "GC-000064"
+    ]
+  },
+  {
+    "id": "F059",
+    "exact_tibetan": "སེམས་བྱུང",
+    "category": "terminology gap",
+    "problem": "Whole expression absent; provisional composition preserves ordinary mind while distinguishing a factor from ordinary mind itself.",
+    "working_treatment": "Uses “factor of ordinary mind” provisionally. Occurrences: U00045.",
+    "uncertainty": "Confirm whole-expression wording; the source’s claim that ordinary mind can arise from its factors is left intact.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00045"
+    ],
+    "pairs": [
+      "GC-000039"
+    ]
+  },
+  {
+    "id": "F060",
+    "exact_tibetan": "འཁོར་བ",
+    "category": "terminology gap",
+    "problem": "Absent technical headword; the repeated verbal family is preserved in English as cyclic/circles.",
+    "working_treatment": "Uses “cyclic existence” provisionally. Occurrences: U00046.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00046"
+    ],
+    "pairs": [
+      "GC-000040"
+    ]
+  },
+  {
+    "id": "F009",
+    "exact_tibetan": "མ་རིག་ཁོ་ནའི་གཡོས",
+    "category": "syntax/reference",
+    "problem": "The genitive འི་ precedes the compressed form གཡོས་. The phrase can be construed as ignorance’s stirring; an instrumental relation would usually be stated differently.",
+    "working_treatment": "“The stirrings of ignorance alone” preserves the supplied genitive without silently rewriting it as an instrumental ending.",
+    "uncertainty": "A finite “are stirred by ignorance alone” remains a possible intended construction; the exact compressed syntax needs confirmation.",
+    "review_action": "Check commentary/source usage of གཡོས་ here.",
+    "anchors": [
+      "U00047"
+    ],
+    "pairs": [
+      "GC-000041"
+    ]
+  },
+  {
+    "id": "F061",
+    "exact_tibetan": "རྟེན་འབྲེལ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “dependent arising” provisionally. Occurrences: U00047, U00058.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00047",
+      "U00058"
+    ],
+    "pairs": [
+      "GC-000041",
+      "GC-000052"
+    ]
+  },
+  {
+    "id": "F010",
+    "exact_tibetan": "སེམས་ནི་ཐ་དད་དབང་གི་སྣང་བ་ཡང་",
+    "category": "syntax/reference",
+    "problem": "The verse ends in ཡང་ and has no overt predicate completing the appearance clause. The causal construction is compressed.",
+    "working_treatment": "“Since ordinary minds differ, appearances too [differ]” supplies the second predicate visibly and takes the diversity of ordinary minds as the condition.",
+    "uncertainty": "The following aphorism may be read in continuation, but no definite link to its karmic statement is established here.",
+    "review_action": "Check commentary and line grouping before treating this as a fully resolved independent sentence.",
+    "anchors": [
+      "U00049"
+    ],
+    "pairs": [
+      "GC-000043"
+    ]
+  },
+  {
+    "id": "F062",
+    "exact_tibetan": "སྤྱོད",
+    "category": "contextual use",
+    "problem": "The finite verb སྤྱོད་ in འབྲས་བུར་སྤྱོད་ concerns partaking of a karmic result. Merely inserting the noun activity would not convey its relation.",
+    "working_treatment": "Uses “partakes of” provisionally in this occurrence; the established “Activity” entry is unchanged.",
+    "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+    "review_action": "Review this scoped contextual realization and approve or revise explicitly.",
+    "anchors": [
+      "U00050"
+    ],
+    "pairs": [
+      "GC-000044"
+    ]
+  },
+  {
+    "id": "Q005",
+    "exact_tibetan": "ད་ལྟ་ཉིད་དུ་གང་བསྒྲུབས་འབྲས་བུར་སྤྱོད",
+    "category": "scope",
+    "problem": "The initial adverb in this very present may qualify accomplishing, partaking of the result, or the entire statement. The original note F062 covers spyod terminology, not this temporal attachment.",
+    "working_treatment": "Keep the working present-fruition reading while marking its scope as unresolved.",
+    "uncertainty": "Alternative: one partakes of the result of whatever one accomplishes right now. The present source alone does not securely exclude either scope.",
+    "review_action": "Check the temporal relationship in an authenticated commentary before claiming immediate fruition as the uniquely established reading.",
+    "anchors": [
+      "U00050"
+    ],
+    "pairs": [
+      "GC-000044"
+    ]
+  },
+  {
+    "id": "F011",
+    "exact_tibetan": "དུས་ཀྱི་འཕེལ་འགྲིབ",
+    "category": "scope",
+    "problem": "དུས་ says time/period; the human reference supplies lifespan in brackets, but the root does not specify that restriction.",
+    "working_treatment": "Translates “lengthening and shortening of time” and leaves its object broad.",
+    "uncertainty": "Lifespan or favorable/unfavorable periods may be intended; neither is asserted.",
+    "review_action": "Consult commentary to identify what increases and decreases.",
+    "anchors": [
+      "U00051"
+    ],
+    "pairs": [
+      "GC-000045"
+    ]
+  },
+  {
+    "id": "F063",
+    "exact_tibetan": "མཐོང་ཆོས",
+    "category": "terminology gap",
+    "problem": "The technical expression is absent; a literal “seen Dharma” would not clarify its present-life context.",
+    "working_treatment": "Uses “visible in the present” provisionally. Occurrences: U00052.",
+    "uncertainty": "The exact karmic category and the force of chiefly require commentary review; no claim that all karma ripens in this life.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00052"
+    ],
+    "pairs": [
+      "GC-000046"
+    ]
+  },
+  {
+    "id": "F064",
+    "exact_tibetan": "མི་ཆོས",
+    "category": "terminology gap",
+    "problem": "Absent ethical category; do not silently translate both sides as identical conduct.",
+    "working_treatment": "Uses “human rules” provisionally. Occurrences: U00053.",
+    "uncertainty": "Review the established name of the sixteenfold set; no list supplied.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00053"
+    ],
+    "pairs": [
+      "GC-000047"
+    ]
+  },
+  {
+    "id": "F065",
+    "exact_tibetan": "ལྷ་ཆོས",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “divine Dharma” provisionally. Occurrences: U00053.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00053"
+    ],
+    "pairs": [
+      "GC-000047"
+    ]
+  },
+  {
+    "id": "F012",
+    "exact_tibetan": "གཙོ་ཕལ་ཙམ་ལས",
+    "category": "scope",
+    "problem": "“Principal and secondary” lacks an explicit noun; it may distinguish results, causes, or the preceding kinds of discipline.",
+    "working_treatment": "Retains the distinction without supplying the missing category; the rest states uninterrupted attainment of results.",
+    "uncertainty": "A degree/intensity rendering would be interpretive and is not established.",
+    "review_action": "Resolve the scope against commentary before expanding the English.",
+    "anchors": [
+      "U00054"
+    ],
+    "pairs": [
+      "GC-000048"
+    ]
+  },
+  {
+    "id": "F066",
+    "exact_tibetan": "ཉམས་ལེན",
+    "category": "terminology gap",
+    "problem": "Whole action expression absent; “practice” here is not silently substituted for cultivation, and ཉམས་ is not isolated as the experience noun.",
+    "working_treatment": "Uses “put into practice” provisionally. Occurrences: U00056.",
+    "uncertainty": "Proposed compound use only; preserves distinctions from experience and experiential acquaintance.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00056"
+    ],
+    "pairs": [
+      "GC-000050"
+    ]
+  },
+  {
+    "id": "F067",
+    "exact_tibetan": "ཞིང",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “field” provisionally. Occurrences: U00057.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00057"
+    ],
+    "pairs": [
+      "GC-000051"
+    ]
+  },
+  {
+    "id": "F013",
+    "exact_tibetan": "ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་འདི་ཉིད་ཡིན",
+    "category": "syntax/reference",
+    "problem": "འདི་ཉིད་ may refer to the Vinaya just described in U00059–60; the text does not re-express that antecedent.",
+    "working_treatment": "Preserves “this itself” and the identification with primordial knowing of omniscience.",
+    "uncertainty": "A direct reference to the Vinaya is likely but remains implicit.",
+    "review_action": "Check the commentary’s attachment before spelling out the antecedent.",
+    "anchors": [
+      "U00061"
+    ],
+    "pairs": [
+      "GC-000055"
+    ]
+  },
+  {
+    "id": "F014",
+    "exact_tibetan": "བར་ཆད་ལྡན་ལའང",
+    "category": "scope",
+    "problem": "In a Vinaya discussion, impediments can include impediments to eligibility for receiving vows; the root does not enumerate them.",
+    "working_treatment": "Keeps “those with impediments,” rather than expanding this to a claim about every conceivable obstacle.",
+    "uncertainty": "The exact class of impediments is unresolved.",
+    "review_action": "Identify the relevant impediments in commentary or a source note.",
+    "anchors": [
+      "U00062"
+    ],
+    "pairs": [
+      "GC-000056"
+    ]
+  },
+  {
+    "id": "F015",
+    "exact_tibetan": "ངོ་ བོ",
+    "category": "source reading",
+    "problem": "The archival source contains an internal ordinary space between the syllables of ངོ་བོ་. This is retained in the decoded canonical source.",
+    "working_treatment": "Reads the two syllables as the established term “essence”; no source spacing is repaired.",
+    "uncertainty": "Lexical reading is strong; physical typographic provenance has not been inspected.",
+    "review_action": "No source correction needed for translation; retain the unusual spacing in preservation checks.",
+    "anchors": [
+      "U00063"
+    ],
+    "pairs": [
+      "GC-000057"
+    ]
+  },
+  {
+    "id": "F068",
+    "exact_tibetan": "རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས",
+    "category": "terminology gap",
+    "problem": "Whole technical expression absent. Component-string matching must not treat རིག་བྱེད་ as a standalone awareness assertion.",
+    "working_treatment": "Uses “non-indicative form” provisionally. Occurrences: U00063.",
+    "uncertainty": "Avijñapti-type identification is provisional; expert should confirm non-indicative/non-revelatory terminology.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00063"
+    ],
+    "pairs": [
+      "GC-000057"
+    ]
+  },
+  {
+    "id": "F069",
+    "exact_tibetan": "ལྟུང་བ",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “downfall” provisionally. Occurrences: U00064, U00070.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00064",
+      "U00070"
+    ],
+    "pairs": [
+      "GC-000058",
+      "GC-000064"
+    ]
+  },
+  {
+    "id": "F016",
+    "exact_tibetan": "ཡིད་ཀྱི་རྣམ་གསུམ",
+    "category": "interpretive supply",
+    "problem": "The root gives “the three aspects of the mental faculty” without naming the triad. In the vows/ten-nonvirtues context, three mental nonvirtues are a plausible referent.",
+    "working_treatment": "Supplies [of nonvirtue] visibly while preserving “mental faculty” and “three aspects.”",
+    "uncertainty": "The identities of the three are not enumerated or imported into the line.",
+    "review_action": "Confirm the implicit triad against commentary.",
+    "anchors": [
+      "U00065"
+    ],
+    "pairs": [
+      "GC-000059"
+    ]
+  },
+  {
+    "id": "F017",
+    "exact_tibetan": "གཏོང་བའི་རྒྱུ་ཡིས་མི་གཏོང་བ་ཡང་ཡོད",
+    "category": "interpretive supply",
+    "problem": "The object of relinquishment is omitted. The current section concerns vows; causes normally leading to relinquishment are asserted sometimes not to do so.",
+    "working_treatment": "Supplies [vows] and keeps the apparently paradoxical relation without harmonizing it.",
+    "uncertainty": "The particular causes and exceptional circumstances remain unspecified.",
+    "review_action": "Check commentary for the causes in view; do not generalize the proposition to all relinquishment conditions.",
+    "anchors": [
+      "U00066"
+    ],
+    "pairs": [
+      "GC-000060"
+    ]
+  },
+  {
+    "id": "F018",
+    "exact_tibetan": "བུ་ལོན་ནོར་ཅན་བཞིན",
+    "category": "syntax/reference",
+    "problem": "The compressed comparison joins debt and possession of wealth. It does not itself explain how repayment or remaining vows map onto the image.",
+    "working_treatment": "“Like a debtor who possesses wealth” supplies a person as the bearer of the debt/wealth.",
+    "uncertainty": "The metaphor’s doctrinal point remains unexplained in the root.",
+    "review_action": "Review the comparison against commentary; retain the image without adding a conclusion about restoration of vows.",
+    "anchors": [
+      "U00067"
+    ],
+    "pairs": [
+      "GC-000061"
+    ]
+  },
+  {
+    "id": "F070",
+    "exact_tibetan": "ཕམ་པ་བཞི",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “four defeats” provisionally. Occurrences: U00067.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00067"
+    ],
+    "pairs": [
+      "GC-000061"
+    ]
+  },
+  {
+    "id": "F019",
+    "exact_tibetan": "སྣ་གཅིག་བསྲུངས་པས",
+    "category": "interpretive supply",
+    "problem": "“A single kind” has no expressed object; vows are the immediate topic.",
+    "working_treatment": "Supplies [of vow] and preserves attainment of nirvana as the result.",
+    "uncertainty": "Whether one precept, one category, or one complete type of vow is intended is unresolved.",
+    "review_action": "Confirm the scope of “single kind” before narrowing it.",
+    "anchors": [
+      "U00068"
+    ],
+    "pairs": [
+      "GC-000062"
+    ]
+  },
+  {
+    "id": "F071",
+    "exact_tibetan": "མྱང་འདས",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “nirvana” provisionally. Occurrences: U00068.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00068"
+    ],
+    "pairs": [
+      "GC-000062"
+    ]
+  },
+  {
+    "id": "F072",
+    "exact_tibetan": "ཁ་ན་མ་ཐོ",
+    "category": "terminology gap",
+    "problem": "Absent ethical expression; keeps the three source categories separately visible.",
+    "working_treatment": "Uses “offense” provisionally. Occurrences: U00069.",
+    "uncertainty": "The relational “by” for intrinsic nature is a local construction, not blanket approval of a pending glossary formula.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00069"
+    ],
+    "pairs": [
+      "GC-000063"
+    ]
+  },
+  {
+    "id": "F020",
+    "exact_tibetan": "བཅས",
+    "category": "interpretive supply",
+    "problem": "The object of the Dharma king’s enactment is omitted; U00071 discusses prohibition and permission and U00073–74 transgression and safeguarding.",
+    "working_treatment": "Supplies [the rules] here and in U00074; does not restrict them to ordained Buddhists because འགྲོ་བ་སྤྱི་ expressly addresses beings in general.",
+    "uncertainty": "The precise breadth of the rules is not enumerated.",
+    "review_action": "Confirm the implicit object against the surrounding Vinaya argument.",
+    "anchors": [
+      "U00072"
+    ],
+    "pairs": [
+      "GC-000066"
+    ]
+  },
+  {
+    "id": "F073",
+    "exact_tibetan": "ཆོ་ག",
+    "category": "terminology gap",
+    "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+    "working_treatment": "Uses “ritual procedure” provisionally. Occurrences: U00075.",
+    "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00075"
+    ],
+    "pairs": [
+      "GC-000069"
+    ]
+  },
+  {
+    "id": "F074",
+    "exact_tibetan": "གཏི་མུག",
+    "category": "terminology gap",
+    "problem": "Absent technical expression. Rendering it ignorance or delusion without a note would introduce an unexplained collision with established separate source terms.",
+    "working_treatment": "Uses “bewilderment” provisionally. Occurrences: U00076, U00077.",
+    "uncertainty": "Review whether bewilderment is an appropriate project equivalent; no global assignment activated.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00076",
+      "U00077"
+    ],
+    "pairs": [
+      "GC-000070",
+      "GC-000071"
+    ]
+  },
+  {
+    "id": "F075",
+    "exact_tibetan": "ཉམས",
+    "category": "contextual use",
+    "problem": "Here ཉམས་ contrasts deterioration/lapse of vows with never attaining them. The canonical experience noun would change the ethical comparison.",
+    "working_treatment": "Uses “deterioration” provisionally in this occurrence; the established “Experience” entry is unchanged.",
+    "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+    "review_action": "Review this scoped contextual realization and approve or revise explicitly.",
+    "anchors": [
+      "U00078"
+    ],
+    "pairs": [
+      "GC-000072"
+    ]
+  },
+  {
+    "id": "F076",
+    "exact_tibetan": "སོ་ཐར",
+    "category": "terminology gap",
+    "problem": "Whole abbreviated technical expression absent; interpreted from the vow-focused section.",
+    "working_treatment": "Uses “individual liberation” provisionally. Occurrences: U00079.",
+    "uncertainty": "Check preferred whole-expression form and whether vows should be supplied in the title; the draft does not add it there.",
+    "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision.",
+    "anchors": [
+      "U00079"
+    ],
+    "pairs": [
+      "GC-000073"
+    ]
+  },
+  {
+    "id": "M032",
+    "exact_tibetan": "བྱང་ཆུབ་སེམས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The full compound is absent. Preserve the established ordinary mind component rather than silently introducing generic mind or bodhicitta.",
+    "working_treatment": "Use provisional “ordinary mind of awakening”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00080",
+      "U00090"
+    ],
+    "pairs": [
+      "GC-000074",
+      "GC-000084"
+    ]
+  },
+  {
+    "id": "M033",
+    "exact_tibetan": "སྙིང་རྗེ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The related thugs rje row explicitly records snying rje as an uncovered term. Keep compassion distinct from compassionate responsiveness.",
+    "working_treatment": "Use provisional “compassion”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00080"
+    ],
+    "pairs": [
+      "GC-000074"
+    ]
+  },
+  {
+    "id": "M001",
+    "exact_tibetan": "རྟེན་ཅན",
+    "category": "syntax/reference",
+    "problem": "The support or basis of the vows is not named in this line.",
+    "working_treatment": "Retain “depend on a support” without identifying a particular vow or bodily support.",
+    "uncertainty": "The precise support requires commentary or source-level clarification.",
+    "review_action": "Identify the referent of support from an authorized commentary; do not supply it from doctrine alone.",
+    "anchors": [
+      "U00081"
+    ],
+    "pairs": [
+      "GC-000075"
+    ]
+  },
+  {
+    "id": "M034",
+    "exact_tibetan": "བྱང་ཆུབ་སེམས་དཔའི",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Whole-expression proposal avoids mechanically turning a person designation into ordinary-mind hero; it does not alter standalone sems. U00104 expansion has a separate syntax note.",
+    "working_treatment": "Use provisional “bodhisattva”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00081",
+      "U00088",
+      "U00104"
+    ],
+    "pairs": [
+      "GC-000075",
+      "GC-000082",
+      "GC-000098"
+    ]
+  },
+  {
+    "id": "M035",
+    "exact_tibetan": "སྡོམ་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Technical vow terminology is absent from the active glossary.",
+    "working_treatment": "Use provisional “vows”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00081"
+    ],
+    "pairs": [
+      "GC-000075"
+    ]
+  },
+  {
+    "id": "M036",
+    "exact_tibetan": "འཇུག་སྡོམ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Whole phrase is absent. The source does not repeat awakening as the object of engagement.",
+    "working_treatment": "Use provisional “vows of engagement”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00082",
+      "U00083"
+    ],
+    "pairs": [
+      "GC-000076",
+      "GC-000077"
+    ]
+  },
+  {
+    "id": "M037",
+    "exact_tibetan": "སོ་སོ་སྐྱེ་བོ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Ordinary here belongs to a proposed person-designating compound; it does not redefine ordinary mind.",
+    "working_treatment": "Use provisional “ordinary individuals”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00082"
+    ],
+    "pairs": [
+      "GC-000076"
+    ]
+  },
+  {
+    "id": "M002",
+    "exact_tibetan": "ཅི་རིགས་ཀྱིས་ཀྱང",
+    "category": "interpretive supply",
+    "problem": "The instrumental expression leaves its means unstated.",
+    "working_treatment": "Bracket “means” and retain whichever is appropriate.",
+    "uncertainty": "The line does not itself enumerate the permitted means.",
+    "review_action": "Check what earlier explanatory material supplies the omitted instrumental referent.",
+    "anchors": [
+      "U00083"
+    ],
+    "pairs": [
+      "GC-000077"
+    ]
+  },
+  {
+    "id": "M003",
+    "exact_tibetan": "ཉོན་མོངས་ཅན་མིན་ལྟུང་བ་མི་སྲིད",
+    "category": "syntax/reference",
+    "problem": "The negated adjective modifies the possible downfall; the human reference obscures this relationship.",
+    "working_treatment": "Render the assertion as no downfall without affliction.",
+    "uncertainty": "This does not enumerate kinds of downfall or affliction.",
+    "review_action": "Verify the scope against an authorized commentary if a doctrinal classification is needed.",
+    "anchors": [
+      "U00084"
+    ],
+    "pairs": [
+      "GC-000078"
+    ]
+  },
+  {
+    "id": "M038",
+    "exact_tibetan": "ཉོན་མོངས་ཅན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry exists; avoid reusing delusion or ignorance for this distinct term.",
+    "working_treatment": "Use provisional “affliction”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00084",
+      "U00091"
+    ],
+    "pairs": [
+      "GC-000078",
+      "GC-000085"
+    ]
+  },
+  {
+    "id": "M040",
+    "exact_tibetan": "ལྟུང་བ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No established technical entry covers this ethical use.",
+    "working_treatment": "Use provisional “downfall”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00084"
+    ],
+    "pairs": [
+      "GC-000078"
+    ]
+  },
+  {
+    "id": "M004",
+    "exact_tibetan": "ཉེས་པར་མི་འགྱུར་མི་དགེ་གནང་བ་མེད",
+    "category": "syntax/reference",
+    "problem": "The verse compresses the relationship between nonvirtue, permission, and not constituting a fault.",
+    "working_treatment": "Render “no permission ... on the grounds that it will not constitute a fault.”",
+    "uncertainty": "“On the grounds that” exposes a proposed relation; the source could also be read as a relative description of permitted nonvirtue.",
+    "review_action": "Check the commentarial explanation of the negation and permission relationship.",
+    "anchors": [
+      "U00085"
+    ],
+    "pairs": [
+      "GC-000079"
+    ]
+  },
+  {
+    "id": "M041",
+    "exact_tibetan": "མི་དགེ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",
+    "working_treatment": "Use provisional “nonvirtue”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00085",
+      "U00086",
+      "U00089"
+    ],
+    "pairs": [
+      "GC-000079",
+      "GC-000080",
+      "GC-000083"
+    ]
+  },
+  {
+    "id": "M045",
+    "exact_tibetan": "ཐབས་མཁས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No longer assignment exists; the adjectival construction at U00086 retains both skill and means.",
+    "working_treatment": "Use provisional “skillful in means”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00086",
+      "U00101"
+    ],
+    "pairs": [
+      "GC-000080",
+      "GC-000095"
+    ]
+  },
+  {
+    "id": "M043",
+    "exact_tibetan": "དགེ་དང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment exists; preserve the virtue/nonvirtue relation.",
+    "working_treatment": "Use provisional “virtue”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00089",
+      "U00102"
+    ],
+    "pairs": [
+      "GC-000083",
+      "GC-000096"
+    ]
+  },
+  {
+    "id": "M005",
+    "exact_tibetan": "སྒྲིབ་པ་རྣམ་གསུམ",
+    "category": "scope",
+    "problem": "The three kinds are counted but not identified.",
+    "working_treatment": "Preserve the count and their identification with afflictive obscuration.",
+    "uncertainty": "No particular threefold taxonomy is supplied.",
+    "review_action": "Identify the three only if authorized supporting source evidence is added.",
+    "anchors": [
+      "U00091"
+    ],
+    "pairs": [
+      "GC-000085"
+    ]
+  },
+  {
+    "id": "M046",
+    "exact_tibetan": "སྒྲིབ་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No existing entry covers the technical obscuration family.",
+    "working_treatment": "Use provisional “obscuration”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00091"
+    ],
+    "pairs": [
+      "GC-000085"
+    ]
+  },
+  {
+    "id": "M047",
+    "exact_tibetan": "དོན་དམ་བདེན་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole-expression assignment exists. Propose the technical compound without treating every don substring as a separate meaning noun.",
+    "working_treatment": "Use provisional “ultimate truth”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00092"
+    ],
+    "pairs": [
+      "GC-000086"
+    ]
+  },
+  {
+    "id": "M048",
+    "exact_tibetan": "ཉན་ཐོས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No entry exists; the contraction nyan rang is split into its two practitioner categories locally, not normalized in the source.",
+    "working_treatment": "Use provisional “hearers”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00093",
+      "U00094"
+    ],
+    "pairs": [
+      "GC-000087",
+      "GC-000088"
+    ]
+  },
+  {
+    "id": "M050",
+    "exact_tibetan": "ཉན་རང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Do not misread the contraction as canonical self-purified. The proposed conventional person label contains realizer but does not change the rtogs pa mapping.",
+    "working_treatment": "Use provisional “solitary buddhas”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00094"
+    ],
+    "pairs": [
+      "GC-000088"
+    ]
+  },
+  {
+    "id": "M052",
+    "exact_tibetan": "ས་དྲུག",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No sa entry exists. Level preserves the technical distinction from The Ground; U00132 English level renders tshod and is ordinary degree language, not the same Tibetan technical item.",
+    "working_treatment": "Use provisional “sixth level”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00094",
+      "U00095",
+      "U00096",
+      "U00097",
+      "U00098"
+    ],
+    "pairs": [
+      "GC-000088",
+      "GC-000089",
+      "GC-000090",
+      "GC-000091",
+      "GC-000092"
+    ]
+  },
+  {
+    "id": "M006",
+    "exact_tibetan": "སེམས་ཙམ་པ་ནི་ས་བདུན་མངོན་རྟོགས་ཡིན",
+    "category": "syntax/reference",
+    "problem": "The subject can name the Ordinary Mind Only position or its adherents; the predicate links it to seventh-level manifest realization.",
+    "working_treatment": "Treat the subject as the position, without inserting its adherents.",
+    "uncertainty": "The terse equation does not state whether it concerns partial understanding or full attainment.",
+    "review_action": "Confirm the subject and force of this equation from commentary.",
+    "anchors": [
+      "U00095"
+    ],
+    "pairs": [
+      "GC-000089"
+    ]
+  },
+  {
+    "id": "M053",
+    "exact_tibetan": "སེམས་ཙམ་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The whole school label is absent; retain the complete ordinary mind component and disclose capitalization/hyphenation as local presentation.",
+    "working_treatment": "Use provisional “Ordinary Mind Only”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00095"
+    ],
+    "pairs": [
+      "GC-000089"
+    ]
+  },
+  {
+    "id": "M054",
+    "exact_tibetan": "མངོན་རྟོགས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The compound is absent. Preserve realization; do not replace it with direct perception merely from mngon similarity.",
+    "working_treatment": "Use provisional “manifest realization”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00095"
+    ],
+    "pairs": [
+      "GC-000089"
+    ]
+  },
+  {
+    "id": "M055",
+    "exact_tibetan": "ཆོས་ཀྱི་བདག་མེད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry; phenomena is already an identifiable component in established chos expressions, but selflessness is unassigned.",
+    "working_treatment": "Use provisional “selflessness of phenomena”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00096"
+    ],
+    "pairs": [
+      "GC-000090"
+    ]
+  },
+  {
+    "id": "M007",
+    "exact_tibetan": "ས་ཐོབ་ཡོན་ཏན་འབྱུང་ཚུལ་མུ་དྲུག",
+    "category": "scope",
+    "problem": "Six possibilities are asserted without enumeration; the relationship between level attainment and arising qualities is compressed.",
+    "working_treatment": "Preserve six possibilities concerning both level attainment and arising qualities.",
+    "uncertainty": "The six cases cannot be reconstructed responsibly from this line alone.",
+    "review_action": "Obtain the relevant enumeration before explaining or classifying the six.",
+    "anchors": [
+      "U00098"
+    ],
+    "pairs": [
+      "GC-000092"
+    ]
+  },
+  {
+    "id": "M090",
+    "exact_tibetan": "ཡོན་ཏན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",
+    "working_treatment": "Use provisional “qualities”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00098"
+    ],
+    "pairs": [
+      "GC-000092"
+    ]
+  },
+  {
+    "id": "M096",
+    "exact_tibetan": "མུ་དྲུག",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The classifier is technical in this quantified construction; its six members remain unspecified, not reconstructed.",
+    "working_treatment": "Use provisional “six possibilities”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00098"
+    ],
+    "pairs": [
+      "GC-000092"
+    ]
+  },
+  {
+    "id": "M008",
+    "exact_tibetan": "གཞི་ལམ་འབྲས་བུར་ཚོགས་གཉིས་ཟུང་འཇུག་ནས",
+    "category": "syntax/reference",
+    "problem": "The final nas marks continuation; the next line concerns selection of a field.",
+    "working_treatment": "Keep the English open into U00100 rather than deleting the connective.",
+    "uncertainty": "Whether the causal/temporal relationship is strong or merely sequential is not settled.",
+    "review_action": "Check the sentence boundary and connective in commentary or a physical witness.",
+    "anchors": [
+      "U00099"
+    ],
+    "pairs": [
+      "GC-000093"
+    ]
+  },
+  {
+    "id": "M056",
+    "exact_tibetan": "ཚོགས་གཉིས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Do not invent the identities of the two accumulations. United is an ordinary construction for zung jug here, not a new universal synonym for an established compound.",
+    "working_treatment": "Use provisional “two accumulations”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00099",
+      "U00101"
+    ],
+    "pairs": [
+      "GC-000093",
+      "GC-000095"
+    ]
+  },
+  {
+    "id": "M099",
+    "exact_tibetan": "གཞི",
+    "category": "contextual use",
+    "problem": "The established English has internal capitalization: The Ground. The standard requires this presentation choice to remain visible and unresolved.",
+    "working_treatment": "Retain The Ground exactly as a local presentation choice.",
+    "uncertainty": "This is not approval of a general capitalization rule.",
+    "review_action": "Obtain owner confirmation for the presentation convention; retain the canonical assignment meanwhile.",
+    "anchors": [
+      "U00099"
+    ],
+    "pairs": [
+      "GC-000093"
+    ]
+  },
+  {
+    "id": "M009",
+    "exact_tibetan": "མཐོ་དམན་ཀུན་ཏུ་ཞིང་ནི་གདམས་པ་ཟབ",
+    "category": "syntax/reference",
+    "problem": "The high and low are unspecified, and gdam pa is read here as choosing; the field is not qualified in the source.",
+    "working_treatment": "Use “choosing a field ... for all, high and low”; do not add the reference translation’s “higher.”",
+    "uncertainty": "Whether high/low refers to persons, levels, or fields remains open.",
+    "review_action": "Confirm the referents and the sense of gdam pa in the transmitted explanation.",
+    "anchors": [
+      "U00100"
+    ],
+    "pairs": [
+      "GC-000094"
+    ]
+  },
+  {
+    "id": "M057",
+    "exact_tibetan": "ཞིང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No technical assignment exists. “Higher” from the reference is excluded as unsupported.",
+    "working_treatment": "Use provisional “field”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00100"
+    ],
+    "pairs": [
+      "GC-000094"
+    ]
+  },
+  {
+    "id": "M010",
+    "exact_tibetan": "བདག་ཏུ་བཟུང་སྟེ",
+    "category": "syntax/reference",
+    "problem": "The phrase can describe grasping at a self or taking something as one’s own; its object is not overt.",
+    "working_treatment": "Provisionally render “while grasping at a self.”",
+    "uncertainty": "A possessive/appropriative construction remains possible.",
+    "review_action": "Review the object and force of bdag tu bzung in commentary.",
+    "anchors": [
+      "U00101"
+    ],
+    "pairs": [
+      "GC-000095"
+    ]
+  },
+  {
+    "id": "M058",
+    "exact_tibetan": "བསྔོ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry; dedicate is the grammatical verb in U00102.",
+    "working_treatment": "Use provisional “dedicate”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00102",
+      "U00103"
+    ],
+    "pairs": [
+      "GC-000096",
+      "GC-000097"
+    ]
+  },
+  {
+    "id": "M093",
+    "exact_tibetan": "འཁོར་འདས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole-expression assignment. Do not translate the second component mechanically as passing beyond when it names the contrasted domain.",
+    "working_treatment": "Use provisional “cyclic existence and nirvana”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00102"
+    ],
+    "pairs": [
+      "GC-000096"
+    ]
+  },
+  {
+    "id": "M011",
+    "exact_tibetan": "བྱང་སེམས",
+    "category": "syntax/reference",
+    "problem": "The abbreviation may stand for bodhisattva or ordinary mind of awakening; the section treats both, including vows and levels.",
+    "working_treatment": "Use bodhisattvas as the provisional section label.",
+    "uncertainty": "The omitted expansion is not present in the source.",
+    "review_action": "Verify the section-title expansion; preserve the abbreviation in the source.",
+    "anchors": [
+      "U00104"
+    ],
+    "pairs": [
+      "GC-000098"
+    ]
+  },
+  {
+    "id": "M012",
+    "exact_tibetan": "གཞན་ལའང",
+    "category": "syntax/reference",
+    "problem": "“Others” has no explicit referent in this line.",
+    "working_treatment": "Preserve “among others” without inserting other buddhas, religions, or historical periods.",
+    "uncertainty": "The identity of others remains unresolved.",
+    "review_action": "Check the relevant exposition before supplying a referent.",
+    "anchors": [
+      "U00105"
+    ],
+    "pairs": [
+      "GC-000099"
+    ]
+  },
+  {
+    "id": "M059",
+    "exact_tibetan": "གསང་སྔགས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct technical assignment or competing English output exists.",
+    "working_treatment": "Use provisional “secret mantra”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00105",
+      "U00125",
+      "U00126",
+      "U00127",
+      "U00128"
+    ],
+    "pairs": [
+      "GC-000099",
+      "GC-000119",
+      "GC-000120",
+      "GC-000121",
+      "GC-000122"
+    ]
+  },
+  {
+    "id": "M060",
+    "exact_tibetan": "དབང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Standalone/verb usage is not separately established, but empowerment preserves the existing whole-expression component; do not extend to dbang po as faculty.",
+    "working_treatment": "Use provisional “empowerment”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00106",
+      "U00107"
+    ],
+    "pairs": [
+      "GC-000100",
+      "GC-000101"
+    ]
+  },
+  {
+    "id": "M013",
+    "exact_tibetan": "ལྷ་ནི་ཕྱོགས་གཅིག་པས་ཀྱང",
+    "category": "syntax/reference",
+    "problem": "The deity is topicalized before an instrumental/agentive ending. The first draft supplied a partial presentation and shifted the deity away from the likely agent role; no source noun for presentation occurs.",
+    "working_treatment": "Following QMID-001, provisionally take the deity characterized as partial/one-sided as the conferring agent: empowerment can be conferred even by a partial deity.",
+    "uncertainty": "The exact force of partial/one-sided and the scope of the instrumental remain unverified. A partial realization, knowledge or deity assembly is not established from this verse alone.",
+    "review_action": "Confirm the agent construction and the sense of phyogs gcig pa from an authenticated commentary; no Tibetan emendation or settled doctrinal interpretation is claimed.",
+    "anchors": [
+      "U00107"
+    ],
+    "pairs": [
+      "GC-000101"
+    ]
+  },
+  {
+    "id": "M061",
+    "exact_tibetan": "བསྐྱེད་པའི་རིམ་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment. Do not relabel cultivation or create a completion-stage counterpart absent from the source.",
+    "working_treatment": "Use provisional “generation stage”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00109"
+    ],
+    "pairs": [
+      "GC-000103"
+    ]
+  },
+  {
+    "id": "M014",
+    "exact_tibetan": "རང་བྱུང་རྣམས",
+    "category": "syntax/reference",
+    "problem": "The plural referents of naturally arising are unstated; the human reference’s natural proclivity is not explicit.",
+    "working_treatment": "Use “Naturally arising ones,” without naming their class.",
+    "uncertainty": "This may be a technical class of self-arisen practitioners, deities, or another referent.",
+    "review_action": "Identify the class from commentary without silently inserting its definition.",
+    "anchors": [
+      "U00110"
+    ],
+    "pairs": [
+      "GC-000104"
+    ]
+  },
+  {
+    "id": "M062",
+    "exact_tibetan": "རང་བྱུང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Uses the documented component wording as a proposal; do not substitute the separate self-arising assignment or import primordial knowing.",
+    "working_treatment": "Use provisional “naturally arising”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00110"
+    ],
+    "pairs": [
+      "GC-000104"
+    ]
+  },
+  {
+    "id": "M063",
+    "exact_tibetan": "མཚན་དཔེའི",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No entry exists. Expansion of the compact pair is provisional; distinguish defining characteristics in U00138.",
+    "working_treatment": "Use provisional “major marks and minor signs”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00111"
+    ],
+    "pairs": [
+      "GC-000105"
+    ]
+  },
+  {
+    "id": "M091",
+    "exact_tibetan": "ཡོན་ཏན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",
+    "working_treatment": "Use provisional “qualities”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00111"
+    ],
+    "pairs": [
+      "GC-000105"
+    ]
+  },
+  {
+    "id": "M064",
+    "exact_tibetan": "མདོ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The textual genre is not assigned in the active glossary.",
+    "working_treatment": "Use provisional “sutras”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00112",
+      "U00126"
+    ],
+    "pairs": [
+      "GC-000106",
+      "GC-000120"
+    ]
+  },
+  {
+    "id": "M065",
+    "exact_tibetan": "རྒྱུད",
+    "category": "contextual use",
+    "problem": "No established whole-expression assignment covers this attested usage. Coordination with sutra and the medical-text compound provide positive genre evidence. Continuum remains mandatory for the personal continuum in U00106/U00132/U00133.",
+    "working_treatment": "Use provisional “tantras”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00112",
+      "U00117"
+    ],
+    "pairs": [
+      "GC-000106",
+      "GC-000111"
+    ]
+  },
+  {
+    "id": "M015",
+    "exact_tibetan": "སྤྲོས་པ་ཐམས་ཅད་བབས་ཀྱི་རྟེན་འབྲེལ",
+    "category": "interpretive supply",
+    "problem": "The preceding line discusses extensive rituals; this line does not repeat ritual. The meaning of bab is compressed.",
+    "working_treatment": "Bracket ritual and provisionally render bab as the situation.",
+    "uncertainty": "Ritual elaborations are likely in context, but the relation between situation and interdependence needs review.",
+    "review_action": "Check the explanation of bab and the scope of elaborations.",
+    "anchors": [
+      "U00114"
+    ],
+    "pairs": [
+      "GC-000108"
+    ]
+  },
+  {
+    "id": "M066",
+    "exact_tibetan": "སྤྲོས་པ",
+    "category": "contextual use",
+    "problem": "No established whole-expression assignment covers this attested usage. The standalone term lacks an entry. The ritual context supports leaving conceptual unsupplied rather than importing it from the separate compound.",
+    "working_treatment": "Use provisional “[ritual] elaborations”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00114"
+    ],
+    "pairs": [
+      "GC-000108"
+    ]
+  },
+  {
+    "id": "M067",
+    "exact_tibetan": "རྟེན་འབྲེལ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No existing whole-expression or English collision exists. The exact force of bab kyi remains separately noted.",
+    "working_treatment": "Use provisional “interdependent connections”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00114"
+    ],
+    "pairs": [
+      "GC-000108"
+    ]
+  },
+  {
+    "id": "M068",
+    "exact_tibetan": "རྡོ་རྗེའི་ལུས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole-expression assignment. Preserve body for lus; do not overwrite embodiment for sku.",
+    "working_treatment": "Use provisional “vajra body”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00115"
+    ],
+    "pairs": [
+      "GC-000109"
+    ]
+  },
+  {
+    "id": "M016",
+    "exact_tibetan": "གནས་ལུག",
+    "category": "source reading",
+    "problem": "The supplied string lacks the final s of the glossary form གནས་ལུགས་. Mechanical decoding does not authorize spelling repair.",
+    "working_treatment": "Retain the exact source; translate provisionally as natural state and bracket aspects, which is inferred from “some.”",
+    "uncertainty": "A scribal or transcription omission is suspected, not authenticated.",
+    "review_action": "Check a physical witness; approve or reject a textual correction separately from this translation.",
+    "anchors": [
+      "U00116"
+    ],
+    "pairs": [
+      "GC-000110"
+    ]
+  },
+  {
+    "id": "M017",
+    "exact_tibetan": "ལས་དང་འདུག་ཚུལ་འགའ་ཞིག",
+    "category": "syntax/reference",
+    "problem": "In the vajra-body context these may be bodily functions and dispositions; neither body nor a specific posture is repeated.",
+    "working_treatment": "Render “certain functions and dispositions” without claiming that these are more profound than another text.",
+    "uncertainty": "Actions and ways of remaining are possible more literal alternatives.",
+    "review_action": "Check the medical/tantric referents and whether a comparative is supplied elsewhere.",
+    "anchors": [
+      "U00117"
+    ],
+    "pairs": [
+      "GC-000111"
+    ]
+  },
+  {
+    "id": "M018",
+    "exact_tibetan": "དེ་མེད",
+    "category": "syntax/reference",
+    "problem": "The demonstrative refers back to what is profound here, but the content of that antecedent is not stated.",
+    "working_treatment": "Use “without that” and retain the connection to U00118.",
+    "uncertainty": "Do not identify that with a specific practice on the strength of the English reference.",
+    "review_action": "Clarify the antecedent from commentary if an explanatory expansion is wanted.",
+    "anchors": [
+      "U00119"
+    ],
+    "pairs": [
+      "GC-000113"
+    ]
+  },
+  {
+    "id": "M069",
+    "exact_tibetan": "རྩ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Standalone technical channel is absent, though channel occurs in an established longer name.",
+    "working_treatment": "Use provisional “channels”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00119"
+    ],
+    "pairs": [
+      "GC-000113"
+    ]
+  },
+  {
+    "id": "M070",
+    "exact_tibetan": "བཀའ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No standalone assignment exists; authoritative marks the different Tibetan source from lexical word. Do not silently specify the Buddha as speaker.",
+    "working_treatment": "Use provisional “authoritative word”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00120",
+      "U00122"
+    ],
+    "pairs": [
+      "GC-000114",
+      "GC-000116"
+    ]
+  },
+  {
+    "id": "M071",
+    "exact_tibetan": "ལོག་རྟོག",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The compound is absent. Preserve conceptualizing and distinguish it from realization.",
+    "working_treatment": "Use provisional “mistaken conceptualizing”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00120"
+    ],
+    "pairs": [
+      "GC-000114"
+    ]
+  },
+  {
+    "id": "M019",
+    "exact_tibetan": "གདམས་ངག་ལྟར་མིན་བཀའ་ལྟར་འོང་བར་བཞེད",
+    "category": "interpretive supply",
+    "problem": "The subject of coming about is unstated. The verse contrasts pith instructions and authoritative word without explaining the distinction.",
+    "working_treatment": "Bracket “Things” and preserve both the contrast and the statement “is held.”",
+    "uncertainty": "Outcomes, experience, or practice could be intended; no specific referent is asserted.",
+    "review_action": "Check the omitted subject and the local distinction between gdams ngag and bka.",
+    "anchors": [
+      "U00122"
+    ],
+    "pairs": [
+      "GC-000116"
+    ]
+  },
+  {
+    "id": "M072",
+    "exact_tibetan": "གདམས་ངག",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No canonical assignment exists; the contrast is retained without declaring one universally superior.",
+    "working_treatment": "Use provisional “pith instructions”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00122"
+    ],
+    "pairs": [
+      "GC-000116"
+    ]
+  },
+  {
+    "id": "M073",
+    "exact_tibetan": "ཏིང་འཛིན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The contraction is absent as a headword; the proposed realization retains the existing full-expression assignment.",
+    "working_treatment": "Use provisional “deep absorption”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00123"
+    ],
+    "pairs": [
+      "GC-000117"
+    ]
+  },
+  {
+    "id": "M074",
+    "exact_tibetan": "ཁམས་གསུམ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The phrase lacks an assignment; no names of the three are added.",
+    "working_treatment": "Use provisional “three realms”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00123"
+    ],
+    "pairs": [
+      "GC-000117"
+    ]
+  },
+  {
+    "id": "M095",
+    "exact_tibetan": "འཁོར་བའི",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry exists. The local term is kept consistent with the paired domain wording.",
+    "working_treatment": "Use provisional “cyclic existence”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00123"
+    ],
+    "pairs": [
+      "GC-000117"
+    ]
+  },
+  {
+    "id": "M075",
+    "exact_tibetan": "ཚུལ་ཁྲིམས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment. Discipline must not replace activity for spyod pa.",
+    "working_treatment": "Use provisional “ethical discipline”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00125"
+    ],
+    "pairs": [
+      "GC-000119"
+    ]
+  },
+  {
+    "id": "M042",
+    "exact_tibetan": "མི་དགེ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment or English collision exists. Do not substitute fault, which renders nyes pa.",
+    "working_treatment": "Use provisional “nonvirtue”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00127",
+      "U00128"
+    ],
+    "pairs": [
+      "GC-000121",
+      "GC-000122"
+    ]
+  },
+  {
+    "id": "M044",
+    "exact_tibetan": "དགེ་བར",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment exists; preserve the virtue/nonvirtue relation.",
+    "working_treatment": "Use provisional “virtue”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00127",
+      "U00128"
+    ],
+    "pairs": [
+      "GC-000121",
+      "GC-000122"
+    ]
+  },
+  {
+    "id": "M077",
+    "exact_tibetan": "འདུལ་བར",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Whole technical title is provisional; no silent equation with the separate discipline term.",
+    "working_treatment": "Use provisional “Vinaya”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00128"
+    ],
+    "pairs": [
+      "GC-000122"
+    ]
+  },
+  {
+    "id": "M020",
+    "exact_tibetan": "ཉོན་མོངས་དག་འབྲས",
+    "category": "syntax/reference",
+    "problem": "The compressed compound is read as the result of afflictions being purified.",
+    "working_treatment": "Use “the result of purifying afflictions.”",
+    "uncertainty": "The line names a Blissfully Gone One, not abstract true bliss as in the human reference.",
+    "review_action": "Confirm compound attachment; do not substitute bliss for the personal title.",
+    "anchors": [
+      "U00129"
+    ],
+    "pairs": [
+      "GC-000123"
+    ]
+  },
+  {
+    "id": "M039",
+    "exact_tibetan": "ཉོན་མོངས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry exists; avoid reusing delusion or ignorance for this distinct term.",
+    "working_treatment": "Use provisional “afflictions”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00129"
+    ],
+    "pairs": [
+      "GC-000123"
+    ]
+  },
+  {
+    "id": "M078",
+    "exact_tibetan": "བདེ་བར་གཤེགས་པ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No canonical entry. Preserve the going/person component that the human reference’s true bliss loses; capitalization identifies the proposed title.",
+    "working_treatment": "Use provisional “Blissfully Gone One”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00129"
+    ],
+    "pairs": [
+      "GC-000123"
+    ]
+  },
+  {
+    "id": "M079",
+    "exact_tibetan": "མངོན་སྤྱོད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole-expression assignment. Preserve activity; ritual force is a contextual proposal, not an inference from direct perception.",
+    "working_treatment": "Use provisional “forceful ritual activity”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00130"
+    ],
+    "pairs": [
+      "GC-000124"
+    ]
+  },
+  {
+    "id": "M080",
+    "exact_tibetan": "རྡོ་རྗེ་དམྱལ་བ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The compound has no entry; its asserted identification is preserved without adding doctrine.",
+    "working_treatment": "Use provisional “vajra hell”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00131"
+    ],
+    "pairs": [
+      "GC-000125"
+    ]
+  },
+  {
+    "id": "M081",
+    "exact_tibetan": "མནར་མེད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The proper-name identification is a local proposal and not an established glossary assignment.",
+    "working_treatment": "Use provisional “Avici”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00131"
+    ],
+    "pairs": [
+      "GC-000125"
+    ]
+  },
+  {
+    "id": "M021",
+    "exact_tibetan": "སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན། །",
+    "category": "source reading",
+    "problem": "This Tibetan is exactly identical to U00132. The old English instead supplies a fifth-section colophon that has no corresponding Tibetan here.",
+    "working_treatment": "Translate the duplicate exactly as U00132; do not manufacture a Tibetan colophon from the English reference.",
+    "uncertainty": "Whether repetition replaces lost Tibetan is unresolved; decoded electronic evidence alone cannot recover it.",
+    "review_action": "Consult a physical witness or separately authenticated transcript before restoring any colophon.",
+    "anchors": [
+      "U00133"
+    ],
+    "pairs": [
+      "GC-000127"
+    ]
+  },
+  {
+    "id": "M022",
+    "exact_tibetan": "དམ་པའི་ཆོས་གང་བརྒྱུད་པར་འབྲེལ་པ་ཟབ",
+    "category": "syntax/reference",
+    "problem": "The relative expression is compressed between any sublime Dharma and its transmission lineage.",
+    "working_treatment": "Use “For any sublime Dharma [teaching], connection with its lineage is profound.”",
+    "uncertainty": "“Its” makes the proposed relation explicit; the line may emphasize whichever lineage transmits that Dharma.",
+    "review_action": "Check the attachment of gang and brgyud pa in commentary.",
+    "anchors": [
+      "U00134"
+    ],
+    "pairs": [
+      "GC-000128"
+    ]
+  },
+  {
+    "id": "M094",
+    "exact_tibetan": "འཁོར་འདས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole-expression assignment. Do not translate the second component mechanically as passing beyond when it names the contrasted domain.",
+    "working_treatment": "Use provisional “cyclic existence and nirvana”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00135"
+    ],
+    "pairs": [
+      "GC-000129"
+    ]
+  },
+  {
+    "id": "M023",
+    "exact_tibetan": "རྒྱུ་འབྲས་སྐད་ཅིག་བསམ་པའི་རང་གཟུགས",
+    "category": "syntax/reference",
+    "problem": "The placement of skad cig permits different attachments to cause/result or thinking.",
+    "working_treatment": "Read it with thinking: cause and result are the very form of momentary thinking.",
+    "uncertainty": "A momentary cause-and-result construction remains possible. No embodiment is supplied for gzugs, since embodiment is reserved for sku.",
+    "review_action": "Verify the syntactic attachment and the intended sense of rang gzugs.",
+    "anchors": [
+      "U00136"
+    ],
+    "pairs": [
+      "GC-000130"
+    ]
+  },
+  {
+    "id": "M024",
+    "exact_tibetan": "གཤིས་ལ་མི་གནས་བལྟས་པའི་འགྱུར་མི་སྲིད",
+    "category": "source reading",
+    "problem": "The supplied genitive བལྟས་པའི་ is syntactically awkward before change; an instrumental reading is possible but not present as such.",
+    "working_treatment": "Provisionally render “cannot be made otherwise by looking,” without changing the Tibetan.",
+    "uncertainty": "An intended བལྟས་པས་ is only a conjecture. The subject of abiding is also implicit.",
+    "review_action": "Check a physical witness and commentary; do not silently replace the genitive or supply a specific ontological claim.",
+    "anchors": [
+      "U00137"
+    ],
+    "pairs": [
+      "GC-000131"
+    ]
+  },
+  {
+    "id": "M082",
+    "exact_tibetan": "གཤིས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No gshis entry exists. Use a distinct provisional expression rather than silently making it equivalent to natural state or intrinsic nature.",
+    "working_treatment": "Use provisional “actual condition”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00137"
+    ],
+    "pairs": [
+      "GC-000131"
+    ]
+  },
+  {
+    "id": "M025",
+    "exact_tibetan": "མཚན་ཉིད་མི་ལྡན",
+    "category": "syntax/reference",
+    "problem": "The bearer and the required defining characteristics are not named.",
+    "working_treatment": "Use “One who lacks the defining characteristics,” retaining the source’s lack of specification.",
+    "uncertainty": "A qualified teacher is plausible in context but is not explicitly identified here.",
+    "review_action": "Check the referent before inserting teacher or enumerating qualifications.",
+    "anchors": [
+      "U00138"
+    ],
+    "pairs": [
+      "GC-000132"
+    ]
+  },
+  {
+    "id": "M092",
+    "exact_tibetan": "ཡོན་ཏན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct entry or competing established output exists; the source does not separately add good to these occurrences.",
+    "working_treatment": "Use provisional “qualities”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00138",
+      "U00147",
+      "U00148",
+      "U00149"
+    ],
+    "pairs": [
+      "GC-000132",
+      "GC-000141",
+      "GC-000142",
+      "GC-000143"
+    ]
+  },
+  {
+    "id": "M097",
+    "exact_tibetan": "མཚན་ཉིད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The standalone compound is absent. Do not apply the specialized rang mtshan assignment or conflate this with deity marks.",
+    "working_treatment": "Use provisional “defining characteristics”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00138"
+    ],
+    "pairs": [
+      "GC-000132"
+    ]
+  },
+  {
+    "id": "M026",
+    "exact_tibetan": "ཆེན་པོ་གསུམ",
+    "category": "scope",
+    "problem": "The three “greats” are counted but not named.",
+    "working_treatment": "Retain the count and label without constructing a threefold doctrinal list.",
+    "uncertainty": "The identity of the three is unresolved in the supplied verse.",
+    "review_action": "Identify the three from an authorized exposition before expanding them.",
+    "anchors": [
+      "U00141"
+    ],
+    "pairs": [
+      "GC-000135"
+    ]
+  },
+  {
+    "id": "M027",
+    "exact_tibetan": "ཐོས་བསམ་སྒོམ་པའི་སྟོང་ཉིད་ཤོལ་གོལ་ཡིན",
+    "category": "scope",
+    "problem": "The genitive relates emptiness to hearing/reflection/cultivation; the final yin is an assertion, not a possibility.",
+    "working_treatment": "Preserve the assertion “is delay and deviation” without the human reference’s weakening may.",
+    "uncertainty": "The text does not explicitly distinguish conceptual emptiness from another kind in this line.",
+    "review_action": "Check the force and objects of shol/gol in commentary without inserting an unexpressed doctrinal qualifier.",
+    "anchors": [
+      "U00142"
+    ],
+    "pairs": [
+      "GC-000136"
+    ]
+  },
+  {
+    "id": "M083",
+    "exact_tibetan": "སྟོང་ཉིད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The exact nominalized form is absent; retain the established emptiness family as a linked usage proposal.",
+    "working_treatment": "Use provisional “emptiness”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00142",
+      "U00150"
+    ],
+    "pairs": [
+      "GC-000136",
+      "GC-000144"
+    ]
+  },
+  {
+    "id": "M098",
+    "exact_tibetan": "ཤོལ་གོལ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Neither component has an active assignment; the exact doctrinal force remains an open source-linked review item.",
+    "working_treatment": "Use provisional “delay and deviation”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00142"
+    ],
+    "pairs": [
+      "GC-000136"
+    ]
+  },
+  {
+    "id": "M076",
+    "exact_tibetan": "ཚུལ་ཁྲིམས",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No direct assignment. Discipline must not replace activity for spyod pa.",
+    "working_treatment": "Use provisional “ethical discipline”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00144",
+      "U00146",
+      "U00152"
+    ],
+    "pairs": [
+      "GC-000138",
+      "GC-000140",
+      "GC-000146"
+    ]
+  },
+  {
+    "id": "M084",
+    "exact_tibetan": "བླང་དོར",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The encountered compound uses dor and reverses the established related pair’s order. Keep both members in source order rather than substituting a doctrinal synonym.",
+    "working_treatment": "Use provisional “accepting and rejecting”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00144"
+    ],
+    "pairs": [
+      "GC-000138"
+    ]
+  },
+  {
+    "id": "M085",
+    "exact_tibetan": "ཕྱག་ཆེན",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The exact contraction is absent; the proposed abbreviation mapping preserves the established complete-expression assignment.",
+    "working_treatment": "Use provisional “Mahamudra”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00146",
+      "U00147"
+    ],
+    "pairs": [
+      "GC-000140",
+      "GC-000141"
+    ]
+  },
+  {
+    "id": "M086",
+    "exact_tibetan": "བདག་ཉིད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Avoid silently reassigning essence or intrinsic nature. Very identity is a narrow construction-level proposal, not a universal ontology.",
+    "working_treatment": "Use provisional “very identity”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00147"
+    ],
+    "pairs": [
+      "GC-000141"
+    ]
+  },
+  {
+    "id": "M087",
+    "exact_tibetan": "མཉམ་པར་བཞག",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. The expanded verbal form is absent. Preserve equipoise; do not import naked resting or the unrelated pending hand-posture wording.",
+    "working_treatment": "Use provisional “resting in equipoise”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00148"
+    ],
+    "pairs": [
+      "GC-000142"
+    ]
+  },
+  {
+    "id": "M028",
+    "exact_tibetan": "སྟོང་ཉིད་རྟོགས་ན་རྒྱུ་འབྲས་ཉིད་དུ་ལྡང་",
+    "category": "syntax/reference",
+    "problem": "The subject of arising is omitted after the condition of realizing emptiness.",
+    "working_treatment": "Use it, provisionally referring to emptiness as realized; preserve arises as rather than arises from.",
+    "uncertainty": "The subject may instead be the realization or what appears to the realizer.",
+    "review_action": "Verify the omitted subject; preserve the equative/formative force of du.",
+    "anchors": [
+      "U00150"
+    ],
+    "pairs": [
+      "GC-000144"
+    ]
+  },
+  {
+    "id": "M029",
+    "exact_tibetan": "ཐམས་ལམ",
+    "category": "source reading",
+    "problem": "The supplied ཐམས་ does not straightforwardly yield the expected technical path of means, ཐབས་ལམ་; the latter appears only as an interpretive candidate.",
+    "working_treatment": "Bracket [path of means] as a conjectural working rendering; retain ཐམས་ལམ་ in the source.",
+    "uncertainty": "The human reference supports the conjecture but does not establish a Tibetan correction.",
+    "review_action": "Inspect a physical witness or authenticated transcript; keep the conjecture visibly provisional until verified.",
+    "anchors": [
+      "U00151"
+    ],
+    "pairs": [
+      "GC-000145"
+    ]
+  },
+  {
+    "id": "M088",
+    "exact_tibetan": "ཐམས་ལམ",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. This headword is not the attested string. A separate source note exposes the conjecture; do not activate or normalize without evidence.",
+    "working_treatment": "Use provisional “[path of means]”; the active glossary is unchanged.",
+    "uncertainty": "Proposed conjectural usage only; physical-source verification and owner approval are both pending.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00151"
+    ],
+    "pairs": [
+      "GC-000145"
+    ]
+  },
+  {
+    "id": "M030",
+    "exact_tibetan": "རིགས་སྤྱོད",
+    "category": "syntax/reference",
+    "problem": "The compound names activity associated with rigs, which may mean tantric families or a kind/class; no expansion is supplied.",
+    "working_treatment": "Provisionally use activity of the families.",
+    "uncertainty": "Tantric family scope is plausible but not established from this verse alone.",
+    "review_action": "Resolve rigs and the compound before treating it as an approved technical expression.",
+    "anchors": [
+      "U00152"
+    ],
+    "pairs": [
+      "GC-000146"
+    ]
+  },
+  {
+    "id": "M089",
+    "exact_tibetan": "རིགས་སྤྱོད",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No whole expression is assigned. Preserve activity; families remains a narrow, explicitly uncertain interpretation of rigs.",
+    "working_treatment": "Use provisional “activity of the families”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00152"
+    ],
+    "pairs": [
+      "GC-000146"
+    ]
+  },
+  {
+    "id": "M031",
+    "exact_tibetan": "ཆོས་གསུམ",
+    "category": "scope",
+    "problem": "The three teachings are not enumerated here.",
+    "working_treatment": "Retain the count and refrain from naming the three.",
+    "uncertainty": "Identification with a particular preceding triad is possible but unverified.",
+    "review_action": "Check the transmitted explanation of the three teachings.",
+    "anchors": [
+      "U00153"
+    ],
+    "pairs": [
+      "GC-000147"
+    ]
+  },
+  {
+    "id": "M049",
+    "exact_tibetan": "ཉན་རང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. No entry exists; the contraction nyan rang is split into its two practitioner categories locally, not normalized in the source.",
+    "working_treatment": "Use provisional “hearers”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00153"
+    ],
+    "pairs": [
+      "GC-000147"
+    ]
+  },
+  {
+    "id": "M051",
+    "exact_tibetan": "ཉན་རང",
+    "category": "terminology gap",
+    "problem": "No established whole-expression assignment covers this attested usage. Do not misread the contraction as canonical self-purified. The proposed conventional person label contains realizer but does not change the rtogs pa mapping.",
+    "working_treatment": "Use provisional “solitary buddhas”; the active glossary is unchanged.",
+    "uncertainty": "Owner approval remains pending; this is a local working proposal only.",
+    "review_action": "Review this scoped usage and its eight-column proposal before activating it.",
+    "anchors": [
+      "U00153"
+    ],
+    "pairs": [
+      "GC-000147"
+    ]
+  },
+  {
+    "id": "L001",
+    "exact_tibetan": "སངས་རྒྱས་ས་ན་བདེན་གཉིས",
+    "category": "terminology gap",
+    "problem": "The supplied glossary has no primary entries for ས་ as a Buddhist level or བདེན་གཉིས་; its established གཞི་ = The Ground is a different source term.",
+    "working_treatment": "Use level and two truths provisionally; preserve the statement that no division obtains at buddhahood.",
+    "uncertainty": "The local wording is clear; terminology is not yet an approved addition.",
+    "review_action": "Review these candidate entries with the earlier occurrences of levels and the two truths.",
+    "anchors": [
+      "U00155",
+      "U00161"
+    ],
+    "pairs": [
+      "GC-000149",
+      "GC-000155"
+    ]
+  },
+  {
+    "id": "L002",
+    "exact_tibetan": "མཁྱེན་པའི་ཡེ་ཤེས",
+    "category": "terminology gap",
+    "problem": "The complete honorific knowing expression is absent. ཡེ་ཤེས་ is established as primordial knowing; མཁྱེན་པ་ has no primary entry.",
+    "working_treatment": "Render the honorific verbal modifier as that cognizes, while retaining primordial knowing intact.",
+    "uncertainty": "The relation is rendered adjectivally; a specialist may prefer a nominal construction preserving the same source relationship.",
+    "review_action": "Review the honorific knowing family without changing primordial knowing or merging it with discerning knowing.",
+    "anchors": [
+      "U00156"
+    ],
+    "pairs": [
+      "GC-000150"
+    ]
+  },
+  {
+    "id": "L003",
+    "exact_tibetan": "རྒྱུ་མ་ལྟ་བུའི",
+    "category": "source reading",
+    "problem": "The source reads རྒྱུ་མ་, not the expected illusion expression སྒྱུ་མ་. The human reference uses illusory-like, but that is not independent Tibetan evidence.",
+    "working_treatment": "Translate provisionally as illusion-like on the explicit conjecture སྒྱུ་མ་. Preserve the supplied Tibetan unchanged. The bracketed it refers provisionally to the primordial knowing in U00156.",
+    "uncertainty": "Suspected initial-letter corruption is unverified; the agent of going beyond is implicit.",
+    "review_action": "Check an authenticated Tibetan witness for རྒྱུ་མ་/སྒྱུ་མ་ and the sentence’s reference before accepting the reading.",
+    "anchors": [
+      "U00157"
+    ],
+    "pairs": [
+      "GC-000151"
+    ]
+  },
+  {
+    "id": "L004",
+    "exact_tibetan": "ཚད་མར་བཞུགས",
+    "category": "terminology gap",
+    "problem": "ཚད་མ་ has no glossary entry. The construction presents the buddha as valid cognition; the old English dwell in valid cognition changes that relation.",
+    "working_treatment": "Use abides as valid cognition provisionally.",
+    "uncertainty": "The technical meaning of ཚད་མ་ here may require an authoritative-cognition or source-of-validity explanation, which is not inserted.",
+    "review_action": "Review against other ཚད་མ་ occurrences and a commentary; approve a scoped term if warranted.",
+    "anchors": [
+      "U00158"
+    ],
+    "pairs": [
+      "GC-000152"
+    ]
+  },
+  {
+    "id": "Q003",
+    "exact_tibetan": "བཞུགས",
+    "category": "contextual use",
+    "problem": "The honorific verb bzhugs lacks a glossary entry; abiding is established for gnas pa. These are related verbal realizations, not an approved glossary identity.",
+    "working_treatment": "Use abide provisionally at U00158, U00168 and U00169 in the doctrinal assertions.",
+    "uncertainty": "The honorific relation is plausible; owner approval of this usage remains pending.",
+    "review_action": "Review the three honorific occurrences while retaining the active gnas pa assignment.",
+    "anchors": [
+      "U00158",
+      "U00168",
+      "U00169"
+    ],
+    "pairs": [
+      "GC-000152",
+      "GC-000162",
+      "GC-000163"
+    ]
+  },
+  {
+    "id": "L005",
+    "exact_tibetan": "བྲལ་བའི་འབྲས་བུས་ཡེ་ཤེས་ཐུགས་ཅན་བཞེད",
+    "category": "syntax/reference",
+    "problem": "The instrumental result of separation precedes the compressed expression primordial-knowing mind-possessor. Its subject is implicit. Standalone ཐུགས་ is explicitly absent from the glossary; ཐུགས་རྗེ་ does not supply its meaning.",
+    "working_treatment": "Take the buddha of U00158 as subject; preserve the instrumental through and the possession construction. Use enlightened mind provisionally for honorific ཐུགས་ in this buddha context.",
+    "uncertainty": "The construction could express the result’s characterization rather than a causal production; the translation must not be taken to decide that doctrinal question.",
+    "review_action": "Check the construction in a commentary and review the standalone honorific-mind usage separately from དགོངས་པ་ = enlightened intent.",
+    "anchors": [
+      "U00159"
+    ],
+    "pairs": [
+      "GC-000153"
+    ]
+  },
+  {
+    "id": "L006",
+    "exact_tibetan": "ཡོན་ཏན་མཛད་པ་ཕྲིན་ལས",
+    "category": "terminology gap",
+    "problem": "These three expressions lack primary glossary entries. The source preserves both མཛད་པ་ and ཕྲིན་ལས་; rendering both as one activities would omit the pair.",
+    "working_treatment": "Render qualities, deeds, and enlightened deeds provisionally. Preserve dharma embodiment for established ཆོས་སྐུ་.",
+    "uncertainty": "The precise distinction between deeds and enlightened deeds requires commentary; enlightened marks the honorific Buddha context and is a proposed lexical component.",
+    "review_action": "Review the pair systematically; avoid collapsing it into the established activity assigned to སྤྱོད་པ་.",
+    "anchors": [
+      "U00160"
+    ],
+    "pairs": [
+      "GC-000154"
+    ]
+  },
+  {
+    "id": "L007",
+    "exact_tibetan": "ཐུགས་བསྐྱེད",
+    "category": "terminology gap",
+    "problem": "The honorific compound is not an established glossary entry. In this context it is treated as the honorific counterpart of arousing བྱང་ཆུབ་སེམས་, whose working project rendering is ordinary mind of awakening.",
+    "working_treatment": "Use the arousing of the ordinary mind of awakening provisionally. This is a compound-specific interpretation, not a default mapping of standalone ཐུགས་ to ordinary mind.",
+    "uncertainty": "The formulation at buddhahood is deliberately retained; it does not imply that a buddha has not previously awakened. The intended scope needs commentary.",
+    "review_action": "Review this honorific compound together with the ordinary-mind-of-awakening proposal and its occurrence at buddhahood.",
+    "anchors": [
+      "U00161"
+    ],
+    "pairs": [
+      "GC-000155"
+    ]
+  },
+  {
+    "id": "L008",
+    "exact_tibetan": "ཐུགས་ནི་རྟག་ཆད་ལྟ་བ་ཚུན་ལའང་འབྱུང",
+    "category": "syntax/reference",
+    "problem": "The source says the honorific mind occurs even as far as permanence-and-annihilation views. The knowing relation and the holders of these views are not stated.",
+    "working_treatment": "Use extends even to without adding an explicit endorsement or teaching of the views. Continue the provisional enlightened mind from U00159; preserve the established view component.",
+    "uncertainty": "Could concern the reach of a buddha’s knowing or its manifestation within such views; that distinction is unresolved.",
+    "review_action": "Consult a commentary for the force of འབྱུང་ and the scope of ཚུན་; do not infer that a buddha endorses the views.",
+    "anchors": [
+      "U00162"
+    ],
+    "pairs": [
+      "GC-000156"
+    ]
+  },
+  {
+    "id": "L009",
+    "exact_tibetan": "ཤེས་བྱ་སྲིད་ཚད་སངས་རྒྱས་བྱ་བ་བྱེད",
+    "category": "syntax/reference",
+    "problem": "The compressed line does not overtly distinguish buddha as subject from buddha qualifying the doing. བྱ་བ་ is established as doing.",
+    "working_treatment": "Supply a buddha as subject and render a buddha’s doing, preserving the lexical noun and verb. Use knowables provisionally for the uncovered technical noun ཤེས་བྱ་.",
+    "uncertainty": "The whole-range expression could be spatial/domain scope or duration as long as knowables exist; the draft uses domain scope.",
+    "review_action": "Review the subject relation and domain/duration scope against commentary.",
+    "anchors": [
+      "U00163"
+    ],
+    "pairs": [
+      "GC-000157"
+    ]
+  },
+  {
+    "id": "L010",
+    "exact_tibetan": "ཆོས་དབྱིངས་ཀུན་ཏུ་འཚང་རྒྱ",
+    "category": "scope",
+    "problem": "The universal expression applies to the basic space of phenomena; the source does not name an individual subject or explain how awakening throughout it is understood.",
+    "working_treatment": "Retain the full established basic space of phenomena and the scope throughout the entire; use impersonal one.",
+    "uncertainty": "Spatial/domain language may have a technical intended meaning not explained in the aphorism.",
+    "review_action": "Review the universal scope without weakening it or adding an unsupported doctrinal paraphrase.",
+    "anchors": [
+      "U00164"
+    ],
+    "pairs": [
+      "GC-000158"
+    ]
+  },
+  {
+    "id": "L011",
+    "exact_tibetan": "རྒྱུ་མེད་སྤྲུལ་པ་མི་སྲིད་རང་རྒྱུད་པ",
+    "category": "syntax/reference",
+    "problem": "The final རང་རྒྱུད་པ་ is syntactically detached. It may characterize an emanation as having its own continuum; the same form can have a tenet-school sense elsewhere.",
+    "working_treatment": "Translate the first assertion directly; provisionally attach has its own continuum to the emanation, with it has bracketed as supplied. Preserve continuum for རྒྱུད་.",
+    "uncertainty": "Attachment and the intended autonomous/individual-continuum sense are unresolved; do not harmonize with the Svatantrika occurrence elsewhere.",
+    "review_action": "Check a commentary or authenticated parallel for the final phrase and its relation to the preceding assertion.",
+    "anchors": [
+      "U00165"
+    ],
+    "pairs": [
+      "GC-000159"
+    ]
+  },
+  {
+    "id": "L012",
+    "exact_tibetan": "རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ",
+    "category": "terminology gap",
+    "problem": "The dependent-arising phrase has no established complete entry. The embodiment component is established.",
+    "working_treatment": "Render an embodiment arising dependently as a provisional whole-expression grammatical construction.",
+    "uncertainty": "Whether a named technical category is intended requires review; the line gives no further definition.",
+    "review_action": "Review with the work’s other dependent-arising constructions while preserving embodiment.",
+    "anchors": [
+      "U00166"
+    ],
+    "pairs": [
+      "GC-000160"
+    ]
+  },
+  {
+    "id": "L013",
+    "exact_tibetan": "སྨོན་འཇུག་ལོངས་སྤྲུལ",
+    "category": "interpretive supply",
+    "problem": "Both pairs are abbreviated. The phrase does not explicitly repeat ordinary mind of awakening or embodiment, nor does it overtly mark a one-to-one causal pairing.",
+    "working_treatment": "Expand aspiration/engagement as forms of the ordinary mind of awakening; expand ལོངས་ and སྤྲུལ་ using the established complete enjoyment embodiment and emanation embodiment terms. Do not insert respectively.",
+    "uncertainty": "The expansion is contextually supported but remains provisional; exact pairing is not resolved.",
+    "review_action": "Review the abbreviations and causal correspondence against commentary before approving the whole expressions.",
+    "anchors": [
+      "U00167"
+    ],
+    "pairs": [
+      "GC-000161"
+    ]
+  },
+  {
+    "id": "L014",
+    "exact_tibetan": "སེམས་ཅན",
+    "category": "contextual use",
+    "problem": "The complete expression is absent from the glossary; the established ordinary mind component alone does not settle a whole-expression English term.",
+    "working_treatment": "Use sentient beings as an explicitly provisional whole-expression rendering, rather than claim it is an approved exception to ordinary mind.",
+    "uncertainty": "This does not authorize reducing standalone སེམས་ to generic mind or silently using the compound as a model for other shortenings.",
+    "review_action": "Review the whole-expression candidate consistently with its earlier occurrences in this work.",
+    "anchors": [
+      "U00169"
+    ],
+    "pairs": [
+      "GC-000163"
+    ]
+  },
+  {
+    "id": "L015",
+    "exact_tibetan": "ཕ་ཡིས་ཁྱད་ནོར་གཞན་ལ་མེད་པ་དག",
+    "category": "syntax/reference",
+    "problem": "The father is marked ergative/instrumental ཡིས་, but no explicit giving verb appears. U00171–174 form a single simile.",
+    "working_treatment": "Represent the possessions as the father’s riches; the link with the son is read elliptically. No Tibetan case particle is changed. The following heard/retained clause and disparagement belong to the son.",
+    "uncertainty": "A supplied giving verb or a different construction may be intended; the exact ellipsis is unresolved.",
+    "review_action": "Check the case particle and missing relation against a witness or commentary; preserve the four-line syntax meanwhile.",
+    "anchors": [
+      "U00173"
+    ],
+    "pairs": [
+      "GC-000165"
+    ]
+  },
+  {
+    "id": "L016",
+    "exact_tibetan": "མ་ཐོས་མི་འཛིན",
+    "category": "contextual use",
+    "problem": "The source verb འཛིན་ means retaining/holding the inherited riches in this simile. The glossary entry འཛིན་པ་ = apprehending subject concerns an epistemic noun, not this ordinary verb.",
+    "working_treatment": "Use retaining here; later use uphold for holding a teaching/intention. These are scoped provisional verbal uses, not replacements of the technical subject term.",
+    "uncertainty": "The riches may function figuratively as teachings; that does not settle the canonical verb family globally.",
+    "review_action": "Review the ordinary verbal senses across U00174, U00178, U00181–182 and U00183.",
+    "anchors": [
+      "U00174",
+      "U00178",
+      "U00182",
+      "U00183"
+    ],
+    "pairs": [
+      "GC-000165",
+      "GC-000166",
+      "GC-000167",
+      "GC-000168"
+    ]
+  },
+  {
+    "id": "L017",
+    "exact_tibetan": "མཚུངས་མེད་འཇིག་རྟེན་མགོན་པོ",
+    "category": "scope",
+    "problem": "The source gives the title unequalled Protector of the World. The legacy English inserts tathagata and Jigten Sumgon, which are not written here.",
+    "working_treatment": "Translate the supplied title without inserting a personal name or tathagata.",
+    "uncertainty": "Identification with the teacher named by the work’s wider context is likely but not independently established by this line alone.",
+    "review_action": "Verify identity in project provenance if a name is to be added to reader-facing annotation.",
+    "anchors": [
+      "U00175"
+    ],
+    "pairs": [
+      "GC-000166"
+    ]
+  },
+  {
+    "id": "L018",
+    "exact_tibetan": "སྔོན་ཆད་མ་གྲགས་ཕྱི་དུས་འཇིག་རྟེན་འདིར",
+    "category": "syntax/reference",
+    "problem": "Previously unheard of modifies the distinctive teachings; later times in this world supplies the setting for the following sons’ failure to uphold them. The legacy translation incorrectly coordinates past and future under never known.",
+    "working_treatment": "Attach previously unheard of backward and later times forward; supply if to make the analogy’s condition explicit in English.",
+    "uncertainty": "The cross-line attachment is well supported by U00175–178; the condition is inferred from the comparison rather than an explicit Tibetan if.",
+    "review_action": "Review the complete stanza, not the line in isolation.",
+    "anchors": [
+      "U00177"
+    ],
+    "pairs": [
+      "GC-000166"
+    ]
+  },
+  {
+    "id": "L019",
+    "exact_tibetan": "རིགས་འཚོལ་གཞན",
+    "category": "syntax/reference",
+    "problem": "The compressed phrase admits uncertainty concerning whether other qualifies lineage-seekers or another lineage being sought.",
+    "working_treatment": "Use other seekers of the lineage provisionally; do not expand to a specific rival school.",
+    "uncertainty": "Other seekers of lineage or those seeking other lineages remain possible.",
+    "review_action": "Review the compound and modifier scope in context or commentary.",
+    "anchors": [
+      "U00180"
+    ],
+    "pairs": [
+      "GC-000167"
+    ]
+  },
+  {
+    "id": "L020",
+    "exact_tibetan": "བཞེད་པའི་ཐུགས་དགོངས",
+    "category": "terminology gap",
+    "problem": "Honorific ཐུགས་དགོངས་ is not a complete glossary entry. དགོངས་པ་ = enlightened intent is established. བཞེད་པའི་ expresses what the renowned one holds or cherishes.",
+    "working_treatment": "Use cherished enlightened intents, documenting the honorific compound application rather than silently mapping standalone ཐུགས་.",
+    "uncertainty": "The cherished modifier’s nuance and plurality of intents require final human style review; the lexical enlightened intent is retained.",
+    "review_action": "Review the honorific compound family without weakening the established intent term.",
+    "anchors": [
+      "U00181"
+    ],
+    "pairs": [
+      "GC-000167"
+    ]
+  },
+  {
+    "id": "L021",
+    "exact_tibetan": "མཚན་ལྡན་སྲས",
+    "category": "syntax/reference",
+    "problem": "Across U00184–185, the genitive of wheel-turning king may qualify marks, or may directly identify a king’s son. The metaphor singles out one specially marked son among a thousand.",
+    "working_treatment": "Choose a son bearing a wheel-turning king’s marks; retain the alternative attachment here. Wheel-turning king is a provisional abbreviated-term rendering.",
+    "uncertainty": "The choice of genitive attachment is not authenticated.",
+    "review_action": "Check whether commentary identifies marks of future kingship or a reigning king’s son; maintain the singular-versus-thousand comparison.",
+    "anchors": [
+      "U00185",
+      "U00184"
+    ],
+    "pairs": [
+      "GC-000168",
+      "GC-000168"
+    ]
+  },
+  {
+    "id": "L022",
+    "exact_tibetan": "ཐུན་མོང་མ་ཡིན་དམ་པའི་སྙིང་པོ",
+    "category": "interpretive supply",
+    "problem": "The uncommon sublime heart is paired with the Sage’s boundless teachings in U00188. Its possessed content is not explicit.",
+    "working_treatment": "Supply of the teaching in brackets; retain heart as an ordinary metaphor, avoiding silent reassignment of essence from ངོ་བོ་.",
+    "uncertainty": "The phrase may denote the sublime teaching’s essence or the heart of a sublime person; the supplied possessor is provisional.",
+    "review_action": "Review the genitive attachment and whether a technical སྙིང་པོ་ entry is needed for this passage.",
+    "anchors": [
+      "U00187"
+    ],
+    "pairs": [
+      "GC-000169"
+    ]
+  },
+  {
+    "id": "Q002",
+    "exact_tibetan": "བཀའ",
+    "category": "terminology gap",
+    "problem": "QL002 identified missing traceability for the recurrent bka term.",
+    "working_treatment": "Use the same proposed authoritative word as U00022/U00120/U00122; retain the Sage as possessor and boundless as modifier.",
+    "uncertainty": "Proposed only; no canonical glossary entry has changed.",
+    "review_action": "Review the bka/bstan pa distinction across the work.",
+    "anchors": [
+      "U00188"
+    ],
+    "pairs": [
+      "GC-000169"
+    ]
+  },
+  {
+    "id": "L023",
+    "exact_tibetan": "ཉམས་ང་མེད",
+    "category": "contextual use",
+    "problem": "This is a whole expression for absence of fear/danger; its ཉམས་ syllable does not function as the glossary noun experience.",
+    "working_treatment": "Render fearless provisionally for the complete expression; keep the comparison to a snow lion and the external-opponent metaphor.",
+    "uncertainty": "The sense is clear from the metaphor; the complete expression is not approved glossary terminology.",
+    "review_action": "Review the whole-expression candidate without altering standalone experience.",
+    "anchors": [
+      "U00190"
+    ],
+    "pairs": [
+      "GC-000169"
+    ]
+  },
+  {
+    "id": "L024",
+    "exact_tibetan": "མ་འདྲེས་ཆོས་ཀྱི་ཁྱད་པར",
+    "category": "contextual use",
+    "problem": "The unmixed modifier and differences of dharma are compressed. The glossary’s mix/mixed/mixing family is established in compounds, but standalone འདྲེས་ remains unapproved.",
+    "working_treatment": "Use distinct qualities of dharma without mixing them; retain the mix family, with the qualities/teachings as its provisional object.",
+    "uncertainty": "The source may more strictly describe already-unmixed distinctive teachings rather than the teacher’s act of avoiding mixture.",
+    "review_action": "Review the attachment of unmixed and approve a scoped mixing-family use if appropriate.",
+    "anchors": [
+      "U00192"
+    ],
+    "pairs": [
+      "GC-000170"
+    ]
+  },
+  {
+    "id": "L025",
+    "exact_tibetan": "སྙན་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+    "category": "contextual use",
+    "problem": "The glossary assigns word to སྒྲ་, but the thunder image requires an acoustic use. སྙན་པ་ can evoke pleasing sound or renown; the source does not explicitly state a possessive fame.",
+    "working_treatment": "Use mighty, pleasing sound—thunder provisionally, preserving the acoustic image and the active proclamation.",
+    "uncertainty": "A thunderous sound of renown is also plausible. The acoustic sound use is not an approved default for all སྒྲ་.",
+    "review_action": "Review the fame/pleasing-sound sense and approve an acoustic contextual use while preserving word in lexical contexts.",
+    "anchors": [
+      "U00194"
+    ],
+    "pairs": [
+      "GC-000170"
+    ]
+  },
+  {
+    "id": "L026",
+    "exact_tibetan": "བན་ལྡོམ་ཤེས་རབ་འབྱུང་གནས",
+    "category": "scope",
+    "problem": "བན་ལྡོམ་ is taken as a self-deprecating wandering-monk epithet; the following string is a personal name. The legacy English treats Bendom as part of the name.",
+    "working_treatment": "Translate wandering monk and transliterate Sherab Jungne. The name does not receive a component-by-component replacement with the established discerning knowing term.",
+    "uncertainty": "The epithet’s tone and preferred name romanization remain provisional; no independent biographical identification was consulted.",
+    "review_action": "Review epithet and name against project naming policy and an authenticated attribution.",
+    "anchors": [
+      "U00198"
+    ],
+    "pairs": [
+      "GC-000171"
+    ]
+  },
+  {
+    "id": "L027",
+    "exact_tibetan": "འཇིག་རྟེན་མི་ཤེས་གཏི་མུག",
+    "category": "terminology gap",
+    "problem": "The source says world, not འཁོར་བ་. Not knowing and གཏི་མུག་ are preserved separately. The latter lacks a primary glossary entry; delusion already belongs to འཁྲུལ་པ་, ignorance to མ་རིག་པ་.",
+    "working_treatment": "Use world, not knowing, and provisional bewilderment. In U00202 the world continues as a conventional collective for its beings, rather than samsara itself becoming a buddha.",
+    "uncertainty": "The two mental expressions could be appositional rather than a strict pair; bewilderment requires coordinated project terminology review.",
+    "review_action": "Review the གཏི་མུག་ family and subject continuity of the dedication; avoid unrecorded collisions with delusion/ignorance.",
+    "anchors": [
+      "U00201"
+    ],
+    "pairs": [
+      "GC-000172"
+    ]
+  },
+  {
+    "id": "L028",
+    "exact_tibetan": "སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས",
+    "category": "scope",
+    "problem": "The text now attributes the preserved original to Chenga Sherab Jungne. It subsequently names a separate arranger in U00206.",
+    "working_treatment": "Retain Chenga as a title and Sherab Jungne as a proper name. Do not make the later arranger the original author or replace the name’s Sherab with discerning knowing.",
+    "uncertainty": "The title’s exact historical referent and romanization have not been authenticated independently.",
+    "review_action": "Verify naming and attribution against an external witness when available.",
+    "anchors": [
+      "U00203"
+    ],
+    "pairs": [
+      "GC-000173"
+    ]
+  },
+  {
+    "id": "L029",
+    "exact_tibetan": "རྡོ་རྗེའི་གསུང",
+    "category": "terminology gap",
+    "problem": "The full expression is absent from the glossary. Its honorific speech term refers here to sayings arranged in verse, not necessarily isolated words.",
+    "working_treatment": "Use vajra statements provisionally, consistently with the work’s title and aphoristic form.",
+    "uncertainty": "The source does not state that this is a new composition of the original teachings; arrangement and preserved original are distinguished.",
+    "review_action": "Review the phrase as a whole-expression candidate and retain the arranger/original-author distinction.",
+    "anchors": [
+      "U00205"
+    ],
+    "pairs": [
+      "GC-000173"
+    ]
+  },
+  {
+    "id": "L030",
+    "exact_tibetan": "ཆོས་ཀྱི་རྗེ་སྐྱོབ་པ་ཡབ་སྲས",
+    "category": "scope",
+    "problem": "The title and father/sons expression identifies the teachings in which the arranger has faith. Spiritual is an interpretive realization of the teacher-disciple use of father/sons.",
+    "working_treatment": "Translate Dharma Lord, the Protector, and his spiritual sons; do not introduce an unprovided personal identification.",
+    "uncertainty": "The number of sons is not explicitly marked; father and son as a named pair is also possible.",
+    "review_action": "Review whether this is a specific father-son pair or the teacher with plural spiritual heirs.",
+    "anchors": [
+      "U00206"
+    ],
+    "pairs": [
+      "GC-000173"
+    ]
+  },
+  {
+    "id": "L031",
+    "exact_tibetan": "དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་པར་རྒྱལ་བའི་སྡེས",
+    "category": "scope",
+    "problem": "The string occurs as the instrumental agent of wrote. The ending སྡེས་ is treated as an honorific name suffix; the legacy English group of turns the apparent individual arranger into a collective.",
+    "working_treatment": "Render the individual name Konchog Rinchen Trinle Nampar Gyalwa. Preserve the entire Tibetan name in this note, including its suffix. Do not translate name components as technical glossary terms.",
+    "uncertainty": "Exact historical identity, name segmentation, and preferred romanization are not independently verified.",
+    "review_action": "Verify the arranger’s identity and name form in a catalog or physical witness before final publication.",
+    "anchors": [
+      "U00206"
+    ],
+    "pairs": [
+      "GC-000173"
+    ]
+  },
+  {
+    "id": "L032",
+    "exact_tibetan": "ཁྱི་ལོ་ཧོར་ཟླ་དང་པོའི་ཉེར་གསུམ་ལ་ཁམས་ཀྱི་བེ་རི་ཐང་གི་སྒར་ཐོག",
+    "category": "scope",
+    "problem": "The colophon supplies a Dog year and first Hor month but no sexagenary cycle or Gregorian year. Beri is a place-name; camp location is explicit.",
+    "working_treatment": "Retain Dog year and Hor lunar month without calendar conversion; use Beri plain in Kham and encampment.",
+    "uncertainty": "Absolute date and place-name romanization are unresolved; the source does not justify a modern date.",
+    "review_action": "Identify the historical date and location only from additional authenticated evidence.",
+    "anchors": [
+      "U00206"
+    ],
+    "pairs": [
+      "GC-000173"
+    ]
+  }
+]

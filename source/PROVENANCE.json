@@ -1,0 +1,12 @@
+{
+  "legacy_repository": "https://github.com/Lotus-King-Translation/Gongchig",
+  "legacy_branch": "transifex",
+  "legacy_commit": "1d815bff0e12b8eacea9d6776b89b34f82ef038b",
+  "template_repository": "https://github.com/Lotus-King-Translation/tibetan-text-project-template",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "source_edition": "gongchig-provisional-source-v1",
+  "golden_release": null,
+  "authority": "Electronic transcript only; user authorized translation without a golden edition",
+  "reference_translator": "Tenzin Norgyal, 2023 (PO header)",
+  "date": "2026-10-01"
+}

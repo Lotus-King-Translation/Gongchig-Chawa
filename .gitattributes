@@ -1,0 +1,7 @@
+# Preserve archival/reference bytes, including original line endings/spacing.
+source/legacy/** -text -whitespace
+translations/review/** -text -whitespace
+# CSV uses standard CRLF records; preserve exact hashes and accept record CRs.
+*.csv -text whitespace=cr-at-eol
+# Markdown's two trailing spaces encode intentional verse/hard line breaks.
+*.md whitespace=-blank-at-eol

@@ -1,0 +1,1650 @@
+[
+  {
+    "id": "U00001",
+    "context": "04e78d3c788744e7bcd465d9c1e43181",
+    "po_line": 15,
+    "encoded": "དམ་ཆོས་ དགོངས་པ་ གཅིག་པ་␣འི་ གསུང་ བརྒྱ་ ལྔ་ གསུང་ རྣམས་ ཚིགས་ དུ་པ་ བཞུགས་ གཞུང་ ། །",
+    "text": "དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གསུང་བརྒྱ་ལྔ་གསུང་རྣམས་ཚིགས་དུ་པ་བཞུགས་གཞུང་། །",
+    "reference_en": "The Single Intent, a one hundred and fifty-stanza text of true dharma."
+  },
+  {
+    "id": "U00002",
+    "context": "baeea02540d8456db1f63d0ab88aa35f",
+    "po_line": 22,
+    "encoded": "རྡོ་རྗེ་␣འི་ གསུང་ བརྒྱ་ ལྔ་ བཅུ་བ་ ཞེས་ བྱ་བ ། །",
+    "text": "རྡོ་རྗེའི་གསུང་བརྒྱ་ལྔ་བཅུ་བ་ཞེས་བྱ་བ། །",
+    "reference_en": "The One Hundred Fifty Vajra Speech, thus called."
+  },
+  {
+    "id": "U00003",
+    "context": "536aebffe8bb475080f8d6e32da169d7",
+    "po_line": 26,
+    "encoded": "སྟོབས་ བཅུ་␣འི་ དབང་ཕྱུག་ ཤཱཀྱ་ སེང་གེ་ ལ་ ཕྱག་ འཚལ་ ལོ ། །",
+    "text": "སྟོབས་བཅུའི་དབང་ཕྱུག་ཤཱཀྱ་སེང་གེ་ལ་ཕྱག་འཚལ་ལོ། །",
+    "reference_en": "Prostrate to the Shakya lion, the lord of ten powers,"
+  },
+  {
+    "id": "U00004",
+    "context": "cc175f02ecbd4347852681fc3a095c63",
+    "po_line": 30,
+    "encoded": "དྲི་མེད་ འོད་གསལ་ ཐུགས་ ཀྱི་ དཀྱིལ་འཁོར་ དུ ། །",
+    "text": "དྲི་མེད་འོད་གསལ་ཐུགས་ཀྱི་དཀྱིལ་འཁོར་དུ། །",
+    "reference_en": "In the Mandala of stainless luminous mind,"
+  },
+  {
+    "id": "U00005",
+    "context": "bf36fbf409f248ab9c1d8c658d2b9118",
+    "po_line": 34,
+    "encoded": "མ་ འདྲེས་ ཤེས་བྱ་␣འི་ དངོས་པོ་ ཇི་ལྟ་བ ། །",
+    "text": "མ་འདྲེས་ཤེས་བྱའི་དངོས་པོ་ཇི་ལྟ་བ། །",
+    "reference_en": "The unmixed objects of knowledge as they are,"
+  },
+  {
+    "id": "U00006",
+    "context": "e7a8e5c183a8492e86f0234ceeb180fa",
+    "po_line": 38,
+    "encoded": "ཐམས་ཅད་ གཟིགས་པ་ ཀུན་མཁྱེན་ ཆོས་ ཀྱི་ རྗེ ། །",
+    "text": "ཐམས་ཅད་གཟིགས་པ་ཀུན་མཁྱེན་ཆོས་ཀྱི་རྗེ། །",
+    "reference_en": "Sees all, the omniscient master of dharma,"
+  },
+  {
+    "id": "U00007",
+    "context": "1aefdea3d2a24fd5bb0b16ee4050bf0d",
+    "po_line": 42,
+    "encoded": "མཉམ་མེད་ འབྲི་གུང་ རིན་ཆེན་ ཕྱག་ འཚལ་ ལོ ། །",
+    "text": "མཉམ་མེད་འབྲི་གུང་རིན་ཆེན་ཕྱག་འཚལ་ལོ། །",
+    "reference_en": "Prostrate to the peerless Drikung Jewel."
+  },
+  {
+    "id": "U00008",
+    "context": "bda7c3ad46624b2bb75bf4997d30c2cf",
+    "po_line": 46,
+    "encoded": "རྒྱལ་བ་ མཆོག་ གི་ ཞལ་ ནས་ གསུངས་པ་ ཡི ། །",
+    "text": "རྒྱལ་བ་མཆོག་གི་ཞལ་ནས་གསུངས་པ་ཡི། །",
+    "reference_en": "As taught by the excellent Victor,"
+  },
+  {
+    "id": "U00009",
+    "context": "36769474ede24f3795ad5a6a3b5a8251",
+    "po_line": 50,
+    "encoded": "དམ་ཆོས་ ཁྱད་འཕགས་ ཐུན་མོང་ མ་ཡིན་པ ། །",
+    "text": "དམ་ཆོས་ཁྱད་འཕགས་ཐུན་མོང་མ་ཡིན་པ། །",
+    "reference_en": "The unique extraordinary immaculate dharma,"
+  },
+  {
+    "id": "U00010",
+    "context": "6c513a8fa9ca4a32a06f2e1d57f78c3c",
+    "po_line": 54,
+    "encoded": "སྔོན་ དུ་ མཛད་པ་␣འི་ བཞེད་ཚུལ་ དཔག་མེད་ ཀྱང་ ། །",
+    "text": "སྔོན་དུ་མཛད་པའི་བཞེད་ཚུལ་དཔག་མེད་ཀྱང་། །",
+    "reference_en": "Though there are numerous previously composed points of view,"
+  },
+  {
+    "id": "U00011",
+    "context": "ce87ef728b354fc1b89cac0eaa7ee467",
+    "po_line": 58,
+    "encoded": "རྨོངས་པ་␣ས་ དྲན་པ་ ཅུང་ཟད་ ཙམ་ ཞིག་ བྲི ། །",
+    "text": "རྨོངས་པས་དྲན་པ་ཅུང་ཟད་ཙམ་ཞིག་བྲི། །",
+    "reference_en": "With [my] ignorance, [I] will write what little [I] remember."
+  },
+  {
+    "id": "U00012",
+    "context": "908216de329b4563833eeec5193a60dc",
+    "po_line": 62,
+    "encoded": "ཆོས་ ཀུན་ གཤིས་ སམ་ བབས་ ཀྱི་ གནས་ལུགས་ བསྟན ། །",
+    "text": "ཆོས་ཀུན་གཤིས་སམ་བབས་ཀྱི་གནས་ལུགས་བསྟན། །",
+    "reference_en": "All phenomena are taught in their true nature or state;"
+  },
+  {
+    "id": "U00013",
+    "context": "bef4be71b3644cb59b94747e528fe0d6",
+    "po_line": 66,
+    "encoded": "ཆོས་ཕུང་ བརྒྱད་ ཁྲི་ སངས་རྒྱས་ སྒྲུབ་པ་␣ར་ གཅིག  །",
+    "text": "ཆོས་ཕུང་བརྒྱད་ཁྲི་སངས་རྒྱས་སྒྲུབ་པར་གཅིག །",
+    "reference_en": "Eighty thousand bodies of dharmas are one in accomplishing Buddhahood,"
+  },
+  {
+    "id": "U00014",
+    "context": "901c0858725641bda596aa1d33c0a36b",
+    "po_line": 71,
+    "encoded": "སྡེ་སྣོད་ རྒྱུད་སྡེ་ ལམ་ གྱི་ རིམ་པ་ ཡིན ། །",
+    "text": "སྡེ་སྣོད་རྒྱུད་སྡེ་ལམ་གྱི་རིམ་པ་ཡིན། །",
+    "reference_en": "The pitakas and tantra sections are the stages of paths,"
+  },
+  {
+    "id": "U00015",
+    "context": "beb31c53d6b94b219e04318afd8c1df2",
+    "po_line": 75,
+    "encoded": "ཆོས་འཁོར་ རྣམ་ གསུམ་ འཁོར་ གྱི་ རྟོགས་པ་␣འི་ ཁྱད ། །",
+    "text": "ཆོས་འཁོར་རྣམ་གསུམ་འཁོར་གྱི་རྟོགས་པའི་ཁྱད། །",
+    "reference_en": "The three wheels of Dharma are different in the realizations of retinues,"
+  },
+  {
+    "id": "U00016",
+    "context": "396796f9af284ae4b5cbd39063234b0c",
+    "po_line": 80,
+    "encoded": "འཁོར་ལོ་ རེ་རེ་ ལ་ ཡང་ གསུམ་ ག་ ཚང་ ། །",
+    "text": "འཁོར་ལོ་རེ་རེ་ལ་ཡང་གསུམ་ག་ཚང་། །",
+    "reference_en": "Each of the wheels is completed of all three,"
+  },
+  {
+    "id": "U00017",
+    "context": "01c55812a99c431d884032af54278565",
+    "po_line": 84,
+    "encoded": "ཕྱི་མ་␣འི་ ས་བོན་ སྔ་མ་ སྔ་མ་␣ར་ གནས ། །",
+    "text": "ཕྱི་མའི་ས་བོན་སྔ་མ་སྔ་མར་གནས། །",
+    "reference_en": "The seeds of the later ones remain in each of the preceding ones."
+  },
+  {
+    "id": "U00018",
+    "context": "8cf9e7a72bf549a2a1faae34fe896b1e",
+    "po_line": 88,
+    "encoded": "མདོ་དོན་ གནད་ ཀྱིས་ འཁོར་ལོ་ གསུམ་ དུ་ ངེས ། །",
+    "text": "མདོ་དོན་གནད་ཀྱིས་འཁོར་ལོ་གསུམ་དུ་ངེས། །",
+    "reference_en": "Because of the sutras' meaning and its essential points, the wheels are certainly three "
+  },
+  {
+    "id": "U00019",
+    "context": "a71af0b3a5fd4371a67cfa81e8e36337",
+    "po_line": 94,
+    "encoded": "འདུལ་བ་␣འི་ སྡེ་སྣོད་ བདེན་ བཞི་␣འི་ ཆོས་འཁོར་ ཏེ ། །",
+    "text": "འདུལ་བའི་སྡེ་སྣོད་བདེན་བཞིའི་ཆོས་འཁོར་ཏེ། །",
+    "reference_en": "The Vinaya Pitaka is the dharma wheel of the four truths"
+  },
+  {
+    "id": "U00020",
+    "context": "30f4e99cb5744645bf9c0041ca156831",
+    "po_line": 98,
+    "encoded": "ཐེག་པ་ སྣ་ཚོགས་ ངེས་དོན་ འཁོར་ལོ་ ཡིན ། །",
+    "text": "ཐེག་པ་སྣ་ཚོགས་ངེས་དོན་འཁོར་ལོ་ཡིན། །",
+    "reference_en": "the various vehicles are the wheel of definitive meaning,"
+  },
+  {
+    "id": "U00021",
+    "context": "a9f27847726e4742a8a18e26ebcac93d",
+    "po_line": 102,
+    "encoded": "མཐའ་ དྲུག་ དགོངས་པ་ ངེས་དོན་ འབའ་ཞིག་ བཞེད ། །",
+    "text": "མཐའ་དྲུག་དགོངས་པ་ངེས་དོན་འབའ་ཞིག་བཞེད། །",
+    "reference_en": "The intent of the six limits is accepted only as the definitive meaning."
+  },
+  {
+    "id": "U00022",
+    "context": "2bb5ec59cc2a4f4bbcef5d9e4f0f0040",
+    "po_line": 107,
+    "encoded": "སེམས་ ཙམ་ བཀའ་ ཡིས་ མཐའ་བྲལ་ དབུ་མ་ སྟོན ། །",
+    "text": "སེམས་ཙམ་བཀའ་ཡིས་མཐའ་བྲལ་དབུ་མ་སྟོན། །",
+    "reference_en": "The Mind Only instructions show the middle way free from extremes,"
+  },
+  {
+    "id": "U00023",
+    "context": "7268f66c8ef74988934611e3d391ddaa",
+    "po_line": 111,
+    "encoded": "ལོག་པ་␣འི་ ཀུན་རྫོབ་ ཀྱིས་ ཀྱང་ དོན་ བྱེད་ ནུས ། །",
+    "text": "ལོག་པའི་ཀུན་རྫོབ་ཀྱིས་ཀྱང་དོན་བྱེད་ནུས། །",
+    "reference_en": "Wrong relative [truth] is also able to perform functions."
+  },
+  {
+    "id": "U00024",
+    "context": "dc7e858f01fc4c86be2ef05544cc5d95",
+    "po_line": 115,
+    "encoded": "ཇི་སྙེད་ ལམ་ རྣམས་ ས་བཅུ་␣ས་ བགྲོད་པ་ སྟེ ། །",
+    "text": "ཇི་སྙེད་ལམ་རྣམས་ས་བཅུས་བགྲོད་པ་སྟེ། །",
+    "reference_en": "All paths traverse the ten grounds,"
+  },
+  {
+    "id": "U00025",
+    "context": "95fe2cf1e4a348bd99dd8aedba5431cd",
+    "po_line": 119,
+    "encoded": "དེ་ཡང་ རིམ་གྱིས་ འཇུག་པ་ ཁོ་ན་␣ར་ ངེས ། །",
+    "text": "དེ་ཡང་རིམ་གྱིས་འཇུག་པ་ཁོ་ནར་ངེས། །",
+    "reference_en": "That, too, is exclusively certain to engage gradually,"
+  },
+  {
+    "id": "U00026",
+    "context": "f21394abb0184aa6b21a1c4a4444b325",
+    "po_line": 123,
+    "encoded": "ཤེས་བྱ་␣འི་ སྒྲིབ་པ་ ཐོག་མ་␣ར་ སྤོང་བ་␣འང་ ཡོད ། །",
+    "text": "ཤེས་བྱའི་སྒྲིབ་པ་ཐོག་མར་སྤོང་བའང་ཡོད། །",
+    "reference_en": "There is also the abandonment of the obscuration to the object of knowledge first."
+  },
+  {
+    "id": "U00027",
+    "context": "53ce8b01b0574e6dabe50cee415e5cda",
+    "po_line": 129,
+    "encoded": "ཚད་མ་ སངས་རྒྱས་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ ཏེ ། །",
+    "text": "ཚད་མ་སངས་རྒྱས་མཁྱེན་པའི་ཡེ་ཤེས་ཏེ། །",
+    "reference_en": "Valid cognition-the primordial wisdom of Buddha"
+  },
+  {
+    "id": "U00028",
+    "context": "f5d2b27c6c184726a46af0c9d7d4133e",
+    "po_line": 133,
+    "encoded": "ཚད་མ་␣འི་ འབྲས་བུ་␣ས་ ཟབ་མོ་ སྟོང་ཉིད་ སྟོན ། །",
+    "text": "ཚད་མའི་འབྲས་བུས་ཟབ་མོ་སྟོང་ཉིད་སྟོན། །",
+    "reference_en": "the result of valid cognition shows emptiness"
+  },
+  {
+    "id": "U00029",
+    "context": "1324c92f472a412a876a180b0b36a036",
+    "po_line": 137,
+    "encoded": "གྲུབ་མཐའ་ འཛིན་པ་ ཐམས་ཅད་ རང་རྒྱུད་པ ། །",
+    "text": "གྲུབ་མཐའ་འཛིན་པ་ཐམས་ཅད་རང་རྒྱུད་པ། །",
+    "reference_en": "All the tenet holders are proponents of Svatantrika"
+  },
+  {
+    "id": "U00030",
+    "context": "6396e276a8a6419eb19ae8327beb40e2",
+    "po_line": 141,
+    "encoded": "མུ་སྟེགས་པ་ ལ་␣འང་ དགེ་བ་␣འི་ བསྒྲུབ་བྱ་ མང་ ། །",
+    "text": "མུ་སྟེགས་པ་ལའང་དགེ་བའི་བསྒྲུབ་བྱ་མང་། །",
+    "reference_en": "Trithikas also have many virtues to accomplish"
+  },
+  {
+    "id": "U00031",
+    "context": "cdc366e49464416bbbf71736dee6a60e",
+    "po_line": 145,
+    "encoded": "ཕྱི་ ནང་ ཁྱད་པར་ སྐྱབས་འགྲོ་␣ས་ འབྱེད་པ་ སྟེ ། །",
+    "text": "ཕྱི་ནང་ཁྱད་པར་སྐྱབས་འགྲོས་འབྱེད་པ་སྟེ། །",
+    "reference_en": "Buddhist and non-Buddhist are differentiated by refuge"
+  },
+  {
+    "id": "U00032",
+    "context": "5041531194a04f8b909186df47491973",
+    "po_line": 149,
+    "encoded": "ཐེག་པ་ ཆེ་ཆུང་ ཁྱད་པར་ སེམས་བསྐྱེད་ ཡིན ། །",
+    "text": "ཐེག་པ་ཆེ་ཆུང་ཁྱད་པར་སེམས་བསྐྱེད་ཡིན། །",
+    "reference_en": "The difference between the lesser and greater vehicle is bodhicitta,"
+  },
+  {
+    "id": "U00033",
+    "context": "15a8f6723ed74a1d90e4644d12f8fb13",
+    "po_line": 153,
+    "encoded": "མདོ་ དང་ སྔགས་ ཀྱི་ ཁྱད་པར་ དབང་ ཡིན་ ཏེ ། །",
+    "text": "མདོ་དང་སྔགས་ཀྱི་ཁྱད་པར་དབང་ཡིན་ཏེ། །",
+    "reference_en": "The difference between the sutra and tantra is empowerment-thus"
+  },
+  {
+    "id": "U00034",
+    "context": "62619f3da3ff42d491fbb66ecfa3f9b2",
+    "po_line": 157,
+    "encoded": "དེ་ གཉིས་ གང་ མེད་ རྫོགས་ བྱང་ ཐོབ་ མི་ སྲིད ། །",
+    "text": "དེ་གཉིས་གང་མེད་རྫོགས་བྱང་ཐོབ་མི་སྲིད། །",
+    "reference_en": "Complete enlightenment is impossible without these two."
+  },
+  {
+    "id": "U00035",
+    "context": "5deac2796e084cfab6fe83215c81df72",
+    "po_line": 161,
+    "encoded": "སྡོམ་ གསུམ་ མི་དགེ་ བཅུ་ སྤོང་ གནད་ གཅིག་ ལ ། །",
+    "text": "སྡོམ་གསུམ་མི་དགེ་བཅུ་སྤོང་གནད་གཅིག་ལ། །",
+    "reference_en": "The three precepts and the abandonment of the ten non-virtues are of the same essence,"
+  },
+  {
+    "id": "U00036",
+    "context": "66833e79b77d4a849abc3fbb521b8f76",
+    "po_line": 167,
+    "encoded": "བདག་པོ་ འཕོས་པ་␣ས་ སྡོམ་པ་ གསུམ་ དུ་ འོང་ ། །",
+    "text": "བདག་པོ་འཕོས་པས་སྡོམ་པ་གསུམ་དུ་འོང་། །",
+    "reference_en": "As self transmigrates, the three vows will come."
+  },
+  {
+    "id": "U00037",
+    "context": "5f201898bd504337b44d9ba8ede7e572",
+    "po_line": 171,
+    "encoded": "རང་བཞིན་ རྣམ་དག་ བྲལ་འབྲས་ ཡོན་ཏན་ ལྡན ། །",
+    "text": "རང་བཞིན་རྣམ་དག་བྲལ་འབྲས་ཡོན་ཏན་ལྡན། །",
+    "reference_en": "Possessing the qualities of the intrinsically pure result of separation,"
+  },
+  {
+    "id": "U00038",
+    "context": "18ae225d008b4a618341351cb07a1b4e",
+    "po_line": 176,
+    "encoded": "བྱང་ཕྱོགས་ སོ་ བདུན་ བདེ་གཤེགས་ སྙིང་པོ་ ཡོད ། །",
+    "text": "བྱང་ཕྱོགས་སོ་བདུན་བདེ་གཤེགས་སྙིང་པོ་ཡོད། །",
+    "reference_en": "The thirty-seven harmonies with enlightenment have the essence of the sugatas,"
+  },
+  {
+    "id": "U00039",
+    "context": "a38d57f4158e4fd7bcdc0834286582f1",
+    "po_line": 182,
+    "encoded": "ཚད་ མེད་ རྣམ་ བཞི་ སངས་རྒྱས་ ངོ་བོ་ ཉིད ། །",
+    "text": "ཚད་མེད་རྣམ་བཞི་སངས་རྒྱས་ངོ་བོ་ཉིད། །",
+    "reference_en": "The four immeasurables are Buddha's nature,"
+  },
+  {
+    "id": "U00040",
+    "context": "73c0fb5f56d74dee9b41f11d8c0432e7",
+    "po_line": 186,
+    "encoded": "ཐེག་པ་ ཐམས་ཅད་ རིགས་ གཅིག་ ཐེག་པ་␣ར་ གཅིག  །",
+    "text": "ཐེག་པ་ཐམས་ཅད་རིགས་གཅིག་ཐེག་པར་གཅིག །",
+    "reference_en": "As all the vehicles are the same lineage, one vehicle, "
+  },
+  {
+    "id": "U00041",
+    "context": "09a11466de57415992415ed48914b612",
+    "po_line": 190,
+    "encoded": "ཉན་རང་ ལོག་ སྲེག་ ཅན་ ཡང་ རྣམ་མཁྱེན་ འགྱུར ། །",
+    "text": "ཉན་རང་ལོག་སྲེག་ཅན་ཡང་རྣམ་མཁྱེན་འགྱུར། །",
+    "reference_en": "Even hearers, solitary realizers, and [those] wrongly craved become omniscient. "
+  },
+  {
+    "id": "U00042",
+    "context": "2eeb15e6d8da4417b3e978478d7d98c2",
+    "po_line": 196,
+    "encoded": "ཆོས་འཁོར་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ དང་པོ་␣འོ ། །",
+    "text": "ཆོས་འཁོར་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་དང་པོའོ། །",
+    "reference_en": "The first section summarises the essential points of the dharma wheel."
+  },
+  {
+    "id": "U00043",
+    "context": "484abb71b2ba406d8b3682ca626f445e",
+    "po_line": 201,
+    "encoded": "དགེ་སྡིག་ གཉིས་ ལས་ ལུང་ མ་ བསྟན་ གཞན་ མེད ། །",
+    "text": "དགེ་སྡིག་གཉིས་ལས་ལུང་མ་བསྟན་གཞན་མེད། །",
+    "reference_en": "Beside virtue and non-virtue, there is no other as neutral,"
+  },
+  {
+    "id": "U00044",
+    "context": "30949b1bba39426c96803beb2985bf35",
+    "po_line": 205,
+    "encoded": "རྟོག་ གཉིས་ ཅིག་ཅར་ འཇུག་པ་ མི་ སྲིད་ ལ ། །",
+    "text": "རྟོག་གཉིས་ཅིག་ཅར་འཇུག་པ་མི་སྲིད་ལ། །",
+    "reference_en": "A simultaneous engagement of two thoughts is not possible."
+  },
+  {
+    "id": "U00045",
+    "context": "fda768e900744e9684b48a50e4b14c65",
+    "po_line": 209,
+    "encoded": "སེམས་བྱུང་ ལས་ ཀྱང་ སེམས་ ནི་ འབྱུང་བ་␣འང་ ཡོད ། །",
+    "text": "སེམས་བྱུང་ལས་ཀྱང་སེམས་ནི་འབྱུང་བའང་ཡོད། །",
+    "reference_en": "Mind arises also from mental events."
+  },
+  {
+    "id": "U00046",
+    "context": "4dd676a39d1840eca43022bc1eb7b6d3",
+    "po_line": 213,
+    "encoded": "འཁོར་བ་␣འི་ རྒྱ་མཚོ་␣ར་ ལུས་ ཉིད་ འཁོར་བ་␣ར་ བཞེད ། །",
+    "text": "འཁོར་བའི་རྒྱ་མཚོར་ལུས་ཉིད་འཁོར་བར་བཞེད། །",
+    "reference_en": "It is accepted that only the body transmigrates in the ocean of samsara,"
+  },
+  {
+    "id": "U00047",
+    "context": "d0683bf2c17d41269b0e71da7e2f26d9",
+    "po_line": 218,
+    "encoded": "རྟེན་འབྲེལ་ བཅུ་གཉིས་ མ་རིག་ ཁོ་ན་␣འི་ གཡོས ། །",
+    "text": "རྟེན་འབྲེལ་བཅུ་གཉིས་མ་རིག་ཁོ་ནའི་གཡོས། །",
+    "reference_en": "The twelve interdependent links are only moved by ignorance."
+  },
+  {
+    "id": "U00048",
+    "context": "0116cebb1efa4ad98abba5dcd1093699",
+    "po_line": 222,
+    "encoded": "བཅུ་གཉིས་ དེ་ཡང་ སྐད་ཅིག་ གཅིག་ ལ་ ཚང་ ། །",
+    "text": "བཅུ་གཉིས་དེ་ཡང་སྐད་ཅིག་གཅིག་ལ་ཚང་། །",
+    "reference_en": "The twelve [links] are also completed in a moment."
+  },
+  {
+    "id": "U00049",
+    "context": "2fe5d92a206f4092b74644eef413a1bc",
+    "po_line": 226,
+    "encoded": "སེམས་ ནི་ ཐ་དད་ དབང་ གི་ སྣང་བ་ ཡང་ ། །",
+    "text": "སེམས་ནི་ཐ་དད་དབང་གི་སྣང་བ་ཡང་། །",
+    "reference_en": "Due to different minds, so does appearance."
+  },
+  {
+    "id": "U00050",
+    "context": "c70bbe681e0647ff8b1e1cac48669f12",
+    "po_line": 230,
+    "encoded": "ད་ལྟ་ ཉིད་ དུ་ གང་ བསྒྲུབས་ འབྲས་བུ་␣ར་ སྤྱོད ། །",
+    "text": "ད་ལྟ་ཉིད་དུ་གང་བསྒྲུབས་འབྲས་བུར་སྤྱོད། །",
+    "reference_en": "What is accomplished in the present can produce results now."
+  },
+  {
+    "id": "U00051",
+    "context": "5c047ece0709484fa82475f8bf4c2312",
+    "po_line": 234,
+    "encoded": "དུས་ ཀྱི་ འཕེལ་འགྲིབ་ ད་ལྟར་ བྱ་ ཡོད་ ཡིན ། །",
+    "text": "དུས་ཀྱི་འཕེལ་འགྲིབ་ད་ལྟར་བྱ་ཡོད་ཡིན། །",
+    "reference_en": "An increase and decrease of time [lifespan] can be performed at the present."
+  },
+  {
+    "id": "U00052",
+    "context": "dc96e8c08e1840938c8a9b2239bab3f2",
+    "po_line": 239,
+    "encoded": "ཚེ་ འདི་རང་ ལ་ མཐོང་ཆོས་ གཙོ་བོ་␣ར་ འབྱུང་ ། །",
+    "text": "ཚེ་འདི་རང་ལ་མཐོང་ཆོས་གཙོ་བོར་འབྱུང་། །",
+    "reference_en": "The obvious phenomenon primarily occurs in this very life."
+  },
+  {
+    "id": "U00053",
+    "context": "91592a1bc97249b08965b217eafbe93d",
+    "po_line": 243,
+    "encoded": "མི་ཆོས་ བཅུ་དྲུག་ ལྷ་ཆོས་ གནད་ གཅིག་ སྟེ ། །",
+    "text": "མི་ཆོས་བཅུ་དྲུག་ལྷ་ཆོས་གནད་གཅིག་སྟེ། །",
+    "reference_en": "The essence of the sixteen human conducts and the divine conducts is the same."
+  },
+  {
+    "id": "U00054",
+    "context": "41860d29db6e4635b8988f35cb7eab83",
+    "po_line": 249,
+    "encoded": "གཙོ་ཕལ་ ཙམ་ ལས་འབྲས་ ཐོབ་ རྒྱུན་ ཆད་ མེད ། །",
+    "text": "གཙོ་ཕལ་ཙམ་ལས་འབྲས་ཐོབ་རྒྱུན་ཆད་མེད། །",
+    "reference_en": "Except for greater or lesser [intensity], the obtaining of results continues unceasingly."
+  },
+  {
+    "id": "U00055",
+    "context": "e281d09fb3804ecabbdd51e0832586e9",
+    "po_line": 255,
+    "encoded": "ཤེས་རབ་ བསླབ་པ་ ཐོག་མ་␣ར་ འགྲོ་བ་␣འང་ ཡོད ། །",
+    "text": "ཤེས་རབ་བསླབ་པ་ཐོག་མར་འགྲོ་བའང་ཡོད། །",
+    "reference_en": "Wisdom training can also go first."
+  },
+  {
+    "id": "U00056",
+    "context": "26931cb1667c440ab19553dac10cea19",
+    "po_line": 259,
+    "encoded": "ལམ་རིམ་ ཐམས་ཅད་ ཐུན་ གཅིག་ ཉམས་ལེན་ དགོས ། །",
+    "text": "ལམ་རིམ་ཐམས་ཅད་ཐུན་གཅིག་ཉམས་ལེན་དགོས། །",
+    "reference_en": "All the stages of the path need to practice in one session."
+  },
+  {
+    "id": "U00057",
+    "context": "4d8e7120238647a9af8797e0fc6fe8e1",
+    "po_line": 263,
+    "encoded": "ཞིང་ གཅིག་ ལ་ ཡང་ སངས་རྒྱས་ གྲངས་མེད་ འབྱོན ། །",
+    "text": "ཞིང་གཅིག་ལ་ཡང་སངས་རྒྱས་གྲངས་མེད་འབྱོན། །",
+    "reference_en": "Countless Buddhas will come in a single field. "
+  },
+  {
+    "id": "U00058",
+    "context": "0063cdf90b00429e8ebec0aca197ca12",
+    "po_line": 267,
+    "encoded": "རྟེན་འབྲེལ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ གཉིས་པ་␣འོ ། །",
+    "text": "རྟེན་འབྲེལ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་གཉིས་པའོ། །",
+    "reference_en": "The second section summarises the essential points of dependent origination."
+  },
+  {
+    "id": "U00059",
+    "context": "1e4fb4cdac47471488748d1b3f3df8bc",
+    "po_line": 272,
+    "encoded": "དམ་ཆོས་ འདུལ་བ་ ཐེག་པ་ ཐུན་མོང་ སྟེ ། །",
+    "text": "དམ་ཆོས་འདུལ་བ་ཐེག་པ་ཐུན་མོང་སྟེ། །",
+    "reference_en": "The true dharma Vinaya is common to all the vehicles."
+  },
+  {
+    "id": "U00060",
+    "context": "69ff1ed995a94e6d81b8bebd9a8d22a7",
+    "po_line": 276,
+    "encoded": "ལྷག་པར་ ཐེག་པ་ ཆེན་པོ་␣ར་ གསལ་ བཞུགས་ ལ ། །",
+    "text": "ལྷག་པར་ཐེག་པ་ཆེན་པོར་གསལ་བཞུགས་ལ། །",
+    "reference_en": "It is even more present in the Mahayana."
+  },
+  {
+    "id": "U00061",
+    "context": "e1e31b68205e4612ad2d2e446ddb2a69",
+    "po_line": 280,
+    "encoded": "ཐམས་ཅད་ མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ འདི་ཉིད་ ཡིན ། །",
+    "text": "ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་འདི་ཉིད་ཡིན། །",
+    "reference_en": "All of this is the wisdom of the omniscient one only."
+  },
+  {
+    "id": "U00062",
+    "context": "87fee697e02d436a8cd13b2170d24ecb",
+    "po_line": 284,
+    "encoded": "བར་ཆད་ ལྡན་ ལ་␣འང་ སྡོམ་པ་ སྐྱེ་ ངེས་ ཏེ ། །",
+    "text": "བར་ཆད་ལྡན་ལའང་སྡོམ་པ་སྐྱེ་ངེས་ཏེ། །",
+    "reference_en": "Despite possessing the obstacles, vows will certainly arise."
+  },
+  {
+    "id": "U00063",
+    "context": "915b85e7f7074266b4ec33b5dcc9ca6b",
+    "po_line": 288,
+    "encoded": "ངོ་ བོ་ རྣམ་པ་␣ར་ རིག་བྱེད་ མིན་པ་␣འི་ གཟུགས ། །",
+    "text": "ངོ་ བོ་རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས། །",
+    "reference_en": "The essence [of the vows] is imperceptible forms."
+  },
+  {
+    "id": "U00064",
+    "context": "5075cd2d890549f5833233e2a7721a12",
+    "po_line": 292,
+    "encoded": "ལྟུང་བ་ མཐའ་དག་ ལ་ ནི་ འདུ་ཤེས་ གཙོ ། །",
+    "text": "ལྟུང་བ་མཐའ་དག་ལ་ནི་འདུ་ཤེས་གཙོ། །",
+    "reference_en": "In all downfalls, perception is the principal factor."
+  },
+  {
+    "id": "U00065",
+    "context": "7c85317e86444d4d9e5e6a894be248ca",
+    "po_line": 296,
+    "encoded": "ཡིད་ ཀྱི་ རྣམ་ གསུམ་ གཙོ་བོ་␣ར་ སྤོང་བ་ དགོས ། །",
+    "text": "ཡིད་ཀྱི་རྣམ་གསུམ་གཙོ་བོར་སྤོང་བ་དགོས། །",
+    "reference_en": "Chiefly, the three types of mind must be abandoned."
+  },
+  {
+    "id": "U00066",
+    "context": "8891fb68a4054540a94a12e680abd5f2",
+    "po_line": 300,
+    "encoded": "གཏོང་བ་␣འི་ རྒྱུ་ ཡིས་ མི་ གཏོང་བ་ ཡང་ ཡོད ། །",
+    "text": "གཏོང་བའི་རྒྱུ་ཡིས་མི་གཏོང་བ་ཡང་ཡོད། །",
+    "reference_en": "Sometimes, the causes of the loss, will not lose it."
+  },
+  {
+    "id": "U00067",
+    "context": "8f47f0bff90a48629adbc004a4c8391c",
+    "po_line": 304,
+    "encoded": "ཕམ་པ་ བཞི་ ནི་ བུ་ལོན་ ནོར་ ཅན་ བཞིན ། །",
+    "text": "ཕམ་པ་བཞི་ནི་བུ་ལོན་ནོར་ཅན་བཞིན། །",
+    "reference_en": "The four defects are similar to a wealthy person with a loan."
+  },
+  {
+    "id": "U00068",
+    "context": "26e4526f789b4ade9318fc68a4ff0638",
+    "po_line": 308,
+    "encoded": "སྣ་ གཅིག་ བསྲུངས་པ་␣ས་ འབྲས་བུ་ མྱང་འདས་ འཐོབ ། །",
+    "text": "སྣ་གཅིག་བསྲུངས་པས་འབྲས་བུ་མྱང་འདས་འཐོབ། །",
+    "reference_en": "By guarding one vow, [one] will attain the result of Nirvana."
+  },
+  {
+    "id": "U00069",
+    "context": "1a32687b0fb44bf19d7e9d94a80ea9c5",
+    "po_line": 312,
+    "encoded": "བཅས་ དང་ རང་བཞིན་ ཁ་ན་མ་ཐོ་ གཅིག  །",
+    "text": "བཅས་དང་རང་བཞིན་ཁ་ན་མ་ཐོ་གཅིག །",
+    "reference_en": "The established and natural misdeeds are similar."
+  },
+  {
+    "id": "U00070",
+    "context": "d343a97a101747f69d0c05d595e2a2ef",
+    "po_line": 316,
+    "encoded": "སྡིག་ལྟུང་ ཐ་དད་ མེད་ ཅིང་ གཅིག་པ་ ཡིན ། །",
+    "text": "སྡིག་ལྟུང་ཐ་དད་མེད་ཅིང་གཅིག་པ་ཡིན། །",
+    "reference_en": "Negative actions and downfalls are not different but the same. "
+  },
+  {
+    "id": "U00071",
+    "context": "68d91ac25b2f4ef698d6d7c9f440095a",
+    "po_line": 320,
+    "encoded": "བཀག་པ་ ཡེ་ བཀག་ གནང་བ་ ཡེ་ གནང་ ལ ། །",
+    "text": "བཀག་པ་ཡེ་བཀག་གནང་བ་ཡེ་གནང་ལ། །",
+    "reference_en": "Prohibitions are primordially prohibited, while permissions are primordially permitted. "
+  },
+  {
+    "id": "U00072",
+    "context": "4b8df366a7a24bc1bda64badccb583ff",
+    "po_line": 326,
+    "encoded": "ཆོས་ ཀྱི་ རྒྱལ་པོ་␣ས་ འགྲོ་བ་ སྤྱི་ ལ་ བཅས ། །",
+    "text": "ཆོས་ཀྱི་རྒྱལ་པོས་འགྲོ་བ་སྤྱི་ལ་བཅས། །",
+    "reference_en": "The king of Dharma established [discipline] for migrators in general."
+  },
+  {
+    "id": "U00073",
+    "context": "c157196923354870b8a29493c3a983ee",
+    "po_line": 330,
+    "encoded": "འགྲོ་བ་ གང་ གིས་ འདས་ ཀྱང་ ཉེས་པ་ དང་ ། །",
+    "text": "འགྲོ་བ་གང་གིས་འདས་ཀྱང་ཉེས་པ་དང་། །",
+    "reference_en": "Any migrator who transgresses will suffer."
+  },
+  {
+    "id": "U00074",
+    "context": "3c7e40eb9b9d4a65a57e7fe29a87e4f5",
+    "po_line": 334,
+    "encoded": "བསྲུངས་པ་␣འི་ ཕན་ཡོན་ ཡང་ ནི་ ཀུན་ ལ་ འབྱུང་ ། །",
+    "text": "བསྲུངས་པའི་ཕན་ཡོན་ཡང་ནི་ཀུན་ལ་འབྱུང་། །",
+    "reference_en": "The benefits of guarding [it] also occur to anyone."
+  },
+  {
+    "id": "U00075",
+    "context": "a1372cdf0d6e40e7b224ba93f7c09665",
+    "po_line": 338,
+    "encoded": "བསྟན་ ལ་ ཆོ་ག་ ལྷག་པར་ གལ་ཆེ་ ལ ། །",
+    "text": "བསྟན་ལ་ཆོ་ག་ལྷག་པར་གལ་ཆེ་ལ། །",
+    "reference_en": "To demonstrate this, ritual is especially important."
+  },
+  {
+    "id": "U00076",
+    "context": "a6641913432948d8b7c8b51181d63866",
+    "po_line": 342,
+    "encoded": "མི་ ཤེས་ གཏི་མུག་ ཉེས་པ་ གཞན་ ལས་ ལྕི ། །",
+    "text": "མི་ཤེས་གཏི་མུག་ཉེས་པ་གཞན་ལས་ལྕི། །",
+    "reference_en": "Not knowing or delusion is heavier than the other faults."
+  },
+  {
+    "id": "U00077",
+    "context": "967683501c7646dc8d1d36354bfc5fda",
+    "po_line": 346,
+    "encoded": "དུད་འགྲོ་ གཏི་མུག་ ཆེ་བ་␣ས་ དམན་པ་ ཡིན ། །",
+    "text": "དུད་འགྲོ་གཏི་མུག་ཆེ་བས་དམན་པ་ཡིན། །",
+    "reference_en": "Animals are inferior because of greater delusions."
+  },
+  {
+    "id": "U00078",
+    "context": "d0445ae84bd7419ba6320dcb3b4c27b5",
+    "po_line": 350,
+    "encoded": "ཉམས་ ལས་མ་ ཐོབ་ ཉེས་པ་ ཆེ་བ་␣ར་ བཞེད །",
+    "text": "ཉམས་ལས་མ་ཐོབ་ཉེས་པ་ཆེ་བར་བཞེད།",
+    "reference_en": "The fault of not obtaining [vows] is greater than being degenerated."
+  },
+  {
+    "id": "U00079",
+    "context": "7465c2a3b66e489fb5b64a5b2012338e",
+    "po_line": 354,
+    "encoded": "སོ་ཐར་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ གསུམ་པ་␣འོ ། །",
+    "text": "སོ་ཐར་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་གསུམ་པའོ། །",
+    "reference_en": "The third section summarises the essential points of [the vows of] individual liberation."
+  },
+  {
+    "id": "U00080",
+    "context": "d42abe30970d44cd83bf58dee818d9b2",
+    "po_line": 360,
+    "encoded": "བྱང་ཆུབ་ སེམས་ དང་ སྙིང་རྗེ་ ཐ་དད་ ཡིན ། །",
+    "text": "བྱང་ཆུབ་སེམས་དང་སྙིང་རྗེ་ཐ་དད་ཡིན། །",
+    "reference_en": "Enlightened mind and compassion are different."
+  },
+  {
+    "id": "U00081",
+    "context": "977bbbda4b0246df8e716d902c792c83",
+    "po_line": 364,
+    "encoded": "བྱང་ཆུབ་ སེམས་དཔ་␣འི་ སྡོམ་པ་ རྟེན་ ཅན་ བཞེད ། །",
+    "text": "བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་རྟེན་ཅན་བཞེད། །",
+    "reference_en": "The Bodhisattva vows must be supported."
+  },
+  {
+    "id": "U00082",
+    "context": "6a7b4cdf532e43fb93e1f7c04ec47501",
+    "po_line": 368,
+    "encoded": "སོ་སོ་ སྐྱེ་བོ་ ལ་ ཡང་འཇུག་ སྡོམ་ སྐྱེ ། །",
+    "text": "སོ་སོ་སྐྱེ་བོ་ལ་ཡང་འཇུག་སྡོམ་སྐྱེ། །",
+    "reference_en": "The vow of entering bodhicitta also arises for individualized beings."
+  },
+  {
+    "id": "U00083",
+    "context": "a7b9eee4d11d408286c34c5ff369caf4",
+    "po_line": 372,
+    "encoded": "ཅི་རིགས་ ཀྱིས་ ཀྱང་ འཇུག་པ་␣འི་ སྡོམ་པ་␣ར་ འགྱུར ། །",
+    "text": "ཅི་རིགས་ཀྱིས་ཀྱང་འཇུག་པའི་སྡོམ་པར་འགྱུར། །",
+    "reference_en": "Any of these becomes the vows of entering bodhicitta."
+  },
+  {
+    "id": "U00084",
+    "context": "5659240c68c246ba85a9a06da8dbf1ea",
+    "po_line": 376,
+    "encoded": "ཉོན་མོངས་ ཅན་ མིན་ ལྟུང་བ་ མི་ སྲིད་ ཅིང་ ། །",
+    "text": "ཉོན་མོངས་ཅན་མིན་ལྟུང་བ་མི་སྲིད་ཅིང་། །",
+    "reference_en": "A downfall of not being afflictive is impossible."
+  },
+  {
+    "id": "U00085",
+    "context": "0b1ab663d3654f1ebedd7039c43855a2",
+    "po_line": 380,
+    "encoded": "ཉེས་པ་␣ར་ མི་ འགྱུར་ མི་དགེ་ གནང་བ་ མེད ། །",
+    "text": "ཉེས་པར་མི་འགྱུར་མི་དགེ་གནང་བ་མེད། །",
+    "reference_en": "A non-virtue that does not become a fault is never permitted."
+  },
+  {
+    "id": "U00086",
+    "context": "453973ebbbfb4046aa2b5c007ac3bff7",
+    "po_line": 384,
+    "encoded": "ཐབས་མཁས་ སྤྱོད་ ལ་ མི་དགེ་ ཡོད་ མ་ ཡིན ། །",
+    "text": "ཐབས་མཁས་སྤྱོད་ལ་མི་དགེ་ཡོད་མ་ཡིན། །",
+    "reference_en": "Non-virtue does not exist in skillful conduct."
+  },
+  {
+    "id": "U00087",
+    "context": "6a2b3b513c3a41ed8cb1f1a8dc1e5c26",
+    "po_line": 388,
+    "encoded": "རང་གཞན་ བརྗེ་བ་ ཉེས་པ་ འགྱུར་ སྐབས་ ཡོད ། །",
+    "text": "རང་གཞན་བརྗེ་བ་ཉེས་པ་འགྱུར་སྐབས་ཡོད། །",
+    "reference_en": "There are instances where exchanging oneself and others become a fault."
+  },
+  {
+    "id": "U00088",
+    "context": "a3bf7d60cf3a4a37b5abe2542b8457dc",
+    "po_line": 393,
+    "encoded": "སེམས་དཔ་␣ར་ གནོད་ བྱས་ བདེ་བ་␣ར་ མི་ འབྲེལ་ ཞིང་ ། །",
+    "text": "སེམས་དཔར་གནོད་བྱས་བདེ་བར་མི་འབྲེལ་ཞིང་། །",
+    "reference_en": "[One] will never be connected to bliss by harming a bodhisattva. "
+  },
+  {
+    "id": "U00089",
+    "context": "f7b739023b944f1fa1ab90b91054c264",
+    "po_line": 397,
+    "encoded": "དགེ་ དང་ མི་དགེ་␣འི་ འབྲས་བུ་ སོ་སོ་␣ར་ འབྱུང་ ། །",
+    "text": "དགེ་དང་མི་དགེའི་འབྲས་བུ་སོ་སོར་འབྱུང་། །",
+    "reference_en": "The results of virtue and non-virtue occur individually."
+  },
+  {
+    "id": "U00090",
+    "context": "eb0c67c8b6464728964548a281b6af4b",
+    "po_line": 401,
+    "encoded": "བྱང་ཆུབ་ སེམས་ ནི་ བརྗེད་ ལས་ འཆོར་ མི་ སྲིད ། །",
+    "text": "བྱང་ཆུབ་སེམས་ནི་བརྗེད་ལས་འཆོར་མི་སྲིད། །",
+    "reference_en": "Bodhicitta can be forgotten, but it is not possible to lose it."
+  },
+  {
+    "id": "U00091",
+    "context": "9aaeb2af3db7460c8f11629675c19d41",
+    "po_line": 405,
+    "encoded": "སྒྲིབ་པ་ རྣམ་ གསུམ་ ཉོན་མོངས་ སྒྲིབ་པ་ གཅིག  །",
+    "text": "སྒྲིབ་པ་རྣམ་གསུམ་ཉོན་མོངས་སྒྲིབ་པ་གཅིག །",
+    "reference_en": "The three types of obscuration are all afflictive obscuration and the same."
+  },
+  {
+    "id": "U00092",
+    "context": "a546bc908ce34b08b693e2742c807672",
+    "po_line": 410,
+    "encoded": "ཇི་སྙེད་ གྲུབ་པ་␣ས་ དོན་དམ་ བདེན་པ་ བསྒྲིབས ། །",
+    "text": "ཇི་སྙེད་གྲུབ་པས་དོན་དམ་བདེན་པ་བསྒྲིབས། །",
+    "reference_en": "Whatever is established obscures the superfactual truth."
+  },
+  {
+    "id": "U00093",
+    "context": "dd832b9d576044bab6695819bc9238ed",
+    "po_line": 414,
+    "encoded": "ཉན་ཐོས་ ཀྱིས་ ཀྱང་ གནས་ལུགས་ ཕྱོགས་ གཅིག་ མཐོང་ ། །",
+    "text": "ཉན་ཐོས་ཀྱིས་ཀྱང་གནས་ལུགས་ཕྱོགས་གཅིག་མཐོང་། །",
+    "reference_en": "The hearers also see a part of reality."
+  },
+  {
+    "id": "U00094",
+    "context": "2c7cb96300b649729255c4a70ef65878",
+    "po_line": 418,
+    "encoded": "ས་ དྲུག་ མན་ཆད་ ཉན་རང་ ཐུན་མོང་ སྟེ ། །",
+    "text": "ས་དྲུག་མན་ཆད་ཉན་རང་ཐུན་མོང་སྟེ། །",
+    "reference_en": "Up to the sixth ground, it is common in hearers and solitary realizers."
+  },
+  {
+    "id": "U00095",
+    "context": "e5aab2239f2e48d18265a4d22cbe6d5d",
+    "po_line": 423,
+    "encoded": "སེམས་ ཙམ་པ་ ནི་ ས་ བདུན་ མངོན་རྟོགས་ ཡིན ། །",
+    "text": "སེམས་ཙམ་པ་ནི་ས་བདུན་མངོན་རྟོགས་ཡིན། །",
+    "reference_en": "The mind-only is the realization of the seventh ground."
+  },
+  {
+    "id": "U00096",
+    "context": "259d69c421844ca698d59bb4dc5a1b95",
+    "po_line": 427,
+    "encoded": "ཆོས་ ཀྱི་ བདག་མེད་ ས་  བརྒྱད་ མངོན་དུ་ བྱས ། །",
+    "text": "ཆོས་ཀྱི་བདག་མེད་ས་ བརྒྱད་མངོན་དུ་བྱས། །",
+    "reference_en": "[One] actualizes the selflessness of phenomena on the eighth ground."
+  },
+  {
+    "id": "U00097",
+    "context": "fef6e89431ae44ebb5c105a2ddc2e39b",
+    "po_line": 431,
+    "encoded": "རྟོགས་པ་ གཅིག་ གིས་ ས་ལམ་ མ་ ལུས་ བགྲོད ། །",
+    "text": "རྟོགས་པ་གཅིག་གིས་ས་ལམ་མ་ལུས་བགྲོད། །",
+    "reference_en": "Through a single realization, [one] can advance all of the grounds and paths."
+  },
+  {
+    "id": "U00098",
+    "context": "021ea9571d294b3fbe7b0982563b64f6",
+    "po_line": 437,
+    "encoded": "ས་ ཐོབ་ ཡོན་ཏན་ འབྱུང་ ཚུལ་ མུ་ དྲུག་ ཡོད ། །",
+    "text": "ས་ཐོབ་ཡོན་ཏན་འབྱུང་ཚུལ་མུ་དྲུག་ཡོད། །",
+    "reference_en": "The qualities of attaining the grounds can occur in six possible ways."
+  },
+  {
+    "id": "U00099",
+    "context": "bdbaf42f36cb4627864e25722d85bc5e",
+    "po_line": 442,
+    "encoded": "གཞི་ ལམ་ འབྲས་བུ་␣ར་ ཚོགས་ གཉིས་ ཟུང་འཇུག་ ནས ། །",
+    "text": "གཞི་ལམ་འབྲས་བུར་ཚོགས་གཉིས་ཟུང་འཇུག་ནས། །",
+    "reference_en": "By the union of the two accumulations in the basis, path, and result."
+  },
+  {
+    "id": "U00100",
+    "context": "fda1f140b304418ab4bb036af65ce1f4",
+    "po_line": 446,
+    "encoded": "མཐོ་དམན་ ཀུན་ ཏུ་ ཞིང་ ནི་ གདམས་པ་ ཟབ ། །",
+    "text": "མཐོ་དམན་ཀུན་ཏུ་ཞིང་ནི་གདམས་པ་ཟབ། །",
+    "reference_en": "Choosing a [higher] field is profound for all [beings], high or low."
+  },
+  {
+    "id": "U00101",
+    "context": "bfe7fcd9018d47d7afe53847f7b0c00d",
+    "po_line": 450,
+    "encoded": "བདག་ ཏུ་ བཟུང་ སྟེ་ ཚོགས་ བསགས་ ཐབས་མཁས་ བཞེད ། །",
+    "text": "བདག་ཏུ་བཟུང་སྟེ་ཚོགས་བསགས་ཐབས་མཁས་བཞེད། །",
+    "reference_en": "Gathering accumulations by grasping oneself is a skillful means."
+  },
+  {
+    "id": "U00102",
+    "context": "6d360d9c18114c82a76da89e01182462",
+    "po_line": 454,
+    "encoded": "འཁོར་འདས་ ཀུན་ གྱིས་ བསགས་ ཡོད་ དགེ་བ་ བསྔོ ། །",
+    "text": "འཁོར་འདས་ཀུན་གྱིས་བསགས་ཡོད་དགེ་བ་བསྔོ། །",
+    "reference_en": "Dedicate all of the virtues of samsara and nirvana."
+  },
+  {
+    "id": "U00103",
+    "context": "218ce2dc5f2249e2b6018022be58e116",
+    "po_line": 458,
+    "encoded": "སངས་རྒྱས་ བླ་མ་ ལ་ ཡང་ བསྔོ་བ་ དགོས ། །",
+    "text": "སངས་རྒྱས་བླ་མ་ལ་ཡང་བསྔོ་བ་དགོས། །",
+    "reference_en": "Dedication to Buddhas and gurus is also necessary."
+  },
+  {
+    "id": "U00104",
+    "context": "e9aac6567c22406ead6b246bf7f3223c",
+    "po_line": 462,
+    "encoded": "བྱང་སེམས་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ བཞི་བ་␣འོ ། །",
+    "text": "བྱང་སེམས་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་བཞི་བའོ། །",
+    "reference_en": "The fourth section summarises the essential points of Bodhisattvas."
+  },
+  {
+    "id": "U00105",
+    "context": "ac5c591a658e4af78b791a3010a701d7",
+    "po_line": 466,
+    "encoded": "གསང་སྔགས་ བསྟན་པ་ གཞན་ ལ་␣འང་ འབྱུང་བ་ ཡོད ། །",
+    "text": "གསང་སྔགས་བསྟན་པ་གཞན་ལའང་འབྱུང་བ་ཡོད། །",
+    "reference_en": "The secret mantra teaching can also occur during [the time of] others."
+  },
+  {
+    "id": "U00106",
+    "context": "0526bf5ba51c4796a62e7993c9454f84",
+    "po_line": 471,
+    "encoded": "དབང་དོན་ རྒྱུད་ ལ་ སྐྱེས་ ནས་ ཐོབ་པ་␣ར་ བཞེད ། །",
+    "text": "དབང་དོན་རྒྱུད་ལ་སྐྱེས་ནས་ཐོབ་པར་བཞེད། །",
+    "reference_en": "When the meaning of empowerment arises within one's mind, [empowerment] is obtained."
+  },
+  {
+    "id": "U00107",
+    "context": "3c8a366275ee402d920d303aa88b96a7",
+    "po_line": 477,
+    "encoded": "ལྷ་ ནི་ ཕྱོགས་ གཅིག་པ་␣ས་ ཀྱང་ དབང་ བསྐུར་ འགྲོ ། །",
+    "text": "ལྷ་ནི་ཕྱོགས་གཅིག་པས་ཀྱང་དབང་བསྐུར་འགྲོ། །",
+    "reference_en": "Empowerment can be conferred even in the direction of a single deity."
+  },
+  {
+    "id": "U00108",
+    "context": "91d1dc851f374bef8f7369f50b933fdb",
+    "po_line": 481,
+    "encoded": "རྟོགས་པ་ མ་ སྐྱེས་ དཔེ་ དོན་ ཁོང་ མི་ ཆུད ། །",
+    "text": "རྟོགས་པ་མ་སྐྱེས་དཔེ་དོན་ཁོང་མི་ཆུད། །",
+    "reference_en": "[When] realization does not arise, [one] will not understand the illustration and meaning."
+  },
+  {
+    "id": "U00109",
+    "context": "b52e56678f074906898e762d4b048188",
+    "po_line": 487,
+    "encoded": "བསྐྱེད་པ་␣འི་ རིམ་པ་ གདོད་ ནས་ ཡོངས་སུ་ གྲུབ ། །",
+    "text": "བསྐྱེད་པའི་རིམ་པ་གདོད་ནས་ཡོངས་སུ་གྲུབ། །",
+    "reference_en": "Primarily, the stages of generation are thoroughly accomplished."
+  },
+  {
+    "id": "U00110",
+    "context": "c8d5258a31b84476bd489bedbd3d011f",
+    "po_line": 491,
+    "encoded": "རང་བྱུང་ རྣམས་ ལ་ འཇུག་པ་␣འི་ ཆོ་ག་ དགོས ། །",
+    "text": "རང་བྱུང་རྣམས་ལ་འཇུག་པའི་ཆོ་ག་དགོས། །",
+    "reference_en": "Those with a natural proclivity [for practice] require ritual to enter the path."
+  },
+  {
+    "id": "U00111",
+    "context": "072f6c8631464c99bfe274b67048982b",
+    "po_line": 497,
+    "encoded": "ལྷ་ རྣམས་ ཐམས་ཅད་ མཚན་དཔེ་␣འི་ ཡོན་ཏན་ ལྡན ། །",
+    "text": "ལྷ་རྣམས་ཐམས་ཅད་མཚན་དཔེའི་ཡོན་ཏན་ལྡན། །",
+    "reference_en": "All deities possess the excellent qualities of the major and minor marks."
+  },
+  {
+    "id": "U00112",
+    "context": "55716292ab304927a45f439055ec946f",
+    "po_line": 502,
+    "encoded": "མདོ་ རྒྱུད་ ལས་ གསུང་ ལྷ་ རྣམས་ གཙོ་བོ་␣ར་ བྱ ། །",
+    "text": "མདོ་རྒྱུད་ལས་གསུང་ལྷ་རྣམས་གཙོ་བོར་བྱ། །",
+    "reference_en": "The deities and so on taught in the sutra and tantra must be regarded as primary."
+  },
+  {
+    "id": "U00113",
+    "context": "f69ad9f969ae488aa0f713201597e15a",
+    "po_line": 508,
+    "encoded": "དབང་པོ་ རབ་ ལ་ ཆོ་ག་ རྒྱས་པ་ དགོས ། །",
+    "text": "དབང་པོ་རབ་ལ་ཆོ་ག་རྒྱས་པ་དགོས། །",
+    "reference_en": "Those with the highest faculty require extensive rituals."
+  },
+  {
+    "id": "U00114",
+    "context": "386c7b2977614c80aaa8129c8ed4ea3e",
+    "po_line": 512,
+    "encoded": "སྤྲོས་པ་ ཐམས་ཅད་ བབས་ ཀྱི་ རྟེན་འབྲེལ་ ཡིན ། །",
+    "text": "སྤྲོས་པ་ཐམས་ཅད་བབས་ཀྱི་རྟེན་འབྲེལ་ཡིན། །",
+    "reference_en": "All [ritual] elaborations are the fundamental state of dependent relation."
+  },
+  {
+    "id": "U00115",
+    "context": "1c52771671a44bbe9b672881971f91d3",
+    "po_line": 517,
+    "encoded": "རྡོ་རྗེ་␣འི་ ལུས་ ནི་ ཟབ་མོ་␣འི་ འཁོར་ལོ་␣ར་ བཞེད ། །",
+    "text": "རྡོ་རྗེའི་ལུས་ནི་ཟབ་མོའི་འཁོར་ལོར་བཞེད། །",
+    "reference_en": "The Vajra body is a profound wheel."
+  },
+  {
+    "id": "U00116",
+    "context": "7267f67c1b3346c5a25d6bde98b779be",
+    "po_line": 521,
+    "encoded": "གནས་ ལུག་ འགའ་ཞིག་ རྡོ་རྗེ་ འཆང་ གིས་ སྦ་␣ས ། །",
+    "text": "གནས་ལུག་འགའ་ཞིག་རྡོ་རྗེ་འཆང་གིས་སྦས། །",
+    "reference_en": "Vajradhara concealed some aspects of reality."
+  },
+  {
+    "id": "U00117",
+    "context": "b3819c3018c245d09a407d73ba34f7f8",
+    "po_line": 525,
+    "encoded": "ལས་ དང་ འདུག་ ཚུལ་ འགའ་ཞིག་ སྨན་ རྒྱུད་ ཟབ ། །",
+    "text": "ལས་དང་འདུག་ཚུལ་འགའ་ཞིག་སྨན་རྒྱུད་ཟབ། །",
+    "reference_en": "Medicine tantra teaches some more profound ways of living and activities."
+  },
+  {
+    "id": "U00118",
+    "context": "ea2f694290fd4344b152d6986b25d043",
+    "po_line": 530,
+    "encoded": "གཞན་ གྱི་ མི་ ཟབ་པ་ རྣམས་ འདི་␣ར་ ཟབ་ སྟེ ། །",
+    "text": "གཞན་གྱི་མི་ཟབ་པ་རྣམས་འདིར་ཟབ་སྟེ། །",
+    "reference_en": "What others considered not profound is profound here."
+  },
+  {
+    "id": "U00119",
+    "context": "94b81a25bc42490fae7279f60364da6f",
+    "po_line": 534,
+    "encoded": "དེ་ མེད་ རྩ་ རླུང་ གདམས་པ་␣ས་ སངས་ མི་ རྒྱ ། །",
+    "text": "དེ་མེད་རྩ་རླུང་གདམས་པས་སངས་མི་རྒྱ། །",
+    "reference_en": "Without these [profound instructions], one cannot attain Buddhahood through channel and wind instructions."
+  },
+  {
+    "id": "U00120",
+    "context": "a410072002ec4b2b9f8a7d339cbf8090",
+    "po_line": 540,
+    "encoded": "བཀའ་ དང་ འགལ་བ་␣འི་ ཉམས་མྱོང་ ལོག་རྟོག་ ཡིན ། །",
+    "text": "བཀའ་དང་འགལ་བའི་ཉམས་མྱོང་ལོག་རྟོག་ཡིན། །",
+    "reference_en": "Experiences that contradict the instruction are mistaken conceptions."
+  },
+  {
+    "id": "U00121",
+    "context": "d113b705b2454a02941efb77c65999d7",
+    "po_line": 544,
+    "encoded": "དགོངས་པ་ ཐམས་ཅད་ འགལ་ མེད་ ཤེས་པ་␣ར་ དགོས ། །",
+    "text": "དགོངས་པ་ཐམས་ཅད་འགལ་མེད་ཤེས་པར་དགོས། །",
+    "reference_en": "[One must] understand that none of the intentions are contradictory."
+  },
+  {
+    "id": "U00122",
+    "context": "cdf94b4364f241a9879678c64a31a66c",
+    "po_line": 548,
+    "encoded": "གདམས་ངག་ ལྟར་ མིན་ བཀའ་ ལྟར་ འོང་བ་␣ར་ བཞེད ། །",
+    "text": "གདམས་ངག་ལྟར་མིན་བཀའ་ལྟར་འོང་བར་བཞེད། །",
+    "reference_en": "Unlike oral instructions, it must be in accordance with the instruction [of Buddha]."
+  },
+  {
+    "id": "U00123",
+    "context": "1c0cf7f124b14baab9dc410ecc146684",
+    "po_line": 554,
+    "encoded": "སྐྱོན་མེད་ ཏིང་འཛིན་ ཁམས་ གསུམ་ འཁོར་བ་␣འི་ རྒྱུ ། །",
+    "text": "སྐྱོན་མེད་ཏིང་འཛིན་ཁམས་གསུམ་འཁོར་བའི་རྒྱུ། །",
+    "reference_en": "The three samsaric realms are caused by flawless concentrations."
+  },
+  {
+    "id": "U00124",
+    "context": "2d1393b35a61492889cbb830b44696e0",
+    "po_line": 558,
+    "encoded": "སྐུ་གསུམ་ རེ་རེ་ ལ་ ཡང་ གཞན་ གཉིས་ ཚང་ ། །",
+    "text": "སྐུ་གསུམ་རེ་རེ་ལ་ཡང་གཞན་གཉིས་ཚང་། །",
+    "reference_en": "Each of the three bodies possesses the other two."
+  },
+  {
+    "id": "U00125",
+    "context": "6ed43fc3b9d8428cb2bc5374ea8be427",
+    "po_line": 562,
+    "encoded": "གསང་སྔགས་ ལ་ ནི་ ཚུལ་ཁྲིམས་ མེད་ ཀ་མེད ། །",
+    "text": "གསང་སྔགས་ལ་ནི་ཚུལ་ཁྲིམས་མེད་ཀ་མེད། །",
+    "reference_en": "In the secret mantra, moral discipline is indispensable."
+  },
+  {
+    "id": "U00126",
+    "context": "ccce841677aa4d4e89dd0d45d4b45dff",
+    "po_line": 566,
+    "encoded": "འདོད་པ་␣ས་ བར་ དུ་ གཅོད་པ་ མདོ་སྔགས་ གཅིག  །",
+    "text": "འདོད་པས་བར་དུ་གཅོད་པ་མདོ་སྔགས་གཅིག །",
+    "reference_en": "The sutra and mantra teachings are similar in terms of how desire disrupts [the path]. "
+  },
+  {
+    "id": "U00127",
+    "context": "8ca165a54fea4e7681c9613eec669a35",
+    "po_line": 572,
+    "encoded": "སྔགས་ ཀྱི་ མི་དགེ་ དགེ་བ་␣ར་ འགྱུར་ སྐབས་མེད ། །",
+    "text": "སྔགས་ཀྱི་མི་དགེ་དགེ་བར་འགྱུར་སྐབས་མེད། །",
+    "reference_en": "No occasion in the mantra where non-virtue transforms into a virtue."
+  },
+  {
+    "id": "U00128",
+    "context": "37136da84d344d298ff67fc392cbaa97",
+    "po_line": 576,
+    "encoded": "འདུལ་བ་␣ར་ མི་དགེ་ སྔགས་ སུ་␣འང་ དགེ་␣ར་ མི་ འགྱུར ། །",
+    "text": "འདུལ་བར་མི་དགེ་སྔགས་སུའང་དགེར་མི་འགྱུར། །",
+    "reference_en": "A non-virtue in the Vinaya will not transform into a virtue in the mantra."
+  },
+  {
+    "id": "U00129",
+    "context": "f998193fa7874c1c93485fb3251b8377",
+    "po_line": 581,
+    "encoded": "ཉོན་མོངས་ དག་ འབྲས་ བདེ་བ་␣ར་ གཤེགས་པ་ ཉིད ། །",
+    "text": "ཉོན་མོངས་དག་འབྲས་བདེ་བར་གཤེགས་པ་ཉིད། །",
+    "reference_en": "The result of purifying afflictions is true bliss."
+  },
+  {
+    "id": "U00130",
+    "context": "cebe95eb2ca248a38bdf29a09c2488d2",
+    "po_line": 585,
+    "encoded": "མཐུ་ བསྟན་ ཙམ་ ལས་ མངོན་སྤྱོད་ གནང་བ་ མེད ། །",
+    "text": "མཐུ་བསྟན་ཙམ་ལས་མངོན་སྤྱོད་གནང་བ་མེད། །",
+    "reference_en": "Aside from merely displaying the magical power [of mantra], violent activities are not permitted."
+  },
+  {
+    "id": "U00131",
+    "context": "1975ca0722374264909fd35f3d14e38e",
+    "po_line": 591,
+    "encoded": "རྡོ་རྗེ་ དམྱལ་བ་ མནར་མེད་ ལ་སོགས་ ཡིན ། །",
+    "text": "རྡོ་རྗེ་དམྱལ་བ་མནར་མེད་ལ་སོགས་ཡིན། །",
+    "reference_en": "Vajra hell is Avichi hell, and so on."
+  },
+  {
+    "id": "U00132",
+    "context": "ba563c55708c4deeb0b92b0bbf65049e",
+    "po_line": 595,
+    "encoded": "སློབ་དཔོན་ རྒྱུད་ ཚོད་ མཐོ་ ན་ མྱུར་ དུ་ འདྲེན ། །",
+    "text": "སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན། །",
+    "reference_en": "If master's internal level [of realization] is high, [he can] lead quickly. "
+  },
+  {
+    "id": "U00133",
+    "context": "a0fe96eb30dc4eec8cdf2db7ce080e26",
+    "po_line": 600,
+    "encoded": "སློབ་དཔོན་ རྒྱུད་ ཚོད་ མཐོ་ ན་ མྱུར་ དུ་ འདྲེན ། །",
+    "text": "སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན། །",
+    "reference_en": "The fifth section summarises the essential points of secret mantra."
+  },
+  {
+    "id": "U00134",
+    "context": "3891ee589bd94992bfa0baf462b23e63",
+    "po_line": 604,
+    "encoded": "༈  དམ་པ་␣འི་ ཆོས་ གང་ བརྒྱུད་པ་␣ར་ འབྲེལ་པ་ ཟབ ། །",
+    "text": "༈ དམ་པའི་ཆོས་གང་བརྒྱུད་པར་འབྲེལ་པ་ཟབ། །",
+    "reference_en": "All of the excellent Dharma connected with the lineage is profound."
+  },
+  {
+    "id": "U00135",
+    "context": "76757bb0f66842c1b5b84addcec30b67",
+    "po_line": 608,
+    "encoded": "འཁོར་འདས་ ཆོས་ ཀུན་ རང་ གི་ སེམས་ སྣང་ ཙམ ། །",
+    "text": "འཁོར་འདས་ཆོས་ཀུན་རང་གི་སེམས་སྣང་ཙམ། །",
+    "reference_en": "All phenomena of samsara and nirvana are merely appearances of one's mind."
+  },
+  {
+    "id": "U00136",
+    "context": "e1cc4b473954448c838a713f6a2d1f9e",
+    "po_line": 613,
+    "encoded": "རྒྱུ་འབྲས་ སྐད་ཅིག་ བསམ་པ་␣འི་ རང་གཟུགས་ ཡིན ། །",
+    "text": "རྒྱུ་འབྲས་སྐད་ཅིག་བསམ་པའི་རང་གཟུགས་ཡིན། །",
+    "reference_en": "Causes and effects are the embodiment of momentary thoughts."
+  },
+  {
+    "id": "U00137",
+    "context": "732c5516156c4706af38d13013927e11",
+    "po_line": 617,
+    "encoded": "གཤིས་ ལ་ མི་ གནས་ བལྟས་པ་␣འི་ འགྱུར་ མི་ སྲིད ། །",
+    "text": "གཤིས་ལ་མི་གནས་བལྟས་པའི་འགྱུར་མི་སྲིད། །",
+    "reference_en": "If it does not exist in its natural state, it cannot be changed by shifting one's point of view on it."
+  },
+  {
+    "id": "U00138",
+    "context": "b4fde08df5bc4a86b142466a8c57d581",
+    "po_line": 623,
+    "encoded": "མཚན་ཉིད་ མི་ ལྡན་ ཡོན་ཏན་ སྐྱེད་ མི་ ནུས ། །",
+    "text": "མཚན་ཉིད་མི་ལྡན་ཡོན་ཏན་སྐྱེད་མི་ནུས། །",
+    "reference_en": "One who lacks characteristics cannot produce good qualities."
+  },
+  {
+    "id": "U00139",
+    "context": "91603ec9c3a44b2e9b79e35d1bd2bafd",
+    "po_line": 627,
+    "encoded": "རྟོགས་པ་ སྐྱེད་ ཐབས་ མོས་གུས་ ཁོ་ན་␣ར་ ངེས ། །",
+    "text": "རྟོགས་པ་སྐྱེད་ཐབས་མོས་གུས་ཁོ་ནར་ངེས། །",
+    "reference_en": "It is certain that devotion is the only way to generate realization."
+  },
+  {
+    "id": "U00140",
+    "context": "36ea397f850a49d69cf38b9d1d2883bf",
+    "po_line": 631,
+    "encoded": "ལྟ་བ་␣འི་ མཆོག་གྱུར་ རྟོགས་པ་ དང་ ལྡན་པ ། །",
+    "text": "ལྟ་བའི་མཆོག་གྱུར་རྟོགས་པ་དང་ལྡན་པ། །",
+    "reference_en": "The supreme view possesses realization."
+  },
+  {
+    "id": "U00141",
+    "context": "f5657ab38cd14da79c0f0d2e0036250a",
+    "po_line": 635,
+    "encoded": "ཆེན་པོ་ གསུམ་ གྱིས་ མ་ རེག་ རྟོགས་པ་␣འི་ མཆོག  །",
+    "text": "ཆེན་པོ་གསུམ་གྱིས་མ་རེག་རྟོགས་པའི་མཆོག །",
+    "reference_en": "The supreme realization is not touched by the three greats."
+  },
+  {
+    "id": "U00142",
+    "context": "9092dcb96a5d461abb23d15b66c8fad4",
+    "po_line": 639,
+    "encoded": "ཐོས་བསམ་ སྒོམ་པ་␣འི་ སྟོང་ཉིད་ ཤོལ་ གོལ་ ཡིན ། །",
+    "text": "ཐོས་བསམ་སྒོམ་པའི་སྟོང་ཉིད་ཤོལ་གོལ་ཡིན། །",
+    "reference_en": "Hearing, contemplating, and meditating on emptiness [may] involve delays and deviations."
+  },
+  {
+    "id": "U00143",
+    "context": "04036908d5834cb9ad53b4eec465221c",
+    "po_line": 645,
+    "encoded": "རྟོགས་པ་ གོམས་པ་␣ར་ བྱེད་པ་ སྒོམ་པ་ སྟེ ། །",
+    "text": "རྟོགས་པ་གོམས་པར་བྱེད་པ་སྒོམ་པ་སྟེ། །",
+    "reference_en": "Habituating to realization is meditation."
+  },
+  {
+    "id": "U00144",
+    "context": "b8790435162543c596a4314092fd30e7",
+    "po_line": 649,
+    "encoded": "སྤྱོད་པ་ བླང་དོར་ བྲལ་བ་ ཚུལ་ཁྲིམས་ བཞེད ། །",
+    "text": "སྤྱོད་པ་བླང་དོར་བྲལ་བ་ཚུལ་ཁྲིམས་བཞེད། །",
+    "reference_en": "The conduct, free from acceptance and rejection, is the moral discipline."
+  },
+  {
+    "id": "U00145",
+    "context": "6b23150916164d64bd78069c8d57d96a",
+    "po_line": 654,
+    "encoded": "ལྟ་ སྒོམ་ སྤྱོད་ གསུམ་ ཐ་དད་ མེད་པ་␣ར་ གཅིག  །",
+    "text": "ལྟ་སྒོམ་སྤྱོད་གསུམ་ཐ་དད་མེད་པར་གཅིག །",
+    "reference_en": "The view, practice, and conduct- all three are not distinct but one."
+  },
+  {
+    "id": "U00146",
+    "context": "71d6236663884ccd8d8435e721915e7b",
+    "po_line": 658,
+    "encoded": "ཕྱག་ ཆེན་ ཚུལ་ཁྲིམས་ གནད་ གཅིག་ ཁྱད་པར་ ཆོས ། །",
+    "text": "ཕྱག་ཆེན་ཚུལ་ཁྲིམས་གནད་གཅིག་ཁྱད་པར་ཆོས། །",
+    "reference_en": "Mahamudra and disciplined conduct are one essence and special teaching."
+  },
+  {
+    "id": "U00147",
+    "context": "b4ef8cbf0da3401e9a32f2f38751dbe1",
+    "po_line": 663,
+    "encoded": "ཕྱག་ ཆེན་ ཡོན་ཏན་ ཀུན་ གྱི་ བདག་ཉིད་ དེ ། །",
+    "text": "ཕྱག་ཆེན་ཡོན་ཏན་ཀུན་གྱི་བདག་ཉིད་དེ། །",
+    "reference_en": "Mahamudra is the essence of all the good qualities."
+  },
+  {
+    "id": "U00148",
+    "context": "9f0ecfeb62bd433eb54946b0f5d7b00d",
+    "po_line": 667,
+    "encoded": "མཉམ་པ་␣ར་ བཞག་ ལས་ ཡོན་ཏན་ ཐམས་ཅད་ འབྱུང་ ། །",
+    "text": "མཉམ་པར་བཞག་ལས་ཡོན་ཏན་ཐམས་ཅད་འབྱུང་། །",
+    "reference_en": "All the good qualities arise from meditative equipoise."
+  },
+  {
+    "id": "U00149",
+    "context": "077e8fe649e84a3da7324514e19cee05",
+    "po_line": 671,
+    "encoded": "རྒྱུ་ ནི་ མ་ བསྒྲུབས་ ཡོན་ཏན་ འབྱུང་ མི་ སྲིད ། །",
+    "text": "རྒྱུ་ནི་མ་བསྒྲུབས་ཡོན་ཏན་འབྱུང་མི་སྲིད། །",
+    "reference_en": "The good qualities will not occur unless the cause is accomplished."
+  },
+  {
+    "id": "U00150",
+    "context": "e05ce512abb947ee86cbc82f08c8b01b",
+    "po_line": 675,
+    "encoded": "སྟོང་ཉིད་ རྟོགས་ ན་ རྒྱུ་འབྲས་ ཉིད་ དུ་ ལྡང་ ། །",
+    "text": "སྟོང་ཉིད་རྟོགས་ན་རྒྱུ་འབྲས་ཉིད་དུ་ལྡང་། །",
+    "reference_en": "If [one] realizes emptiness- the cause and effect emerge from it."
+  },
+  {
+    "id": "U00151",
+    "context": "2131e1a0e50e44c7aeaca3aee4a8ed45",
+    "po_line": 679,
+    "encoded": "རྟོགས་ལྡན་ ལ་ ཡང་ ཐམས་ ལམ་ ལྷག་པར་ དགོས ། །",
+    "text": "རྟོགས་ལྡན་ལ་ཡང་ཐམས་ལམ་ལྷག་པར་དགོས། །",
+    "reference_en": "Those endowed with realization, especially, require the path of methods."
+  },
+  {
+    "id": "U00152",
+    "context": "4d5c6795f969416ea25425de6c743adc",
+    "po_line": 684,
+    "encoded": "རིགས་ སྤྱོད་ ཁྱད་ དུ་ འཕགས་པ་ ཚུལ་ཁྲིམས་ ཡིན ། །",
+    "text": "རིགས་སྤྱོད་ཁྱད་དུ་འཕགས་པ་ཚུལ་ཁྲིམས་ཡིན། །",
+    "reference_en": "Disciplined conduct is the exalted class of conduct. "
+  },
+  {
+    "id": "U00153",
+    "context": "41d5230fb6e748be938b8b6ce61dccea",
+    "po_line": 688,
+    "encoded": "ཆོས་ གསུམ་ མི་ ལྡན་ ཉན་རང་ ཁྱད་པར་ མེད ། །",
+    "text": "ཆོས་གསུམ་མི་ལྡན་ཉན་རང་ཁྱད་པར་མེད། །",
+    "reference_en": "Without the three dharmas, one is no different from a hearer or a solitary realizer."
+  },
+  {
+    "id": "U00154",
+    "context": "13cc0292b0fd4bfcbbac6f4f5f6f031d",
+    "po_line": 694,
+    "encoded": "ལྟ་ སྒོམ་ སྤྱོད་པ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ དྲུག་པ་␣འོ ། །",
+    "text": "ལྟ་སྒོམ་སྤྱོད་པ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་དྲུག་པའོ། །",
+    "reference_en": "The sixth section summarises the essential points of view, practice, and conduct."
+  },
+  {
+    "id": "U00155",
+    "context": "18ca1c6bc60945a7813055e02703619f",
+    "po_line": 700,
+    "encoded": "སངས་རྒྱས་ ས་ ན་ བདེན་ གཉིས་ རྣམ་དབྱེ་␣ར་ མེད ། །",
+    "text": "སངས་རྒྱས་ས་ན་བདེན་གཉིས་རྣམ་དབྱེར་མེད། །",
+    "reference_en": "At the ground of Buddhahood, there is no distinction between the two truths."
+  },
+  {
+    "id": "U00156",
+    "context": "fa1bb3ffd2634ca7af23fea9c2565a22",
+    "po_line": 705,
+    "encoded": "མཁྱེན་པ་␣འི་ ཡེ་ཤེས་ གཉིས་ མེད་ མཐའ་ དང་ བྲལ ། །",
+    "text": "མཁྱེན་པའི་ཡེ་ཤེས་གཉིས་མེད་མཐའ་དང་བྲལ། །",
+    "reference_en": "Knowing wisdom is non-dual, free of extremes."
+  },
+  {
+    "id": "U00157",
+    "context": "36373020e30a456f8ab006120adeced4",
+    "po_line": 709,
+    "encoded": "རྒྱུ་མ་ ལྟ་བུ་␣འི་ ཆོས་ ལས་ ཡང་དག་ འདས ། །",
+    "text": "རྒྱུ་མ་ལྟ་བུའི་ཆོས་ལས་ཡང་དག་འདས། །",
+    "reference_en": " [It] completely goes beyond illusory-like phenomena."
+  },
+  {
+    "id": "U00158",
+    "context": "7754cabeebc2433da56921ada286c1a6",
+    "po_line": 713,
+    "encoded": "སངས་རྒྱས་ དུས་ རྣམས་ རྟག་ ཏུ་ ཚད་མ་␣ར་ བཞུགས ། །",
+    "text": "སངས་རྒྱས་དུས་རྣམས་རྟག་ཏུ་ཚད་མར་བཞུགས། །",
+    "reference_en": "The Buddha dwells in valid cognition at all times."
+  },
+  {
+    "id": "U00159",
+    "context": "16ac3c318e644b43b46f29294d327891",
+    "po_line": 717,
+    "encoded": "བྲལ་བ་␣འི་ འབྲས་བུ་␣ས་ ཡེ་ཤེས་ ཐུགས་ ཅན་ བཞེད ། །",
+    "text": "བྲལ་བའི་འབྲས་བུས་ཡེ་ཤེས་ཐུགས་ཅན་བཞེད། །",
+    "reference_en": "The mind of primordial wisdom is the result of separation."
+  },
+  {
+    "id": "U00160",
+    "context": "8efe987381e74121b99d39c3f6e23ee7",
+    "po_line": 721,
+    "encoded": "ཆོས་སྐུ་ ཡོན་ཏན་ མཛད་པ་ ཕྲིན་ལས་ བཅས ། །",
+    "text": "ཆོས་སྐུ་ཡོན་ཏན་མཛད་པ་ཕྲིན་ལས་བཅས། །",
+    "reference_en": "Dharmakaya is endowed with good qualities and activities. "
+  },
+  {
+    "id": "U00161",
+    "context": "792fd8dc538e46db8a97c78f6bf53d62",
+    "po_line": 725,
+    "encoded": "མཐར་ཐུག་ སངས་རྒྱས་ ས་ ན་␣འང་ ཐུགས་བསྐྱེད་ ཡོད ། །",
+    "text": "མཐར་ཐུག་སངས་རྒྱས་ས་ནའང་ཐུགས་བསྐྱེད་ཡོད། །",
+    "reference_en": "The arousing of the mind exists at the ultimate ground of Buddhahood as well."
+  },
+  {
+    "id": "U00162",
+    "context": "838c7c9c464f488fb7683e6c3ddd7848",
+    "po_line": 731,
+    "encoded": "ཐུགས་ ནི་ རྟག་ཆད་ ལྟ་བ་ ཚུན་ ལ་␣འང་ འབྱུང་ ། །",
+    "text": "ཐུགས་ནི་རྟག་ཆད་ལྟ་བ་ཚུན་ལའང་འབྱུང་། །",
+    "reference_en": "The omniscient mind reaches even to the permanent and nihilist viewpoints."
+  },
+  {
+    "id": "U00163",
+    "context": "f17e7fa71b8a44988acb1b2f69bbb90b",
+    "po_line": 736,
+    "encoded": "ཤེས་བྱ་ སྲིད་ ཚད་ སངས་རྒྱས་ བྱ་བ་ བྱེད ། །",
+    "text": "ཤེས་བྱ་སྲིད་ཚད་སངས་རྒྱས་བྱ་བ་བྱེད། །",
+    "reference_en": "The Buddha engages in any activity that exists as knowables."
+  },
+  {
+    "id": "U00164",
+    "context": "deb994c6da864999b4c48a3e04a5821c",
+    "po_line": 740,
+    "encoded": "ཆོས་དབྱིངས་ ཀུན་ ཏུ་ འཚང་ རྒྱ་ དགོས་པ་␣ར་ བཞེད ། །",
+    "text": "ཆོས་དབྱིངས་ཀུན་ཏུ་འཚང་རྒྱ་དགོས་པར་བཞེད། །",
+    "reference_en": "One needs to enlighten in the entire expanse of dharmas."
+  },
+  {
+    "id": "U00165",
+    "context": "91771822c8b848e385263cf0344ef523",
+    "po_line": 744,
+    "encoded": "རྒྱུ་ མེད་ སྤྲུལ་པ་ མི་ སྲིད་ རང་རྒྱུད་པ ། །",
+    "text": "རྒྱུ་མེད་སྤྲུལ་པ་མི་སྲིད་རང་རྒྱུད་པ། །",
+    "reference_en": "Emanation is impossible without causes being their own continuum."
+  },
+  {
+    "id": "U00166",
+    "context": "e27feeab31a8473fab4b30684221f9d0",
+    "po_line": 748,
+    "encoded": "སངས་རྒྱས་ ཞེས་ བྱ་ རྟེན་ ཅིང་ འབྲེལ་ འབྱུང་ སྐུ ། །",
+    "text": "སངས་རྒྱས་ཞེས་བྱ་རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ། །",
+    "reference_en": "As known Buddha is a body of dependent origination."
+  },
+  {
+    "id": "U00167",
+    "context": "2d8e5883db504a9b966bf3c466e74936",
+    "po_line": 752,
+    "encoded": "སྨོན་ འཇུག་ ལོངས་ སྤྲུལ་ རྒྱུ་ རུ་ བཞེད་པ་␣འང་ ཡོད ། །",
+    "text": "སྨོན་འཇུག་ལོངས་སྤྲུལ་རྒྱུ་རུ་བཞེད་པའང་ཡོད། །",
+    "reference_en": "The aspirational and engaging bodhicitta are also the causes of the complete enjoyment and the emanation body [of a Buddha]."
+  },
+  {
+    "id": "U00168",
+    "context": "352c8374699c4bb9ac220f63b7c478c5",
+    "po_line": 758,
+    "encoded": "སྐུ་གསུམ་ ཐ་དད་ མེད་ ཅིང་ བཞུགས་པ་ ཡིན ། །",
+    "text": "སྐུ་གསུམ་ཐ་དད་མེད་ཅིང་བཞུགས་པ་ཡིན། །",
+    "reference_en": "The three bodies dwell in an undifferentiated state."
+  },
+  {
+    "id": "U00169",
+    "context": "35337c31e1244808b6e06e20290a07d9",
+    "po_line": 762,
+    "encoded": "སངས་རྒྱས་ ཐམས་ཅད་ སེམས་ཅན་ རྒྱུད་ ལ་ བཞུགས ། །",
+    "text": "སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་རྒྱུད་ལ་བཞུགས། །",
+    "reference_en": "All buddhas exist within the continuum of all sentient beings."
+  },
+  {
+    "id": "U00170",
+    "context": "4f05903724314f8bb1713ef2483d2d48",
+    "po_line": 766,
+    "encoded": "འབྲས་བུ་ གནད་བསྡུས་ ཀྱི་ སྐབས་ ཏེ་ བདུན་པ་␣འོ ། །",
+    "text": "འབྲས་བུ་གནད་བསྡུས་ཀྱི་སྐབས་ཏེ་བདུན་པའོ། །",
+    "reference_en": "The seventh section summarises the essential points of the resultant state."
+  },
+  {
+    "id": "U00171",
+    "context": "70bafd49f9534dadab4e544aaaa692d2",
+    "po_line": 771,
+    "encoded": "ཇི་ལྟར་ འཇིག་རྟེན་ འདི་ ན་ ཕ་ ཡི་ བུ ། །",
+    "text": "ཇི་ལྟར་འཇིག་རྟེན་འདི་ན་ཕ་ཡི་བུ། །",
+    "reference_en": "Just like a father's son in this worldly sense."
+  },
+  {
+    "id": "U00172",
+    "context": "bc057b5f38244b0196126a1dac9d830e",
+    "po_line": 775,
+    "encoded": "ལོངས་སྤྱོད་ ཕལ་པ་␣འི་ འབྱོར་བ་ ལྡན་ གྱུར་ ཀྱང་ ། །",
+    "text": "ལོངས་སྤྱོད་ཕལ་པའི་འབྱོར་བ་ལྡན་གྱུར་ཀྱང་། །",
+    "reference_en": "Even if one possesses ordinary riches."
+  },
+  {
+    "id": "U00173",
+    "context": "0bdf982bf5bb4243a656bc17710b7b63",
+    "po_line": 779,
+    "encoded": "ཕ་ ཡིས་ ཁྱད་ནོར་ གཞན་ ལ་ མེད་པ་ དག",
+    "text": "ཕ་ཡིས་ཁྱད་ནོར་གཞན་ལ་མེད་པ་དག",
+    "reference_en": "All of the father's extraordinary possessions that others do not have."
+  },
+  {
+    "id": "U00174",
+    "context": "e2222cf2bde04b4e8c2075494c72d2b3",
+    "po_line": 784,
+    "encoded": "མ་ ཐོས་ མི་ འཛིན་ དེ་ ནི་ སྨད་པ་ ལྟར ། །",
+    "text": "མ་ཐོས་མི་འཛིན་དེ་ནི་སྨད་པ་ལྟར། །",
+    "reference_en": "It is like being slighted without hearing or holding it."
+  },
+  {
+    "id": "U00175",
+    "context": "9071ca2301ba4df7a0853eccad60b706",
+    "po_line": 788,
+    "encoded": "དེ་བཞིན་ མཚུངས་མེད་ འཇིག་རྟེན་ མགོན་པོ་ ཡིས ། །",
+    "text": "དེ་བཞིན་མཚུངས་མེད་འཇིག་རྟེན་མགོན་པོ་ཡིས། །",
+    "reference_en": "The peerless tathagata- Jigten Sumgon"
+  },
+  {
+    "id": "U00176",
+    "context": "d1b2de1082494fa49e8e2d00402cd4a5",
+    "po_line": 792,
+    "encoded": "མངོན་དུ་ མཛད་པ་␣འི་ ཁྱད་པར་ ཆོས་ འདི་ དང་ ། །",
+    "text": "མངོན་དུ་མཛད་པའི་ཁྱད་པར་ཆོས་འདི་དང་། །",
+    "reference_en": "And his extraordinary teachings of manifestation."
+  },
+  {
+    "id": "U00177",
+    "context": "ada324c75eab468989e2bbbcc1796cbc",
+    "po_line": 796,
+    "encoded": "སྔོན་ཆད་ མ་ གྲགས་ ཕྱི་དུས་ འཇིག་རྟེན་ འདི་␣ར ། །",
+    "text": "སྔོན་ཆད་མ་གྲགས་ཕྱི་དུས་འཇིག་རྟེན་འདིར། །",
+    "reference_en": "It has never been known before or in the future."
+  },
+  {
+    "id": "U00178",
+    "context": "2c64ee71f4754a6da6246b7adc605a84",
+    "po_line": 800,
+    "encoded": "རྗེས་ འབྲང་ སྲས་ ཀྱིས་ མི་ འཛིན་ དེ་ དང་ མཚུངས ། །",
+    "text": "རྗེས་འབྲང་སྲས་ཀྱིས་མི་འཛིན་དེ་དང་མཚུངས། །",
+    "reference_en": "It is similar to a follower or son who is not holding it. "
+  },
+  {
+    "id": "U00179",
+    "context": "f29d423bf1f7432984ce4f3c77a60d9d",
+    "po_line": 804,
+    "encoded": "དེ་ཕྱིར་ རིགས་ལྡན་ ཕ་ ཡི་ གདུང་འཚོབ་པ ། །",
+    "text": "དེ་ཕྱིར་རིགས་ལྡན་ཕ་ཡི་གདུང་འཚོབ་པ། །",
+    "reference_en": "Thus, the representative of the father of a noble family."
+  },
+  {
+    "id": "U00180",
+    "context": "56f2d0980e614a9784b8683e16db7515",
+    "po_line": 808,
+    "encoded": "རིགས་ འཚོལ་ གཞན་ ལ་ སྨོད་པ་␣ར་ མི་ བྱེད་ ཅིང་ ། །",
+    "text": "རིགས་འཚོལ་གཞན་ལ་སྨོད་པར་མི་བྱེད་ཅིང་། །",
+    "reference_en": "Without belittling the other noble seekers."
+  },
+  {
+    "id": "U00181",
+    "context": "a1f411706c8c43d283d59c0e9987a2d4",
+    "po_line": 812,
+    "encoded": "གྲགས་ ལྡན་ དེ་ ཡི་ བཞེད་པ་␣འི་ ཐུགས་དགོངས་ རྣམས ། །",
+    "text": "གྲགས་ལྡན་དེ་ཡི་བཞེད་པའི་ཐུགས་དགོངས་རྣམས། །",
+    "reference_en": "All the ultimate intents of this renowned one."
+  },
+  {
+    "id": "U00182",
+    "context": "1b0318eaed40461c95ec757fceb0e13e",
+    "po_line": 816,
+    "encoded": "ནན་ཏན་ ཆེན་པོ་␣ས་ འཛིན་པ་ ངོ་མཚར་ ཆེ ། །",
+    "text": "ནན་ཏན་ཆེན་པོས་འཛིན་པ་ངོ་མཚར་ཆེ། །",
+    "reference_en": "It is remarkable to hold them so assiduously."
+  },
+  {
+    "id": "U00183",
+    "context": "494b6f6960e34a55a04b36f037c77fc4",
+    "po_line": 820,
+    "encoded": "བསྟན་འཛིན་ ཆོས་མཛད་ སྐྱེས་བུ་ དམ་པ་ རྣམས ། །",
+    "text": "བསྟན་འཛིན་ཆོས་མཛད་སྐྱེས་བུ་དམ་པ་རྣམས། །",
+    "reference_en": "All the excellent beings who uphold the teachings and dharma deeds."
+  },
+  {
+    "id": "U00184",
+    "context": "4cf02f6fc41c41c696903dcd55da86cf",
+    "po_line": 824,
+    "encoded": "བུ་ སྟོང་ ནང་ དུ་ འཁོར་ལོ་␣ས་ སྒྱུར་ རྒྱལ་ གྱི ། །",
+    "text": "བུ་སྟོང་ནང་དུ་འཁོར་ལོས་སྒྱུར་རྒྱལ་གྱི། །",
+    "reference_en": "Like a wheel-wielding King from a thousand sons."
+  },
+  {
+    "id": "U00185",
+    "context": "8ab00129d3b24e2db28ad0f1646bc62d",
+    "po_line": 828,
+    "encoded": "མཚན་ལྡན་ སྲས་ ནི་ ཁྱད་པར་ འཕགས་པ་ བཞིན ། །",
+    "text": "མཚན་ལྡན་སྲས་ནི་ཁྱད་པར་འཕགས་པ་བཞིན། །",
+    "reference_en": "A prince with the marks is like a special noble."
+  },
+  {
+    "id": "U00186",
+    "context": "362d372a84b1471a9f2c546e49a72f5a",
+    "po_line": 832,
+    "encoded": "བསྟན་པ་␣འི་ སྒོར་ ཞུགས་ ཀུན་ གྱི་ ནང་ ན་ མཛེས ། །",
+    "text": "བསྟན་པའི་སྒོར་ཞུགས་ཀུན་གྱི་ནང་ན་མཛེས། །",
+    "reference_en": "The most beautiful thing of all is to enter the door of Dharma. "
+  },
+  {
+    "id": "U00187",
+    "context": "5e2629a9fb644576a6a8c82a9d8b6738",
+    "po_line": 836,
+    "encoded": "ཐུན་མོང་ མ་ ཡིན་ དམ་པ་␣འི་ སྙིང་པོ་ དང་ ། །",
+    "text": "ཐུན་མོང་མ་ཡིན་དམ་པའི་སྙིང་པོ་དང་། །",
+    "reference_en": " It is the uncommon excellent essence and"
+  },
+  {
+    "id": "U00188",
+    "context": "172b8bdeda4e4f4087a4c1ea5acaf239",
+    "po_line": 840,
+    "encoded": "རབ་འབྱམས་ ཐུབ་པ་␣འི་ བཀའ་ ལ་མ་ རྨོངས་པ་␣ས ། །",
+    "text": "རབ་འབྱམས་ཐུབ་པའི་བཀའ་ལ་མ་རྨོངས་པས། །",
+    "reference_en": "Not being ignorant of Buddha's all-encompassing teachings."
+  },
+  {
+    "id": "U00189",
+    "context": "98885e98a426449c9a11e766dd198aa2",
+    "po_line": 844,
+    "encoded": "ཕྱི་རོལ་ རྒོལ་བ་ ངན་པ་␣འི་ ཝ་ ཚོགས་ ཀྱིས ། །",
+    "text": "ཕྱི་རོལ་རྒོལ་བ་ངན་པའི་ཝ་ཚོགས་ཀྱིས། །",
+    "reference_en": "A skulk of bad outside opponents"
+  },
+  {
+    "id": "U00190",
+    "context": "d2b6c278f9cb417d8f10162198a9a5d0",
+    "po_line": 848,
+    "encoded": "གངས་ཅན་ སེང་གེ་ ལྟ་བུ་␣ར་ ཉམས་ ང་ མེད ། །",
+    "text": "གངས་ཅན་སེང་གེ་ལྟ་བུར་ཉམས་ང་མེད། །",
+    "reference_en": "Cannot frighten the lion of the Snowland."
+  },
+  {
+    "id": "U00191",
+    "context": "ddcb7c9961ba426b9db32a0bd63a6a28",
+    "po_line": 852,
+    "encoded": "རིགས་ མཐུན་ འཁོར་ དང་ སྣ་ཚོགས་ གདུལ་བྱ་ ལ ། །",
+    "text": "རིགས་མཐུན་འཁོར་དང་སྣ་ཚོགས་གདུལ་བྱ་ལ། །",
+    "reference_en": "For a similar kind of retinue and a variety of disciples"
+  },
+  {
+    "id": "U00192",
+    "context": "aed619c87afc4cc18730d3ebe5ad2b2d",
+    "po_line": 856,
+    "encoded": "མ་ འདྲེས་ ཆོས་ ཀྱི་ ཁྱད་པར་ ལེགས་ བསྟན་པ ། །",
+    "text": "མ་འདྲེས་ཆོས་ཀྱི་ཁྱད་པར་ལེགས་བསྟན་པ། །",
+    "reference_en": "Excellently taught the special teachings without mixing."
+  },
+  {
+    "id": "U00193",
+    "context": "3c63515c7eca4b35a9a76bac7da2fbe0",
+    "po_line": 860,
+    "encoded": "དམན་ དང་ མཆོག་ གི་ བྱེ་བྲག་ རབ་ ཕྱེ་ སྟེ ། །",
+    "text": "དམན་དང་མཆོག་གི་བྱེ་བྲག་རབ་ཕྱེ་སྟེ། །",
+    "reference_en": "By clearly differentiating the lesser and higher particulars [of dispositions]."
+  },
+  {
+    "id": "U00194",
+    "context": "5504b37c6c1a4f8cbd511bcf7380f203",
+    "po_line": 866,
+    "encoded": "སྙན་པ་␣འི་ སྒྲ་ ཆེན་ འབྲུག་སྒྲ་ ཕྱོགས་ བཅུར་ སྒྲོགས ། །",
+    "text": "སྙན་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ་ཕྱོགས་བཅུར་སྒྲོགས། །",
+    "reference_en": "The great melody of dragon howl roars in all ten directions."
+  },
+  {
+    "id": "U00195",
+    "context": "f4ae486294454f36a4d2fe4335371f79",
+    "po_line": 870,
+    "encoded": "དེ་ལྟར་ ཟབ་ ཅིང་ རྒྱ་ ཆེ་ བླ་མེད་པ་␣འི ། །",
+    "text": "དེ་ལྟར་ཟབ་ཅིང་རྒྱ་ཆེ་བླ་མེད་པའི། །",
+    "reference_en": "Likewise, the vast, profound, and unexcelled."
+  },
+  {
+    "id": "U00196",
+    "context": "d5317280ed104da5801f4d4068b73539",
+    "po_line": 874,
+    "encoded": "དགོངས་པ་ རྒྱ་མཚོ་ ཆེ་ ལྟར་ ཡངས་པ་ ལས ། །",
+    "text": "དགོངས་པ་རྒྱ་མཚོ་ཆེ་ལྟར་ཡངས་པ་ལས། །",
+    "reference_en": "From the great and broad ocean of his intents."
+  },
+  {
+    "id": "U00197",
+    "context": "364fd92c319d49669b907f60db40bcc9",
+    "po_line": 878,
+    "encoded": "སྐྲ་རྩེ་␣འི་ ཆུ་ཐིགས་ ཙམ་ ཞིག་ སྨྲས་པ་ འདི ། །",
+    "text": "སྐྲ་རྩེའི་ཆུ་ཐིགས་ཙམ་ཞིག་སྨྲས་པ་འདི། །",
+    "reference_en": "Only a tiny drop of hair tip is stated here."
+  },
+  {
+    "id": "U00198",
+    "context": "d40c1fe77505411f8ca842d2f5c71606",
+    "po_line": 882,
+    "encoded": "བན་ ལྡོམ་ ཤེས་རབ་ འབྱུང་གནས་ བདག་ གིས་ བྲིས ། །",
+    "text": "བན་ལྡོམ་ཤེས་རབ་འབྱུང་གནས་བདག་གིས་བྲིས། །",
+    "reference_en": "I, Bendom Sherab Jungne, wrote it."
+  },
+  {
+    "id": "U00199",
+    "context": "67f2605757e24ab69f4845a47a403424",
+    "po_line": 886,
+    "encoded": "རྣམ་དག་ གངས་རི་ ལྟར་ དཀ་␣ར་ དགེ་བ་ འདི་␣ས ། །",
+    "text": "རྣམ་དག་གངས་རི་ལྟར་དཀར་དགེ་བ་འདིས། །",
+    "reference_en": "This virtue is completely pure, like a white snow mountain."
+  },
+  {
+    "id": "U00200",
+    "context": "48c63d359152466bb6546ecee62cc04a",
+    "po_line": 890,
+    "encoded": "རིན་ཆེན་ བསྟན་པ་ ཕྱོགས་ བཅུར་ རྒྱས་པ་ དང་ ། །",
+    "text": "རིན་ཆེན་བསྟན་པ་ཕྱོགས་བཅུར་རྒྱས་པ་དང་། །",
+    "reference_en": "Precious teachings spread in all ten directions and "
+  },
+  {
+    "id": "U00201",
+    "context": "641167b8102f4879a98aa12baf6a40a1",
+    "po_line": 894,
+    "encoded": "འཇིག་རྟེན་ མི་ ཤེས་ གཏི་མུག་ རྣམ་ བྲལ་ ཞིང་ ། །",
+    "text": "འཇིག་རྟེན་མི་ཤེས་གཏི་མུག་རྣམ་བྲལ་ཞིང་། །",
+    "reference_en": "May samsara be free of all ignorance and delusion."
+  },
+  {
+    "id": "U00202",
+    "context": "ba762a787fbb4d6cad10ab597b115641",
+    "po_line": 898,
+    "encoded": "མཐར་ཕྱིན་ སངས་རྒྱས་ ཡེ་ཤེས་ ཐོབ་པ་␣ར་ ཤོག ། ། ། །",
+    "text": "མཐར་ཕྱིན་སངས་རྒྱས་ཡེ་ཤེས་ཐོབ་པར་ཤོག། ། ། །",
+    "reference_en": "And attain the ultimate primordial wisdom of Buddha."
+  },
+  {
+    "id": "U00203",
+    "context": "9e8b40361bb4409bac38221dcb6184ab",
+    "po_line": 902,
+    "encoded": "ཅེས་པ་ འདི་ ནི་ སྤྱན་སྔ་ ཤེས་རབ་ འབྱུང་གནས་ ཀྱིས་ མཛད་པ་␣འི་ གཞུང་ དེ་ཉིད་ སོར་བཞག་ ལ ། །",
+    "text": "ཅེས་པ་འདི་ནི་སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་ཀྱིས་མཛད་པའི་གཞུང་དེ་ཉིད་སོར་བཞག་ལ། །",
+    "reference_en": "This text by Chenga Sherab Jungne has been retained in its original form."
+  },
+  {
+    "id": "U00204",
+    "context": "100e3992bfac4923a2fdf48524bb1441",
+    "po_line": 909,
+    "encoded": "རང་གཞན་ འཇུག་པ་ བདེ་ ཕྱིར །",
+    "text": "རང་གཞན་འཇུག་པ་བདེ་ཕྱིར།",
+    "reference_en": "To easily engage in it for oneself and others"
+  },
+  {
+    "id": "U00205",
+    "context": "ec6ca6e59011454d951e47855beb308f",
+    "po_line": 913,
+    "encoded": "རྡོ་རྗེ་␣འི་ གསུང་ ཚིགས་བཅད་ དུ་ བསྡེབས་ ཏེ ། །",
+    "text": "རྡོ་རྗེའི་གསུང་ཚིགས་བཅད་དུ་བསྡེབས་ཏེ། །",
+    "reference_en": "The Vajra statements are combined into stanzas."
+  },
+  {
+    "id": "U00206",
+    "context": "015389047878467f8338775631c99ea0",
+    "po_line": 917,
+    "encoded": "ཆོས་ ཀྱི་ རྗེ་ སྐྱོབ་པ་ ཡབ་ སྲས་ ཀྱི་ བསྟན་པ་ ལ་ དད་པ་␣འི་ བློ་ ཅན་ དཀོན་མཆོག་ རིན་ཆེན་ ཕྲིན་ལས་ རྣམ་པ་␣ར་ རྒྱལ་བ་␣འི་ སྡེ་␣ས་ ཁྱི་ལོ་ ཧོར་ ཟླ་ དང་པོ་␣འི་ ཉེར་ གསུམ་ ལ་ ཁམས་ ཀྱི་ བེ་ རི་ཐང་ གི་ སྒར་ ཐོག་ ཏུ་ བྲིས་བ་␣འོ །། །།",
+    "text": "ཆོས་ཀྱི་རྗེ་སྐྱོབ་པ་ཡབ་སྲས་ཀྱི་བསྟན་པ་ལ་དད་པའི་བློ་ཅན་དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་པར་རྒྱལ་བའི་སྡེས་ཁྱི་ལོ་ཧོར་ཟླ་དང་པོའི་ཉེར་གསུམ་ལ་ཁམས་ཀྱི་བེ་རི་ཐང་གི་སྒར་ཐོག་ཏུ་བྲིས་བའོ།། །།",
+    "reference_en": "To the teachings of Choje Kyopa, the father and the spiritual son, written by the group of Konchog Rinchen Trinle Namgyal, endowed with the mind of trust, on the twenty-third of the first Tibetan lunar month of the dog year, in the Beri plain of the Kham region."
+  }
+]

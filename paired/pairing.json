@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "GC-000001",
+    "anchors": [
+      "U00001"
+    ],
+    "format": "h1",
+    "role": "source_heading"
+  },
+  {
+    "id": "GC-000002",
+    "anchors": [
+      "U00002"
+    ],
+    "format": "h2",
+    "role": "source_heading"
+  },
+  {
+    "id": "GC-000003",
+    "anchors": [
+      "U00003"
+    ],
+    "format": "prose",
+    "role": "ritual_formula"
+  },
+  {
+    "id": "GC-000004",
+    "anchors": [
+      "U00004",
+      "U00005",
+      "U00006",
+      "U00007"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000005",
+    "anchors": [
+      "U00008",
+      "U00009",
+      "U00010",
+      "U00011"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000006",
+    "anchors": [
+      "U00012"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000007",
+    "anchors": [
+      "U00013"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000008",
+    "anchors": [
+      "U00014"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000009",
+    "anchors": [
+      "U00015"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000010",
+    "anchors": [
+      "U00016"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000011",
+    "anchors": [
+      "U00017"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000012",
+    "anchors": [
+      "U00018"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000013",
+    "anchors": [
+      "U00019"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000014",
+    "anchors": [
+      "U00020"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000015",
+    "anchors": [
+      "U00021"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000016",
+    "anchors": [
+      "U00022"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000017",
+    "anchors": [
+      "U00023"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000018",
+    "anchors": [
+      "U00024"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000019",
+    "anchors": [
+      "U00025"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000020",
+    "anchors": [
+      "U00026"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000021",
+    "anchors": [
+      "U00027"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000022",
+    "anchors": [
+      "U00028"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000023",
+    "anchors": [
+      "U00029"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000024",
+    "anchors": [
+      "U00030"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000025",
+    "anchors": [
+      "U00031"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000026",
+    "anchors": [
+      "U00032"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000027",
+    "anchors": [
+      "U00033"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000028",
+    "anchors": [
+      "U00034"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000029",
+    "anchors": [
+      "U00035"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000030",
+    "anchors": [
+      "U00036"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000031",
+    "anchors": [
+      "U00037"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000032",
+    "anchors": [
+      "U00038"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000033",
+    "anchors": [
+      "U00039"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000034",
+    "anchors": [
+      "U00040"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000035",
+    "anchors": [
+      "U00041"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000036",
+    "anchors": [
+      "U00042"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000037",
+    "anchors": [
+      "U00043"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000038",
+    "anchors": [
+      "U00044"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000039",
+    "anchors": [
+      "U00045"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000040",
+    "anchors": [
+      "U00046"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000041",
+    "anchors": [
+      "U00047"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000042",
+    "anchors": [
+      "U00048"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000043",
+    "anchors": [
+      "U00049"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000044",
+    "anchors": [
+      "U00050"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000045",
+    "anchors": [
+      "U00051"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000046",
+    "anchors": [
+      "U00052"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000047",
+    "anchors": [
+      "U00053"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000048",
+    "anchors": [
+      "U00054"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000049",
+    "anchors": [
+      "U00055"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000050",
+    "anchors": [
+      "U00056"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000051",
+    "anchors": [
+      "U00057"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000052",
+    "anchors": [
+      "U00058"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000053",
+    "anchors": [
+      "U00059"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000054",
+    "anchors": [
+      "U00060"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000055",
+    "anchors": [
+      "U00061"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000056",
+    "anchors": [
+      "U00062"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000057",
+    "anchors": [
+      "U00063"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000058",
+    "anchors": [
+      "U00064"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000059",
+    "anchors": [
+      "U00065"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000060",
+    "anchors": [
+      "U00066"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000061",
+    "anchors": [
+      "U00067"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000062",
+    "anchors": [
+      "U00068"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000063",
+    "anchors": [
+      "U00069"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000064",
+    "anchors": [
+      "U00070"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000065",
+    "anchors": [
+      "U00071"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000066",
+    "anchors": [
+      "U00072"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000067",
+    "anchors": [
+      "U00073"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000068",
+    "anchors": [
+      "U00074"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000069",
+    "anchors": [
+      "U00075"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000070",
+    "anchors": [
+      "U00076"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000071",
+    "anchors": [
+      "U00077"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000072",
+    "anchors": [
+      "U00078"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000073",
+    "anchors": [
+      "U00079"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000074",
+    "anchors": [
+      "U00080"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000075",
+    "anchors": [
+      "U00081"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000076",
+    "anchors": [
+      "U00082"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000077",
+    "anchors": [
+      "U00083"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000078",
+    "anchors": [
+      "U00084"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000079",
+    "anchors": [
+      "U00085"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000080",
+    "anchors": [
+      "U00086"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000081",
+    "anchors": [
+      "U00087"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000082",
+    "anchors": [
+      "U00088"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000083",
+    "anchors": [
+      "U00089"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000084",
+    "anchors": [
+      "U00090"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000085",
+    "anchors": [
+      "U00091"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000086",
+    "anchors": [
+      "U00092"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000087",
+    "anchors": [
+      "U00093"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000088",
+    "anchors": [
+      "U00094"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000089",
+    "anchors": [
+      "U00095"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000090",
+    "anchors": [
+      "U00096"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000091",
+    "anchors": [
+      "U00097"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000092",
+    "anchors": [
+      "U00098"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000093",
+    "anchors": [
+      "U00099"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000094",
+    "anchors": [
+      "U00100"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000095",
+    "anchors": [
+      "U00101"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000096",
+    "anchors": [
+      "U00102"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000097",
+    "anchors": [
+      "U00103"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000098",
+    "anchors": [
+      "U00104"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000099",
+    "anchors": [
+      "U00105"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000100",
+    "anchors": [
+      "U00106"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000101",
+    "anchors": [
+      "U00107"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000102",
+    "anchors": [
+      "U00108"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000103",
+    "anchors": [
+      "U00109"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000104",
+    "anchors": [
+      "U00110"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000105",
+    "anchors": [
+      "U00111"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000106",
+    "anchors": [
+      "U00112"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000107",
+    "anchors": [
+      "U00113"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000108",
+    "anchors": [
+      "U00114"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000109",
+    "anchors": [
+      "U00115"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000110",
+    "anchors": [
+      "U00116"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000111",
+    "anchors": [
+      "U00117"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000112",
+    "anchors": [
+      "U00118"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000113",
+    "anchors": [
+      "U00119"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000114",
+    "anchors": [
+      "U00120"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000115",
+    "anchors": [
+      "U00121"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000116",
+    "anchors": [
+      "U00122"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000117",
+    "anchors": [
+      "U00123"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000118",
+    "anchors": [
+      "U00124"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000119",
+    "anchors": [
+      "U00125"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000120",
+    "anchors": [
+      "U00126"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000121",
+    "anchors": [
+      "U00127"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000122",
+    "anchors": [
+      "U00128"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000123",
+    "anchors": [
+      "U00129"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000124",
+    "anchors": [
+      "U00130"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000125",
+    "anchors": [
+      "U00131"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000126",
+    "anchors": [
+      "U00132"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000127",
+    "anchors": [
+      "U00133"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000128",
+    "anchors": [
+      "U00134"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000129",
+    "anchors": [
+      "U00135"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000130",
+    "anchors": [
+      "U00136"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000131",
+    "anchors": [
+      "U00137"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000132",
+    "anchors": [
+      "U00138"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000133",
+    "anchors": [
+      "U00139"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000134",
+    "anchors": [
+      "U00140"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000135",
+    "anchors": [
+      "U00141"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000136",
+    "anchors": [
+      "U00142"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000137",
+    "anchors": [
+      "U00143"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000138",
+    "anchors": [
+      "U00144"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000139",
+    "anchors": [
+      "U00145"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000140",
+    "anchors": [
+      "U00146"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000141",
+    "anchors": [
+      "U00147"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000142",
+    "anchors": [
+      "U00148"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000143",
+    "anchors": [
+      "U00149"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000144",
+    "anchors": [
+      "U00150"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000145",
+    "anchors": [
+      "U00151"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000146",
+    "anchors": [
+      "U00152"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000147",
+    "anchors": [
+      "U00153"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000148",
+    "anchors": [
+      "U00154"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000149",
+    "anchors": [
+      "U00155"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000150",
+    "anchors": [
+      "U00156"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000151",
+    "anchors": [
+      "U00157"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000152",
+    "anchors": [
+      "U00158"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000153",
+    "anchors": [
+      "U00159"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000154",
+    "anchors": [
+      "U00160"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000155",
+    "anchors": [
+      "U00161"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000156",
+    "anchors": [
+      "U00162"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000157",
+    "anchors": [
+      "U00163"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000158",
+    "anchors": [
+      "U00164"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000159",
+    "anchors": [
+      "U00165"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000160",
+    "anchors": [
+      "U00166"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000161",
+    "anchors": [
+      "U00167"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000162",
+    "anchors": [
+      "U00168"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000163",
+    "anchors": [
+      "U00169"
+    ],
+    "format": "verse",
+    "role": "main_text"
+  },
+  {
+    "id": "GC-000164",
+    "anchors": [
+      "U00170"
+    ],
+    "format": "prose",
+    "role": "chapter_colophon"
+  },
+  {
+    "id": "GC-000165",
+    "anchors": [
+      "U00171",
+      "U00172",
+      "U00173",
+      "U00174"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000166",
+    "anchors": [
+      "U00175",
+      "U00176",
+      "U00177",
+      "U00178"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000167",
+    "anchors": [
+      "U00179",
+      "U00180",
+      "U00181",
+      "U00182"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000168",
+    "anchors": [
+      "U00183",
+      "U00184",
+      "U00185",
+      "U00186"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000169",
+    "anchors": [
+      "U00187",
+      "U00188",
+      "U00189",
+      "U00190"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000170",
+    "anchors": [
+      "U00191",
+      "U00192",
+      "U00193",
+      "U00194"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000171",
+    "anchors": [
+      "U00195",
+      "U00196",
+      "U00197",
+      "U00198"
+    ],
+    "format": "verse",
+    "role": "work_colophon"
+  },
+  {
+    "id": "GC-000172",
+    "anchors": [
+      "U00199",
+      "U00200",
+      "U00201",
+      "U00202"
+    ],
+    "format": "verse",
+    "role": "closing_verse"
+  },
+  {
+    "id": "GC-000173",
+    "anchors": [
+      "U00203",
+      "U00204",
+      "U00205",
+      "U00206"
+    ],
+    "format": "prose",
+    "role": "work_colophon"
+  }
+]

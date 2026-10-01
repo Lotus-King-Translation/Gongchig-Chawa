@@ -1,0 +1,33 @@
+{
+  "release_class": "working_draft_with_review_flags",
+  "independent_agent_qc_complete": true,
+  "reviewer": "Coordinating agent; independent package reports in translations/review",
+  "date": "2026-10-01",
+  "scope": "206 source anchors represented in 173 reader pairs; two retained unresolved spans",
+  "human_final_approval": false,
+  "remote_publication": "Selected destination: Lotus-King-Translation/Gongchig-Chawa (D003); remote release evidence belongs in the publication receipt.",
+  "artifact_sha256": {
+    "paired/source.md": "20bc8dc55c3b8ec018eb87f7b0fbc756bf9cc842ad2dac0e4857ca6e1cafb5ae",
+    "paired/translation.md": "ef57b7b56571f757c1951c1729a7cf82d9d4e15fa49f660916cfca5be73e95cf",
+    "paired/pairing.json": "c51b2e42105fec2f77c75a84e45232889854fe8806ee08bfe0f167128370e58d",
+    "paired/coverage.json": "920f541cec5b750e00c4affc2d7b29e2ea345354a0ec8f435199245626a154fe",
+    "paired/bilingual.md": "f8b6c77c84ff6c01570c13acb5ef879aa1ecb8fb6121a59d3eb0c4cb963b1356",
+    "translations/notes.json": "ed861e75d60907ec087ace10c802d916d45a37d4ac3766b09de67540e00f70b2",
+    "translations/NOTES.md": "6a7434a75755a78cb592dfcbad6476bdf0896179f815146933dd06722afb2b60",
+    "translations/QC.md": "91ecb83adf455fe84c022ce8d78648276676e8f6a60c2e97198fc33578ce6f4e",
+    "translations/USAGE.csv": "2e0594b429923a984d20f990aff8f02801a6755b692401795ee8c7db9c800fae",
+    "translations/PROPOSED-GLOSSARY.csv": "f6e0b13c63654953083e4e12b510ccb1587539e702e0fc86823898056630dd56",
+    "source/PROVENANCE.json": "70af9792876aed45bf0dded9274c32e0aa249e21e0e7bf7812b1d440240c1b36",
+    "source/TEMPLATE.json": "06d3b73f35225b785d6859fa31a5a2aad118da9af8f6355633c29fb65537c40b",
+    "source/anchors.json": "4d0fbdbfd651cfb884413a0e19ec85dece29e7f0f6accab52cf42471fc13e6fc",
+    "source/normalization.json": "031025fd36f938815fbe17fb925f936c7b445041491b57dd01612a9acfe33e72",
+    "editions/REGISTER.csv": "c18b95dc7f542af1af52ef4766c3ea2aad07b5e3fec8700f06f2737e6a9e4d99",
+    "DECISIONS.md": "9c5cfddfdc244343de3dccf5bb439ec2ea9e898cbd149e967fb6c83b9b166736",
+    "translations/review/COORDINATOR-CHANGES.json": "a8429f292e9baa7611e6f76e3bd6303ba6d430c95d4d268b0e051c8a9f45fe79",
+    "scripts/import_legacy.py": "b04c8b769d815a16525b8138a04d81767bf302c43e874c0d8cf4efad8798bdbd",
+    "scripts/validate_paired.py": "99b7bed24f723c75f7a2c12f08cf760b87a4411f430178de6c3bb14096a8fd9f",
+    "scripts/validate_project.py": "ea61f7addca70e4b14fb1b3cc0a6867ef873496456487b876bd4af2ac7e52068",
+    "scripts/test_validation.py": "69aa8a473d06e94309288105557eeff2fe9de187dcb83954d72e59bfaec28614",
+    "scripts/build_support.py": "d944efa7d5a95d2d8fc35ea9e3893499f6677efda7bb747936c7b4882c951950"
+  }
+}

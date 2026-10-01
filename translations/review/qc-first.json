@@ -1,0 +1,205 @@
+{
+  "run_header": {
+    "qc_version": "Tibetan–English LLM translation QC v2.0 / 26 September 2026",
+    "reviewer": "Independent agent source_audit; not the first-package translator",
+    "source_commit": "1d815bff0e12b8eacea9d6776b89b34f82ef038b",
+    "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+    "range": "U00001–U00079",
+    "finite_contract": "79 anchors, one full pass; 79 completed, 0 unreviewed",
+    "mode": "full requested scope",
+    "snapshots": {
+      "work/first-input.json": "59a5e2392ce44836a93ae114435efaa45491289dd9684b76f17e993df6370230",
+      "work/first-translation.json": "b970b906554154da74546ccc7851464afd4ef62294d0f05fc8e846ebeb49171e",
+      "work/first-proposals.csv": "12838b4e89b6b4c3068015bb0f28cd248e4c00229eb03983bf28433151e288d1",
+      "work/template/glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+      "work/template/guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760"
+    },
+    "explicit_decisions": "User bypasses golden edition; mechanical source-format decoding only. Whole-text provisional release contract applies. Cross-package harmonization is a coordinator task and does not constitute owner approval of glossary proposals.",
+    "missing_inputs": "No physical witness, authenticated commentary, or independent human certification; none claimed as inspected."
+  },
+  "coverage": {
+    "expected_anchors": 79,
+    "reviewed_anchors": 79,
+    "unreviewed_anchors": [],
+    "represented_anchors": 79,
+    "omitted_anchors": [],
+    "anchors_with_retained_unresolved_material": [
+      "U00001",
+      "U00041"
+    ],
+    "notes_reviewed": 76,
+    "usage_records_reviewed": 77,
+    "proposal_records_inspected": 56,
+    "coverage": "Complete for the requested range",
+    "disposition": "Revision required",
+    "reason": "Bounded annotation/usage repairs at U00012, U00022, and U00050. No confirmed source-to-English semantic error was established in this pass; represented does not mean every source reading is resolved."
+  },
+  "checks_performed": [
+    "Read every Tibetan/English anchor U00001–U00079 and all 76 source-linked notes; checked clause relations, negation, number, comparison, semantic coverage and provisional status.",
+    "Read relevant glossary rows in full, including status/provenance; reviewed protected terms and full-expression/ordinary-verb exceptions.",
+    "Inspected all 77 usage records and 56 eight-column proposal records; identified the two cross-package traceability gaps listed below.",
+    "Mechanical checks passed: anchor order/coverage, 76 unique note IDs, every source quote present, every nonempty note reference resolves, eight-column proposal schema and Proposed status.",
+    "Audited possible corrections under Q9; did not rewrite unresolved title, U00041 compound, protected terms or explicitly disclosed syntax."
+  ],
+  "confirmed_errors": [],
+  "probable_errors": [],
+  "documentation_gaps": [
+    {
+      "issue_id": "QFIRST-001",
+      "anchor": "U00012",
+      "source": "ཆོས་ཀུན་གཤིས་སམ་བབས་ཀྱི་གནས་ལུགས་བསྟན། །",
+      "english": "The character or condition—the natural state—of all phenomena is taught.",
+      "label": "Documentation gap",
+      "category": "terminology; glossary gap",
+      "severity": "Medium",
+      "confidence": "High",
+      "evidence": "No primary glossary entry covers གཤིས་. U00012 renders it character without a source-linked note or usage record. U00137 of the independently reviewed middle package proposes actual condition for the same source form under M082 and records its distinction from natural state and intrinsic nature.",
+      "explanation": "The wording is not established as a semantic error. The uncovered technical expression describes how phenomena are, and its difference from the proposed occurrence later in the work is currently unrecorded. The existing natural state term is correctly retained for གནས་ལུགས་.",
+      "recommended_action": "Add a source-linked usage/terminology note for གཤིས་ at U00012 and reconcile it with M082. Either preserve character with a documented contextual distinction or adopt one common provisional wording where source construction permits. Do not replace natural state or intrinsic nature.",
+      "proposed_wording": "",
+      "authority_status": "Review recommendation only; no change to source or canonical glossary; new/local choices remain Proposed.",
+      "rules": [
+        "Part I 3.4",
+        "Part I 6–8",
+        "Part II Q3",
+        "Part II Q5–Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [],
+      "disposition": "open"
+    },
+    {
+      "issue_id": "QFIRST-002",
+      "anchor": "U00022",
+      "source": "སེམས་ཙམ་བཀའ་ཡིས་མཐའ་བྲལ་དབུ་མ་སྟོན། །",
+      "english": "The teachings of Ordinary Mind Only show the middle way free of extremes.",
+      "label": "Documentation gap",
+      "category": "terminology; exception/provisional use",
+      "severity": "Medium",
+      "confidence": "High",
+      "evidence": "བཀའ་ is rendered teachings here. No U00022 usage or note records this lexeme; F033/F034 cover Ordinary Mind Only and middle way. In U00120/U00122, M070 proposes authoritative word for the same lexeme, explicitly distinguishing it from སྒྲ་ = Word.",
+      "explanation": "The first-package translation is linguistically defensible, but the whole-text provisional terminology plan has two realizations without an occurrence-specific account at the first use. Neither colleague proposal is owner-approved.",
+      "recommended_action": "Add a U00022 usage and reader-visible source-linked note linked to the བཀའ་ proposal. Coordinate teachings versus authoritative word as an explicit scoped choice; if using one shared realization, preserve the complete Ordinary Mind Only term.",
+      "proposed_wording": "Optional common realization: The authoritative word of Ordinary Mind Only shows the middle way free of extremes.",
+      "authority_status": "Review recommendation only; no change to source or canonical glossary; new/local choices remain Proposed.",
+      "rules": [
+        "Part I 3.4",
+        "Part I 6–8",
+        "Part II Q3",
+        "Part II Q5–Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "F033",
+        "F034"
+      ],
+      "disposition": "open"
+    }
+  ],
+  "open_questions": [
+    {
+      "issue_id": "QFIRST-003",
+      "anchor": "U00050",
+      "source": "ད་ལྟ་ཉིད་དུ་གང་བསྒྲུབས་འབྲས་བུར་སྤྱོད། །",
+      "english": "In this very present, one partakes of the result of whatever one has accomplished.",
+      "label": "Open question",
+      "category": "syntax/reference; meaning/scope",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "evidence": "ད་ལྟ་ཉིད་དུ་ immediately precedes the relative action གང་བསྒྲུབས་. The draft places the present-time phrase primarily on partaking of the result; the source also supports its attachment to accomplishing. F062 records only the contextual verb སྤྱོད་.",
+      "explanation": "The English can be read as enjoying now the result of anything previously accomplished, whereas the Tibetan may specifically concern what is accomplished in the very present. The relative action/result timing is not resolved by the supplied aphorism, and its ambiguity is currently unannotated.",
+      "recommended_action": "Add a temporal-attachment note. Preserve both the action and its result; select a working attachment explicitly and request commentary review. Do not add a categorical statement that all earlier deeds ripen now.",
+      "proposed_wording": "Candidate if the time phrase qualifies the relative action: Whatever one accomplishes in this very present, one partakes of its result.",
+      "authority_status": "Review recommendation only; no change to source or canonical glossary; new/local choices remain Proposed.",
+      "rules": [
+        "Part I 3.4",
+        "Part I 6–8",
+        "Part II Q3",
+        "Part II Q5–Q7",
+        "Part II Q9"
+      ],
+      "related_notes": [
+        "F062"
+      ],
+      "disposition": "open"
+    }
+  ],
+  "rejected_findings": [
+    {
+      "anchors": [
+        "U00001"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "The defective title’s hundred–five numeral and remaining syntax are visibly unresolved. U00002’s explicit one hundred and fifty does not authorize fixing U00001."
+    },
+    {
+      "anchors": [
+        "U00041"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "The exact ལོག་སྲེག་ཅན་ string is retained with an unresolved marker; do not impose an unverified burnt-seed interpretation or the defective legacy wrongly-craved rendering."
+    },
+    {
+      "anchors": [
+        "U00032",
+        "U00037",
+        "U00039",
+        "U00044",
+        "U00045",
+        "U00049",
+        "U00055",
+        "U00065",
+        "U00069"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Ordinary mind, intrinsic nature, essence, conceptualizing, appearance, discerning knowing, mental faculty and aspect remain identifiable. Their full established components are not unsupported additions."
+    },
+    {
+      "anchors": [
+        "U00011",
+        "U00029",
+        "U00050",
+        "U00056",
+        "U00078"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Remember, uphold, partakes of, put into practice, and deterioration are explicitly scoped contextual/compound usages. Do not force mindfulness, apprehending subject, activity or experience into constructions where that changes the assertion."
+    },
+    {
+      "anchors": [
+        "U00034",
+        "U00037",
+        "U00038",
+        "U00043",
+        "U00047",
+        "U00049",
+        "U00051",
+        "U00054",
+        "U00061",
+        "U00062",
+        "U00065",
+        "U00066",
+        "U00067",
+        "U00068"
+      ],
+      "finding": "Conforming with explicit review flags",
+      "reason": "Existing antecedent, attachment, ethical-context, source-syntax, implicit-object and comparison uncertainties are substantive and visible. No further ungrounded replacement is justified from the supplied root alone."
+    },
+    {
+      "anchors": [
+        "U00013",
+        "U00024",
+        "U00036",
+        "U00063",
+        "U00070",
+        "U00073"
+      ],
+      "finding": "Conforming / no change",
+      "reason": "Eighty thousand is not harmonized to eighty-four thousand; levels remain distinct from The Ground; holder is not a transmigrating philosophical self; exact original space is preserved; wrongdoing/downfall distinctions remain visible; transgression incurs a fault rather than unsupported suffering."
+    }
+  ],
+  "glossary_decisions": "All 56 first-package proposals remain Proposed. Coordinator may harmonize local choices with other packages, including honorific mind, practitioner labels and cyclic existence, but must retain source-linked occurrence records and must not label proposals owner-approved.",
+  "presentation_issues": "Ordinary Mind Only capitalization/hyphenation differs from the middle package; this is a coordinator presentation-consistency matter, not an identified semantic error. No final rendered publication was inspected.",
+  "limitations": "Full source/draft review covers this 79-anchor package, not a physical edition. Two anchors explicitly retain unresolved material. Counts are coverage evidence, not accuracy percentages. No source, draft, or glossary edits were made.",
+  "next_finite_task": "Coordinator supplies/disposes the three bounded note/usage records and preserves the current unresolved source readings; then records the local recheck."
+}

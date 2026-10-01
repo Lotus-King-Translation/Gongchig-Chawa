@@ -1,0 +1,21 @@
+{
+  "state": "selected_repository_prepublication_candidate",
+  "date": "2026-10-01",
+  "source_reconstruction": "206/206 exact",
+  "pair_validation": "173 matching pairs; exact source and format projection",
+  "support_reconstruction": "passed",
+  "tests": {
+    "command": "python3 scripts/test_validation.py",
+    "count": 28,
+    "result": "passed"
+  },
+  "unsigned_final_gate": "rejected by negative fixture before signoff",
+  "independent_qc_coverage": 206,
+  "source_textual_emendations": 0,
+  "remote_repository_mutated": true,
+  "tag": null,
+  "limitation": "No source authentication or final human semantic certification.",
+  "repository": "Lotus-King-Translation/Gongchig-Chawa",
+  "repository_creation": "GitHub template creation verified",
+  "draft_pushed": false
+}

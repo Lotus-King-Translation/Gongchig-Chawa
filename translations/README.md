@@ -1,17 +1,7 @@
-# Translation workspace
+# Translation record
 
-Translate only fixed golden releases unless the project owner explicitly authorizes a provisional exception.
+The canonical authored English is `../paired/translation.md`; the source is the fixed provisional edition authorized by D001. Golden-edition work is skipped, not certified complete. The rough human reference is retained unchanged in REFERENCE.md and the original PO archive, attributed to Tenzin Norgyal (2023).
 
-Read guidelines/tibetan_translation_standard_v2.md and the active glossary before translation or QC.
+Read RUN.md, HANDOFF.md, QC.md and NOTES.md. `notes.json` is the authored annotation ledger; `USAGE.csv` records contextual and provisional usages. `PROPOSED-GLOSSARY.csv` contains 125 unapproved candidate records in the active eight-column structure; the established glossary is unchanged. `WORK-QUEUE.json` lists open review actions. `review/` preserves draft and independent-review snapshots, not competing editable translations.
 
-Preserve:
-
-- exact golden source identity
-- stable source locators
-- translator notes and unresolved readings
-- terminology provenance
-- source-linked English decisions
-- coverage records
-- final validation and release receipts
-
-After a translation release is fixed, produce or update the canonical paired files under paired/.
+`../scripts/build_support.py` deterministically checks NOTES.md, coverage.json and bilingual.md from the canonical files, pairing map and notes ledger; `--write` regenerates them. `SIGNOFF.json` pins the prepared working draft with explicit review flags. It does not imply a remote release or human certification.

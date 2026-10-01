@@ -1,0 +1,262 @@
+{
+  "qc_version": "tibetan_translation_standard_v2.md Part II, v2.0 (2026-09-26)",
+  "reviewer": "translate_middle agent; translator of U00080–U00154 only, independent of U00155–U00206 draft",
+  "scope": {
+    "mode": "full requested scope, finite single pass",
+    "anchors": "U00155–U00206",
+    "anchor_count": 52,
+    "sampling": false,
+    "exclusions": "No independent QC of own middle translation; no physical witness or commentary verification; no canonical paired-rendering verification."
+  },
+  "baselines": {
+    "source_path": "work/last-input.json",
+    "source_sha256": "5c3bec100d4855abc2ffd3f4451aea826f01b28605013f80ae69587cfc559bad",
+    "draft_path": "work/last-translation.json",
+    "draft_sha256": "7107e911bd4acdb79190577ac1cdd9547bd950a82885d93824266772426b3a8c",
+    "proposal_path": "work/last-proposals.csv",
+    "proposal_sha256": "8206fe53c74db91c78e4542ca444b99ca2301a2ae23270ac0a7840434020aa81",
+    "glossary_path": "work/template/glossary/expanded_tibetan_english_glossary.csv",
+    "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "guidance_path": "work/template/guidelines/tibetan_translation_standard_v2.md",
+    "guidance_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "governing_source": "gongchig-provisional-source-v1; legacy transifex commit 1d815bff0e12b8eacea9d6776b89b34f82ef038b; no golden edition",
+    "explicit_decisions": "Gongchig candidate D001 authorizes direct provisional translation; D002 authorizes decoding only. No terminology proposal approved by owner."
+  },
+  "startup_state": "Template Git main f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f matches origin/main, clean status, no tags shown. gongchig-candidate is a saved non-Git candidate directory; no branch/HEAD exists there. Candidate status, decisions, handoff and source register read.",
+  "checks_actually_performed": [
+    "Read all 52 Tibetan anchors, English drafts, source notes and usage records",
+    "Read 21 eight-column last-section proposals and inspected cross-package terminology entries where relevant",
+    "Read full last-section relevant glossary rows and additional related/family rows for mixing, honorific mind, embodiment compounds, delusion/ignorance, illusion and abiding; full 222 assignment list already read in this task",
+    "Reviewed counts, negations, actions, attribution, honorific constructions, source defects, complete stanzas and final prose colophon",
+    "Checked every note/usage quotation as an exact source substring and every usage note ID resolves",
+    "Compared proposed corrections against the same terminology standard; no source, draft or glossary file edited"
+  ],
+  "regression_fixture_state": "The 30 standard fixtures were read as policy context; no separate fixture run was performed or claimed. This is direct source/draft review, not measured model performance.",
+  "missing_evidence": [
+    "Physical witnesses and scans",
+    "Independent commentarial explanations",
+    "Authenticated historical attribution/name/calendar evidence"
+  ],
+  "coverage": "Complete for the requested 52-anchor range; all source units represented by English with existing explicit review flags.",
+  "disposition": "Ready with explicit review flags; proposal/usage documentation gaps should be completed before final draft packaging. This is not publication clearance or final human editing.",
+  "counts": {
+    "reviewed_anchors": 52,
+    "remaining_anchors_in_scope": 0,
+    "confirmed_errors": 0,
+    "probable_errors": 0,
+    "documentation_gaps": 3,
+    "open_question_records": 2,
+    "conforming_or_rejected_findings": 4
+  },
+  "confirmed_errors": "None identified within the reviewed scope.",
+  "probable_errors": "None identified within the reviewed scope; existing material ambiguities remain explicit.",
+  "findings": [
+    {
+      "id": "QL001",
+      "anchors": [
+        "U00166",
+        "U00167"
+      ],
+      "exact_tibetan": "རྟེན་ཅིང་འབྲེལ་འབྱུང་སྐུ / སྨོན་འཇུག་ལོངས་སྤྲུལ",
+      "exact_english": "an embodiment arising dependently / Aspiration and engagement [of the ordinary mind of awakening] / complete enjoyment and emanation embodiments",
+      "label": "Documentation gap",
+      "category": "glossary gap",
+      "severity": "Medium",
+      "confidence": "High",
+      "remaining_uncertainty": "The exact causal correspondence of the two pairs remains open and must not acquire respectively by this repair.",
+      "evidence": "L012 and L013 explicitly label these whole-expression/abbreviation applications provisional. work/last-proposals.csv has no corresponding eight-column rows; the separate middle proposal for རྟེན་འབྲེལ་ does not document this distinct construction. Part I §8 and Part II Q7 require separate proposals for proposed technical usages.",
+      "explanation": "The reader-facing annotations are adequate; the missing proposal records make later family review and approval less traceable. This is not evidence that the English is incorrect.",
+      "recommended_action": "glossary proposal",
+      "minimal_proposal": "Add Proposed usage rows for the attested dependent-arising construction, སྨོན་འཇུག་, and ལོངས་སྤྲུལ་, or explicit links to records that cover these exact occurrences. Retain the current English and notes.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L012; L013",
+      "disposition": "open"
+    },
+    {
+      "id": "QL002",
+      "anchors": [
+        "U00188"
+      ],
+      "exact_tibetan": "ཐུབ་པའི་བཀའ",
+      "exact_english": "the Sage’s boundless teachings",
+      "label": "Documentation gap",
+      "category": "terminology / glossary gap",
+      "severity": "Medium",
+      "confidence": "High",
+      "remaining_uncertainty": "Whether a uniform proposed English or a scoped variation best preserves the work’s distinction between bka and bstan pa remains a terminology decision.",
+      "evidence": "No active བཀའ་ headword exists. U00188 has no usage record or note. The supplied project’s work/middle-proposals.csv records བཀའ་ → authoritative word at U00120/U00122 as Proposed, not approved. Part I §§6,8 require local traceability and coordinated recurring usages.",
+      "explanation": "The differing English may be defensible, but the repeated Tibetan teaching term is not reconciled across the whole-text draft. Do not promote the middle translator’s wording merely because it is already proposed.",
+      "recommended_action": "annotation / glossary proposal",
+      "minimal_proposal": "Add a scoped U00188 usage record explaining teachings as a local contextual realization, or coordinate a single proposed rendering across these occurrences. No mandatory prose replacement is asserted here.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "Middle proposal བཀའ་; no last-section record",
+      "disposition": "open"
+    },
+    {
+      "id": "QL003",
+      "anchors": [
+        "U00158",
+        "U00168",
+        "U00169"
+      ],
+      "exact_tibetan": "བཞུགས",
+      "exact_english": "abides / abide",
+      "label": "Documentation gap",
+      "category": "exception/provisional use",
+      "severity": "Low",
+      "confidence": "Moderate",
+      "remaining_uncertainty": "The glossary itself supplies no approved honorific relation; reviewer confidence concerns missing documentation, not semantic error.",
+      "evidence": "The active glossary assigns abiding/abide to གནས་པ་ and has no བཞུགས་ entry. These three honorific doctrinal assertions use abide without a linked form/family record; the last proposal table has none. Part II Q5 distinguishes an actual family relation from a substring collision.",
+      "explanation": "The honorific verbal realization is intelligible and may be fully defensible. A short linked usage record would make its relationship to the established abiding family explicit; this is not a claim that every ordinary English abide requires a new entry.",
+      "recommended_action": "annotation / glossary proposal",
+      "minimal_proposal": "Record བཞུགས་ → abide as a narrowly scoped honorific usage at these three anchors, retaining the active གནས་པ་ mapping. No English change recommended.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "",
+      "disposition": "open"
+    },
+    {
+      "id": "QL004",
+      "anchors": [
+        "U00157"
+      ],
+      "exact_tibetan": "རྒྱུ་མ་ལྟ་བུའི",
+      "exact_english": "illusion-like",
+      "label": "Open question",
+      "category": "source integrity",
+      "severity": "High",
+      "confidence": "High",
+      "remaining_uncertainty": "The intended reading remains unverified; high confidence applies to the visible string difference and adequate disclosure, not to the conjecture.",
+      "evidence": "The supplied Tibetan has རྒྱུ་མ་, whereas the illusion interpretation presupposes སྒྱུ་མ་. L003 explicitly states the conjecture, retains the source and requests a witness check.",
+      "explanation": "The conjecture is responsibly disclosed; no silent correction was found. A reference translation from the same repository is not independent source authentication.",
+      "recommended_action": "no change / source review",
+      "minimal_proposal": "Retain the English with L003 attached; obtain an authenticated source before changing Tibetan or treating the reading as settled.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L003",
+      "disposition": "referred"
+    },
+    {
+      "id": "QL005",
+      "anchors": [
+        "U00173",
+        "U00174",
+        "U00180",
+        "U00185",
+        "U00192",
+        "U00194"
+      ],
+      "exact_tibetan": "ཕ་ཡིས / རིགས་འཚོལ་གཞན / མཚན་ལྡན་སྲས / མ་འདྲེས་ཆོས་ཀྱི་ཁྱད་པར / སྙན་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+      "exact_english": "his father’s special riches / other seekers of the lineage / marks / without mixing them / a mighty, pleasing sound—thunder",
+      "label": "Open question",
+      "category": "syntax/reference",
+      "severity": "Medium",
+      "confidence": "Moderate",
+      "remaining_uncertainty": "No source or commentarial evidence beyond the supplied electronic lineage was available.",
+      "evidence": "The full stanzas support the proposed readings but do not settle the compressed father case relation, modifier attachments, stative/transitive mixing, or pleasing-sound/renown sense. L015/L019/L021/L024/L025 identify these exact questions.",
+      "explanation": "No materially better correction is established from the supplied electronic text. The present notes preserve the alternatives and prevent the working choices from masquerading as settled readings.",
+      "recommended_action": "no change / source review",
+      "minimal_proposal": "Keep the existing English and attached notes; resolve only through specified commentary or witness checks.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L015; L019; L021; L024; L025",
+      "disposition": "referred"
+    },
+    {
+      "id": "QL006",
+      "anchors": [
+        "U00159",
+        "U00161",
+        "U00162",
+        "U00181",
+        "U00196"
+      ],
+      "exact_tibetan": "ཐུགས / ཐུགས་བསྐྱེད / ཐུགས་དགོངས / དགོངས་པ",
+      "exact_english": "enlightened mind / the arousing of the ordinary mind of awakening / enlightened intents / enlightened intent",
+      "label": "Conforming / no change",
+      "category": "terminology / exception/provisional use",
+      "severity": "Low",
+      "confidence": "High",
+      "remaining_uncertainty": "Doctrinal scope at buddhahood and the standalone honorific term still require the already-recorded review.",
+      "evidence": "L005/L007/L008/L020 disclose the absent standalone/compound entries. The established enlightened intent component remains visible; ordinary mind is retained inside the proposed awakening expression. The full ཐུགས་རྗེ་ row forbids deriving standalone thugs from compassionate responsiveness.",
+      "explanation": "The draft does not silently collapse the honorific mind and intent expressions or claim that the proposed honorific compounds are already established. Unfamiliar English alone is not grounds to replace them.",
+      "recommended_action": "no change",
+      "minimal_proposal": "Retain these protected components and the locally Proposed status.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L005; L007; L008; L020",
+      "disposition": "rejected finding"
+    },
+    {
+      "id": "QL007",
+      "anchors": [
+        "U00167",
+        "U00168",
+        "U00206"
+      ],
+      "exact_tibetan": "ལོངས་སྤྲུལ / སྐུ་གསུམ / དད་པའི་བློ་ཅན",
+      "exact_english": "complete enjoyment and emanation embodiments / three embodiments / whose conceptual mind has faith",
+      "label": "Conforming / no change",
+      "category": "terminology / grammar",
+      "severity": "Low",
+      "confidence": "High",
+      "remaining_uncertainty": "The source does not explicitly encode respectively; the draft correctly does not insert it.",
+      "evidence": "The full glossary rows establish complete enjoyment embodiment, emanation embodiment, three embodiments, faith and conceptual mind. Shared final embodiments grammatically realizes both complete terms; the faith-bearing conceptual mind modifies the arranger in U00206.",
+      "explanation": "No missing body/embodiment component or reassigned possessor was found. Requiring duplicated embodiments or deleting conceptual would introduce an unnecessary or invalid correction.",
+      "recommended_action": "no change",
+      "minimal_proposal": "Retain the wording; complete the abbreviated-expression proposal record identified in QL001.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L013; L030",
+      "disposition": "rejected finding"
+    },
+    {
+      "id": "QL008",
+      "anchors": [
+        "U00183",
+        "U00184",
+        "U00185",
+        "U00186",
+        "U00199",
+        "U00200",
+        "U00201",
+        "U00202"
+      ],
+      "exact_tibetan": "སྐྱེས་བུ་དམ་པ་རྣམས / བུ་སྟོང / མཚན་ལྡན་སྲས / འཇིག་རྟེན",
+      "exact_english": "Excellent people / among a thousand sons / a son / may the world",
+      "label": "Conforming / no change",
+      "category": "syntax/reference / meaning/scope",
+      "severity": "Low",
+      "confidence": "High",
+      "remaining_uncertainty": "The royal genitive attachment remains open as already annotated.",
+      "evidence": "Read U00183–186 and U00199–202 as complete stanzas. Plural excellent people are the principal subject of shine; one marked son among a thousand is the simile. The dedication’s world continues collectively into attaining primordial knowing. L021/L027 disclose the remaining attachments.",
+      "explanation": "The singular/plural and participant changes across the simile and dedication are accounted for. The old reference’s samsara is not imported for world.",
+      "recommended_action": "no change",
+      "minimal_proposal": "Retain the stanza continuities and notes; do not split them into unrelated isolated sentences.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L021; L027",
+      "disposition": "rejected finding"
+    },
+    {
+      "id": "QL009",
+      "anchors": [
+        "U00203",
+        "U00204",
+        "U00205",
+        "U00206"
+      ],
+      "exact_tibetan": "སྤྱན་སྔ་ཤེས་རབ་འབྱུང་གནས་ཀྱིས་མཛད་པའི་གཞུང / ཚིགས་བཅད་དུ་བསྡེབས / དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་པར་རྒྱལ་བའི་སྡེས / ཁྱི་ལོ་ཧོར་ཟླ་དང་པོའི་ཉེར་གསུམ",
+      "exact_english": "the very work composed by Chenga Sherab Jungne / the vajra statements were arranged in verse / written by Konchog Rinchen Trinle Nampar Gyalwa / the twenty-third day of the first Hor lunar month of a Dog year",
+      "label": "Conforming / no change",
+      "category": "syntax/reference / scope",
+      "severity": "Low",
+      "confidence": "High",
+      "remaining_uncertainty": "The father/son(s) identification and name romanization are unverified, as recorded; this is not biographical certification.",
+      "evidence": "The original composer and later arranger are separately attributed. The instrumental name is treated as an individual with its suffix preserved in L031. The source contains no absolute year or cycle, and no conversion is invented. The faith clause correctly modifies the named arranger.",
+      "explanation": "No author/arranger conflation, calendar addition, or lost explicit place was identified. Title/sons number, exact name segmentation and historical identity remain openly annotated.",
+      "recommended_action": "no change",
+      "minimal_proposal": "Retain the complete colophon and L028–L032. Any later historical identification needs new evidence.",
+      "authority_status": "Reviewer proposal only; no glossary approval or source emendation is conferred.",
+      "related_notes_or_proposals": "L028; L029; L030; L031; L032",
+      "disposition": "rejected finding"
+    }
+  ],
+  "proposed_glossary_decisions": "QL001–QL003 request records and scoped review only. No row is activated and no existing assignment is changed.",
+  "presentation_issues": "No material standalone presentation defect identified in this JSON draft. Reader-facing stanza grouping, note attachment and final paired formatting remain the coordinator’s integration checks.",
+  "coverage_usage_limitations": "Source quotation and note-ID checks establish traceability, not semantic certification. Full 206-anchor QC is outside this report; name/title/epithet and textual conjectures remain provisional."
+}

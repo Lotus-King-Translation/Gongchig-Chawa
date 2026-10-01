@@ -1,0 +1,23 @@
+{
+  "edition": "gongchig-provisional-source-v1",
+  "anchors": 206,
+  "pairs": 173,
+  "format_counts": {
+    "h1": 1,
+    "h2": 1,
+    "prose": 8,
+    "verse": 163
+  },
+  "affix_markers_removed": 134,
+  "artificial_ascii_spaces_removed": 1364,
+  "original_spaces_restored": 208,
+  "root_strings_exactly_reconstructed": 206,
+  "root_comparison": "strip outer line whitespace only; internal spaces unchanged",
+  "source_textual_emendations": 0,
+  "full_scan_proofreading": false,
+  "independent_witness_collation": false,
+  "known_duplicate": [
+    "U00132",
+    "U00133"
+  ]
+}

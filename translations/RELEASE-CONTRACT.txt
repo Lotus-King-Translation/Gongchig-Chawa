@@ -1,0 +1,12 @@
+Gongchig whole-text provisional translation contract — 2026-10-01
+Source: Lotus-King-Translation/Gongchig transifex commit 1d815bff0e12b8eacea9d6776b89b34f82ef038b.
+Template: tibetan-text-project-template commit f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f.
+Finite scope: all 206 source anchors U00001–U00206, including both titles, seven sections, closing verse and adaptation colophon; 206/206 rough English reference units.
+One bounded whole-text working-draft release, parallel translation work packages, no separate chapter releases or next-phase work.
+Authorized provisional exception: user explicitly bypasses golden edition and requests translation directly. No source textual emendation is authorized by formatting cleanup.
+Mechanical decoding: remove U+0F0B U+2423 as a pair; remove artificial ASCII spaces; restore U+1680 to original ASCII spaces. Preserve archival bytes, Unicode spelling and source punctuation.
+Required checks: all 206 decoded strings equal stripped nonempty archived root/001.txt lines; compare root/001_v2.txt; bo/en PO ids agree; unique contexts; hashes; every anchor covered once; fixed source and format/order; translation coverage; annotations, usages, proposals; independent source/glossary review; structural and corruption tests; fixed provisional tag, receipt, remote verification.
+Known source conflict U00133: duplicate of U00132 with mismatching human reference; retain duplicate and annotate, no invented Tibetan section-five colophon.
+Deliverables: archive and register, deterministic import, frozen pairing map, canonical source/translation, notes, proposals, usage, coverage, QC, validation, status and handoff.
+Excluded: golden edition, scan authentication, new witness acquisition, exhaustive collation, final human certification.
+Repository destination: Lotus-King-Translation/Gongchig-Chawa, explicitly selected by the owner under D003 and created with the GitHub template mechanism. Publish the 173-pair candidate, verify annotated gongchig-working-v0.1.0, commit its receipt afterward, then verify remote main and a clean tree. Original Gongchig remains unchanged.

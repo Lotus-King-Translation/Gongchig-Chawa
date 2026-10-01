@@ -1,0 +1,1887 @@
+[
+  {
+    "anchor": "U00001",
+    "english": "The sublime Dharma, Single Enlightened Intent: the text containing the statements numbered ‘hundred–five’ [numeral and remaining title wording unresolved].",
+    "notes": [
+      {
+        "id": "F001",
+        "exact_tibetan": "གསུང་བརྒྱ་ལྔ་གསུང་རྣམས་ཚིགས་དུ་པ་བཞུགས་གཞུང་",
+        "category": "source reading",
+        "problem": "The title has བརྒྱ་ལྔ་ (literally the juxtaposed words “hundred–five”), whereas U00002 explicitly has བརྒྱ་ལྔ་བཅུ་ (one hundred and fifty). The repetition of གསུང་ and sequence ཚིགས་དུ་པ་ leave the remaining title syntax uncertain.",
+        "working_treatment": "Preserves the numeral as supplied and marks the remaining wording unresolved; “containing” represents the title’s བཞུགས་གཞུང་ function. No Tibetan is emended.",
+        "uncertainty": "The defective title does not securely distinguish 105, 500, or an intended 150; the explicit 150 in the next title is not adopted as a source correction. The residual phrase may describe collected verses; it is not securely deciphered.",
+        "review_action": "Check a reliable title-page witness and review both title strings before resolving the numeral or residual wording."
+      },
+      {
+        "id": "F021",
+        "exact_tibetan": "དམ་ཆོས",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “sublime Dharma” provisionally. Occurrences: U00001, U00009, U00059.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "དམ་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "sublime Dharma",
+        "category": "Provisional",
+        "evidence": "The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.",
+        "note_id": "F021"
+      }
+    ]
+  },
+  {
+    "anchor": "U00002",
+    "english": "Entitled The One Hundred and Fifty Vajra Statements.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00003",
+    "english": "Homage to the Lion of the Shakyas, master of the ten powers.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00004",
+    "english": "Within the mandala of stainless clear-light awakened mind,",
+    "notes": [
+      {
+        "id": "F022",
+        "exact_tibetan": "ཐུགས",
+        "category": "terminology gap",
+        "problem": "Standalone ཐུགས་ is explicitly absent in the active standard. It cannot be assigned enlightened intent from དགོངས་པ་ or inferred from ཐུགས་རྗེ་.",
+        "working_treatment": "Uses “awakened mind” provisionally. Occurrences: U00004.",
+        "uncertainty": "“Awakened” marks honorific scope locally and is not a newly approved universal equivalent.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཐུགས",
+        "canonical_entry": "ཐུགས་རྗེ་ → compassionate responsiveness; དགོངས་པ་ → enlightened intent; སེམས་ → ordinary mind",
+        "english": "awakened mind",
+        "category": "Provisional",
+        "evidence": "Honorific mind in the homage to the peerless jewel of Drikung.",
+        "note_id": "F022"
+      },
+      {
+        "exact_tibetan": "འོད་གསལ",
+        "canonical_entry": "འོད་གསལ་",
+        "english": "clear-light",
+        "category": "Grammatical",
+        "evidence": "Adjectival use preserves both components; hyphen only links the modifier to awakened mind.",
+        "note_id": "F022"
+      }
+    ]
+  },
+  {
+    "anchor": "U00005",
+    "english": "all knowable things, unmixed and just as they are—",
+    "notes": [
+      {
+        "id": "F023",
+        "exact_tibetan": "མ་འདྲེས",
+        "category": "terminology gap",
+        "problem": "The complete negative form is absent. Existing mix-family entries support the English family but do not approve a new standalone entry.",
+        "working_treatment": "Uses “unmixed” provisionally. Occurrences: U00005.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མ་འདྲེས",
+        "canonical_entry": "མིང་དོན་འདྲེས་པ་ → mixing of name and meaning; སྒྲ་དོན་འདྲེས་རུང་ → fit for word and meaning to be mixed",
+        "english": "unmixed",
+        "category": "Provisional",
+        "evidence": "Knowable things are distinguished without mixing/conflation.",
+        "note_id": "F023"
+      }
+    ]
+  },
+  {
+    "anchor": "U00006",
+    "english": "you see them all, omniscient lord of Dharma.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00007",
+    "english": "Peerless jewel of Drikung, I bow to you.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00008",
+    "english": "Concerning what the supreme Victor spoke,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00009",
+    "english": "the sublime Dharma, exceptional and uncommon,",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "དམ་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "sublime Dharma",
+        "category": "Provisional",
+        "evidence": "The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.",
+        "note_id": "F021"
+      }
+    ]
+  },
+  {
+    "anchor": "U00010",
+    "english": "though immeasurable accounts have previously been composed,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00011",
+    "english": "I, an uninformed one, will write just the little I remember.",
+    "notes": [
+      {
+        "id": "F024",
+        "exact_tibetan": "དྲན་པ",
+        "category": "contextual use",
+        "problem": "དྲན་པ་ is established as mindfulness. In དྲན་པ་ཅུང་ཟད་ཙམ་ཞིག་བྲི་, the object of writing is what the speaker recollects, not an amount of attentional practice.",
+        "working_treatment": "Uses “remember” provisionally in this occurrence; the established “Mindfulness” entry is unchanged.",
+        "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+        "review_action": "Review this scoped contextual realization and approve or revise explicitly."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "དྲན་པ",
+        "canonical_entry": "དྲན་པ་ → Mindfulness",
+        "english": "remember",
+        "category": "Provisional",
+        "evidence": "Local recollection construction governed by writing and “the little”; no general removal of mindfulness.",
+        "note_id": "F024"
+      }
+    ]
+  },
+  {
+    "anchor": "U00012",
+    "english": "The character or condition—the natural state—of all phenomena is taught.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00013",
+    "english": "The eighty thousand Dharma collections are one in accomplishing buddhahood.",
+    "notes": [
+      {
+        "id": "F025",
+        "exact_tibetan": "ཆོས་ཕུང",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “Dharma collections” provisionally. Occurrences: U00013.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཆོས་ཕུང",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "Dharma collections",
+        "category": "Provisional",
+        "evidence": "Counted groupings of teachings; source explicitly numbers eighty thousand, not eighty-four thousand.",
+        "note_id": "F025"
+      }
+    ]
+  },
+  {
+    "anchor": "U00014",
+    "english": "The scriptural collections and classes of tantra are stages of the path.",
+    "notes": [
+      {
+        "id": "F026",
+        "exact_tibetan": "སྡེ་སྣོད",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “scriptural collection” provisionally. Occurrences: U00014, U00019.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F027",
+        "exact_tibetan": "རྒྱུད་སྡེ",
+        "category": "terminology gap",
+        "problem": "The whole scriptural compound is absent; forcing the standalone continuum assignment would obscure the class of texts contrasted with the collections.",
+        "working_treatment": "Uses “classes of tantra” provisionally. Occurrences: U00014.",
+        "uncertainty": "Provisional whole-expression treatment; no change to standalone རྒྱུད་.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡེ་སྣོད",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "scriptural collections",
+        "category": "Provisional",
+        "evidence": "Canonical textual collection, with Vinaya qualifying the second occurrence.",
+        "note_id": "F026"
+      },
+      {
+        "exact_tibetan": "རྒྱུད་སྡེ",
+        "canonical_entry": "རྒྱུད་ → continuum",
+        "english": "classes of tantra",
+        "category": "Provisional",
+        "evidence": "Textual/scriptural tantra classes juxtaposed with the scriptural collections.",
+        "note_id": "F027"
+      }
+    ]
+  },
+  {
+    "anchor": "U00015",
+    "english": "The three wheels of Dharma differ according to their audiences’ realization.",
+    "notes": [
+      {
+        "id": "F002",
+        "exact_tibetan": "འཁོར་གྱི་རྟོགས་པའི་ཁྱད",
+        "category": "syntax/reference",
+        "problem": "The phrase locates the distinction in the realization of the audience/retinue; it does not simply posit different realizations belonging to the wheels themselves.",
+        "working_treatment": "“Differ according to their audiences’ realization” supplies a finite verb for the compressed nominal statement. U00016’s “all three” refers back to the three wheels.",
+        "uncertainty": "The statement is terse; no additional scheme of three realizations is supplied.",
+        "review_action": "Confirm the relation in the commentary if a fuller explanatory gloss is required."
+      },
+      {
+        "id": "F028",
+        "exact_tibetan": "ཆོས་འཁོར",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “wheel of Dharma” provisionally. Occurrences: U00015, U00019, U00042.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཆོས་འཁོར",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "wheels of Dharma",
+        "category": "Provisional",
+        "evidence": "The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.",
+        "note_id": "F028"
+      }
+    ]
+  },
+  {
+    "anchor": "U00016",
+    "english": "Each wheel also contains all three.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00017",
+    "english": "The seeds of the later ones abide in each of the earlier ones.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "གནས",
+        "canonical_entry": "གནས་པ་",
+        "english": "abide",
+        "category": "Grammatical",
+        "evidence": "Finite verb of abiding in earlier wheels; nominalizer absent in the verse.",
+        "note_id": ""
+      }
+    ]
+  },
+  {
+    "anchor": "U00018",
+    "english": "The essential meaning of the sutras determines that there are three wheels.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00019",
+    "english": "The Vinaya collection is the wheel of Dharma of the four truths;",
+    "notes": [
+      {
+        "id": "F029",
+        "exact_tibetan": "འདུལ་བ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “Vinaya” provisionally. Occurrences: U00019, U00059.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F030",
+        "exact_tibetan": "བདེན་བཞི",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “four truths” provisionally. Occurrences: U00019.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡེ་སྣོད",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "collection",
+        "category": "Provisional",
+        "evidence": "Canonical textual collection, with Vinaya qualifying the second occurrence.",
+        "note_id": "F026"
+      },
+      {
+        "exact_tibetan": "ཆོས་འཁོར",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "wheel of Dharma",
+        "category": "Provisional",
+        "evidence": "The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.",
+        "note_id": "F028"
+      },
+      {
+        "exact_tibetan": "འདུལ་བ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "Vinaya",
+        "category": "Provisional",
+        "evidence": "The Buddhist discipline collection/training discussed as common to all vehicles; retained as its established traditional name pending glossary approval.",
+        "note_id": "F029"
+      },
+      {
+        "exact_tibetan": "བདེན་བཞི",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "four truths",
+        "category": "Provisional",
+        "evidence": "Four truths; root does not include an additional word for noble.",
+        "note_id": "F030"
+      }
+    ]
+  },
+  {
+    "anchor": "U00020",
+    "english": "the various vehicles are the wheel of definitive meaning.",
+    "notes": [
+      {
+        "id": "F031",
+        "exact_tibetan": "ངེས་དོན",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “definitive meaning” provisionally. Occurrences: U00020, U00021.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ངེས་དོན",
+        "canonical_entry": "དོན་ → meaning",
+        "english": "definitive meaning",
+        "category": "Provisional",
+        "evidence": "Technical hermeneutic expression; retains established meaning component.",
+        "note_id": "F031"
+      }
+    ]
+  },
+  {
+    "anchor": "U00021",
+    "english": "The enlightened intent of the six limits is held to be definitive meaning alone.",
+    "notes": [
+      {
+        "id": "F032",
+        "exact_tibetan": "མཐའ་དྲུག",
+        "category": "terminology gap",
+        "problem": "Technical phrase absent; do not turn it into an explanatory enumeration without evidence.",
+        "working_treatment": "Uses “six limits” provisionally. Occurrences: U00021.",
+        "uncertainty": "Exact identification and English for the scheme require expert review; the draft retains literal “six limits.”",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ངེས་དོན",
+        "canonical_entry": "དོན་ → meaning",
+        "english": "definitive meaning",
+        "category": "Provisional",
+        "evidence": "Technical hermeneutic expression; retains established meaning component.",
+        "note_id": "F031"
+      },
+      {
+        "exact_tibetan": "མཐའ་དྲུག",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "six limits",
+        "category": "Provisional",
+        "evidence": "Named sixfold hermeneutic scheme; the root does not enumerate its members.",
+        "note_id": "F032"
+      }
+    ]
+  },
+  {
+    "anchor": "U00022",
+    "english": "The teachings of Ordinary Mind Only show the middle way free of extremes.",
+    "notes": [
+      {
+        "id": "F033",
+        "exact_tibetan": "སེམས་ཙམ",
+        "category": "terminology gap",
+        "problem": "No whole-expression entry authorizes conventional “Mind Only” to erase the established ordinary-mind component.",
+        "working_treatment": "Uses “Ordinary Mind Only” provisionally. Occurrences: U00022.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F034",
+        "exact_tibetan": "དབུ་མ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “middle way” provisionally. Occurrences: U00022.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སེམས་ཙམ",
+        "canonical_entry": "སེམས་ → ordinary mind",
+        "english": "Ordinary Mind Only",
+        "category": "Provisional",
+        "evidence": "The doctrinal teaching described by sems tsam; preserves ordinary mind within the full expression.",
+        "note_id": "F033"
+      },
+      {
+        "exact_tibetan": "དབུ་མ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "middle way",
+        "category": "Provisional",
+        "evidence": "The middle way free of extremes as stated in the verse; does not independently specify a particular school or sub-school.",
+        "note_id": "F034"
+      }
+    ]
+  },
+  {
+    "anchor": "U00023",
+    "english": "Even mistaken convention can perform a function.",
+    "notes": [
+      {
+        "id": "F035",
+        "exact_tibetan": "ཀུན་རྫོབ",
+        "category": "terminology gap",
+        "problem": "Absent technical headword; “relative truth” would add “truth” to the supplied phrase.",
+        "working_treatment": "Uses “convention” provisionally. Occurrences: U00023.",
+        "uncertainty": "Whether a fuller conventional-truth expression should be supplied requires review.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F036",
+        "exact_tibetan": "དོན་བྱེད",
+        "category": "terminology gap",
+        "problem": "The whole expression is absent. The contextual action cannot be secured by mechanically joining meaning and doing.",
+        "working_treatment": "Uses “perform a function” provisionally. Occurrences: U00023.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཀུན་རྫོབ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "convention",
+        "category": "Provisional",
+        "evidence": "Conventional appearance/description in the phrase “mistaken convention”; the root does not include an explicit word for truth.",
+        "note_id": "F035"
+      },
+      {
+        "exact_tibetan": "དོན་བྱེད",
+        "canonical_entry": "དོན་ → meaning; བྱ་བ་ → doing",
+        "english": "perform a function",
+        "category": "Provisional",
+        "evidence": "The capacity for functional efficacy, rather than merely manufacturing a semantic meaning.",
+        "note_id": "F036"
+      }
+    ]
+  },
+  {
+    "anchor": "U00024",
+    "english": "All paths are traversed by way of the ten levels;",
+    "notes": [
+      {
+        "id": "F037",
+        "exact_tibetan": "ས་བཅུ",
+        "category": "terminology gap",
+        "problem": "No canonical entry for ས་ or ས་བཅུ་. “Ground” is already reserved for གཞི་.",
+        "working_treatment": "Uses “ten levels” provisionally. Occurrences: U00024.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ས་བཅུ",
+        "canonical_entry": "གཞི་ → The Ground",
+        "english": "ten levels",
+        "category": "Provisional",
+        "evidence": "Ten levels traversed on the path; “level” keeps this source term separate from gzhi.",
+        "note_id": "F037"
+      }
+    ]
+  },
+  {
+    "anchor": "U00025",
+    "english": "and entry into them is necessarily gradual.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00026",
+    "english": "There are also cases in which obscurations to the knowable are abandoned first.",
+    "notes": [
+      {
+        "id": "F038",
+        "exact_tibetan": "ཤེས་བྱའི་སྒྲིབ་པ",
+        "category": "terminology gap",
+        "problem": "The complete technical expression is absent; the relational “to” is a proposed construction.",
+        "working_treatment": "Uses “obscurations to the knowable” provisionally. Occurrences: U00026.",
+        "uncertainty": "Confirm whether “of the knowable” or another relation is preferred; no sequence of abandonment is doctrinally harmonized.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཤེས་བྱའི་སྒྲིབ་པ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "obscurations to the knowable",
+        "category": "Provisional",
+        "evidence": "Obscurations associated with what can be known; the root makes a claim about their abandonment first.",
+        "note_id": "F038"
+      }
+    ]
+  },
+  {
+    "anchor": "U00027",
+    "english": "Valid cognition is the primordial knowing with which a buddha knows;",
+    "notes": [
+      {
+        "id": "F039",
+        "exact_tibetan": "ཚད་མ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “valid cognition” provisionally. Occurrences: U00027, U00028.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཚད་མ",
+        "canonical_entry": "ཡེ་ཤེས་ → primordial knowing; འཁྲུལ་ཤེས་ → deluded cognition",
+        "english": "Valid cognition",
+        "category": "Provisional",
+        "evidence": "Epistemic term identified by the text with a buddha’s primordial knowing.",
+        "note_id": "F039"
+      }
+    ]
+  },
+  {
+    "anchor": "U00028",
+    "english": "the result of valid cognition shows profound emptiness.",
+    "notes": [
+      {
+        "id": "F040",
+        "exact_tibetan": "སྟོང་ཉིད",
+        "category": "terminology gap",
+        "problem": "The exact nominal form is absent; the existing emptiness-family entry supports but does not separately document the linkage.",
+        "working_treatment": "Uses “emptiness” provisionally. Occurrences: U00028.",
+        "uncertainty": "Proposed linked form/documentation addition, not a new rival meaning.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཚད་མ",
+        "canonical_entry": "ཡེ་ཤེས་ → primordial knowing; འཁྲུལ་ཤེས་ → deluded cognition",
+        "english": "valid cognition",
+        "category": "Provisional",
+        "evidence": "Epistemic term identified by the text with a buddha’s primordial knowing.",
+        "note_id": "F039"
+      },
+      {
+        "exact_tibetan": "སྟོང་ཉིད",
+        "canonical_entry": "སྟོང་པ་ → emptiness",
+        "english": "emptiness",
+        "category": "Provisional",
+        "evidence": "Nominal stong nyid form in the statement about valid cognition.",
+        "note_id": "F040"
+      }
+    ]
+  },
+  {
+    "anchor": "U00029",
+    "english": "All who uphold tenets are Svātantrikas.",
+    "notes": [
+      {
+        "id": "F041",
+        "exact_tibetan": "གྲུབ་མཐའ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “tenets” provisionally. Occurrences: U00029.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F042",
+        "exact_tibetan": "འཛིན་པ",
+        "category": "contextual use",
+        "problem": "The active noun is apprehending subject. In གྲུབ་མཐའ་འཛིན་པ་, the participial construction describes people holding doctrinal tenets. A technical subject/object reading would change the assertion.",
+        "working_treatment": "Uses “uphold” provisionally in this occurrence; the established “Apprehending subject” entry is unchanged.",
+        "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+        "review_action": "Review this scoped contextual realization and approve or revise explicitly."
+      },
+      {
+        "id": "F043",
+        "exact_tibetan": "རང་རྒྱུད་པ",
+        "category": "terminology gap",
+        "problem": "Whole proponent name absent; the continuum component does not warrant a literal “own-continuum person” rendering.",
+        "working_treatment": "Uses “Svātantrika” provisionally. Occurrences: U00029.",
+        "uncertainty": "Check whether the aphorism intentionally uses Svātantrika broadly; do not restrict it silently to a standard sub-school.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "གྲུབ་མཐའ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "tenets",
+        "category": "Provisional",
+        "evidence": "Doctrinal tenets upheld by proponents in the aphorism.",
+        "note_id": "F041"
+      },
+      {
+        "exact_tibetan": "འཛིན་པ",
+        "canonical_entry": "འཛིན་པ་ → Apprehending subject",
+        "english": "uphold",
+        "category": "Provisional",
+        "evidence": "Tenets are the overt object; “all who uphold” translates the participial agent.",
+        "note_id": "F042"
+      },
+      {
+        "exact_tibetan": "རང་རྒྱུད་པ",
+        "canonical_entry": "རྒྱུད་ → continuum",
+        "english": "Svātantrikas",
+        "category": "Provisional",
+        "evidence": "Named proponent designation predicated of all tenet holders; scope is the author’s claim, not a translator taxonomy.",
+        "note_id": "F043"
+      }
+    ]
+  },
+  {
+    "anchor": "U00030",
+    "english": "Even non-Buddhist practitioners have many virtues to accomplish.",
+    "notes": [
+      {
+        "id": "F044",
+        "exact_tibetan": "མུ་སྟེགས་པ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “non-Buddhist practitioner” provisionally. Occurrences: U00030.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མུ་སྟེགས་པ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "non-Buddhist practitioners",
+        "category": "Provisional",
+        "evidence": "Tīrthika designation in the claim about virtues to accomplish; not a claim about all persons outside Buddhism.",
+        "note_id": "F044"
+      }
+    ]
+  },
+  {
+    "anchor": "U00031",
+    "english": "Going for refuge distinguishes non-Buddhists from Buddhists;",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00032",
+    "english": "arousing the ordinary mind [of awakening] distinguishes the greater and lesser vehicles.",
+    "notes": [
+      {
+        "id": "F045",
+        "exact_tibetan": "སེམས་བསྐྱེད",
+        "category": "terminology gap",
+        "problem": "Whole expression absent; doctrinal function is clear from the vehicle distinction, but the awakening qualifier is implicit in the Tibetan and therefore bracketed.",
+        "working_treatment": "Uses “arousing ordinary mind toward awakening” provisionally. Occurrences: U00032.",
+        "uncertainty": "Review the scope of the implicit awakening qualifier; no universal sems-bskyed headword is activated.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སེམས་བསྐྱེད",
+        "canonical_entry": "སེམས་ → ordinary mind",
+        "english": "arousing the ordinary mind [of awakening]",
+        "category": "Provisional",
+        "evidence": "In the distinction between greater and lesser vehicles, the compressed expression concerns arousing awakening-oriented ordinary mind.",
+        "note_id": "F045"
+      }
+    ]
+  },
+  {
+    "anchor": "U00033",
+    "english": "Empowerment distinguishes sutra from mantra;",
+    "notes": [
+      {
+        "id": "F046",
+        "exact_tibetan": "དབང",
+        "category": "terminology gap",
+        "problem": "Standalone technical sense absent; the four-empowerments expression is related evidence, not blanket approval for all senses of དབང་.",
+        "working_treatment": "Uses “empowerment” provisionally. Occurrences: U00033.",
+        "uncertainty": "Restricted to U00033; does not assign empowerment to དབང་ in causal constructions such as U00049.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F047",
+        "exact_tibetan": "སྔགས",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “mantra” provisionally. Occurrences: U00033.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "དབང",
+        "canonical_entry": "དབང་བཞི་ → four empowerments",
+        "english": "Empowerment",
+        "category": "Provisional",
+        "evidence": "Ritual empowerment distinguishing mantra from sutra.",
+        "note_id": "F046"
+      },
+      {
+        "exact_tibetan": "སྔགས",
+        "canonical_entry": "རྒྱུད་ → continuum; proposed རྒྱུད་སྡེ་ → classes of tantra",
+        "english": "mantra",
+        "category": "Provisional",
+        "evidence": "The mantra vehicle contrasted with sutra; distinct Tibetan from rgyud/tantra.",
+        "note_id": "F047"
+      }
+    ]
+  },
+  {
+    "anchor": "U00034",
+    "english": "without either of these two, full awakening cannot be attained.",
+    "notes": [
+      {
+        "id": "F003",
+        "exact_tibetan": "དེ་གཉིས་གང་མེད",
+        "category": "syntax/reference",
+        "problem": "“These two” lacks an explicit noun; the closest plausible doctrinal referents are arousing awakening-oriented ordinary mind (U00032) and empowerment (U00033). It could grammatically point back to sutra and mantra. གང་མེད་ expresses the absence of either.",
+        "working_treatment": "Keeps “these two” unresolved and preserves the either-member condition.",
+        "uncertainty": "The awakening-mind/empowerment reading is a working contextual inference, not a resolved identification.",
+        "review_action": "Consult commentary to establish the antecedents; do not silently replace “these two.”"
+      },
+      {
+        "id": "F048",
+        "exact_tibetan": "རྫོགས་བྱང",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “full awakening” provisionally. Occurrences: U00034.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྫོགས་བྱང",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "full awakening",
+        "category": "Provisional",
+        "evidence": "Compressed expression for full awakening; preserved as the attainment asserted impossible without either antecedent.",
+        "note_id": "F048"
+      }
+    ]
+  },
+  {
+    "anchor": "U00035",
+    "english": "The three sets of vows share one essential point: abandoning the ten nonvirtues;",
+    "notes": [
+      {
+        "id": "F050",
+        "exact_tibetan": "སྡོམ་གསུམ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “three sets of vows” provisionally. Occurrences: U00035.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F051",
+        "exact_tibetan": "མི་དགེ",
+        "category": "terminology gap",
+        "problem": "Absent ethical entry. Do not silently rotate nonvirtue and wrongdoing across the two source forms.",
+        "working_treatment": "Uses “nonvirtue” provisionally. Occurrences: U00035.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡོམ་གསུམ",
+        "canonical_entry": "Proposed སྡོམ་པ་ → vow",
+        "english": "three sets of vows",
+        "category": "Provisional",
+        "evidence": "The source’s threefold vow classification; no list of the three is added.",
+        "note_id": "F050"
+      },
+      {
+        "exact_tibetan": "མི་དགེ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "nonvirtues",
+        "category": "Provisional",
+        "evidence": "Ethical nonvirtue in the tenfold classification; distinct source from སྡིག་ rendered wrongdoing.",
+        "note_id": "F051"
+      }
+    ]
+  },
+  {
+    "anchor": "U00036",
+    "english": "as their holder changes, they become three sets of vows.",
+    "notes": [
+      {
+        "id": "F004",
+        "exact_tibetan": "བདག་པོ་འཕོས་པས",
+        "category": "syntax/reference",
+        "problem": "བདག་པོ་ denotes the holder or possessor, not the philosophical self by itself. The verse does not state that a self transmigrates.",
+        "working_treatment": "“As their holder changes” links the three sets of vows to a change in their holder.",
+        "uncertainty": "Whether this concerns successive status of one holder or distinct types of holder is unstated here.",
+        "review_action": "Check the commentary for the intended account of transformation among the three vows."
+      },
+      {
+        "id": "F049",
+        "exact_tibetan": "སྡོམ་པ",
+        "category": "terminology gap",
+        "problem": "Technical headword absent. The source also implies vows without repeating the noun at U00066, U00068, and U00078.",
+        "working_treatment": "Uses “vow” provisionally. Occurrences: U00036, U00062.",
+        "uncertainty": "Confirm singular/plural and the three-set framework; implied occurrences are separately bracketed.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡོམ་པ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "vows",
+        "category": "Provisional",
+        "evidence": "Vows in discussion of three sets and Vinaya; compressed སྡོམ་གསུམ་ occurs U00035.",
+        "note_id": "F049"
+      }
+    ]
+  },
+  {
+    "anchor": "U00037",
+    "english": "The result of separation is completely pure in intrinsic nature and endowed with qualities.",
+    "notes": [
+      {
+        "id": "F005",
+        "exact_tibetan": "རང་བཞིན་རྣམ་དག་བྲལ་འབྲས་ཡོན་ཏན་ལྡན",
+        "category": "syntax/reference",
+        "problem": "The verse does not overtly mark the attachment of “intrinsic nature,” “completely pure,” and “result of separation.”",
+        "working_treatment": "Takes the result of separation as the subject, completely pure in intrinsic nature and endowed with qualities; retains all components.",
+        "uncertainty": "Possible alternative: the completely pure intrinsic nature possesses the qualities of the result of separation. The chosen attachment remains provisional.",
+        "review_action": "Confirm modifier attachments against commentary; no Tibetan emendation."
+      },
+      {
+        "id": "F052",
+        "exact_tibetan": "བྲལ་འབྲས",
+        "category": "terminology gap",
+        "problem": "The full technical compound is absent; what one is separated from is not stated in the verse.",
+        "working_treatment": "Uses “result of separation” provisionally. Occurrences: U00037.",
+        "uncertainty": "Do not supply obscurations as the separated object without a note or source evidence.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "བྲལ་འབྲས",
+        "canonical_entry": "འབྲས་བུ་ → result",
+        "english": "result of separation",
+        "category": "Provisional",
+        "evidence": "Compressed technical expression bral ’bras; retains the result family.",
+        "note_id": "F052"
+      },
+      {
+        "exact_tibetan": "རང་བཞིན",
+        "canonical_entry": "རང་བཞིན་",
+        "english": "in intrinsic nature",
+        "category": "Grammatical",
+        "evidence": "Relation to complete purity handled in source-linked syntax note; full lexical commitment preserved.",
+        "note_id": "F005"
+      }
+    ]
+  },
+  {
+    "anchor": "U00038",
+    "english": "The thirty-seven factors of awakening are present [in] the sugata heart.",
+    "notes": [
+      {
+        "id": "F006",
+        "exact_tibetan": "བྱང་ཕྱོགས་སོ་བདུན་བདེ་གཤེགས་སྙིང་པོ་ཡོད",
+        "category": "syntax/reference",
+        "problem": "The text states the thirty-seven factors of awakening, sugata heart, and existence without an overt locative or possessive connector.",
+        "working_treatment": "Supplies [in], taking the thirty-seven factors to be present in the sugata heart.",
+        "uncertainty": "Reversing the containment relation is grammatically conceivable. The human reference makes the thirty-seven possess sugata essence; that is not taken as authority.",
+        "review_action": "Consult commentary to resolve the relation before removing the brackets."
+      },
+      {
+        "id": "F053",
+        "exact_tibetan": "བྱང་ཕྱོགས",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “factors of awakening” provisionally. Occurrences: U00038.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F054",
+        "exact_tibetan": "བདེ་གཤེགས་སྙིང་པོ",
+        "category": "terminology gap",
+        "problem": "Whole expression absent. “Sugata essence” would reuse the reserved essence assignment for ངོ་བོ་ without explaining the collision.",
+        "working_treatment": "Uses “sugata heart” provisionally. Occurrences: U00038.",
+        "uncertainty": "Confirm a project whole-expression equivalent; “sugata heart” is a working component-preserving proposal, not owner-approved.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "བྱང་ཕྱོགས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "factors of awakening",
+        "category": "Provisional",
+        "evidence": "Compressed name for the thirty-seven awakening-related factors; root does not enumerate them.",
+        "note_id": "F053"
+      },
+      {
+        "exact_tibetan": "བདེ་གཤེགས་སྙིང་པོ",
+        "canonical_entry": "ངོ་བོ་ → essence",
+        "english": "sugata heart",
+        "category": "Provisional",
+        "evidence": "Sugata-heart technical expression in the compressed relation with the thirty-seven factors.",
+        "note_id": "F054"
+      }
+    ]
+  },
+  {
+    "anchor": "U00039",
+    "english": "The four immeasurables are the very essence of a buddha.",
+    "notes": [
+      {
+        "id": "F055",
+        "exact_tibetan": "ཚད་མེད་རྣམ་བཞི",
+        "category": "terminology gap",
+        "problem": "Whole phrase absent; རྣམ་བཞི་ supplies four aspects/kinds of the immeasurable set.",
+        "working_treatment": "Uses “four immeasurables” provisionally. Occurrences: U00039.",
+        "uncertainty": "Numbered-set wording is provisional; no independent canonical shortening of རྣམ་པ་ is implied.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཚད་མེད་རྣམ་བཞི",
+        "canonical_entry": "རྣམ་པ་ → aspect",
+        "english": "four immeasurables",
+        "category": "Provisional",
+        "evidence": "The named fourfold set identified with a buddha’s very essence; no list added.",
+        "note_id": "F055"
+      }
+    ]
+  },
+  {
+    "anchor": "U00040",
+    "english": "All vehicles are of one lineage and one vehicle.",
+    "notes": [
+      {
+        "id": "F056",
+        "exact_tibetan": "རིགས",
+        "category": "terminology gap",
+        "problem": "Absent technical headword; no ordinary family genealogy is implied.",
+        "working_treatment": "Uses “lineage” provisionally. Occurrences: U00040.",
+        "uncertainty": "Potential/family may better express its contextual sense; owner review required.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རིགས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "lineage",
+        "category": "Provisional",
+        "evidence": "Spiritual lineage/gotra in the assertion that all vehicles are one in lineage and vehicle.",
+        "note_id": "F056"
+      }
+    ]
+  },
+  {
+    "anchor": "U00041",
+    "english": "Even hearers and solitary buddhas described as ལོག་སྲེག་ཅན་ [unresolved] will become all-knowing.",
+    "notes": [
+      {
+        "id": "F007",
+        "exact_tibetan": "ལོག་སྲེག་ཅན",
+        "category": "source reading",
+        "problem": "The condensed compound is not securely interpretable from the supplied root verse. It appears to join reversal/wrongness and burning, possibly in an image of exhausted spiritual potential, but that image is not overtly stated.",
+        "working_treatment": "Retains the exact Tibetan with an unresolved marker; hearers, solitary buddhas, and future omniscience remain translated.",
+        "uncertainty": "Neither “wrongly craved” in the reference nor a full burnt-seed explanation is warranted as an unmarked translation.",
+        "review_action": "Check the root reading and its commentary; decide whether the compound contains a source defect or a conventional compressed metaphor."
+      },
+      {
+        "id": "F057",
+        "exact_tibetan": "ཉན་རང",
+        "category": "terminology gap",
+        "problem": "Whole compressed pair absent; it does not mean a generic listener and oneself.",
+        "working_treatment": "Uses “hearers and solitary buddhas” provisionally. Occurrences: U00041.",
+        "uncertainty": "Traditional doctrinal identification is provisional glossary usage; check the unresolved qualifier separately.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཉན་རང",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "hearers and solitary buddhas",
+        "category": "Provisional",
+        "evidence": "Compressed pair of śrāvakas and pratyekabuddhas; the following description is left unresolved.",
+        "note_id": "F057"
+      }
+    ]
+  },
+  {
+    "anchor": "U00042",
+    "english": "The first section: a summary of the essential points of the wheels of Dharma.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "ཆོས་འཁོར",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "wheels of Dharma",
+        "category": "Provisional",
+        "evidence": "The teaching wheels referred to by abbreviated “wheel(s)” at U00016–18 and U00020. The root discusses three wheels.",
+        "note_id": "F028"
+      }
+    ]
+  },
+  {
+    "anchor": "U00043",
+    "english": "Apart from virtue and wrongdoing, there is no other category of stagnant neutrality.",
+    "notes": [
+      {
+        "id": "F008",
+        "exact_tibetan": "ལུང་མ་བསྟན",
+        "category": "contextual use",
+        "problem": "The source concerns whether an ethically unclassified category exists apart from virtue and wrongdoing. The active glossary assigns “stagnant neutrality,” with no documented ethical-context explanation.",
+        "working_treatment": "Retains the established term “stagnant neutrality,” while recording the ethical classification as the occurrence’s context.",
+        "uncertainty": "The doctrinal scope of the glossary wording in this context requires review; no alternative is activated.",
+        "review_action": "Owner/reviewer should confirm whether the canonical wording is intended for this ethical-classification occurrence."
+      },
+      {
+        "id": "F058",
+        "exact_tibetan": "སྡིག",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “wrongdoing” provisionally. Occurrences: U00043, U00070.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡིག",
+        "canonical_entry": "Proposed མི་དགེ་ → nonvirtue; proposed ལྟུང་བ་ → downfall",
+        "english": "wrongdoing",
+        "category": "Provisional",
+        "evidence": "Ethical wrongdoing; distinguish from nonvirtue (mi dge) and downfall (ltung ba).",
+        "note_id": "F058"
+      }
+    ]
+  },
+  {
+    "anchor": "U00044",
+    "english": "Two acts of conceptualizing cannot occur simultaneously.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "རྟོག",
+        "canonical_entry": "རྟོག་",
+        "english": "acts of conceptualizing",
+        "category": "Grammatical",
+        "evidence": "Two numerically distinguished instances: grammatical count construction preserves canonical conceptualizing; does not conflate with རྟོགས་པ་.",
+        "note_id": ""
+      }
+    ]
+  },
+  {
+    "anchor": "U00045",
+    "english": "Ordinary mind also sometimes arises from factors of ordinary mind.",
+    "notes": [
+      {
+        "id": "F059",
+        "exact_tibetan": "སེམས་བྱུང",
+        "category": "terminology gap",
+        "problem": "Whole expression absent; provisional composition preserves ordinary mind while distinguishing a factor from ordinary mind itself.",
+        "working_treatment": "Uses “factor of ordinary mind” provisionally. Occurrences: U00045.",
+        "uncertainty": "Confirm whole-expression wording; the source’s claim that ordinary mind can arise from its factors is left intact.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སེམས་བྱུང",
+        "canonical_entry": "སེམས་ → ordinary mind",
+        "english": "factors of ordinary mind",
+        "category": "Provisional",
+        "evidence": "Technical mental-factor expression; retains the established ordinary-mind component rather than replacing it with generic mind.",
+        "note_id": "F059"
+      }
+    ]
+  },
+  {
+    "anchor": "U00046",
+    "english": "In the ocean of cyclic existence, it is held that the body itself circles.",
+    "notes": [
+      {
+        "id": "F060",
+        "exact_tibetan": "འཁོར་བ",
+        "category": "terminology gap",
+        "problem": "Absent technical headword; the repeated verbal family is preserved in English as cyclic/circles.",
+        "working_treatment": "Uses “cyclic existence” provisionally. Occurrences: U00046.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "འཁོར་བ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "cyclic existence",
+        "category": "Provisional",
+        "evidence": "Saṃsāra as the ocean within which the body circles. The later verbal འཁོར་བར་ in the same verse is realized as circles.",
+        "note_id": "F060"
+      }
+    ]
+  },
+  {
+    "anchor": "U00047",
+    "english": "The twelve links of dependent arising are the stirrings of ignorance alone.",
+    "notes": [
+      {
+        "id": "F009",
+        "exact_tibetan": "མ་རིག་ཁོ་ནའི་གཡོས",
+        "category": "syntax/reference",
+        "problem": "The genitive འི་ precedes the compressed form གཡོས་. The phrase can be construed as ignorance’s stirring; an instrumental relation would usually be stated differently.",
+        "working_treatment": "“The stirrings of ignorance alone” preserves the supplied genitive without silently rewriting it as an instrumental ending.",
+        "uncertainty": "A finite “are stirred by ignorance alone” remains a possible intended construction; the exact compressed syntax needs confirmation.",
+        "review_action": "Check commentary/source usage of གཡོས་ here."
+      },
+      {
+        "id": "F061",
+        "exact_tibetan": "རྟེན་འབྲེལ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “dependent arising” provisionally. Occurrences: U00047, U00058.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྟེན་འབྲེལ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "dependent arising",
+        "category": "Provisional",
+        "evidence": "The twelvefold dependent-arising relation and the section title.",
+        "note_id": "F061"
+      },
+      {
+        "exact_tibetan": "མ་རིག",
+        "canonical_entry": "མ་རིག་པ་",
+        "english": "ignorance",
+        "category": "Grammatical",
+        "evidence": "Nominalizer omitted in compressed phrase; identity supported by the dependent-arising context.",
+        "note_id": "F009"
+      }
+    ]
+  },
+  {
+    "anchor": "U00048",
+    "english": "All twelve are also complete within a single moment.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00049",
+    "english": "Since ordinary minds differ, appearances too [differ].",
+    "notes": [
+      {
+        "id": "F010",
+        "exact_tibetan": "སེམས་ནི་ཐ་དད་དབང་གི་སྣང་བ་ཡང་",
+        "category": "syntax/reference",
+        "problem": "The verse ends in ཡང་ and has no overt predicate completing the appearance clause. The causal construction is compressed.",
+        "working_treatment": "“Since ordinary minds differ, appearances too [differ]” supplies the second predicate visibly and takes the diversity of ordinary minds as the condition.",
+        "uncertainty": "The following aphorism may be read in continuation, but no definite link to its karmic statement is established here.",
+        "review_action": "Check commentary and line grouping before treating this as a fully resolved independent sentence."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00050",
+    "english": "In this very present, one partakes of the result of whatever one has accomplished.",
+    "notes": [
+      {
+        "id": "F062",
+        "exact_tibetan": "སྤྱོད",
+        "category": "contextual use",
+        "problem": "The finite verb སྤྱོད་ in འབྲས་བུར་སྤྱོད་ concerns partaking of a karmic result. Merely inserting the noun activity would not convey its relation.",
+        "working_treatment": "Uses “partakes of” provisionally in this occurrence; the established “Activity” entry is unchanged.",
+        "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+        "review_action": "Review this scoped contextual realization and approve or revise explicitly."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྤྱོད",
+        "canonical_entry": "སྤྱོད་པ་ → Activity",
+        "english": "partakes of",
+        "category": "Provisional",
+        "evidence": "Local construction with result; not a general replacement of the established activity family.",
+        "note_id": "F062"
+      }
+    ]
+  },
+  {
+    "anchor": "U00051",
+    "english": "The lengthening and shortening of time can be brought about now.",
+    "notes": [
+      {
+        "id": "F011",
+        "exact_tibetan": "དུས་ཀྱི་འཕེལ་འགྲིབ",
+        "category": "scope",
+        "problem": "དུས་ says time/period; the human reference supplies lifespan in brackets, but the root does not specify that restriction.",
+        "working_treatment": "Translates “lengthening and shortening of time” and leaves its object broad.",
+        "uncertainty": "Lifespan or favorable/unfavorable periods may be intended; neither is asserted.",
+        "review_action": "Consult commentary to identify what increases and decreases."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00052",
+    "english": "[Results] visible in the present arise chiefly in this very life.",
+    "notes": [
+      {
+        "id": "F063",
+        "exact_tibetan": "མཐོང་ཆོས",
+        "category": "terminology gap",
+        "problem": "The technical expression is absent; a literal “seen Dharma” would not clarify its present-life context.",
+        "working_treatment": "Uses “visible in the present” provisionally. Occurrences: U00052.",
+        "uncertainty": "The exact karmic category and the force of chiefly require commentary review; no claim that all karma ripens in this life.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མཐོང་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "[Results] visible in the present",
+        "category": "Provisional",
+        "evidence": "Karmic/result context of what is visible or to be undergone in the present life. [Results] supplies the elided subject from the adjoining aphorisms.",
+        "note_id": "F063"
+      }
+    ]
+  },
+  {
+    "anchor": "U00053",
+    "english": "The sixteen human rules and divine Dharma share one essential point;",
+    "notes": [
+      {
+        "id": "F064",
+        "exact_tibetan": "མི་ཆོས",
+        "category": "terminology gap",
+        "problem": "Absent ethical category; do not silently translate both sides as identical conduct.",
+        "working_treatment": "Uses “human rules” provisionally. Occurrences: U00053.",
+        "uncertainty": "Review the established name of the sixteenfold set; no list supplied.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      },
+      {
+        "id": "F065",
+        "exact_tibetan": "ལྷ་ཆོས",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “divine Dharma” provisionally. Occurrences: U00053.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མི་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "human rules",
+        "category": "Provisional",
+        "evidence": "Sixteen human rules, paired in the root with divine Dharma.",
+        "note_id": "F064"
+      },
+      {
+        "exact_tibetan": "ལྷ་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "divine Dharma",
+        "category": "Provisional",
+        "evidence": "Dharma paired with the sixteen human rules; no doctrinal explanation added.",
+        "note_id": "F065"
+      }
+    ]
+  },
+  {
+    "anchor": "U00054",
+    "english": "with only the distinction of principal and secondary, attainment of results is uninterrupted.",
+    "notes": [
+      {
+        "id": "F012",
+        "exact_tibetan": "གཙོ་ཕལ་ཙམ་ལས",
+        "category": "scope",
+        "problem": "“Principal and secondary” lacks an explicit noun; it may distinguish results, causes, or the preceding kinds of discipline.",
+        "working_treatment": "Retains the distinction without supplying the missing category; the rest states uninterrupted attainment of results.",
+        "uncertainty": "A degree/intensity rendering would be interpretive and is not established.",
+        "review_action": "Resolve the scope against commentary before expanding the English."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00055",
+    "english": "There are also cases in which training in discerning knowing comes first.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00056",
+    "english": "All stages of the path must be put into practice within a single session.",
+    "notes": [
+      {
+        "id": "F066",
+        "exact_tibetan": "ཉམས་ལེན",
+        "category": "terminology gap",
+        "problem": "Whole action expression absent; “practice” here is not silently substituted for cultivation, and ཉམས་ is not isolated as the experience noun.",
+        "working_treatment": "Uses “put into practice” provisionally. Occurrences: U00056.",
+        "uncertainty": "Proposed compound use only; preserves distinctions from experience and experiential acquaintance.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཉམས་ལེན",
+        "canonical_entry": "ཉམས་ → experience; ཉམས་མྱོང་ → experiential acquaintance; སྒོམ་པ་ → cultivation",
+        "english": "put into practice",
+        "category": "Provisional",
+        "evidence": "Performing the stages of the path within a single session.",
+        "note_id": "F066"
+      }
+    ]
+  },
+  {
+    "anchor": "U00057",
+    "english": "Even in a single field, innumerable buddhas come.",
+    "notes": [
+      {
+        "id": "F067",
+        "exact_tibetan": "ཞིང",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “field” provisionally. Occurrences: U00057.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཞིང",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "field",
+        "category": "Provisional",
+        "evidence": "A field in which buddhas come; root does not add “pure.”",
+        "note_id": "F067"
+      }
+    ]
+  },
+  {
+    "anchor": "U00058",
+    "english": "The second section: a summary of the essential points of dependent arising.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "རྟེན་འབྲེལ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "dependent arising",
+        "category": "Provisional",
+        "evidence": "The twelvefold dependent-arising relation and the section title.",
+        "note_id": "F061"
+      }
+    ]
+  },
+  {
+    "anchor": "U00059",
+    "english": "The sublime Dharma of Vinaya is common to the vehicles;",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "དམ་ཆོས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "sublime Dharma",
+        "category": "Provisional",
+        "evidence": "The honorific/doctrinal compound dam chos; no claim that “immaculate” is separately present.",
+        "note_id": "F021"
+      },
+      {
+        "exact_tibetan": "འདུལ་བ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "Vinaya",
+        "category": "Provisional",
+        "evidence": "The Buddhist discipline collection/training discussed as common to all vehicles; retained as its established traditional name pending glossary approval.",
+        "note_id": "F029"
+      }
+    ]
+  },
+  {
+    "anchor": "U00060",
+    "english": "it is especially clearly present in the great vehicle.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "གསལ",
+        "canonical_entry": "གསལ་བ་",
+        "english": "clearly",
+        "category": "Grammatical",
+        "evidence": "Adverbial realization preserves clarity family.",
+        "note_id": ""
+      }
+    ]
+  },
+  {
+    "anchor": "U00061",
+    "english": "This itself is the primordial knowing of omniscience.",
+    "notes": [
+      {
+        "id": "F013",
+        "exact_tibetan": "ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་འདི་ཉིད་ཡིན",
+        "category": "syntax/reference",
+        "problem": "འདི་ཉིད་ may refer to the Vinaya just described in U00059–60; the text does not re-express that antecedent.",
+        "working_treatment": "Preserves “this itself” and the identification with primordial knowing of omniscience.",
+        "uncertainty": "A direct reference to the Vinaya is likely but remains implicit.",
+        "review_action": "Check the commentary’s attachment before spelling out the antecedent."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00062",
+    "english": "Vows certainly arise even in those with impediments;",
+    "notes": [
+      {
+        "id": "F014",
+        "exact_tibetan": "བར་ཆད་ལྡན་ལའང",
+        "category": "scope",
+        "problem": "In a Vinaya discussion, impediments can include impediments to eligibility for receiving vows; the root does not enumerate them.",
+        "working_treatment": "Keeps “those with impediments,” rather than expanding this to a claim about every conceivable obstacle.",
+        "uncertainty": "The exact class of impediments is unresolved.",
+        "review_action": "Identify the relevant impediments in commentary or a source note."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སྡོམ་པ",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "Vows",
+        "category": "Provisional",
+        "evidence": "Vows in discussion of three sets and Vinaya; compressed སྡོམ་གསུམ་ occurs U00035.",
+        "note_id": "F049"
+      }
+    ]
+  },
+  {
+    "anchor": "U00063",
+    "english": "their essence is non-indicative form.",
+    "notes": [
+      {
+        "id": "F015",
+        "exact_tibetan": "ངོ་ བོ",
+        "category": "source reading",
+        "problem": "The archival source contains an internal ordinary space between the syllables of ངོ་བོ་. This is retained in the decoded canonical source.",
+        "working_treatment": "Reads the two syllables as the established term “essence”; no source spacing is repaired.",
+        "uncertainty": "Lexical reading is strong; physical typographic provenance has not been inspected.",
+        "review_action": "No source correction needed for translation; retain the unusual spacing in preservation checks."
+      },
+      {
+        "id": "F068",
+        "exact_tibetan": "རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས",
+        "category": "terminology gap",
+        "problem": "Whole technical expression absent. Component-string matching must not treat རིག་བྱེད་ as a standalone awareness assertion.",
+        "working_treatment": "Uses “non-indicative form” provisionally. Occurrences: U00063.",
+        "uncertainty": "Avijñapti-type identification is provisional; expert should confirm non-indicative/non-revelatory terminology.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས",
+        "canonical_entry": "རིག་པ་ → awareness; རྣམ་པ་ → aspect",
+        "english": "non-indicative form",
+        "category": "Provisional",
+        "evidence": "Technical form-category predicated as the essence of vows.",
+        "note_id": "F068"
+      }
+    ]
+  },
+  {
+    "anchor": "U00064",
+    "english": "For every downfall, perception is principal.",
+    "notes": [
+      {
+        "id": "F069",
+        "exact_tibetan": "ལྟུང་བ",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “downfall” provisionally. Occurrences: U00064, U00070.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ལྟུང་བ",
+        "canonical_entry": "Proposed སྡིག་ → wrongdoing",
+        "english": "downfall",
+        "category": "Provisional",
+        "evidence": "Disciplinary downfall; distinguishes the source from wrongdoing even where the verse identifies them.",
+        "note_id": "F069"
+      }
+    ]
+  },
+  {
+    "anchor": "U00065",
+    "english": "The three aspects [of nonvirtue] of the mental faculty must chiefly be abandoned.",
+    "notes": [
+      {
+        "id": "F016",
+        "exact_tibetan": "ཡིད་ཀྱི་རྣམ་གསུམ",
+        "category": "interpretive supply",
+        "problem": "The root gives “the three aspects of the mental faculty” without naming the triad. In the vows/ten-nonvirtues context, three mental nonvirtues are a plausible referent.",
+        "working_treatment": "Supplies [of nonvirtue] visibly while preserving “mental faculty” and “three aspects.”",
+        "uncertainty": "The identities of the three are not enumerated or imported into the line.",
+        "review_action": "Confirm the implicit triad against commentary."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "རྣམ་གསུམ",
+        "canonical_entry": "རྣམ་པ་",
+        "english": "three aspects",
+        "category": "Grammatical",
+        "evidence": "Compressed counted form keeps aspects visible; referent is marked as interpretive supply.",
+        "note_id": "F016"
+      }
+    ]
+  },
+  {
+    "anchor": "U00066",
+    "english": "There are also cases in which [vows] are not relinquished through causes for relinquishment.",
+    "notes": [
+      {
+        "id": "F017",
+        "exact_tibetan": "གཏོང་བའི་རྒྱུ་ཡིས་མི་གཏོང་བ་ཡང་ཡོད",
+        "category": "interpretive supply",
+        "problem": "The object of relinquishment is omitted. The current section concerns vows; causes normally leading to relinquishment are asserted sometimes not to do so.",
+        "working_treatment": "Supplies [vows] and keeps the apparently paradoxical relation without harmonizing it.",
+        "uncertainty": "The particular causes and exceptional circumstances remain unspecified.",
+        "review_action": "Check commentary for the causes in view; do not generalize the proposition to all relinquishment conditions."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00067",
+    "english": "The four defeats are like a debtor who possesses wealth.",
+    "notes": [
+      {
+        "id": "F018",
+        "exact_tibetan": "བུ་ལོན་ནོར་ཅན་བཞིན",
+        "category": "syntax/reference",
+        "problem": "The compressed comparison joins debt and possession of wealth. It does not itself explain how repayment or remaining vows map onto the image.",
+        "working_treatment": "“Like a debtor who possesses wealth” supplies a person as the bearer of the debt/wealth.",
+        "uncertainty": "The metaphor’s doctrinal point remains unexplained in the root.",
+        "review_action": "Review the comparison against commentary; retain the image without adding a conclusion about restoration of vows."
+      },
+      {
+        "id": "F070",
+        "exact_tibetan": "ཕམ་པ་བཞི",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “four defeats” provisionally. Occurrences: U00067.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཕམ་པ་བཞི",
+        "canonical_entry": "Proposed ལྟུང་བ་ → downfall",
+        "english": "four defeats",
+        "category": "Provisional",
+        "evidence": "The four defeat-class disciplinary offenses, not generic defects.",
+        "note_id": "F070"
+      }
+    ]
+  },
+  {
+    "anchor": "U00068",
+    "english": "By safeguarding a single kind [of vow], one attains the result, nirvana.",
+    "notes": [
+      {
+        "id": "F019",
+        "exact_tibetan": "སྣ་གཅིག་བསྲུངས་པས",
+        "category": "interpretive supply",
+        "problem": "“A single kind” has no expressed object; vows are the immediate topic.",
+        "working_treatment": "Supplies [of vow] and preserves attainment of nirvana as the result.",
+        "uncertainty": "Whether one precept, one category, or one complete type of vow is intended is unresolved.",
+        "review_action": "Confirm the scope of “single kind” before narrowing it."
+      },
+      {
+        "id": "F071",
+        "exact_tibetan": "མྱང་འདས",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “nirvana” provisionally. Occurrences: U00068.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "མྱང་འདས",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "nirvana",
+        "category": "Provisional",
+        "evidence": "Compressed nirvana expression identified as the result.",
+        "note_id": "F071"
+      }
+    ]
+  },
+  {
+    "anchor": "U00069",
+    "english": "Offenses by decree and by intrinsic nature are one.",
+    "notes": [
+      {
+        "id": "F072",
+        "exact_tibetan": "ཁ་ན་མ་ཐོ",
+        "category": "terminology gap",
+        "problem": "Absent ethical expression; keeps the three source categories separately visible.",
+        "working_treatment": "Uses “offense” provisionally. Occurrences: U00069.",
+        "uncertainty": "The relational “by” for intrinsic nature is a local construction, not blanket approval of a pending glossary formula.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཁ་ན་མ་ཐོ",
+        "canonical_entry": "རང་བཞིན་ → intrinsic nature; proposed ལྟུང་བ་ → downfall; proposed སྡིག་ → wrongdoing",
+        "english": "Offenses",
+        "category": "Provisional",
+        "evidence": "Blameworthy/offense category split into by-decree and by-intrinsic-nature forms.",
+        "note_id": "F072"
+      },
+      {
+        "exact_tibetan": "རང་བཞིན",
+        "canonical_entry": "རང་བཞིན་",
+        "english": "by intrinsic nature",
+        "category": "Provisional",
+        "evidence": "Locally contrasted with offenses by decree; documented proposal is not applied globally.",
+        "note_id": "F072"
+      }
+    ]
+  },
+  {
+    "anchor": "U00070",
+    "english": "Wrongdoing and downfalls do not differ: they are one.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "སྡིག",
+        "canonical_entry": "Proposed མི་དགེ་ → nonvirtue; proposed ལྟུང་བ་ → downfall",
+        "english": "Wrongdoing",
+        "category": "Provisional",
+        "evidence": "Ethical wrongdoing; distinguish from nonvirtue (mi dge) and downfall (ltung ba).",
+        "note_id": "F058"
+      },
+      {
+        "exact_tibetan": "ལྟུང",
+        "canonical_entry": "Proposed སྡིག་ → wrongdoing",
+        "english": "downfalls",
+        "category": "Provisional",
+        "evidence": "Disciplinary downfall; distinguishes the source from wrongdoing even where the verse identifies them.",
+        "note_id": "F069"
+      }
+    ]
+  },
+  {
+    "anchor": "U00071",
+    "english": "What is prohibited has been prohibited from the beginning; what is permitted has been permitted from the beginning;",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00072",
+    "english": "the king of Dharma enacted [the rules] for beings in general.",
+    "notes": [
+      {
+        "id": "F020",
+        "exact_tibetan": "བཅས",
+        "category": "interpretive supply",
+        "problem": "The object of the Dharma king’s enactment is omitted; U00071 discusses prohibition and permission and U00073–74 transgression and safeguarding.",
+        "working_treatment": "Supplies [the rules] here and in U00074; does not restrict them to ordained Buddhists because འགྲོ་བ་སྤྱི་ expressly addresses beings in general.",
+        "uncertainty": "The precise breadth of the rules is not enumerated.",
+        "review_action": "Confirm the implicit object against the surrounding Vinaya argument."
+      }
+    ],
+    "usages": []
+  },
+  {
+    "anchor": "U00073",
+    "english": "Whoever among beings transgresses incurs a fault,",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00074",
+    "english": "and the benefits of safeguarding [the rules] likewise arise for all.",
+    "notes": [],
+    "usages": []
+  },
+  {
+    "anchor": "U00075",
+    "english": "For the teaching, ritual procedure is especially important;",
+    "notes": [
+      {
+        "id": "F073",
+        "exact_tibetan": "ཆོ་ག",
+        "category": "terminology gap",
+        "problem": "New whole expression absent from the active glossary; component and English-family checks do not establish this mapping.",
+        "working_treatment": "Uses “ritual procedure” provisionally. Occurrences: U00075.",
+        "uncertainty": "Working term only; no owner approval. Confirm the expression and its scope.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཆོ་ག",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "ritual procedure",
+        "category": "Provisional",
+        "evidence": "Ritual/ceremonial procedure in the Vinaya/teaching context; not a source verb “to demonstrate.”",
+        "note_id": "F073"
+      }
+    ]
+  },
+  {
+    "anchor": "U00076",
+    "english": "the fault of not knowing—bewilderment—is weightier than other faults.",
+    "notes": [
+      {
+        "id": "F074",
+        "exact_tibetan": "གཏི་མུག",
+        "category": "terminology gap",
+        "problem": "Absent technical expression. Rendering it ignorance or delusion without a note would introduce an unexplained collision with established separate source terms.",
+        "working_treatment": "Uses “bewilderment” provisionally. Occurrences: U00076, U00077.",
+        "uncertainty": "Review whether bewilderment is an appropriate project equivalent; no global assignment activated.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "གཏི་མུག",
+        "canonical_entry": "མ་རིག་པ་ → ignorance; འཁྲུལ་པ་ → delusion",
+        "english": "bewilderment",
+        "category": "Provisional",
+        "evidence": "Unknowing bewilderment in a faults/animal-realm context.",
+        "note_id": "F074"
+      }
+    ]
+  },
+  {
+    "anchor": "U00077",
+    "english": "Animals are inferior because their bewilderment is greater.",
+    "notes": [],
+    "usages": [
+      {
+        "exact_tibetan": "གཏི་མུག",
+        "canonical_entry": "མ་རིག་པ་ → ignorance; འཁྲུལ་པ་ → delusion",
+        "english": "bewilderment",
+        "category": "Provisional",
+        "evidence": "Unknowing bewilderment in a faults/animal-realm context.",
+        "note_id": "F074"
+      }
+    ]
+  },
+  {
+    "anchor": "U00078",
+    "english": "The fault of failing to attain [vows] is held to be greater than that of their deterioration.",
+    "notes": [
+      {
+        "id": "F075",
+        "exact_tibetan": "ཉམས",
+        "category": "contextual use",
+        "problem": "Here ཉམས་ contrasts deterioration/lapse of vows with never attaining them. The canonical experience noun would change the ethical comparison.",
+        "working_treatment": "Uses “deterioration” provisionally in this occurrence; the established “Experience” entry is unchanged.",
+        "uncertainty": "Local construction is the evidence; this is not a universal replacement.",
+        "review_action": "Review this scoped contextual realization and approve or revise explicitly."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "ཉམས",
+        "canonical_entry": "ཉམས་ → Experience",
+        "english": "deterioration",
+        "category": "Provisional",
+        "evidence": "Verbal deterioration in contrast with མ་ཐོབ་; [vows] is visibly supplied from the section’s subject.",
+        "note_id": "F075"
+      }
+    ]
+  },
+  {
+    "anchor": "U00079",
+    "english": "The third section: a summary of the essential points of individual liberation.",
+    "notes": [
+      {
+        "id": "F076",
+        "exact_tibetan": "སོ་ཐར",
+        "category": "terminology gap",
+        "problem": "Whole abbreviated technical expression absent; interpreted from the vow-focused section.",
+        "working_treatment": "Uses “individual liberation” provisionally. Occurrences: U00079.",
+        "uncertainty": "Check preferred whole-expression form and whether vows should be supplied in the title; the draft does not add it there.",
+        "review_action": "Review the proposed eight-column usage record; activate only by explicit owner decision."
+      }
+    ],
+    "usages": [
+      {
+        "exact_tibetan": "སོ་ཐར",
+        "canonical_entry": "(no established whole-expression entry)",
+        "english": "individual liberation",
+        "category": "Provisional",
+        "evidence": "Abbreviated prātimokṣa designation in the third section colophon.",
+        "note_id": "F076"
+      }
+    ]
+  }
+]

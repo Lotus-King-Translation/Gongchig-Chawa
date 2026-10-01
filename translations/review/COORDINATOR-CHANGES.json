@@ -1,0 +1,86 @@
+[
+  {
+    "anchor": "U00004",
+    "before": "Within the mandala of stainless clear-light awakened mind,",
+    "after": "Within the mandala of stainless clear-light enlightened mind,",
+    "class": "terminological/presentation",
+    "reason": "One scoped provisional honorific-mind rendering with U00159/U00162; active glossary unchanged."
+  },
+  {
+    "anchor": "U00012",
+    "before": "The character or condition—the natural state—of all phenomena is taught.",
+    "after": "The actual condition or situation—the natural state—of all phenomena is taught.",
+    "class": "terminological/presentation",
+    "reason": "Independent QC QF documentation: coordinate proposed gshis and bab terminology with U00137/U00114; retain natural state and disclose construction scope."
+  },
+  {
+    "anchor": "U00022",
+    "before": "The teachings of Ordinary Mind Only show the middle way free of extremes.",
+    "after": "The authoritative word of Ordinary Mind Only shows the middle way free of extremes.",
+    "class": "terminological/presentation",
+    "reason": "Coordinate the recurrent proposed bka rendering; retain ordinary mind in the doctrinal label."
+  },
+  {
+    "anchor": "U00094",
+    "before": "The sixth level and below are shared with hearers and solitary realizers;",
+    "after": "The sixth level and below are shared with hearers and solitary buddhas;",
+    "class": "terminological/presentation",
+    "reason": "Use the same proposed expansion of nyan rang as U00041; do not reassign realization-family vocabulary."
+  },
+  {
+    "anchor": "U00153",
+    "before": "Without the three teachings, there is no difference from hearers and solitary realizers.",
+    "after": "Without the three teachings, there is no difference from hearers and solitary buddhas.",
+    "class": "terminological/presentation",
+    "reason": "Use the same proposed expansion of nyan rang as U00041; do not reassign realization-family vocabulary."
+  },
+  {
+    "anchor": "U00095",
+    "before": "Ordinary-mind-only is manifest realization at the seventh level.",
+    "after": "Ordinary Mind Only is manifest realization at the seventh level.",
+    "class": "terminological/presentation",
+    "reason": "Same proposed school-label capitalization as U00022."
+  },
+  {
+    "anchor": "U00102",
+    "before": "Dedicate the virtue accumulated by all in samsara and nirvana.",
+    "after": "Dedicate the virtue accumulated by all in cyclic existence and nirvana.",
+    "class": "terminological/presentation",
+    "reason": "Use the same proposed khor ba rendering as U00046."
+  },
+  {
+    "anchor": "U00123",
+    "before": "Flawless deep absorption is a cause of samsara in the three realms.",
+    "after": "Flawless deep absorption is a cause of cyclic existence in the three realms.",
+    "class": "terminological/presentation",
+    "reason": "Use the same proposed khor ba rendering as U00046."
+  },
+  {
+    "anchor": "U00135",
+    "before": "All the phenomena of samsara and nirvana are merely appearances of one's own ordinary mind.",
+    "after": "All the phenomena of cyclic existence and nirvana are merely appearances of one's own ordinary mind.",
+    "class": "terminological/presentation",
+    "reason": "Use the same proposed khor ba rendering as U00046."
+  },
+  {
+    "anchor": "U00107",
+    "before": "Empowerment can take place even with a partial [presentation of] the deity.",
+    "after": "Empowerment can be conferred even by a partial deity.",
+    "class": "semantic/syntactic",
+    "reason": "Independent QC QMID-001: restore the provisional instrumental agent; remove invented presentation. Partiality remains unresolved."
+  },
+  {
+    "anchor": "U00134",
+    "before": "For any sacred Dharma [teaching], connection with its lineage is profound.",
+    "after": "For any sublime Dharma [teaching], connection with its lineage is profound.",
+    "class": "terminological/presentation",
+    "reason": "Coordinate synonymous Tibetan dam chos / dam pa’i chos with U00001/U00009/U00059; proposed wording only."
+  },
+  {
+    "anchor": "U00188",
+    "before": "and the Sage’s boundless teachings,",
+    "after": "and the Sage’s boundless authoritative word,",
+    "class": "terminological/presentation",
+    "reason": "Independent QC QL002: coordinate proposed bka wording with U00022/U00120/U00122; distinguish bstan pa teaching."
+  }
+]
